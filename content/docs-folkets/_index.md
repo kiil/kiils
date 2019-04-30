@@ -1,3 +1,0 @@
----
-title: Manual Folkets.dk
----

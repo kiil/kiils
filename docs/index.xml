@@ -11,15 +11,6 @@
     
     
     <item>
-      <title>Brugere</title>
-      <link>https://www.kiils.dk/docs-folkets/brugere/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/docs-folkets/brugere/</guid>
-      <description>Brugere på Folkets</description>
-    </item>
-    
-    <item>
       <title>Folkets.dk</title>
       <link>https://www.kiils.dk/case/folkets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -35,15 +26,6 @@
       
       <guid>https://www.kiils.dk/case/gastrofun/</guid>
       <description>Artikler om mad og masser af opskrifter</description>
-    </item>
-    
-    <item>
-      <title>Indholdstyper</title>
-      <link>https://www.kiils.dk/docs-folkets/indholdstyper/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/docs-folkets/indholdstyper/</guid>
-      <description>Indholdstyper på Folkets</description>
     </item>
     
     <item>
@@ -89,24 +71,6 @@ Dit navn Din e-mail Skriv omhyggeligt din mail-adresse her.  Besked   </descript
  time kr 1600
  time og frem kr 800  Der afregnes kun i hele timer.
 Alle priser eksklusive moms.</description>
-    </item>
-    
-    <item>
-      <title>Taksonomi</title>
-      <link>https://www.kiils.dk/docs-folkets/taksonomi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/docs-folkets/taksonomi/</guid>
-      <description>Taksonomi på Folkets</description>
-    </item>
-    
-    <item>
-      <title>Tokens</title>
-      <link>https://www.kiils.dk/docs-folkets/tokens/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/docs-folkets/tokens/</guid>
-      <description>Tokens på Folkets</description>
     </item>
     
   </channel>
