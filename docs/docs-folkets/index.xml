@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manual Folkets.dk on Kiils</title>
+    <link>https://www.kiils.dk/docs-folkets/</link>
+    <description>Recent content in Manual Folkets.dk on Kiils</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language>
+    
+	<atom:link href="https://www.kiils.dk/docs-folkets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Brugere</title>
+      <link>https://www.kiils.dk/docs-folkets/brugere/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/docs-folkets/brugere/</guid>
+      <description>Brugere på Folkets</description>
+    </item>
+    
+    <item>
+      <title>Indholdstyper</title>
+      <link>https://www.kiils.dk/docs-folkets/indholdstyper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/docs-folkets/indholdstyper/</guid>
+      <description>Indholdstyper på Folkets</description>
+    </item>
+    
+    <item>
+      <title>Taksonomi</title>
+      <link>https://www.kiils.dk/docs-folkets/taksonomi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/docs-folkets/taksonomi/</guid>
+      <description>Taksonomi på Folkets</description>
+    </item>
+    
+    <item>
+      <title>Tokens</title>
+      <link>https://www.kiils.dk/docs-folkets/tokens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/docs-folkets/tokens/</guid>
+      <description>Tokens på Folkets</description>
+    </item>
+    
+  </channel>
+</rss>
