@@ -1,5 +1,5 @@
 ---
-title: 15 års erfaring i krydsfeltet mellem journalistik, sociale medier og projekthåndtering
+title: 15 års erfaring i krydsfeltet mellem journalistik, sociale medier og projektstyring
 ---
 
 
