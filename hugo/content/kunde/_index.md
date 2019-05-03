@@ -13,7 +13,7 @@ Asmussen
 , Gentofte Hospital
 , Illustreret Videnskab
 , Ingeniøren
-, <a href="https://klimaleksikon.dk/da" target="_blank" rel="noopener noreferrer">Klimaleksikon</a>
+, <a href="https://klimaleksikon.dk/" target="_blank" rel="noopener noreferrer">Klimaleksikon</a>
 , Ugeskrift for Læger
 , Region Syddanmark
 , Rigshospitalet
