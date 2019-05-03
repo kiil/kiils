@@ -2,7 +2,8 @@
 title: Per Asmussen
 # featured_image: "images/notebook.jpg"
 # omit_header_text: true
-description: "Jeg giver Kiils mine varmeste anbefalinger"
+description: Jeg giver Kiils mine varmeste anbefalinger
+summary: Jeg giver Kiils mine varmeste anbefalinger
 type: page
 
 
