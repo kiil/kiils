@@ -9,6 +9,8 @@ type: page
 
 ---
 
+Per Asmussen siger:
+
 > I forbindelse med etableringen af mit madmedie [www.gastrofun.dk](http://www.gastrofun.dk) var jeg i dialog med flere digitale udviklingshuse, men efter en god snak med Lennart fra Kiils var jeg aldrig i tvivl om at han skulle være min samarbejdspartner hele vejen igennem – fra konceptudvikling, hjemmesideopbygning, indholdsstrategi, tekniske krav samt det visuelle udtryk.
 
 Forståelsen for hvad det vil sige at gøre mediet brugervenligt både for læserne og brugerne var helt i top og en masse god sparring og feedback har givet mig et fremtidssikret og stærkt medie.
