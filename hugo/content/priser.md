@@ -12,8 +12,7 @@ menu:
 
 Prisen er ens for offentlige institutioner, virksomheder og privatpersoner.
 
-1. time kr 1600  
-2. time og frem kr 800
+Kr. 700 i timen.
 
 Der afregnes kun i hele timer.
 
