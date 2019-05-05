@@ -3,7 +3,7 @@
 
 ---
 
-title: Folkets.dk
+title: FOLKETS.DK
 type: page
 summary: En dansk platform
 ---
