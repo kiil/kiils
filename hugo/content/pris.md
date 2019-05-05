@@ -16,4 +16,4 @@ Kr. 800 i timen.
 
 Der afregnes kun i hele timer.
 
-Alle priser eksklusive moms.
+Pris eksklusiv moms.
