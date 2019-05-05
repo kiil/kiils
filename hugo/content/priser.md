@@ -1,5 +1,5 @@
 ---
-title: Priser
+title: Pris
 # featured_image: "images/notebook.jpg"
 omit_header_text: true
 description: Den samme pris for alle
@@ -12,7 +12,7 @@ menu:
 
 Prisen er ens for offentlige institutioner, virksomheder og privatpersoner.
 
-Kr. 700 i timen.
+Kr. 800 i timen.
 
 Der afregnes kun i hele timer.
 
