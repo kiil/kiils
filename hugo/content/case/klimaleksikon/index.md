@@ -15,4 +15,8 @@ Siden holdes løbende opdateret og hundredetusinder af børn og unge har lært o
 
 **I sommeren 2018** fik jeg gjort siden responsiv og lavet en række forbedringer som gav et meget markant resultat:
 
-Ved en sammenligning af perioden 1. marts til 30. april 2018 med perioden 1. marts til 30. april 2019 steg det gennemsnitlige tidsforbrug på siden med ikke mindre end 48,4 procent og den gennemsnitlige afvisningsprocent faldt med 36,01 procent!
+Ved en sammenligning af perioden 1. marts til 30. april 2018 med perioden 1. marts til 30. april 2019
+
+> steg det gennemsnitlige tidsforbrug på siden med ikke mindre end 48,4 procent og den gennemsnitlige afvisningsprocent faldt med 36,01 procent!
+
+Siden klarer sig også særdeles godt i Googles søgemaskine.
