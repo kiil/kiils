@@ -5,5 +5,13 @@
 
 title: Folkets.dk
 type: page
-summary: En dansk medieplatform
+summary: En dansk platform
 ---
+
+En dansk _brand-_ og medieplatform
+
+FOLKETS.DK er et enorm stort projekt. Visionen er at udfordre både de danske medier og de amerikanske "tech giants".
+
+Samtidig med at øjnene skal holdes på dette langsigtede mål skal de mange betalende brugere også løbende serviceres med godt indhold.
+
+Der skal skabes indtægter og hele projektet skal løbende tilpasses og "trimmes" da der hele tiden kommer nyt på.
