@@ -5,8 +5,8 @@
 
 title: Klimaleksikon.dk
 type: page
-description: Danmarks bedste og længstlevende side om klimaforandringer.
-summary: Danmarks bedste og længstlevende side om klimaforandringer.
+description: Danmarks bedste og længstlevende side om klimaforandringer
+summary: Danmarks bedste og længstlevende side om klimaforandringer
 ---
 
 Klimaleksikon.dk er med over ti år på bagen Danmarks bedste og længstlevende side om [klimaforandringer](https://klimaleksikon.dk/klimaforandringer).
