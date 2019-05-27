@@ -1,6 +1,7 @@
 ---
-title: GastroFun.dk
-type: page
+title: GastroFun
+description: Et sted på nettet for fans af mad
+type: list
 summary: Artikler om mad og masser af opskrifter
 ---
 

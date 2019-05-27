@@ -10,8 +10,25 @@ Paginate = 6 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = "UA-89827484-1"
 enableRobotsTXT = true
 
+[taxonomies]
+  emne = "emne"
+  case = "case"
+  tool = "tool"
 
 
+[related]
+
+threshold = 80
+includeNewer = true
+toLower = false
+
+[[related.indices]]
+name = "keywords"
+weight = 100
+[[related.indices]]
+name  = "date"
+weight = 10
+pattern = "2006"
 
 [sitemap]
   changefreq = "monthly"
@@ -19,7 +36,6 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-
   favicon = ""
   description = ""
   facebook = ""

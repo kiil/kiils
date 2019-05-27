@@ -6,44 +6,137 @@
     <description>Recent content in 15 års erfaring i krydsfeltet mellem journalistik, sociale medier og produktudvikling på nettet on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
+    <lastBuildDate>Fri, 24 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kiils.dk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Climate Encyclopedia</title>
-      <link>https://www.kiils.dk/case/climate-encyclopedia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Quick ratio</title>
+      <link>https://www.kiils.dk/blog/abonnementsmodel/quick-ratio/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/case/climate-encyclopedia/</guid>
-      <description>Den engelske udgave af Klimaleksikon.dk</description>
+      <guid>https://www.kiils.dk/blog/abonnementsmodel/quick-ratio/</guid>
+      <description>The SaaS Quick Ratio is calculated by dividing MRR added by MRR lost.
+$ A = \frac{New MRR + Expansion MRR}{Churned MRR + Contraction MRR} $
+https://www.slideshare.net/03133938319/saastr
+Guideline (per Social Capital’s Mamoon Hamid) SaaS Quick Ratio &amp;lt; 1: You’re dead. You could sustain a Quick Ratio of less than 1 for a month or two if you already have a good customer base, but anything longer and your churn is going to kill your company.</description>
     </item>
     
     <item>
-      <title>FOLKETS.DK</title>
-      <link>https://www.kiils.dk/case/folkets/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Får jeg abonnenter nok til at leve af mit online-medie?</title>
+      <link>https://www.kiils.dk/blog/abonnementsmodel/abonnenter-nok/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/case/folkets/</guid>
-      <description>En dansk platform</description>
+      <guid>https://www.kiils.dk/blog/abonnementsmodel/abonnenter-nok/</guid>
+      <description>Sandsynligvis ikke. Men læs alligevel videre og få et simpelt værktøj til at vurdere dine chancer.
+Abonnementsmodellen for indhold er gammelkendt og har vist sit værd gennem tiden for magasiner og aviser.
+Og i dag har andre leverandører af indhold, for eksempel Netflix, stor succes med modellen. Også privatpersoner, som skaber indhold af forskellig art, har med hjælp fra services som Patroen haft glæde af modellen - nok oftest som supplement til anden indtægt.</description>
     </item>
     
     <item>
-      <title>GastroFun.dk</title>
-      <link>https://www.kiils.dk/case/gastrofun/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Får jeg abonnenter nok til at leve af mit online-medie?</title>
+      <link>https://www.kiils.dk/blog/abonnementsmodel/v%C3%A6kstformel/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/case/gastrofun/</guid>
-      <description>Artikler om mad og masser af opskrifter</description>
+      <guid>https://www.kiils.dk/blog/abonnementsmodel/v%C3%A6kstformel/</guid>
+      <description>https://www.zuora.com/guides/equation-successful-saas-business-models/
+Sandsynligvis ikke. Men læs alligevel videre og få et simpelt værktøj til at vurdere dine chancer.
+Abonnementsmodellen for indhold er gammelkendt og har vist sit værd gennem tiden for magasiner og aviser.
+Og i dag har andre leverandører af indhold, for eksempel Netflix, stor succes med modellen. Også privatpersoner, som skaber indhold af forskellig art, har med hjælp fra services som Patroen haft glæde af modellen - nok oftest som supplement til anden indtægt.</description>
     </item>
     
     <item>
-      <title>Klimaleksikon.dk</title>
-      <link>https://www.kiils.dk/case/klimaleksikon/</link>
+      <title>Overordnet tilgang til Abonnementsmodellen</title>
+      <link>https://www.kiils.dk/blog/abonnementsmodel/overordnet/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/blog/abonnementsmodel/overordnet/</guid>
+      <description>https://www.zuora.com/guides/padre-new-operating-metrics-new-subscription-business-model/</description>
+    </item>
+    
+    <item>
+      <title>Tre væsentlige mål får Abonnementsmodellen</title>
+      <link>https://www.kiils.dk/blog/abonnementsmodel/tre-ting/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/blog/abonnementsmodel/tre-ting/</guid>
+      <description>https://www.zuora.com/guides/3-saas-metrics-matter/
+Sandsynligvis ikke. Men læs alligevel videre og få et simpelt værktøj til at vurdere dine chancer.
+Abonnementsmodellen for indhold er gammelkendt og har vist sit værd gennem tiden for magasiner og aviser.
+Og i dag har andre leverandører af indhold, for eksempel Netflix, stor succes med modellen. Også privatpersoner, som skaber indhold af forskellig art, har med hjælp fra services som Patroen haft glæde af modellen - nok oftest som supplement til anden indtægt.</description>
+    </item>
+    
+    <item>
+      <title>Sociale medier vigtige – men husk de andre trafikkilder</title>
+      <link>https://www.kiils.dk/blog/trafikkilder/item/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/blog/trafikkilder/item/</guid>
+      <description>2017 var et rekordår for Folkets Avis på mange måder.
+Således var også de samlede antal sidevisninger højere end noget tidligere år.
+===
+Ser vi på anskaffelse skete der noget lidt overraskende. I hvert fald når man tager i betratning at antallet af fans på Folkets Avis Facebook side voksede pænt hen over året og nærmede sig 10.000 ved dets afslutning.
+For på trods af stigningen faldt antallet af brugere som blev sendt til Folkets Avis fra de sociale medier, og med de sociale medier menes praktisk taget ene og alene Facebook.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.kiils.dk/blog/overhaling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/case/klimaleksikon/</guid>
-      <description>Danmarks bedste og længstlevende side om klimaforandringer</description>
+      <guid>https://www.kiils.dk/blog/overhaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;risikoen for at abonnenter forsvinder med denne teknik er desværre stor&#34;</title>
+      <link>https://www.kiils.dk/blog/gode-rad-fra-en-tidligere-telefonmand/item/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/blog/gode-rad-fra-en-tidligere-telefonmand/item/</guid>
+      <description>Tidligere telefonmand skrev til mig med godt råd – lige efter kampagnen var gået i luften.
+===
+Man kan ikke tage højde for alt selv. Og nogle gange prøver man noget af uden at have tænkt alle konsekvenser helt igennem.
+Og i forhold til abonnementsmodellen bør man nok altid overveje et eventuelt tiltags effekt ikke bare på konverteringsraten, men også på frafaldsraten.
+Og blot få minutter efter jeg i dag havde lovet en signeret madbog af Knud Damgaard til nye privat- og supersponsorer på Folkets Avis tikkede følgende besked ind:</description>
+    </item>
+    
+    <item>
+      <title>Delinger giver bonus på LinkedIn</title>
+      <link>https://www.kiils.dk/blog/del-relevant-og-originalt-indhold-pa-linkedin/item/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/blog/del-relevant-og-originalt-indhold-pa-linkedin/item/</guid>
+      <description>Læg relevante links på LinkedIn og forøg antallet af besøg til din profilside mangefold.
+===
+For ganske nylig begyndte jeg via LinkedIn at dele links til min blog her på Kiils.
+I første omgang var hensigten at dele ud af de erfaringer, som opbygningen af et digitalt medie helt fra bunden, har givet mig. Og det er ikke så få!
+Jeg har brugt fem år på at skabe Folkets Avis, og i det tidsrum har jeg faktisk kun sporadisk haft tid til at bruge LinkedIn.</description>
+    </item>
+    
+    <item>
+      <title>En redningsplan for Folkets Avis – sådan tilpasser jeg mig for at overleve</title>
+      <link>https://www.kiils.dk/blog/folkets-dk-en-platform/item/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/blog/folkets-dk-en-platform/item/</guid>
+      <description>Folkets Avis er enestående i den forstand at mediet i modsætning til den øvrige danske presse fungerer helt uden mediestøtte.
+Det gør at den er skarpere end de andre medier i sin kritik af systemet og politikerne. Og det er godt for demokratiet.
+Men det skal heller ikke være nogen hemmelighed at det er lidt af en udfordring at få sådan en størrelse til at løbe rundt og give overskud.</description>
+    </item>
+    
+    <item>
+      <title>Google belønner tidlig indsats</title>
+      <link>https://www.kiils.dk/blog/google-belonner-tidlig-indsats/item/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/blog/google-belonner-tidlig-indsats/item/</guid>
+      <description>Små medier kan markere sig ved at være først med på internationale navne. Og det er tilsyneladende også noget som giver bonus i søgeresultaterne.
+===
+For ikke så længe tid siden skrev jeg et indlæg her på Kiils med titlen: Når de små medier overhaler de store:
+ De små medier er generelt mere manøvredygtige end de store. Det gælder også på indholdsstrategien.
+Det betyder at små medier kan reagere hurtigt på internationale trends.</description>
     </item>
     
     <item>
@@ -58,7 +151,33 @@ Kiils v/Lennart Kiil
 Kirkeskov Allé 72
 3050 Humlebæk
 eller bruge kontaktformularen
-Dit navn Din e-mail Skriv omhyggeligt din mail-adresse her.  Besked   </description>
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+    <item>
+      <title>Om oplevelser og langsigtet indholdsstrategi</title>
+      <link>https://www.kiils.dk/blog/om-oplevelser-og-langsigtet-indholdsstrategi/item/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/blog/om-oplevelser-og-langsigtet-indholdsstrategi/item/</guid>
+      <description>Præmisserne på internettet ændrer sig hele tiden.
+Kan det så overhovedet betale sig at tænke langsigtet?
+Ja!
+Det er faktisk noget nær nødvendigt. Ikke mindst hvis du har planer om at hente trafik fra søgemaskiner som tillægger &amp;ldquo;historik&amp;rdquo; en stor betydning.
+Og det gør for eksempel Googles søgemaskine i min erfaring.
+(Jeg har Klimaleksikon.dk med hele ti år på nettet i næsten uforandret form at bygge den påstand på, men det vil jeg skrive om i et andet indlæg.</description>
+    </item>
+    
+    <item>
+      <title>Overskuelige support-sider med fokus på brugerhandling</title>
+      <link>https://www.kiils.dk/blog/overskuelige-support-sider-med-fokus-pa-handling/item/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/blog/overskuelige-support-sider-med-fokus-pa-handling/item/</guid>
+      <description>FOLKETS.DK er en omfattende platform. Og der er både læsere, betalende brugere, skribenter og flere andre grupper at tage hensyn til.
+De meste af tiden kører tingene som smurt. Men der opstår også problemer.
+Brugere kommer som regel til support-siderne når de vil noget, men er kommet i tvivl om hvordan man gør det.
+Så gælder det om at gøre det nemt for dem at finde den rigtige information så de kan komme videre.</description>
     </item>
     
     <item>
@@ -80,6 +199,15 @@ Dit navn Din e-mail Skriv omhyggeligt din mail-adresse her.  Besked   </descript
 Kr. 800 i timen.
 Der afregnes kun i hele timer.
 Pris eksklusiv moms.</description>
+    </item>
+    
+    <item>
+      <title>bootstrap 4</title>
+      <link>https://www.kiils.dk/blog/front-end/bootstrap-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/blog/front-end/bootstrap-4/</guid>
+      <description>Bootstrap 4</description>
     </item>
     
   </channel>

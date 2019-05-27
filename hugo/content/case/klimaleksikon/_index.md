@@ -3,8 +3,8 @@
 
 ---
 
-title: Klimaleksikon.dk
-type: page
+title: Klimaleksikon
+type: list
 description: Danmarks bedste og længstlevende side om klimaforandringer
 summary: Danmarks bedste og længstlevende side om klimaforandringer
 ---

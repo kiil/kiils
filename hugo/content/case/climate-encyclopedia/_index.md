@@ -4,7 +4,7 @@
 ---
 
 title: Climate Encyclopedia
-type: page
+type: list
 description: Et engelsksproget klimaleksikon
 summary: Den engelske udgave af Klimaleksikon.dk
 ---

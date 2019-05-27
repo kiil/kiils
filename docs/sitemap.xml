@@ -3,20 +3,103 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.kiils.dk/</loc>
+    <loc>https://www.kiils.dk/emne/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/blog/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.kiils.dk/case/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/categories/</loc>
+    <loc>https://www.kiils.dk/case/folkets/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/blog/abonnementsmodel/quick-ratio/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emne/abonnement/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emne/abonnementsmodellen/</loc>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/blog/abonnementsmodel/abonnenter-nok/</loc>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/blog/abonnementsmodel/v%C3%A6kstformel/</loc>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/blog/abonnementsmodel/overordnet/</loc>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/blog/abonnementsmodel/tre-ting/</loc>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/blog/trafikkilder/item/</loc>
+    <lastmod>2018-03-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/blog/overhaling/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/blog/gode-rad-fra-en-tidligere-telefonmand/item/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -26,13 +109,25 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/case/folkets/</loc>
+    <loc>https://www.kiils.dk/blog/del-relevant-og-originalt-indhold-pa-linkedin/item/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/blog/folkets-dk-en-platform/item/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.kiils.dk/case/gastrofun/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/blog/google-belonner-tidlig-indsats/item/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -56,6 +151,24 @@
   </url>
   
   <url>
+    <loc>https://www.kiils.dk/emne/linkedin/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/blog/om-oplevelser-og-langsigtet-indholdsstrategi/item/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/blog/overskuelige-support-sider-med-fokus-pa-handling/item/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kiils.dk/kunde/asmussen/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -68,8 +181,24 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/tags/</loc>
+    <loc>https://www.kiils.dk/emne/some/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emne/sociale-medier/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/tool/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/blog/front-end/bootstrap-4/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>

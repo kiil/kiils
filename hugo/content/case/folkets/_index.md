@@ -3,9 +3,11 @@
 
 ---
 
-title: FOLKETS.DK
-type: page
+title: FOLKETS
+description: Danmarks medieplatform
+type: list
 summary: En dansk platform
+
 ---
 
 En dansk _brand-_ og medieplatform
