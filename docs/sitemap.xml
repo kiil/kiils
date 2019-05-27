@@ -3,14 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.kiils.dk/emner/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <loc>https://www.kiils.dk/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/</loc>
+    <loc>https://www.kiils.dk/erfaringer/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/abo/salg/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -24,7 +38,14 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/erfaringer/</loc>
+    <loc>https://www.kiils.dk/cases/</loc>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/cases/folkets/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -38,20 +59,14 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/erfaringer/trafikkilder/item/</loc>
+    <loc>https://www.kiils.dk/emner/sociale-medier/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/erfaringer/gode-rad-fra-en-tidligere-telefonmand/item/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/cases/</loc>
+    <loc>https://www.kiils.dk/erfaringer/trafik/kilder/</loc>
+    <lastmod>2018-03-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -63,19 +78,13 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/erfaringer/del-relevant-og-originalt-indhold-pa-linkedin/item/</loc>
+    <loc>https://www.kiils.dk/erfaringer/some/delinger-bonus-linkedin/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/erfaringer/folkets-dk-en-platform/item/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/cases/folkets/</loc>
+    <loc>https://www.kiils.dk/erfaringer/muren/redning/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -87,9 +96,14 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/erfaringer/google-belonner-tidlig-indsats/item/</loc>
+    <loc>https://www.kiils.dk/erfaringer/seo/google-tidlig-indsats/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/indholdsstrategi/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -123,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/erfaringer/om-oplevelser-og-langsigtet-indholdsstrategi/item/</loc>
+    <loc>https://www.kiils.dk/erfaringer/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -138,6 +152,11 @@
     <loc>https://www.kiils.dk/pris/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/some/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

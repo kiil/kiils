@@ -1,12 +1,18 @@
-+++
-title = "Tre væsentlige mål får Abonnementsmodellen"
-draft = true
-date = '2018-05-18'
-katex = true
-toc = true
-show_reading_time = true
-keywords = [ 'abonnement', 'FOLKETS' ]
-+++
+---
+title: "Tre væsentlige mål for Abonnementsmodellen"
+draft: true
+date: '2018-05-18'
+katex: true
+toc: true
+show_reading_time: true
+keywords:
+  - abonnement
+  - folkets
+cases:
+  - folkets
+emner:
+  - Abonnementsmodellen
+---
 
 
 

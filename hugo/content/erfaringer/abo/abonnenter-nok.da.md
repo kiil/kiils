@@ -10,6 +10,9 @@ show_reading_time: true
 keywords:
   - abonnement
   - folkets
+
+cases:
+  - folkets
 emner:
   - Abonnementsmodellen
 ---

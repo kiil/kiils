@@ -7,14 +7,12 @@ toc: true
 show_reading_time: true
 keywords:
   - abonnement
-  - FOLKETS
-emne:
-  - abonnement
+  - folkets
 
-
-cases: folkets
-
-
+cases:
+  - folkets
+emner:
+  - Abonnementsmodellen
 ---
 
 

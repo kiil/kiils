@@ -6,9 +6,45 @@
     <description>Recent content in FOLKETS on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
+    <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kiils.dk/cases/folkets/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Får jeg abonnenter nok til at leve af mit online-medie?</title>
+      <link>https://www.kiils.dk/erfaringer/abo/abonnenter-nok/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/abo/abonnenter-nok/</guid>
+      <description>Sandsynligvis ikke</description>
+    </item>
+    
+    <item>
+      <title>Sociale medier vigtige – men husk de andre trafikkilder</title>
+      <link>https://www.kiils.dk/erfaringer/trafik/kilder/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/trafik/kilder/</guid>
+      <description>2017 var et rekordår for Folkets Avis på mange måder.
+Således var også de samlede antal sidevisninger højere end noget tidligere år.
+Ser vi på anskaffelse skete der noget lidt overraskende. I hvert fald når man tager i betratning at antallet af fans på Folkets Avis Facebook side voksede pænt hen over året og nærmede sig 10.000 ved dets afslutning.
+For på trods af stigningen faldt antallet af brugere som blev sendt til Folkets Avis fra de sociale medier, og med de sociale medier menes praktisk taget ene og alene Facebook.</description>
+    </item>
+    
+    <item>
+      <title>Om oplevelser og langsigtet indholdsstrategi</title>
+      <link>https://www.kiils.dk/erfaringer/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/</guid>
+      <description>Præmisserne på internettet ændrer sig hele tiden.
+Kan det så overhovedet betale sig at tænke langsigtet?
+Ja!
+Det er faktisk noget nær nødvendigt. Ikke mindst hvis du har planer om at hente trafik fra søgemaskiner som tillægger &amp;ldquo;historik&amp;rdquo; en stor betydning.
+Og det gør for eksempel Googles søgemaskine i min erfaring.
+(Jeg har Klimaleksikon.dk med hele ti år på nettet i næsten uforandret form at bygge den påstand på, men det vil jeg skrive om i et andet indlæg.</description>
+    </item>
     
     <item>
       <title>bootstrap 4</title>
