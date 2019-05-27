@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>15 års erfaring i krydsfeltet mellem journalistik, sociale medier og produktudvikling på nettet on Kiils</title>
-    <link>https://www.kiils.dk/</link>
-    <description>Recent content in 15 års erfaring i krydsfeltet mellem journalistik, sociale medier og produktudvikling på nettet on Kiils</description>
+    <title>Erfaringer on Kiils</title>
+    <link>https://www.kiils.dk/erfaringer/</link>
+    <description>Recent content in Erfaringer on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
     <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.kiils.dk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.kiils.dk/erfaringer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -84,21 +84,6 @@ Det betyder at små medier kan reagere hurtigt på internationale trends.</descr
     </item>
     
     <item>
-      <title>Kontakt</title>
-      <link>https://www.kiils.dk/kontakt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/kontakt/</guid>
-      <description>Du kan ringe på telefon 40261872 eller skrive en mail direkte til lennart@kiils.dk
-Postadresse:
-Kiils v/Lennart Kiil
-Kirkeskov Allé 72
-3050 Humlebæk
-eller bruge kontaktformularen
-Your Name Email Address An email address is required.  Message   </description>
-    </item>
-    
-    <item>
       <title>Når de små medier overhaler de store</title>
       <link>https://www.kiils.dk/erfaringer/overhaling/item/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -123,27 +108,6 @@ Ja!
 Det er faktisk noget nær nødvendigt. Ikke mindst hvis du har planer om at hente trafik fra søgemaskiner som tillægger &amp;ldquo;historik&amp;rdquo; en stor betydning.
 Og det gør for eksempel Googles søgemaskine i min erfaring.
 (Jeg har Klimaleksikon.dk med hele ti år på nettet i næsten uforandret form at bygge den påstand på, men det vil jeg skrive om i et andet indlæg.</description>
-    </item>
-    
-    <item>
-      <title>Per Asmussen</title>
-      <link>https://www.kiils.dk/kunde/asmussen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/kunde/asmussen/</guid>
-      <description>Jeg giver Kiils mine varmeste anbefalinger</description>
-    </item>
-    
-    <item>
-      <title>Pris</title>
-      <link>https://www.kiils.dk/pris/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/pris/</guid>
-      <description>Prisen er ens for offentlige institutioner, virksomheder og privatpersoner.
-Kr. 800 i timen.
-Der afregnes kun i hele timer.
-Pris eksklusiv moms.</description>
     </item>
     
     <item>

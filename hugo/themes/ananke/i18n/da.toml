@@ -1,11 +1,11 @@
 [more]
-other = "Mere"
+other = "Flere erfaringer"
 
 [allTitle]
 other = "Alle {{.Title }}"
 
 [recentTitle]
-other = "Nyeste {{.Title }}"
+other = "Seneste {{.Title }}"
 
 [readMore]
 other = "læs videre"

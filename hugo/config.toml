@@ -11,9 +11,9 @@ googleAnalytics = "UA-89827484-1"
 enableRobotsTXT = true
 
 [taxonomies]
-  emne = "emne"
-  case = "case"
-  tool = "tool"
+  emner = "emner"
+  cases = "cases"
+  tools = "tools"
 
 
 [related]

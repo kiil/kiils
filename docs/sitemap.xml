@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.kiils.dk/emne/</loc>
+    <loc>https://www.kiils.dk/emner/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -17,82 +17,83 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/emne/abonnementsmodellen/</loc>
+    <loc>https://www.kiils.dk/emner/abonnementsmodellen/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/blog/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/blog/abonnementsmodel/abonnenter-nok/</loc>
+    <loc>https://www.kiils.dk/erfaringer/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/blog/trafikkilder/item/</loc>
+    <loc>https://www.kiils.dk/erfaringer/abo/abonnenter-nok/</loc>
+    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/trafikkilder/item/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/blog/gode-rad-fra-en-tidligere-telefonmand/item/</loc>
+    <loc>https://www.kiils.dk/erfaringer/gode-rad-fra-en-tidligere-telefonmand/item/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/case/</loc>
+    <loc>https://www.kiils.dk/cases/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/case/climate-encyclopedia/</loc>
+    <loc>https://www.kiils.dk/cases/climate-encyclopedia/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/blog/del-relevant-og-originalt-indhold-pa-linkedin/item/</loc>
+    <loc>https://www.kiils.dk/erfaringer/del-relevant-og-originalt-indhold-pa-linkedin/item/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/blog/folkets-dk-en-platform/item/</loc>
+    <loc>https://www.kiils.dk/erfaringer/folkets-dk-en-platform/item/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/case/folkets/</loc>
+    <loc>https://www.kiils.dk/cases/folkets/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/case/gastrofun/</loc>
+    <loc>https://www.kiils.dk/cases/gastrofun/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/blog/google-belonner-tidlig-indsats/item/</loc>
+    <loc>https://www.kiils.dk/erfaringer/google-belonner-tidlig-indsats/item/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/case/klimaleksikon/</loc>
+    <loc>https://www.kiils.dk/cases/klimaleksikon/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -110,19 +111,19 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/emne/linkedin/</loc>
+    <loc>https://www.kiils.dk/emner/linkedin/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/blog/overhaling/item/</loc>
+    <loc>https://www.kiils.dk/erfaringer/overhaling/item/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/blog/om-oplevelser-og-langsigtet-indholdsstrategi/item/</loc>
+    <loc>https://www.kiils.dk/erfaringer/om-oplevelser-og-langsigtet-indholdsstrategi/item/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -140,22 +141,12 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/emne/some/</loc>
+    <loc>https://www.kiils.dk/tools/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/emne/sociale-medier/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/tool/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/blog/front-end/bootstrap-4/</loc>
+    <loc>https://www.kiils.dk/erfaringer/front-end/bootstrap-4/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
