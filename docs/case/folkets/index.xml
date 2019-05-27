@@ -6,22 +6,9 @@
     <description>Recent content in FOLKETS on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Fri, 24 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kiils.dk/case/folkets/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Quick ratio</title>
-      <link>https://www.kiils.dk/blog/abonnementsmodel/quick-ratio/</link>
-      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/blog/abonnementsmodel/quick-ratio/</guid>
-      <description>The SaaS Quick Ratio is calculated by dividing MRR added by MRR lost.
-$ A = \frac{New MRR + Expansion MRR}{Churned MRR + Contraction MRR} $
-https://www.slideshare.net/03133938319/saastr
-Guideline (per Social Capital’s Mamoon Hamid) SaaS Quick Ratio &amp;lt; 1: You’re dead. You could sustain a Quick Ratio of less than 1 for a month or two if you already have a good customer base, but anything longer and your churn is going to kill your company.</description>
-    </item>
     
     <item>
       <title>bootstrap 4</title>

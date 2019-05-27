@@ -1,7 +1,6 @@
 ---
 title: 'Delinger giver bonus på LinkedIn'
 media_order: hockeystickLinkedIn.png
-published: true
 toc: true
 show_reading_time: true
 keywords:

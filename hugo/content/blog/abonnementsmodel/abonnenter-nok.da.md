@@ -1,6 +1,5 @@
 +++
 title = "Får jeg abonnenter nok til at leve af mit online-medie?"
-published = true
 date = '2018-05-18'
 katex = true
 toc = true

@@ -1,8 +1,6 @@
 ---
 title: '"risikoen for at abonnenter forsvinder med denne teknik er desværre stor"'
 media_order: woman-3083379_960_720.jpg
-published: true
-toc: true
 show_reading_time: true
 ---
 

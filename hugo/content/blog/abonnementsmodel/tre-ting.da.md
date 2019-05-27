@@ -1,6 +1,6 @@
 +++
 title = "Tre væsentlige mål får Abonnementsmodellen"
-published = true
+draft = true
 date = '2018-05-18'
 katex = true
 toc = true

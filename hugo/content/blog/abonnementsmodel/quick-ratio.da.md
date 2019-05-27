@@ -1,6 +1,6 @@
 ---
 title: "Quick ratio"
-published: true
+draft: true
 date: '2019-05-24'
 katex: true
 toc: true

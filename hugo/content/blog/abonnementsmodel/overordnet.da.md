@@ -1,6 +1,6 @@
 +++
 title = "Overordnet tilgang til Abonnementsmodellen"
-published = true
+draft = true
 date = '2018-05-18'
 katex = true
 toc = true
