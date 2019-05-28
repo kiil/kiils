@@ -1,13 +1,17 @@
 ---
 title: 'Når de små medier overhaler de store'
-date: '01-02-2018 10:30'
-toc: true
+date: '2018-02-01'
 show_reading_time: true
+
+cases:
+  - folkets
+
+emner:
+  - indholdsstrategi
 ---
 
  Den korte afstand mellem læser og redaktion er en fordel.
 
- ===
 
 <p>De små medier er generelt mere manøvredygtige end de store. Det gælder også på indholdsstrategien.</p>
 

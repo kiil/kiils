@@ -19,13 +19,13 @@ thumbnail: "erfaringer/seo/jpfa.png"
 Små medier kan markere sig ved at være først med på internationale navne. Og det er tilsyneladende også noget som giver bonus i søgeresultaterne.
 
 
-For ikke så længe tid siden skrev jeg et indlæg her på Kiils med titlen: [Når de små medier overhaler de store](/blog/overhaling):
+For ikke så længe tid siden skrev jeg et indlæg her på Kiils med titlen: [Når de små medier overhaler de store](/erfaringer/indhold/overhaling):
 
 > De små medier er generelt mere manøvredygtige end de store. Det gælder også på indholdsstrategien.
 >
 > Det betyder at små medier kan reagere hurtigt på internationale trends.
 >
-> Et eksempel på dette er at Folkets Avis har skrevet meget om [Jordan Peterson](https://www.folkets.dk/person/jordan-peterson). Det har de store danske medier ikke, på trods af at han er en meget omtalt mand i den internationale presse.
+> Et eksempel på dette er at Folkets Avis har skrevet meget om [Jordan Peterson](https://www.folkets.dk/personer/jordan-peterson). Det har de store danske medier ikke, på trods af at han er en meget omtalt mand i den internationale presse.
 
 Folkets Avis var altså tidligt ude og markere sig med indhold om Jordan Peterson, som ikke var blevet opdaget af den øvrige danske presse endnu på det tidspunkt.
 
