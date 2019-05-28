@@ -51,6 +51,13 @@
   </url>
   
   <url>
+    <loc>https://www.kiils.dk/erfaringer/seo/google-tidlig-indsats/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kiils.dk/erfaringer/abo/salg/</loc>
     <lastmod>2018-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -104,12 +111,6 @@
   
   <url>
     <loc>https://www.kiils.dk/cases/gastrofun/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/erfaringer/seo/google-tidlig-indsats/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

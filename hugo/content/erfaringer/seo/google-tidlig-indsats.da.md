@@ -1,8 +1,19 @@
 ---
 title: 'Google belønner tidlig indsats'
+date: '2018-05-28'
 
+cases:
+  - folkets
+emner:
+  - SEO
+
+keywords:
+  - seo
+  - trafik
 
 show_reading_time: true
+
+thumbnail: "erfaringer/seo/jpfa.png"
 ---
 
 Små medier kan markere sig ved at være først med på internationale navne. Og det er tilsyneladende også noget som giver bonus i søgeresultaterne.
