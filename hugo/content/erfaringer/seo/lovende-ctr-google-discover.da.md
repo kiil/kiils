@@ -13,6 +13,7 @@ cases:
   - folkets
 emner:
   - SEO
+thumbnail: "erfaringer/seo/discover-folkets.png"
 ---
 
 Googles Dicover funktion er tilgængelig på mobile enheder med Android under
