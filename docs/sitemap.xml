@@ -3,17 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.kiils.dk/emner/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kiils.dk/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/cases/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.kiils.dk/erfaringer/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/cases/folkets/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/seo/lovende-ctr-google-discover/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/seo/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -24,28 +58,7 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/emner/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kiils.dk/emner/abonnementsmodellen/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/cases/</loc>
-    <lastmod>2018-05-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/cases/folkets/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

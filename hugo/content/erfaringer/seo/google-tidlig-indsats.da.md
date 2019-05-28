@@ -1,13 +1,12 @@
 ---
 title: 'Google belønner tidlig indsats'
-media_order: jpfa.png
-toc: true
+
+
 show_reading_time: true
 ---
 
 Små medier kan markere sig ved at være først med på internationale navne. Og det er tilsyneladende også noget som giver bonus i søgeresultaterne.
 
-===
 
 For ikke så længe tid siden skrev jeg et indlæg her på Kiils med titlen: [Når de små medier overhaler de store](/blog/overhaling):
 
@@ -25,7 +24,7 @@ Men den indsats, Folkets Avis gjorde, gav ikke bare trafik dengang. Noget tyder 
 
 Se her:
 
-![](jpfa.png)
+![](/erfaringer/seo/jpfa.png)
 
 Det er en flot placering. Om det bliver muligt at holde den, vil tiden vise.
 
