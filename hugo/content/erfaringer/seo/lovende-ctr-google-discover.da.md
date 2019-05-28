@@ -1,13 +1,12 @@
 ---
-title: "Lovende Google discover click through rates"
-description: "Sandsynligvis ikke"
+title: "Lovende Google Discover klikrate (CTR)"
+description: "Hvad med en klikfrekvens på over 10?"
 summary: "Sandsynligvis ikke"
 date: '2019-05-28'
 show_reading_time: true
 
 keywords:
   - seo
-  - folkets
 
 cases:
   - folkets
