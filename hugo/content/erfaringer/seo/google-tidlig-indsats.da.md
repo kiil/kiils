@@ -6,6 +6,7 @@ cases:
   - folkets
 emner:
   - SEO
+  - indholdsstrategi
 
 keywords:
   - seo
