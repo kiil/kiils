@@ -15,6 +15,27 @@ emner:
 thumbnail: "erfaringer/seo/discover-folkets.png"
 ---
 
-Googles Dicover funktion er tilgængelig på mobile enheder med Android under
+Torsdag den 30. april 2019 dukkede en side fra FOLKETS for føste gang op i Googles Discover.
+
+Siden da er det sket nogle gange:
+
+| Kliks | Visninger | CTR |
+|-------|-----------|-----|
+| 154   | ~ 1400    | 11% |
+
+
+Hvor
+
+CTR
+: Click-through rate, på dansk _klikrate_ - sommetider benævnt klikfrekvens. Andelen af kliks per 100 visninger.
+
+
+Google Discover er en slags personligt feed baseret på Googles søgemaskine kombineret med kunstig intelligens som kan give personlige resultater.
+
+
+
+Googles Discover funktion er tilgængelig på mobile Android-enheder. Discover kan tilgås med selve Google-appen.
+
+Set fra en udgivers synspunkt ser Google Discover interessant ud da klikraten umiddelbart ser meget høj ud
 
 ![](/erfaringer/seo/discover-folkets.png)
