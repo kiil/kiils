@@ -16,6 +16,7 @@ enableRobotsTXT = true
   emner = "emner"
   kunder = "kunder"
   tools = "tools"
+  skribenter = "skribenter"
 
 
 [related]

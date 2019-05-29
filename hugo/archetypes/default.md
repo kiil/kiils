@@ -10,6 +10,9 @@ show_reading_time: true
 # toc: true
 # katex: true
 
+skribenter:
+  - lennart-kiil
+
 keywords:
   -
 
