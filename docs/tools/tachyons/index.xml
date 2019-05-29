@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Klimaleksikon on Kiils</title>
-    <link>https://www.kiils.dk/cases/klimaleksikon/</link>
-    <description>Recent content in Klimaleksikon on Kiils</description>
+    <title>tachyons on Kiils</title>
+    <link>https://www.kiils.dk/tools/tachyons/</link>
+    <description>Recent content in tachyons on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
     
-	<atom:link href="https://www.kiils.dk/cases/klimaleksikon/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.kiils.dk/tools/tachyons/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

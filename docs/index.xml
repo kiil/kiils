@@ -90,6 +90,15 @@ Jeg har brugt fem år på at skabe Folkets Avis, og i det tidsrum har jeg faktis
     </item>
     
     <item>
+      <title>Det nemmeste CSS framework</title>
+      <link>https://www.kiils.dk/erfaringer/front-end/bootstrap-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/front-end/bootstrap-4/</guid>
+      <description>Bootstrap 4 er næppe det nemmeste og hurtigste at prototype i længere. Og lidt for tungt hvis man virkelig går op i hastighed også på langsommere mobilforbindelser.</description>
+    </item>
+    
+    <item>
       <title>En redningsplan for Folkets Avis – sådan tilpasser jeg mig for at overleve</title>
       <link>https://www.kiils.dk/erfaringer/muren/redning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -130,15 +139,6 @@ Og det gør for eksempel Googles søgemaskine i min erfaring.
     </item>
     
     <item>
-      <title>Per Asmussen</title>
-      <link>https://www.kiils.dk/kunde/asmussen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/kunde/asmussen/</guid>
-      <description>Jeg giver Kiils mine varmeste anbefalinger</description>
-    </item>
-    
-    <item>
       <title>Pris</title>
       <link>https://www.kiils.dk/pris/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -148,15 +148,6 @@ Og det gør for eksempel Googles søgemaskine i min erfaring.
 Kr. 800 i timen.
 Der afregnes kun i hele timer.
 Pris eksklusiv moms.</description>
-    </item>
-    
-    <item>
-      <title>bootstrap 4</title>
-      <link>https://www.kiils.dk/erfaringer/front-end/bootstrap-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/erfaringer/front-end/bootstrap-4/</guid>
-      <description>Bootstrap 4</description>
     </item>
     
   </channel>

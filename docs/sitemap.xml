@@ -117,6 +117,12 @@
   </url>
   
   <url>
+    <loc>https://www.kiils.dk/erfaringer/front-end/bootstrap-4/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kiils.dk/erfaringer/muren/redning/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -141,7 +147,7 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/kunde/</loc>
+    <loc>https://www.kiils.dk/kunder/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -159,7 +165,7 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/kunde/asmussen/</loc>
+    <loc>https://www.kiils.dk/kunder/per-asmussen/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -181,9 +187,13 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/erfaringer/front-end/bootstrap-4/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://www.kiils.dk/tools/bootstrap-4/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/tools/tachyons/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
