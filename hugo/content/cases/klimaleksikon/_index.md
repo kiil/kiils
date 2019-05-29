@@ -1,8 +1,4 @@
-
-
-
 ---
-
 title: Klimaleksikon
 type: list
 description: Danmarks bedste og længstlevende side om klimaforandringer

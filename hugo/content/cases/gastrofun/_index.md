@@ -1,5 +1,5 @@
 ---
-title: GastroFun
+title: Gastro Fun
 description: Et sted på nettet for fans af mad
 type: list
 summary: Artikler om mad og masser af opskrifter
