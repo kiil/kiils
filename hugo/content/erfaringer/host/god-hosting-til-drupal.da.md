@@ -2,7 +2,7 @@
 title: Nu fortæller jeg dig hvor jeg hoster Drupal sites - og hvorfor
 description: ""
 summary: ""
-date: {{ .Date }}
+date: 2019-05-30
 draft: true
 
 show_reading_time: true
@@ -37,11 +37,12 @@ kunder:
 
 
 # thumbnail: ""
+
 ---
 
 Jeg har haft Drupal sites _hostet_ en del steder efterhånden. Jeg har endda _hostet_ selv.
 
-Det eneste sted som jeg har holdt fast i gennem alle årene er Pantheon. Jeg har simpelthen ikke fundet noget bedre. 
+Det eneste sted som jeg har holdt fast i gennem alle årene er Pantheon. Jeg har simpelthen ikke fundet noget bedre.
 
 ## Ulemper
 Den største ulempe, jeg kan komme på ved Pantheon er, at al hosting foregår i USA.
