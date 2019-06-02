@@ -1,5 +1,6 @@
 ---
 title: Det nemmeste CSS framework
+date: '2019-05-18'
 
 cases:
   - climate-encyclopedia
@@ -13,8 +14,6 @@ kunder:
 tools:
   - bootstrap-4
   - tachyons
-
-
 
 ---
 

@@ -1,11 +1,14 @@
 ---
 title: 'En redningsplan for Folkets Avis – sådan tilpasser jeg mig for at overleve'
-media_order: FOLKETS_FORSIDE.jpg
+date: '2018-05-22'
 published: true
 toc: true
 show_reading_time: true
 keywords:
   - FOLKETS
+
+cases:
+  - folkets
 ---
 
 [Folkets Avis](https://www.folkets.dk/avis) er enestående i den forstand at mediet i modsætning til den øvrige danske presse fungerer **helt uden mediestøtte**.

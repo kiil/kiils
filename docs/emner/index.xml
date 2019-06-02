@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Indholdsstrategi</title>
+      <title>indholdsstrategi</title>
       <link>https://www.kiils.dk/emner/indholdsstrategi/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
@@ -39,18 +39,9 @@
     </item>
     
     <item>
-      <title>Sociale medier</title>
-      <link>https://www.kiils.dk/emner/sociale-medier/</link>
-      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/emner/sociale-medier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Lidt om LinkedIn</title>
       <link>https://www.kiils.dk/emner/linkedin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/emner/linkedin/</guid>
       <description> TEST </description>
@@ -59,9 +50,18 @@
     <item>
       <title>SoMe</title>
       <link>https://www.kiils.dk/emner/some/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/emner/some/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sociale medier</title>
+      <link>https://www.kiils.dk/emner/sociale-medier/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/sociale-medier/</guid>
       <description></description>
     </item>
     

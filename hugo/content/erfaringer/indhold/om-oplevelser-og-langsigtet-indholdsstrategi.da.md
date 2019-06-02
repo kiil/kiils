@@ -1,7 +1,7 @@
 ---
 title: 'Om oplevelser og langsigtet indholdsstrategi'
 show_reading_time: true
-
+date: '2018-05-28'
 cases:
   - folkets
 emner:

@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Det nemmeste CSS framework</title>
+      <link>https://www.kiils.dk/erfaringer/frontend/bootstrap-4/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/frontend/bootstrap-4/</guid>
+      <description>Bootstrap 4 er næppe det nemmeste og hurtigste at prototype i længere. Og lidt for tungt hvis man virkelig går op i hastighed også på langsommere mobilforbindelser.</description>
+    </item>
+    
+    <item>
       <title>Google belønner tidlig indsats</title>
       <link>https://www.kiils.dk/erfaringer/seo/google-tidlig-indsats/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
@@ -30,6 +39,20 @@
 For ikke så længe tid siden skrev jeg et indlæg her på Kiils med titlen: Når de små medier overhaler de store:
  De små medier er generelt mere manøvredygtige end de store. Det gælder også på indholdsstrategien.
 Det betyder at små medier kan reagere hurtigt på internationale trends.</description>
+    </item>
+    
+    <item>
+      <title>Om oplevelser og langsigtet indholdsstrategi</title>
+      <link>https://www.kiils.dk/erfaringer/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/</guid>
+      <description>Præmisserne på internettet ændrer sig hele tiden.
+Kan det så overhovedet betale sig at tænke langsigtet?
+Ja!
+Det er faktisk noget nær nødvendigt. Ikke mindst hvis du har planer om at hente trafik fra søgemaskiner som tillægger &amp;ldquo;historik&amp;rdquo; en stor betydning.
+Og det gør for eksempel Googles søgemaskine i min erfaring.
+(Jeg har Klimaleksikon.dk med hele ti år på nettet i næsten uforandret form at bygge den påstand på, men det vil jeg skrive om i et andet indlæg.</description>
     </item>
     
     <item>
@@ -45,12 +68,35 @@ Og blot få minutter efter jeg i dag havde lovet en signeret madbog af Knud Damg
     </item>
     
     <item>
+      <title>En redningsplan for Folkets Avis – sådan tilpasser jeg mig for at overleve</title>
+      <link>https://www.kiils.dk/erfaringer/muren/redning/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/muren/redning/</guid>
+      <description>Folkets Avis er enestående i den forstand at mediet i modsætning til den øvrige danske presse fungerer helt uden mediestøtte.
+Det gør at den er skarpere end de andre medier i sin kritik af systemet og politikerne. Og det er godt for demokratiet.
+Men det skal heller ikke være nogen hemmelighed at det er lidt af en udfordring at få sådan en størrelse til at løbe rundt og give overskud.</description>
+    </item>
+    
+    <item>
       <title>Får jeg abonnenter nok til at leve af mit online-medie?</title>
       <link>https://www.kiils.dk/erfaringer/abo/abonnenter-nok/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/erfaringer/abo/abonnenter-nok/</guid>
       <description>Sandsynligvis ikke</description>
+    </item>
+    
+    <item>
+      <title>Delinger giver bonus på LinkedIn</title>
+      <link>https://www.kiils.dk/erfaringer/some/delinger-bonus-linkedin/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/some/delinger-bonus-linkedin/</guid>
+      <description>Læg relevante links på LinkedIn og forøg antallet af besøg til din profilside mangefold.
+For ganske nylig begyndte jeg via LinkedIn at dele links til min blog her på Kiils.
+I første omgang var hensigten at dele ud af de erfaringer, som opbygningen af et digitalt medie helt fra bunden, har givet mig. Og det er ikke så få!
+Jeg har brugt fem år på at skabe Folkets Avis, og i det tidsrum har jeg faktisk kun sporadisk haft tid til at bruge LinkedIn.</description>
     </item>
     
     <item>
@@ -78,38 +124,6 @@ Et eksempel på dette er at Folkets Avis har skrevet meget om Jordan Peterson. D
     </item>
     
     <item>
-      <title>Delinger giver bonus på LinkedIn</title>
-      <link>https://www.kiils.dk/erfaringer/some/delinger-bonus-linkedin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/erfaringer/some/delinger-bonus-linkedin/</guid>
-      <description>Læg relevante links på LinkedIn og forøg antallet af besøg til din profilside mangefold.
-For ganske nylig begyndte jeg via LinkedIn at dele links til min blog her på Kiils.
-I første omgang var hensigten at dele ud af de erfaringer, som opbygningen af et digitalt medie helt fra bunden, har givet mig. Og det er ikke så få!
-Jeg har brugt fem år på at skabe Folkets Avis, og i det tidsrum har jeg faktisk kun sporadisk haft tid til at bruge LinkedIn.</description>
-    </item>
-    
-    <item>
-      <title>Det nemmeste CSS framework</title>
-      <link>https://www.kiils.dk/erfaringer/frontend/bootstrap-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/erfaringer/frontend/bootstrap-4/</guid>
-      <description>Bootstrap 4 er næppe det nemmeste og hurtigste at prototype i længere. Og lidt for tungt hvis man virkelig går op i hastighed også på langsommere mobilforbindelser.</description>
-    </item>
-    
-    <item>
-      <title>En redningsplan for Folkets Avis – sådan tilpasser jeg mig for at overleve</title>
-      <link>https://www.kiils.dk/erfaringer/muren/redning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/erfaringer/muren/redning/</guid>
-      <description>Folkets Avis er enestående i den forstand at mediet i modsætning til den øvrige danske presse fungerer helt uden mediestøtte.
-Det gør at den er skarpere end de andre medier i sin kritik af systemet og politikerne. Og det er godt for demokratiet.
-Men det skal heller ikke være nogen hemmelighed at det er lidt af en udfordring at få sådan en størrelse til at løbe rundt og give overskud.</description>
-    </item>
-    
-    <item>
       <title>Kontakt</title>
       <link>https://www.kiils.dk/kontakt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -122,20 +136,6 @@ Kirkeskov Allé 72
 3050 Humlebæk
 eller bruge kontaktformularen
 Your Name Email Address An email address is required.  Message   </description>
-    </item>
-    
-    <item>
-      <title>Om oplevelser og langsigtet indholdsstrategi</title>
-      <link>https://www.kiils.dk/erfaringer/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/erfaringer/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/</guid>
-      <description>Præmisserne på internettet ændrer sig hele tiden.
-Kan det så overhovedet betale sig at tænke langsigtet?
-Ja!
-Det er faktisk noget nær nødvendigt. Ikke mindst hvis du har planer om at hente trafik fra søgemaskiner som tillægger &amp;ldquo;historik&amp;rdquo; en stor betydning.
-Og det gør for eksempel Googles søgemaskine i min erfaring.
-(Jeg har Klimaleksikon.dk med hele ti år på nettet i næsten uforandret form at bygge den påstand på, men det vil jeg skrive om i et andet indlæg.</description>
     </item>
     
     <item>
