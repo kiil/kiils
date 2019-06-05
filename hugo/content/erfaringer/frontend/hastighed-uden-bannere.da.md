@@ -2,7 +2,7 @@
 title: FOLKETS meget hurtigere efter drop af bannere
 description: "Nu er der data nok til at konkludere noget mere håndfast."
 summary: "Nu er der data nok til at konkludere noget mere håndfast."
-date: 2019-06-03
+date: 2019-06-06
 # draft: true
 
 show_reading_time: true

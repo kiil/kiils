@@ -6,19 +6,10 @@
     <description>Recent content in Tools on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kiils.dk/tools/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>google-analytics</title>
-      <link>https://www.kiils.dk/tools/google-analytics/</link>
-      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/tools/google-analytics/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>bootstrap-4</title>
