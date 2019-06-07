@@ -14,6 +14,7 @@ skribenter:
   - lennart-kiil
 
 keywords:
+  - frontend
   - folkets
   - ydelse
   - google-analytics
