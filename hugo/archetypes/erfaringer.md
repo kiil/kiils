@@ -13,7 +13,6 @@ show_reading_time: true
 skribenter:
   - lennart-kiil
 
-
 keywords:
   -
 

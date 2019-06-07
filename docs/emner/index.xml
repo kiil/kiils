@@ -6,10 +6,19 @@
     <description>Recent content on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kiils.dk/emner/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ydelse</title>
+      <link>https://www.kiils.dk/emner/ydelse/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/ydelse/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SEO</title>
@@ -21,7 +30,7 @@
     </item>
     
     <item>
-      <title>Indholdsstrategi</title>
+      <title>indholdsstrategi</title>
       <link>https://www.kiils.dk/emner/indholdsstrategi/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
@@ -44,7 +53,7 @@
       <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/emner/linkedin/</guid>
-      <description> TEST </description>
+      <description></description>
     </item>
     
     <item>
