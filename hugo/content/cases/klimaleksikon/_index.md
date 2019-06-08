@@ -15,6 +15,6 @@ Ved en sammenligning af perioden 1. marts til 30. april 2018 med perioden 1. mar
 
 > steg det gennemsnitlige tidsforbrug på siden med ikke mindre end 48,4 procent og den gennemsnitlige afvisningsprocent faldt med 36,01 procent!
 
-Siden klarer sig også særdeles godt i Googles søgemaskine.
+Siden klarer sig også *særdeles godt* i Googles søgemaskine.
 
 På Klimaleksikon har jeg haft æren af at arbejde tæt sammen med Mikkel Houmøller og Thomas Hesselberg.
