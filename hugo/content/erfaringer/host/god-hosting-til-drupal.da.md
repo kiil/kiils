@@ -19,7 +19,7 @@ keywords:
   - drupal
 
 emner:
-  -
+  - ydelse
 
 tools:
   - pantheon

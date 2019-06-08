@@ -32,6 +32,7 @@
         <span class="f6 mv4 dib tracked"> - {{ i18n "readingTime" .ReadingTime}} </span>
         <span class="f6 mv4 dib tracked"> - {{ .WordCount}} ord</span>
       {{ end }}
+      <span class="f6 mv4 dib tracked"> - {{- partial "skribenter.html" . -}} </span>
     </header>
 
     <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">

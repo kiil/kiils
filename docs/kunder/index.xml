@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kunder on Kiils</title>
+    <title>Kiils</title>
     <link>https://www.kiils.dk/kunder/</link>
-    <description>Recent content in Kunder on Kiils</description>
+    <description>Recent content on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
     <lastBuildDate>Fri, 07 Jun 2019 00:00:00 +0000</lastBuildDate>
@@ -12,20 +12,16 @@
     
     
     <item>
-      <title></title>
-      <link>https://www.kiils.dk/kunder/</link>
+      <title>FOLKETS meget hurtigere efter drop af bannere</title>
+      <link>https://www.kiils.dk/erfaringer/frontend/hastighed-uden-bannere/</link>
       <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/kunder/</guid>
-      <description></description>
+      <guid>https://www.kiils.dk/erfaringer/frontend/hastighed-uden-bannere/</guid>
+      <description>Nu er der data nok til at konkludere noget mere håndfast.</description>
     </item>
     
-    <item>
-      <title>Per Asmussen</title>
-      <link>https://www.kiils.dk/kunder/per-asmussen/</link>
-      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/kunder/per-asmussen/</guid>
+  </channel>
+</rss>  <guid>https://www.kiils.dk/kunder/per-asmussen/</guid>
       <description>Jeg giver Kiils mine varmeste anbefalinger</description>
     </item>
     
