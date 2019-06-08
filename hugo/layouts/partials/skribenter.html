@@ -1,9 +1,8 @@
-<ul class="pa0">
+
   {{ range .Params.skribenter }}
-   <li class="list">
-     <a href="{{ "/skribenter/" | relLangURL }}{{ . | urlize }}" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">
-       {{- . -}}
+
+     <a href="{{ "/skribenter/" | relLangURL }}{{ . | urlize }}" class="ttc">
+       {{humanize . -}}
      </a>
-   </li>
+
   {{ end }}
-</ul>
