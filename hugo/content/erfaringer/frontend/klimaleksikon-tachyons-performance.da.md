@@ -1,5 +1,5 @@
 ---
-title: Sådan fik jeg perfekte 100 i mobilhastighed på Klimaleksikon
+title: Sådan fik jeg perfekte 100 i mobilhastighed
 description: "Det er ikke nemt i et CMS"
 summary: "Det er ikke nemt i et CMS"
 date: 2019-06-11
@@ -42,7 +42,7 @@ Men hvis nu man skal bygge noget mere kompliceret hvor man har brug for et CMS. 
 
 Ja! Heldigvis da.
 
-Klimaleksikon er bygget med Drupal 8. Tidligere brugte jeg Bootstrap 4 i frontend. Nu har jeg skiftet til Tachyons.
+Klimaleksikon, Danmarks bedste sted at blive klog på [klima](https://klimaleksikon.dk/), er bygget med Drupal 8. Tidligere brugte jeg Bootstrap 4 i frontend. Nu har jeg skiftet til Tachyons.
 
 Sitet er hosted på Pantheon. Og de arbejder sammen med Fastly omkring CDN.
 
