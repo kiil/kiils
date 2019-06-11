@@ -50,7 +50,9 @@ Allerede med Bootstrap 4 klarede Klimaleksikon sig flot i Chromes test for ydels
 
 Men jeg udskiftede Bootstrap 4 med Tachyons. Og nu er det lykkedes mig at få det bedst mulige resultat på 100 i mobil-testen.
 
-Og det vel at mærke med den hårde indstilling: "Applied Fast 3G, 4x CPU Slowdown"
+![](/content/erfaringer/frontend/100.png)
+
+Og resultatet er vel at mærke opnået med den hårde indstilling: "Applied Fast 3G, 4x CPU Slowdown"
 
 Det skal siges at det er på sider uden billeder. På sider med billeder, som for eksempel forsiden, får jeg "kun" 99 som resultat.
 
