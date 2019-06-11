@@ -34,7 +34,7 @@ kunder:
   -
 
 
-thumbnail: "content/erfaringer/frontend/100.png"
+thumbnail: "erfaringer/frontend/100.png"
 ---
 Med en static site generator er det efterhånden relativt nemt at bygge et site som er optimeret på ydelse.
 
@@ -50,7 +50,7 @@ Allerede med Bootstrap 4 klarede Klimaleksikon sig flot i Chromes test for ydels
 
 Men jeg udskiftede Bootstrap 4 med Tachyons. Og nu er det lykkedes mig at få det bedst mulige resultat på 100 i mobil-testen.
 
-![](/content/erfaringer/frontend/100.png)
+![](/erfaringer/frontend/100.png)
 
 Og resultatet er vel at mærke opnået med den hårde indstilling: "Applied Fast 3G, 4x CPU Slowdown"
 
