@@ -6,7 +6,7 @@
     <description>Recent content on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Fri, 07 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kiils.dk/emner/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,19 @@
     <item>
       <title>Ydelse</title>
       <link>https://www.kiils.dk/emner/ydelse/</link>
-      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/emner/ydelse/</guid>
       <description>Ydelse, på engelsk performance, er en meget væsentlig parameter i næsten alle digitale produkter.</description>
+    </item>
+    
+    <item>
+      <title>frontend</title>
+      <link>https://www.kiils.dk/emner/frontend/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/frontend/</guid>
+      <description></description>
     </item>
     
     <item>

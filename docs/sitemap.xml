@@ -4,36 +4,114 @@
   
   <url>
     <loc>https://www.kiils.dk/kunder/</loc>
-    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.kiils.dk/emner/</loc>
-    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.kiils.dk/</loc>
-    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.kiils.dk/cases/</loc>
-    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.kiils.dk/erfaringer/</loc>
-    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/cases/klimaleksikon/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/kunder/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/skribenter/lennart-kiil/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/frontend/klimaleksikon-tachyons-performance/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/tools/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/ydelse/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/tools/bootstrap-4/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/tools/drupal-8/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/frontend/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/tools/pantheon/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/skribenter/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/tools/tachyons/</loc>
+    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -51,43 +129,9 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/kunder/</loc>
-    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/skribenter/lennart-kiil/</loc>
-    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/tools/</loc>
-    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/emner/ydelse/</loc>
-    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kiils.dk/tools/google-analytics/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/skribenter/</loc>
-    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
@@ -126,29 +170,10 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/cases/klimaleksikon/</loc>
-    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kiils.dk/kunder/per-asmussen/</loc>
     <lastmod>2019-05-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/tools/bootstrap-4/</loc>
-    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/tools/tachyons/</loc>
-    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
