@@ -1,8 +1,8 @@
 ---
 title: Lars Vestergaard
 type: list
-description: Jeg giver Kiils mine varmeste anbefalinger
-summary: Jeg giver Kiils mine varmeste anbefalinger
+description: Kiils anbefaler ubetinget Lars Vestergaard
+summary: Kiils anbefaler ubetinget Lars Vestergaard
 ---
 
 
