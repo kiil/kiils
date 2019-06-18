@@ -11,4 +11,4 @@ Kiils har længe arbejdet sammen med Lars Vestergaard som besidder en række kva
 
 Lars Vestergaard har især vist sin kunnen inden for salg og marketing via alle digitale kanaler, men også når det har været påkrævet inden for trafikoptimering og SEO.
 
-Lars Vestergaard er ansvarlig og tilstedeværende og lever sig ind i sine klienters og kunder behov. Han har en iværksætters flid og ihærdighed kombineret med den professionelisme som er essentiel på den lange bane.
+Lars Vestergaard er ansvarlig og tilstedeværende og lever sig ind i sine klienters og kunders behov. Han har en iværksætters flid og ihærdighed kombineret med den professionelisme som er essentiel på den lange bane.
