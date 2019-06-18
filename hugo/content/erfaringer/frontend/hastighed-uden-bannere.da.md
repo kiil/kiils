@@ -28,9 +28,6 @@ tools:
 cases:
   - folkets
 
-kunder:
-  -
-
 
 
 thumbnail: "erfaringer/frontend/page-load.png"
