@@ -12,6 +12,7 @@ googleAnalytics = "UA-89827484-1"
 enableRobotsTXT = true
 
 [taxonomies]
+  brands = "brands"
   cases = "cases"
   emner = "emner"
   kunder = "kunder"
