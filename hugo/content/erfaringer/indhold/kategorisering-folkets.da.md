@@ -1,8 +1,8 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: None
 description: ""
 summary: ""
-date: {{ .Date }}
+date: 2019-07-23
 draft: true
 
 show_reading_time: true
