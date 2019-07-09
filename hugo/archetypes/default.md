@@ -16,6 +16,9 @@ skribenter:
 keywords:
   -
 
+brands:
+  -
+
 emner:
   -
 
