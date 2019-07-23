@@ -1,5 +1,9 @@
 ---
 title: 15 års erfaring i krydsfeltet mellem journalistik, sociale medier og produktudvikling på nettet
+
+outputs:
+  - html
+  - json
 ---
 
 
