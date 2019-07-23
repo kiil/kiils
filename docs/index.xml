@@ -32,6 +32,16 @@ Som du kan læse på wikipedia:
     </item>
     
     <item>
+      <title>Søg</title>
+      <link>https://www.kiils.dk/search/</link>
+      <pubDate>Fri, 07 Jun 2019 20:22:57 +0200</pubDate>
+      
+      <guid>https://www.kiils.dk/search/</guid>
+      <description>// define globale variables var idx, searchInput, searchResults = null var documents = [] function renderSearchResults(results){ if (results.length  0) { // show max 10 results if (results.length  9){ results = results.slice(0,10) } // reset search results searchResults.innerHTML = &#39;&#39; // append results results.forEach(result = { // create result item var article = document.createElement(&#39;article&#39;) article.innerHTML = ` ${documents[result.ref].title} ${result.ref}
+` searchResults.appendChild(article) }) // if results are empty } else { searchResults.</description>
+    </item>
+    
+    <item>
       <title>FOLKETS meget hurtigere efter drop af bannere</title>
       <link>https://www.kiils.dk/erfaringer/frontend/hastighed-uden-bannere/</link>
       <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
