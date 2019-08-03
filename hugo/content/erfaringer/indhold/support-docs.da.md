@@ -21,7 +21,6 @@ Tanken bag de nyistandsatte support-sider på FOLKETS.DK er netop at hjælpe bru
 
 Jeg forklarer lidt mere om hvordan jeg har bygget det op og hvorfor i videoen hvor du også der support-siderne i aktion.
 
-Youtube
-[plugin:youtube](https://www.youtube.com/watch?v=Xb1XtR85Hpk)
+{{< youtube Xb1XtR85Hpk >}}
 
 PS. Jeg kunne også have valgt en af de support-side løsninger der findes som SaaS, men da indholdsstyringssystemet bag FOLKETS.DK er det yderst fleksible Drupal, var det slet ikke nødvendigt.
