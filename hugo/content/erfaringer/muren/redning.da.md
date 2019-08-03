@@ -99,4 +99,5 @@ God dag derude og tak fordi du læste med!
 
 Se også min video her:
 
-[plugin:youtube](https://www.youtube.com/watch?v=VZkq76o7_jY)
+
+{{< youtube VZkq76o7_jY >}}
