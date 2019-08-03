@@ -11,7 +11,7 @@ cases:
   - folkets
 ---
 
-[Folkets Avis](https://www.folkets.dk/avis) er enestående i den forstand at mediet i modsætning til den øvrige danske presse fungerer **helt uden mediestøtte**.
+[Folkets Avis](https://www.folkets.dk/brands/folkets-avis) er enestående i den forstand at mediet i modsætning til den øvrige danske presse fungerer **helt uden mediestøtte**.
 
 Det gør at den er skarpere end de andre medier i sin kritik af systemet og politikerne. Og det er **godt for demokratiet**.
 
@@ -23,7 +23,7 @@ Men så ændrede Facebook på sin algoritme.
 
 ## Helt andre præmisser
 
-Facebook ændrede kort sagt på sine algoritmer, og det halverede trafikken til [Folkets Avis](https://www.folkets.dk/avis).
+Facebook ændrede kort sagt på sine algoritmer, og det halverede trafikken til [Folkets Avis](https://www.folkets.dk/brands/folkets-avis).
 
 Når trafikken halveres, [så halveres også antallet af abonnenter som sitet kan oppebære](https://kiils.dk/da/blog/fortsat-vaekst-pa-en-abonnementsmodel). Det er simpel matematik.
 
@@ -95,7 +95,7 @@ Og så lover jeg ikke at glemme den systemkritiske journalistik som ligger mit h
 
 God dag derude og tak fordi du læste med!
 
-/Lennart
+[Lennart](https://www.folkets.dk/brugere/lennart-kiil)
 
 Se også min video her:
 

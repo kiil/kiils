@@ -1,7 +1,7 @@
 ---
 title: Bevar whitespace i output med &nbsp;
-description: ""
-summary: ""
+description: "Nogle gange her man bare brug for noget plads i et dokument"
+summary: "Nogle gange her man bare brug for noget plads i et dokument"
 date: 2019-07-09
 # draft: true
 
@@ -29,6 +29,8 @@ emner:
 
 # thumbnail: ""
 ---
+
+Nogle gange her man bare brug for noget plads i et dokument.
 
 Non-breaking space – `&nbsp;` – er ikke bare non-breaking, den er også 'non-collapsing'.
 

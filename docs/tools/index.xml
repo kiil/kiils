@@ -6,10 +6,28 @@
     <description>Recent content in Tools on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Tue, 11 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kiils.dk/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>perl</title>
+      <link>https://www.kiils.dk/tools/perl/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/perl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terminal</title>
+      <link>https://www.kiils.dk/tools/terminal/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/terminal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>bootstrap-4</title>
