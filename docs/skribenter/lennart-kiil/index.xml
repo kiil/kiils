@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lennart Kiil on Kiils</title>
+    <link>https://www.kiils.dk/skribenter/lennart-kiil/</link>
+    <description>Recent content in Lennart Kiil on Kiils</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.kiils.dk/skribenter/lennart-kiil/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sorter markdown dokument</title>
+      <link>https://www.kiils.dk/erfaringer/tips-tricks/sorter-markdown-efter-overskrifter/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/tips-tricks/sorter-markdown-efter-overskrifter/</guid>
+      <description>Sorter sektioner i markdown</description>
+    </item>
+    
+    <item>
+      <title>Bevar whitespace i output med &amp;nbsp;</title>
+      <link>https://www.kiils.dk/erfaringer/tips-tricks/bevar-whitespace-output/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/tips-tricks/bevar-whitespace-output/</guid>
+      <description>Nogle gange her man bare brug for noget plads i et dokument</description>
+    </item>
+    
+    <item>
+      <title>Sådan fik jeg perfekte 100 i mobilhastighed</title>
+      <link>https://www.kiils.dk/erfaringer/frontend/klimaleksikon-tachyons-performance/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/frontend/klimaleksikon-tachyons-performance/</guid>
+      <description>Det er ikke nemt i et CMS</description>
+    </item>
+    
+    <item>
+      <title>FOLKETS meget hurtigere efter drop af bannere</title>
+      <link>https://www.kiils.dk/erfaringer/frontend/hastighed-uden-bannere/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/frontend/hastighed-uden-bannere/</guid>
+      <description>Nu er der data nok til at konkludere noget mere håndfast.</description>
+    </item>
+    
+    <item>
+      <title>Hvad betyder ankertekst?</title>
+      <link>https://www.kiils.dk/erfaringer/seo/hvad-betyder-ankertekst/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/seo/hvad-betyder-ankertekst/</guid>
+      <description>I SEO-sprog nævnes ofte ankertekst, men hvad er det egentligt?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kiils</title>
+    <link>https://www.kiils.dk/emner/</link>
+    <description>Recent content on Kiils</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.kiils.dk/emner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>sortering</title>
+      <link>https://www.kiils.dk/emner/sortering/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/sortering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>struktur</title>
+      <link>https://www.kiils.dk/emner/struktur/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/struktur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tips</title>
+      <link>https://www.kiils.dk/emner/tips/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tricks</title>
+      <link>https://www.kiils.dk/emner/tricks/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/tricks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ydelse</title>
+      <link>https://www.kiils.dk/emner/ydelse/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/ydelse/</guid>
+      <description>Ydelse, på engelsk performance, er en meget væsentlig parameter i næsten alle digitale produkter.</description>
+    </item>
+    
+    <item>
+      <title>frontend</title>
+      <link>https://www.kiils.dk/emner/frontend/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/frontend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEO</title>
+      <link>https://www.kiils.dk/emner/seo/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/seo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ankertekst</title>
+      <link>https://www.kiils.dk/emner/ankertekst/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/ankertekst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linkbuilding</title>
+      <link>https://www.kiils.dk/emner/linkbuilding/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/linkbuilding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ranking</title>
+      <link>https://www.kiils.dk/emner/ranking/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/ranking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indholdsstrategi</title>
+      <link>https://www.kiils.dk/emner/indholdsstrategi/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/indholdsstrategi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alt om Abonnementsmodellen</title>
+      <link>https://www.kiils.dk/emner/abonnementsmodellen/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/abonnementsmodellen/</guid>
+      <description> Abonnementsmodellen forbindes på engelsk ofte med SaaS, men den rette term er snarere subscription model </description>
+    </item>
+    
+    <item>
+      <title>Lidt om LinkedIn</title>
+      <link>https://www.kiils.dk/emner/linkedin/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/linkedin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoMe</title>
+      <link>https://www.kiils.dk/emner/some/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/some/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sociale medier</title>
+      <link>https://www.kiils.dk/emner/sociale-medier/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/sociale-medier/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
