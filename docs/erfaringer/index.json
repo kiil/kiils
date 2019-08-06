@@ -9,6 +9,13 @@
     
     , 
     {
+        "url": "/kunder/",
+        "title": "",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/emner/",
         "title": "",
         "content": "Emner i det arbejde Kiils laver\n"
@@ -23,9 +30,51 @@
     
     , 
     {
+        "url": "/brands/",
+        "title": "Brands",
+        "content": "Brands som Kiils råder over. Hosted på platformen Folkets\n"
+    }
+    
+    , 
+    {
+        "url": "/cases/",
+        "title": "Cases",
+        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
+    }
+    
+    , 
+    {
         "url": "/erfaringer/",
         "title": "Erfaringer",
         "content": ""
+    }
+    
+    , 
+    {
+        "url": "/brands/folkets/",
+        "title": "FOLKETS",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/cases/folkets/",
+        "title": "FOLKETS",
+        "content": "En dansk brand- og medieplatform\nFOLKETS.DK er et enorm stort projekt. Visionen er at udfordre både de danske medier og de amerikanske \u0026ldquo;tech giants\u0026rdquo;.\nSamtidig med at øjnene skal holdes på dette langsigtede mål, skal de betalende brugere også løbende serviceres med godt indhold.\nDer skal skabes indtægter og hele projektet skal løbende tilpasses og \u0026ldquo;trimmes\u0026rdquo; da der hele tiden kommer nyt på.\nFOLKETS.DK er uden sammenligning det mest lærerige fagligt set, som jeg har foretaget mig i mit arbejdsliv.\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/seo/hvad-betyder-ankertekst/",
+        "title": "Hvad betyder ankertekst?",
+        "content": "Gider du linke til min profil-side på FOLKETS med Lennart Kiil i ankerteksten?\nSpurgte jeg i dag.\nPersonen, jeg spurgte, var så venlig at linke med Lennart Kiil netop i ankerteksten. Han havde linket mit navn til min profil og dermed gjort præcist som jeg havde håbet på han ville.\n\u0026ldquo;Men hvad betyder ankertekst, bare så jeg lærer lidt her?\u0026rdquo;\nSpurgte han så.\nIfølge Wikipedia er ankerteksten:\n The anchor text, link label, link text, or link title is the visible, clickable text in a hyperlink.\n Oversat til dansk betyder det vel noget i retning af:\n\u0026ldquo;Ankerteksten er den synlige, klikbare del af et hyperlink.\u0026rdquo;\nEksempelvis sådan her:\nSe profilen for \u0026lt;a href=\u0026quot;https://www.folkets.dk/brugere/lennart-kiil\u0026quot;\u0026gt;Lennart Kiil\u0026lt;/a\u0026gt; for at lære mere om ham.  Som bliver til:\nSe profilen for Lennart Kiil for at lære mere om ham.\nDe fleste er enige om at ankerteksten har betydning i SEO-sammenhæng for ranking i Googles søgemaskine.\nMit håb er netop også at jeg kan generobre førstepladsen på Google for mit eget navn, en plads jeg har måttet - midlertidigt forhåbentligt - overlade til Berlingske.\n"
+    }
+    
+    , 
+    {
+        "url": "/kunder/",
+        "title": "Kunder",
+        "content": "Asmussen, Berlingske, Danfoss Universe, Dansk Industri, FOLKETS, Fysioterapeuten, GastroFun, Gentofte Hospital, Illustreret Videnskab, Ingeniøren, Klimaleksikon, Ugeskrift for Læger, Region Syddanmark, Rigshospitalet, Teknovation, Værn om Synet, Aalborg Universitet, Aarhus Universitet, Statens Naturhistoriske Museum \u0026hellip; og mange flere\n"
     }
     
     , 
@@ -37,9 +86,9 @@
     
     , 
     {
-        "url": "/erfaringer/tips-tricks/sorter-markdown-efter-overskrifter/",
-        "title": "Sorter markdown dokument",
-        "content": "Sorter sektioner i markdown. For eksempel efter #\nSorter # b mellemrubrik efter # a mellemrubrik.\n#B a content of B #A b content of A  til\n#A b content of A #B a content of B  I terminal med\nperl -0777 -ne ' (undef,@paragraphs) = split /^#(?=[^#])/m; print map {\u0026quot;#$_\u0026quot;} sort @paragraphs; ' file.md  For yderligere info se også svar her\n"
+        "url": "/emner/seo/",
+        "title": "SEO",
+        "content": ""
     }
     
     , 
@@ -51,8 +100,22 @@
     
     , 
     {
-        "url": "/tools/perl/",
-        "title": "perl",
+        "url": "/emner/ankertekst/",
+        "title": "ankertekst",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/linkbuilding/",
+        "title": "linkbuilding",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/ranking/",
+        "title": "ranking",
         "content": ""
     }
     
@@ -60,6 +123,20 @@
     {
         "url": "/skribenter/",
         "title": "skribenter",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/tips-tricks/sorter-markdown-efter-overskrifter/",
+        "title": "Sorter markdown dokument",
+        "content": "Sorter sektioner i markdown. For eksempel efter #\nSorter # b mellemrubrik efter # a mellemrubrik.\n#B a content of B #A b content of A  til\n#A b content of A #B a content of B  I terminal med\nperl -0777 -ne ' (undef,@paragraphs) = split /^#(?=[^#])/m; print map {\u0026quot;#$_\u0026quot;} sort @paragraphs; ' file.md  For yderligere info se også svar her\n"
+    }
+    
+    , 
+    {
+        "url": "/tools/perl/",
+        "title": "perl",
         "content": ""
     }
     
@@ -103,13 +180,6 @@
         "url": "/erfaringer/tips-tricks/bevar-whitespace-output/",
         "title": "Bevar whitespace i output med &nbsp;",
         "content": "Nogle gange her man bare brug for noget plads i et dokument.\nNon-breaking space – \u0026amp;nbsp; – er ikke bare non-breaking, den er også \u0026lsquo;non-collapsing\u0026rsquo;.\nSom du kan læse på wikipedia:\n Non-collapsing behavior A second common application of non-breaking spaces is in plain text file formats such as SGML, HTML, TeX and LaTeX, whose rendering engines are programmed to treat sequences of whitespace characters (space, newline, tab, form feed, etc.) as if they were a single character (but this behavior can be overridden). Such \u0026ldquo;collapsing\u0026rdquo; of whitespace allows the author to neatly arrange the source text using line breaks, indentation and other forms of spacing without affecting the final typeset result.\nIn contrast, non-breaking spaces are not merged with neighboring whitespace characters when displayed, and can therefore be used by an author to simply insert additional visible space in the resulting output without using spans styled with peculiar values of the CSS “white-space” property. Conversely, indiscriminate use (see the recommended use in style guides), in addition to a normal space, gives extraneous space in the output.\n Derfor kan \u0026amp;nbsp; bruges til at bevare whitespace, altså tomrum - herunder blanke linjer, i html-output i browsere, pdf-output i dokumenter og så videre, når kilden er en tekst-fil, markdown eller anden \u0026lsquo;ren tekst\u0026rsquo;-baseret fil.\nEksempler:\nText Text  giver\nText\nText\nMens\nText \u0026amp;nbsp; \u0026amp;nbsp; Text  giver\nText\n\u0026nbsp;\n\u0026nbsp;\nText\n"
-    }
-    
-    , 
-    {
-        "url": "/cases/",
-        "title": "Cases",
-        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
     }
     
     , 
@@ -177,13 +247,6 @@
     
     , 
     {
-        "url": "/cases/folkets/",
-        "title": "FOLKETS",
-        "content": "En dansk brand- og medieplatform\nFOLKETS.DK er et enorm stort projekt. Visionen er at udfordre både de danske medier og de amerikanske \u0026ldquo;tech giants\u0026rdquo;.\nSamtidig med at øjnene skal holdes på dette langsigtede mål, skal de betalende brugere også løbende serviceres med godt indhold.\nDer skal skabes indtægter og hele projektet skal løbende tilpasses og \u0026ldquo;trimmes\u0026rdquo; da der hele tiden kommer nyt på.\nFOLKETS.DK er uden sammenligning det mest lærerige fagligt set, som jeg har foretaget mig i mit arbejdsliv.\n"
-    }
-    
-    , 
-    {
         "url": "/erfaringer/frontend/hastighed-uden-bannere/",
         "title": "FOLKETS meget hurtigere efter drop af bannere",
         "content": "For lidt over to uger siden droppede jeg bannere helt på FOLKETS.\nDe første resultater viste at det gav betydeligt hurtigere sider til brugerne.\nNu er der data nok til at konkludere noget mere håndfast i forhold til hastighed. Og til at se nærmere på de forskelige enheder:\nIkke overraskende er de største forbedringer der hvor der før var flest bannere. En halvering af tiden det tager at loade på tablet og laptop/desktop.\nPå mobil var der færre bannere og her er effekten mindre. En forbedring på knap 10 procent.\nMobil er også mere afhængig af ting som jeg ikke har indflydelse på såsom folks mobile dækning. Hvis folk sidder i toget eller andre steder med dårlig dækning, så kan ens site være nok så optimeret - så vil det stadig gå langsomt for brugeren.\nOg det afspejler sig i at det er svært at få gennemsnitstiderne lige så langt ned som for enheder der er på mere stabile netværk.\nAltså, en forbedring i snit på knap 10 procent på mobil. Betyder det så at ændringen har været omsonst for mobil?\nNej, man skal ikke lade sig snyde af gennemsnittet som især på mobil kan påvirkes af outliers, når folk sidder med en dårlig mobil forbindelse, og det tager måske 20 sekunder at hente en side. Det sker næppe ofte på tablets på wifi eller desktops på kablede forbindelser.\nOg hvis vi ser på intervaller i stedet for gennemsnit, så er der en klar forbedring - også for mobil:\nLæg mærke til at uanset om vi ser på mobil eller tablet / desktop, så er der nu langt, langt flere end før i de gode, hurtige intervaller og langt, langt færre i de dårlige, langsomme intervaller.\nEksempelvis er der efter at jeg droppede bannere mange flere i intervallet 0-1 sekunder og i intervallet 1-3 sekunder. Og meget færre i intervallet 7-13 sekunder. På tværs af enheder.\nDet vil sige at hvadenten vi ser på mobil eller desktop, så er der nu langt færre end før som oplever FOLKETS som langsomt.\nHvis vi alene ser på hastighed og den brugeroplevelse der ligger i forbindelse hermed, så har valget om at fjerne bannere været en ubetinget succes på tværs af alle enhedstyper.\nSenere vil jeg se på hvad det har betydet for andre faktorer såsom tid brugt på sitet, afvisningsrate og konvertering.\n"
@@ -201,20 +264,6 @@
         "url": "/erfaringer/seo/lovende-ctr-google-discover/",
         "title": "Lovende Google Discover klikrate (CTR)",
         "content": "Torsdag den 30. april 2019 dukkede en side fra FOLKETS for føste gang op i Googles Discover.\nSiden da er det sket nogle gange:\n   Kliks Visninger CTR1     154 ~ 1400 11%    Google Discover er en slags personligt feed baseret på Googles søgemaskine kombineret med kunstig intelligens som kan give personlige resultater.\nGoogles Discover funktion er tilgængelig på mobile Android-enheder. Discover kan tilgås med selve Google-appen.\nSet fra en udgivers synspunkt ser Google Discover interessant ud da klikraten umiddelbart er meget høj:\nPå billedet ses det også at man nu for nogle sites i Search Console kan få oplysninger om visninger og kliks fra Google Discover. Det tyder på at Google satser en del på det her.\nAntallet af kliks fra Google Discover er samlet set stadigt meget lavt, men mon ikke det kommer til at stige hvis for eksempel at Google Discover kobles mere sammen med Googles Assistent, for eksempel.\n Click-through rate, på dansk klikrate - sommetider benævnt klikfrekvens. Andelen af kliks per 100 visninger. [retur]   "
-    }
-    
-    , 
-    {
-        "url": "/emner/seo/",
-        "title": "SEO",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/kunder/",
-        "title": "",
-        "content": ""
     }
     
     , 
@@ -240,58 +289,9 @@
     
     , 
     {
-        "url": "/kunder/",
-        "title": "Kunder",
-        "content": "Asmussen, Berlingske, Danfoss Universe, Dansk Industri, FOLKETS, Fysioterapeuten, GastroFun, Gentofte Hospital, Illustreret Videnskab, Ingeniøren, Klimaleksikon, Ugeskrift for Læger, Region Syddanmark, Rigshospitalet, Teknovation, Værn om Synet, Aalborg Universitet, Aarhus Universitet, Statens Naturhistoriske Museum \u0026hellip; og mange flere\n"
-    }
-    
-    , 
-    {
         "url": "/kunder/per-asmussen/",
         "title": "Per Asmussen",
         "content": "Per Asmussen siger:\n I forbindelse med etableringen af mit madmedie www.gastrofun.dk var jeg i dialog med flere digitale udviklingshuse, men efter en god snak med Lennart fra Kiils var jeg aldrig i tvivl om at han skulle være min samarbejdspartner hele vejen igennem – fra konceptudvikling, hjemmesideopbygning, indholdsstrategi, tekniske krav samt det visuelle udtryk.\n Forståelsen for hvad det vil sige at gøre mediet brugervenligt både for læserne og brugerne var helt i top og en masse god sparring og feedback har givet mig et fremtidssikret og stærkt medie.\nProcessen fra ide til et færdigt medie var imponerende hurtig og siden var sågar udgivet 14 dage før lovet, hvilket var helt perfekt.\nTre måneder efter siden var i luften, fik jeg et SEO-bureau til at vurdere siden på nærmest alle parametre og siden fik en gennemsnitskarakter på 9 (på en 1-10 skala) og især sidens hurtighed og taksonomi-opbygning har imponeret mig.\nMediet har brug for konstant tilpasning og Kiils hurtige rettelser og justeringer er lige det jeg har brug for i en travl hverdag.\nJeg giver Kiils mine varmeste anbefalinger.\n"
-    }
-    
-    , 
-    {
-        "url": "/brands/",
-        "title": "Brands",
-        "content": "Brands som Kiils råder over. Hosted på platformen Folkets\n"
-    }
-    
-    , 
-    {
-        "url": "/brands/folkets/",
-        "title": "FOLKETS",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/erfaringer/seo/hvad-betyder-ankertekst/",
-        "title": "Hvad betyder ankertekst?",
-        "content": "Gider du linke til min profil-side på FOLKETS med Lennart Kiil i ankerteksten?\nSpurgte jeg i dag.\nPersonen, jeg spurgte, var så venlig at linke med Lennart Kiil netop i ankerteksten. Han havde linket mit navn til min profil og dermed gjort præcist som jeg havde håbet på han ville.\n\u0026ldquo;Men hvad betyder ankertekst, bare så jeg lærer lidt her?\u0026rdquo;\nSpurgte han så.\nIfølge Wikipedia er ankerteksten:\n The anchor text, link label, link text, or link title is the visible, clickable text in a hyperlink.\n Oversat til dansk betyder det vel noget i retning af:\n\u0026ldquo;Ankerteksten er den synlige, klikbare del af et hyperlink.\u0026rdquo;\nEksempelvis sådan her:\nSe profilen for \u0026lt;a href=\u0026quot;https://www.folkets.dk/brugere/lennart-kiil\u0026quot;\u0026gt;Lennart Kiil\u0026lt;/a\u0026gt; for at lære mere om ham.  Som bliver til:\nSe profilen for Lennart Kiil for at lære mere om ham.\nDe fleste er enige om at ankerteksten har betydning i SEO-sammenhæng for ranking i Googles søgemaskine.\nMit håb er netop også at jeg kan generobre førstepladsen på Google for mit eget navn, en plads jeg har måttet - midlertidigt forhåbentligt - overlade til Berlingske.\n"
-    }
-    
-    , 
-    {
-        "url": "/emner/ankertekst/",
-        "title": "ankertekst",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/linkbuilding/",
-        "title": "linkbuilding",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/ranking/",
-        "title": "ranking",
-        "content": ""
     }
     
     , 

@@ -2,7 +2,7 @@
 title: Hvad betyder ankertekst?
 description: "I SEO-sprog nævnes ofte ankertekst, men hvad er det egentligt?"
 summary: "I SEO-sprog nævnes ofte ankertekst, men hvad er det egentligt?"
-date: 2018-08-06
+date: 2019-08-06
 # draft: true
 
 show_reading_time: true

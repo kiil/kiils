@@ -6,10 +6,19 @@
     <description>Recent content in FOLKETS on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Fri, 07 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kiils.dk/cases/folkets/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hvad betyder ankertekst?</title>
+      <link>https://www.kiils.dk/erfaringer/seo/hvad-betyder-ankertekst/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/seo/hvad-betyder-ankertekst/</guid>
+      <description>I SEO-sprog nævnes ofte ankertekst, men hvad er det egentligt?</description>
+    </item>
     
     <item>
       <title>FOLKETS meget hurtigere efter drop af bannere</title>
@@ -36,15 +45,6 @@
       
       <guid>https://www.kiils.dk/erfaringer/frontend/bootstrap-4/</guid>
       <description>Bootstrap 4 er næppe det nemmeste og hurtigste at prototype i længere. Og lidt for tungt hvis man virkelig går op i hastighed også på langsommere mobilforbindelser.</description>
-    </item>
-    
-    <item>
-      <title>Hvad betyder ankertekst?</title>
-      <link>https://www.kiils.dk/erfaringer/seo/hvad-betyder-ankertekst/</link>
-      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/erfaringer/seo/hvad-betyder-ankertekst/</guid>
-      <description>I SEO-sprog nævnes ofte ankertekst, men hvad er det egentligt?</description>
     </item>
     
     <item>

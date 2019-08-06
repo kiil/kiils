@@ -4,34 +4,119 @@
   
   <url>
     <loc>https://www.kiils.dk/tools/</loc>
-    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/kunder/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.kiils.dk/emner/</loc>
-    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.kiils.dk/</loc>
-    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/brands/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/cases/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.kiils.dk/erfaringer/</loc>
-    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/brands/folkets/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/cases/folkets/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/seo/hvad-betyder-ankertekst/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/kunder/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.kiils.dk/skribenter/lennart-kiil/</loc>
-    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/seo/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/tools/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/ankertekst/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/linkbuilding/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/ranking/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/skribenter/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -44,22 +129,9 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/tools/</loc>
-    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kiils.dk/tools/perl/</loc>
     <lastmod>2019-07-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/skribenter/</loc>
-    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
@@ -95,13 +167,6 @@
   <url>
     <loc>https://www.kiils.dk/erfaringer/tips-tricks/bevar-whitespace-output/</loc>
     <lastmod>2019-07-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/cases/</loc>
-    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -165,13 +230,6 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/cases/folkets/</loc>
-    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kiils.dk/erfaringer/frontend/hastighed-uden-bannere/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -189,19 +247,6 @@
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/emner/seo/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/kunder/</loc>
-    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -226,55 +271,10 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/kunder/</loc>
-    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kiils.dk/kunder/per-asmussen/</loc>
     <lastmod>2019-05-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/brands/</loc>
-    <lastmod>2018-08-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/brands/folkets/</loc>
-    <lastmod>2018-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/erfaringer/seo/hvad-betyder-ankertekst/</loc>
-    <lastmod>2018-08-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/emner/ankertekst/</loc>
-    <lastmod>2018-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/emner/linkbuilding/</loc>
-    <lastmod>2018-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/emner/ranking/</loc>
-    <lastmod>2018-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

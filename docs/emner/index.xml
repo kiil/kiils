@@ -6,10 +6,46 @@
     <description>Recent content on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kiils.dk/emner/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SEO</title>
+      <link>https://www.kiils.dk/emner/seo/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/seo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ankertekst</title>
+      <link>https://www.kiils.dk/emner/ankertekst/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/ankertekst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linkbuilding</title>
+      <link>https://www.kiils.dk/emner/linkbuilding/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/linkbuilding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ranking</title>
+      <link>https://www.kiils.dk/emner/ranking/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/ranking/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>sortering</title>
@@ -62,42 +98,6 @@
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/emner/frontend/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SEO</title>
-      <link>https://www.kiils.dk/emner/seo/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/emner/seo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ankertekst</title>
-      <link>https://www.kiils.dk/emner/ankertekst/</link>
-      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/emner/ankertekst/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linkbuilding</title>
-      <link>https://www.kiils.dk/emner/linkbuilding/</link>
-      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/emner/linkbuilding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ranking</title>
-      <link>https://www.kiils.dk/emner/ranking/</link>
-      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/emner/ranking/</guid>
       <description></description>
     </item>
     
