@@ -18,7 +18,7 @@ keywords:
   - linkbuilding
 
 brands:
-  - FOLKETS
+
 
 emner:
   - seo

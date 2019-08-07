@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kiils</title>
+    <title>Kunder on Kiils</title>
     <link>https://www.kiils.dk/kunder/</link>
-    <description>Recent content on Kiils</description>
+    <description>Recent content in Kunder on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
     <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
@@ -12,16 +12,18 @@
     
     
     <item>
-      <title>Hvad betyder ankertekst?</title>
-      <link>https://www.kiils.dk/erfaringer/seo/hvad-betyder-ankertekst/</link>
+      <title></title>
+      <link>https://www.kiils.dk/kunder/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaringer/seo/hvad-betyder-ankertekst/</guid>
-      <description>I SEO-sprog nævnes ofte ankertekst, men hvad er det egentligt?</description>
+      <guid>https://www.kiils.dk/kunder/</guid>
+      <description></description>
     </item>
     
-  </channel>
-</rss>00</pubDate>
+    <item>
+      <title>Per Asmussen</title>
+      <link>https://www.kiils.dk/kunder/per-asmussen/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/kunder/per-asmussen/</guid>
       <description>Jeg giver Kiils mine varmeste anbefalinger</description>
