@@ -2,6 +2,20 @@
     
     
     {
+        "url": "/tools/",
+        "title": "",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/kunder/",
+        "title": "",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/emner/",
         "title": "",
         "content": ""
@@ -17,20 +31,6 @@
     , 
     {
         "url": "/brands/",
-        "title": "",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/",
-        "title": "",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/kunder/",
         "title": "",
         "content": ""
     }
