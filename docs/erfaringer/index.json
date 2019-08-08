@@ -2,6 +2,27 @@
     
     
     {
+        "url": "/emner/",
+        "title": "",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/cases/",
+        "title": "",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/brands/",
+        "title": "",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/tools/",
         "title": "",
         "content": ""
@@ -30,6 +51,13 @@
     
     , 
     {
+        "url": "/brands/",
+        "title": "Brands",
+        "content": "Brands som Kiils råder over. Hosted på platformen Folkets\n"
+    }
+    
+    , 
+    {
         "url": "/cases/",
         "title": "Cases",
         "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
@@ -39,6 +67,41 @@
     {
         "url": "/erfaringer/",
         "title": "Erfaringer",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/kunder/",
+        "title": "Kunder",
+        "content": "Asmussen, Berlingske, Danfoss Universe, Dansk Industri, FOLKETS, Fysioterapeuten, GastroFun, Gentofte Hospital, Illustreret Videnskab, Ingeniøren, Klimaleksikon, Ugeskrift for Læger, Region Syddanmark, Rigshospitalet, Teknovation, Værn om Synet, Aalborg Universitet, Aarhus Universitet, Statens Naturhistoriske Museum \u0026hellip; og mange flere\n"
+    }
+    
+    , 
+    {
+        "url": "/skribenter/lennart-kiil/",
+        "title": "Lennart Kiil",
+        "content": "Lennart Kiil kan også findes på FOLKETS, og på LinkedIn.\n"
+    }
+    
+    , 
+    {
+        "url": "/tools/",
+        "title": "Tools",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/frontend/jquery-javascript/",
+        "title": "jQuery - væk med paranteser i tekst",
+        "content": "\u0026lt;script src=\u0026quot;https://code.jquery.com/jquery-2.2.4.min.js\u0026quot; integrity=\u0026quot;sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=\u0026quot; crossorigin=\u0026quot;anonymous\u0026quot;\u0026gt;\u0026lt;/script\u0026gt; \u0026lt;script type=\u0026quot;text/javascript\u0026quot;\u0026gt; function stripParenthesis( node ) { if(node.length) { node.contents().each(function(index, child) { if( child.nodeType === 3 ) { child.nodeValue = child.nodeValue.replace(/\\(|\\)/g, ''); } else { stripParenthesis( $(child) ); } }); } } jQuery(document).ready(function($) { stripParenthesis( $('a:contains(\u0026quot;Opskriftsgruppe\u0026quot;)').closest( \u0026quot;span\u0026quot; ) ); $('a:contains(\u0026quot;Opskriftsgruppe\u0026quot;)').css('display', 'none'); $('a:contains(\u0026quot;Opskriftsgruppe\u0026quot;)').closest( \u0026quot;span\u0026quot; ).css({ \u0026quot;font-size\u0026quot;: \u0026quot;21px\u0026quot;, \u0026quot;line-height\u0026quot;: \u0026quot;3\u0026quot; }); }); \u0026lt;/script\u0026gt;  "
+    }
+    
+    , 
+    {
+        "url": "/skribenter/",
+        "title": "skribenter",
         "content": ""
     }
     
@@ -58,29 +121,8 @@
     
     , 
     {
-        "url": "/kunder/",
-        "title": "Kunder",
-        "content": "Asmussen, Berlingske, Danfoss Universe, Dansk Industri, FOLKETS, Fysioterapeuten, GastroFun, Gentofte Hospital, Illustreret Videnskab, Ingeniøren, Klimaleksikon, Ugeskrift for Læger, Region Syddanmark, Rigshospitalet, Teknovation, Værn om Synet, Aalborg Universitet, Aarhus Universitet, Statens Naturhistoriske Museum \u0026hellip; og mange flere\n"
-    }
-    
-    , 
-    {
-        "url": "/skribenter/lennart-kiil/",
-        "title": "Lennart Kiil",
-        "content": "Lennart Kiil kan også findes på FOLKETS, og på LinkedIn.\n"
-    }
-    
-    , 
-    {
         "url": "/emner/seo/",
         "title": "SEO",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/",
-        "title": "Tools",
         "content": ""
     }
     
@@ -102,13 +144,6 @@
     {
         "url": "/emner/ranking/",
         "title": "ranking",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/skribenter/",
-        "title": "skribenter",
         "content": ""
     }
     
@@ -369,13 +404,6 @@
         "url": "/erfaringer/indhold/overhaling/",
         "title": "Når de små medier overhaler de store",
         "content": "Den korte afstand mellem læser og redaktion er en fordel.\nDe små medier er generelt mere manøvredygtige end de store. Det gælder også på indholdsstrategien.\nDet betyder at små medier kan reagere hurtigt på internationale trends.\nEt eksempel på dette er at Folkets Avis har skrevet meget om Jordan Peterson. Det har de store danske medier ikke, på trods af at han er en meget omtalt mand i den internationale presse.\nArbejdsgangene er kortere - og afstanden mellem læsere og redaktion ligeså - på de små medier.\nOg nogle gange er det læserne der her fingeren på pulsen.\nFolkets Avis giver så læseren mulighed for at blive skribent. Og i tilfældet Jordan Peterson har det for alvor givet pote.\n"
-    }
-    
-    , 
-    {
-        "url": "/brands/",
-        "title": "Brands",
-        "content": "Brands som Kiils råder over. Hosted på platformen Folkets\n"
     }
     
     , 
