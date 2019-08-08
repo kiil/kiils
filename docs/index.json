@@ -2,13 +2,6 @@
     
     
     {
-        "url": "/brands/",
-        "title": "",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/tools/",
         "title": "",
         "content": ""
@@ -23,13 +16,6 @@
     
     , 
     {
-        "url": "/emner/",
-        "title": "",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/cases/",
         "title": "",
         "content": ""
@@ -37,9 +23,9 @@
     
     , 
     {
-        "url": "/emner/",
+        "url": "/brands/",
         "title": "",
-        "content": "Emner i det arbejde Kiils laver\n"
+        "content": ""
     }
     
     , 
@@ -95,7 +81,7 @@
     {
         "url": "/erfaringer/frontend/jquery-javascript/",
         "title": "jQuery - væk med paranteser i tekst",
-        "content": "\u0026lt;script src=\u0026quot;https://code.jquery.com/jquery-2.2.4.min.js\u0026quot; integrity=\u0026quot;sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=\u0026quot; crossorigin=\u0026quot;anonymous\u0026quot;\u0026gt;\u0026lt;/script\u0026gt; \u0026lt;script type=\u0026quot;text/javascript\u0026quot;\u0026gt; function stripParenthesis( node ) { if(node.length) { node.contents().each(function(index, child) { if( child.nodeType === 3 ) { child.nodeValue = child.nodeValue.replace(/\\(|\\)/g, ''); } else { stripParenthesis( $(child) ); } }); } } jQuery(document).ready(function($) { stripParenthesis( $('a:contains(\u0026quot;Opskriftsgruppe\u0026quot;)').closest( \u0026quot;span\u0026quot; ) ); $('a:contains(\u0026quot;Opskriftsgruppe\u0026quot;)').css('display', 'none'); $('a:contains(\u0026quot;Opskriftsgruppe\u0026quot;)').closest( \u0026quot;span\u0026quot; ).css({ \u0026quot;font-size\u0026quot;: \u0026quot;21px\u0026quot;, \u0026quot;line-height\u0026quot;: \u0026quot;3\u0026quot; }); }); \u0026lt;/script\u0026gt;  "
+        "content": "\u0026lt;script src=\u0026quot;https://code.jquery.com/jquery-2.2.4.min.js\u0026quot; integrity=\u0026quot;sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=\u0026quot; crossorigin=\u0026quot;anonymous\u0026quot;\u0026gt; \u0026lt;/script\u0026gt; \u0026lt;script type=\u0026quot;text/javascript\u0026quot;\u0026gt; function stripParenthesis( node ) { if(node.length) { node.contents().each(function(index, child) { if( child.nodeType === 3 ) { child.nodeValue = child.nodeValue.replace(/\\(|\\)/g, ''); } else { stripParenthesis( $(child) ); } }); } } jQuery(document).ready(function($) { stripParenthesis( $('a:contains(\u0026quot;Opskriftsgruppe\u0026quot;)').closest( \u0026quot;span\u0026quot; ) ); $('a:contains(\u0026quot;Opskriftsgruppe\u0026quot;)').css('display', 'none'); $('a:contains(\u0026quot;Opskriftsgruppe\u0026quot;)').closest( \u0026quot;span\u0026quot; ).css({ \u0026quot;font-size\u0026quot;: \u0026quot;21px\u0026quot;, \u0026quot;line-height\u0026quot;: \u0026quot;3\u0026quot; }); }); \u0026lt;/script\u0026gt;  "
     }
     
     , 
@@ -103,6 +89,13 @@
         "url": "/skribenter/",
         "title": "skribenter",
         "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/",
+        "title": "",
+        "content": "Emner i det arbejde Kiils laver\n"
     }
     
     , 
