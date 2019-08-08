@@ -59,21 +59,13 @@ function stripParenthesis( node ) {
 
 	jQuery(document).ready(function($) {
 
-
-
-
 stripParenthesis( $('a:contains("Opskriftsgruppe")').closest( "span" ) );
 
 $('a:contains("Opskriftsgruppe")').css('display', 'none');
 
 $('a:contains("Opskriftsgruppe")').closest( "span" ).css({ "font-size": "21px", "line-height": "3" });
 
-
-
 });
 
-
-
 </script>
-
 ```
