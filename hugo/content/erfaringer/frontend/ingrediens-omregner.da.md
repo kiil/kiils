@@ -39,7 +39,7 @@ kunder:
 ---
 
 
-
+Hovedsageligt kopieret fra: https://codepen.io/jacobbanner/pen/oxeoqp
 
 <div class="omregner-wrapper">
 <div class="converter-wrapper">
