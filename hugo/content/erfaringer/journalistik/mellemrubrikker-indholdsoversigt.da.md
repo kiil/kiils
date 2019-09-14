@@ -53,4 +53,4 @@ linker til længere nede
 ```
 
 
-[f]: https://www.folkets.dk/brugere/lennart-kiil)
+[f]: https://www.folkets.dk/brugere/lennart-kiil
