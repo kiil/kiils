@@ -34,7 +34,7 @@ cases:
 # thumbnail: ""
 ---
 
-Da jeg for nylig udvidede min profilside på FOLKETS som du kan finde her: [Lennart Kiil][f] lavede jeg en indholdsoversigt baseret på mellemrubrikkerne i teksten.
+Da jeg for nylig udvidede min profilside på FOLKETS, som du kan finde her: [Lennart Kiil][f], lavede jeg en indholdsoversigt baseret på mellemrubrikkerne i teksten.
 
 Det viste sig hurtigt at Google i søgeresultatet tog højde for dette ved at linke direkte til nogle af de mellemrubrikker som jeg havde angivet i indholdsoversigten og i selve mellemrubrikkerne med `id`.
 

@@ -123,7 +123,7 @@
     {
         "url": "/erfaringer/journalistik/mellemrubrikker-indholdsoversigt/",
         "title": "Mellemrubrikker som indholdsoversigt",
-        "content": "Da jeg for nylig udvidede min profilside på FOLKETS som du kan finde her: Lennart Kiil lavede jeg en indholdsoversigt baseret på mellemrubrikkerne i teksten.\nDet viste sig hurtigt at Google i søgeresultatet tog højde for dette ved at linke direkte til nogle af de mellemrubrikker som jeg havde angivet i indholdsoversigten og i selve mellemrubrikkerne med id.\nIndholdsoversigten er teknisk set en uordnet liste.\nSå\n\u0026lt;li\u0026gt;\u0026lt;a href=\u0026quot;#journalistisk-deklaration\u0026quot;\u0026gt;Journalistisk deklaration\u0026lt;/a\u0026gt;\u0026lt;/li\u0026gt;  linker til længere nede\n\u0026lt;h2 id=\u0026quot;journalistisk-deklaration\u0026quot;\u0026gt;Journalistisk deklaration\u0026lt;/h2\u0026gt;  "
+        "content": "Da jeg for nylig udvidede min profilside på FOLKETS, som du kan finde her: Lennart Kiil, lavede jeg en indholdsoversigt baseret på mellemrubrikkerne i teksten.\nDet viste sig hurtigt at Google i søgeresultatet tog højde for dette ved at linke direkte til nogle af de mellemrubrikker som jeg havde angivet i indholdsoversigten og i selve mellemrubrikkerne med id.\nIndholdsoversigten er teknisk set en uordnet liste.\nSå\n\u0026lt;li\u0026gt;\u0026lt;a href=\u0026quot;#journalistisk-deklaration\u0026quot;\u0026gt;Journalistisk deklaration\u0026lt;/a\u0026gt;\u0026lt;/li\u0026gt;  linker til længere nede\n\u0026lt;h2 id=\u0026quot;journalistisk-deklaration\u0026quot;\u0026gt;Journalistisk deklaration\u0026lt;/h2\u0026gt;  "
     }
     
     , 
