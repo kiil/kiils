@@ -1,11 +1,11 @@
 ---
-title: Pris
+title: Priser
 # featured_image: "images/notebook.jpg"
 omit_header_text: true
 description: Den samme pris for alle
 type: page
-menu:
-  main: {}
+# menu:
+  # main: {}
 
 ---
 
