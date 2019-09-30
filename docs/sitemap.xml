@@ -294,13 +294,6 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/search/</loc>
-    <lastmod>2019-06-07T20:22:57+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kiils.dk/erfaringer/frontend/hastighed-uden-bannere/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -448,6 +441,12 @@
   
   <url>
     <loc>https://www.kiils.dk/priser/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/search/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

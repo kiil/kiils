@@ -1,10 +1,9 @@
 ---
-title: "Søg"
-date: 2019-06-07T20:22:57+02:00
-disable_comments: true
-type: page
+title: Søgning
 menu:
-  main: {}
+  main:
+    name: 'Søg'
+type: search
 ---
 
 <script src="https://unpkg.com/lunr/lunr.js"></script>
@@ -32,8 +31,13 @@ function renderSearchResults(results){
             // create result item
             var article = document.createElement('article')
             article.innerHTML = `
-            <a href="${result.ref}"><h3 class="title">${documents[result.ref].title}</h3></a>
-            <p><a href="${result.ref}">${result.ref}</a></p>
+            <div class="relative w-100 bg-white">
+
+            <div class="bg-white pa4 gray overflow-hidden">
+            <h3 class="f3 near-black ma0"><a class="link black dim" href="${result.ref}">${documents[result.ref].title}</a></h3>
+            </div>
+
+            </div>
             <br>
             `
             searchResults.appendChild(article)
@@ -41,7 +45,7 @@ function renderSearchResults(results){
 
     // if results are empty
     } else {
-        searchResults.innerHTML = '<p>No results found.</p>'
+        searchResults.innerHTML = '<p>Ingen resultater.</p>'
     }
 }
 

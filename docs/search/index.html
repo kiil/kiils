@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Søg</title>
+    <title>Søgning</title>
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
 
@@ -13,10 +13,10 @@
     <meta name="description" content="">
 
     
-<meta property="og:title" content="Søg">
+<meta property="og:title" content="Søgning">
 
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2019-06-07">
+<meta property="article:published_time" content="0001-01-01">
 
 <meta property="og:description" content="">
 <meta property="og:url" content="https://www.kiils.dk/search/">
@@ -27,7 +27,7 @@
 
 
 <meta property="twitter:description" content="">
-<meta property="twitter:title" content="Søg">
+<meta property="twitter:title" content="Søgning">
 
 
 
@@ -55,29 +55,24 @@
 
     
 
-    <meta property="og:title" content="Søg" />
-<meta property="og:description" content="// define globale variables var idx, searchInput, searchResults = null var documents = [] function renderSearchResults(results){ if (results.length  0) { // show max 10 results if (results.length  9){ results = results.slice(0,10) } // reset search results searchResults.innerHTML = &#39;&#39; // append results results.forEach(result = { // create result item var article = document.createElement(&#39;article&#39;) article.innerHTML = ` ${documents[result.ref].title} ${result.ref}
-` searchResults.appendChild(article) }) // if results are empty } else { searchResults." />
+    <meta property="og:title" content="Søgning" />
+<meta property="og:description" content="// define globale variables var idx, searchInput, searchResults = null var documents = [] function renderSearchResults(results){ if (results.length  0) { // show max 10 results if (results.length  9){ results = results.slice(0,10) } // reset search results searchResults.innerHTML = &#39;&#39; // append results results.forEach(result = { // create result item var article = document.createElement(&#39;article&#39;) article.innerHTML = ` ${documents[result.ref].title}   ` searchResults.appendChild(article) }) // if results are empty } else { searchResults." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.kiils.dk/search/" />
-<meta property="article:published_time" content="2019-06-07T20:22:57+02:00" />
-<meta property="article:modified_time" content="2019-06-07T20:22:57+02:00" />
-<meta itemprop="name" content="Søg">
-<meta itemprop="description" content="// define globale variables var idx, searchInput, searchResults = null var documents = [] function renderSearchResults(results){ if (results.length  0) { // show max 10 results if (results.length  9){ results = results.slice(0,10) } // reset search results searchResults.innerHTML = &#39;&#39; // append results results.forEach(result = { // create result item var article = document.createElement(&#39;article&#39;) article.innerHTML = ` ${documents[result.ref].title} ${result.ref}
-` searchResults.appendChild(article) }) // if results are empty } else { searchResults.">
+
+<meta itemprop="name" content="Søgning">
+<meta itemprop="description" content="// define globale variables var idx, searchInput, searchResults = null var documents = [] function renderSearchResults(results){ if (results.length  0) { // show max 10 results if (results.length  9){ results = results.slice(0,10) } // reset search results searchResults.innerHTML = &#39;&#39; // append results results.forEach(result = { // create result item var article = document.createElement(&#39;article&#39;) article.innerHTML = ` ${documents[result.ref].title}   ` searchResults.appendChild(article) }) // if results are empty } else { searchResults.">
 
 
-<meta itemprop="datePublished" content="2019-06-07T20:22:57&#43;02:00" />
-<meta itemprop="dateModified" content="2019-06-07T20:22:57&#43;02:00" />
-<meta itemprop="wordCount" content="226">
+
+<meta itemprop="wordCount" content="224">
 
 
 
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Søg"/>
-<meta name="twitter:description" content="// define globale variables var idx, searchInput, searchResults = null var documents = [] function renderSearchResults(results){ if (results.length  0) { // show max 10 results if (results.length  9){ results = results.slice(0,10) } // reset search results searchResults.innerHTML = &#39;&#39; // append results results.forEach(result = { // create result item var article = document.createElement(&#39;article&#39;) article.innerHTML = ` ${documents[result.ref].title} ${result.ref}
-` searchResults.appendChild(article) }) // if results are empty } else { searchResults."/>
+<meta name="twitter:title" content="Søgning"/>
+<meta name="twitter:description" content="// define globale variables var idx, searchInput, searchResults = null var documents = [] function renderSearchResults(results){ if (results.length  0) { // show max 10 results if (results.length  9){ results = results.slice(0,10) } // reset search results searchResults.innerHTML = &#39;&#39; // append results results.forEach(result = { // create result item var article = document.createElement(&#39;article&#39;) article.innerHTML = ` ${documents[result.ref].title}   ` searchResults.appendChild(article) }) // if results are empty } else { searchResults."/>
 
       
 <script type="application/javascript">
@@ -169,16 +164,16 @@ if (!doNotTrack) {
 
     <main class="pa3 w-100 w-90-l mw8 center" role="main">
       
-    <article class="f4 fl w-100 w-60-l pa4-l lh-copy">
+    <article class="f4 fl w-100 pa4-l lh-copy">
       <header>
         <p class="f6 b helvetica tracked">
           
         </p>
         <h1 class="f1">
-          Søg
+          Søgning
         </h1>
       </header>
-      <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
+      <div class="nested-copy-line-height lh-copy f4 nested-img mid-gray">
         <script src="https://unpkg.com/lunr/lunr.js"></script>
 <script type="text/javascript">
 
@@ -204,8 +199,13 @@ function renderSearchResults(results){
             // create result item
             var article = document.createElement('article')
             article.innerHTML = `
-            <a href="${result.ref}"><h3 class="title">${documents[result.ref].title}</h3></a>
-            <p><a href="${result.ref}">${result.ref}</a></p>
+            <div class="relative w-100 bg-white">
+
+            <div class="bg-white pa4 gray overflow-hidden">
+            <h3 class="f3 near-black ma0"><a class="link black dim" href="${result.ref}">${documents[result.ref].title}</a></h3>
+            </div>
+
+            </div>
             <br>
             `
             searchResults.appendChild(article)
@@ -213,7 +213,7 @@ function renderSearchResults(results){
 
     // if results are empty
     } else {
-        searchResults.innerHTML = '<p>No results found.</p>'
+        searchResults.innerHTML = '<p>Ingen resultater.</p>'
     }
 }
 
