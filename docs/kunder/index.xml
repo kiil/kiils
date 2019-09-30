@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kiils</title>
+    <title>Kunder on Kiils</title>
     <link>https://www.kiils.dk/kunder/</link>
-    <description>Recent content on Kiils</description>
+    <description>Recent content in Kunder on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
     <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
@@ -12,21 +12,30 @@
     
     
     <item>
-      <title>jQuery - væk med paranteser i tekst</title>
-      <link>https://www.kiils.dk/erfaringer/frontend/jquery-javascript/</link>
-      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://www.kiils.dk/kunder/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaringer/frontend/jquery-javascript/</guid>
-      <description>Ikke helt nemt</description>
+      <guid>https://www.kiils.dk/kunder/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Hvad betyder ankertekst?</title>
-      <link>https://www.kiils.dk/erfaringer/seo/hvad-betyder-ankertekst/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <title>Per Asmussen</title>
+      <link>https://www.kiils.dk/kunder/per-asmussen/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaringer/seo/hvad-betyder-ankertekst/</guid>
-      <description>I SEO-sprog nævnes ofte ankertekst, men hvad er det egentligt?</description>
+      <guid>https://www.kiils.dk/kunder/per-asmussen/</guid>
+      <description>Jeg giver Kiils mine varmeste anbefalinger</description>
+    </item>
+    
+    <item>
+      <title>Lars Vestergaard</title>
+      <link>https://www.kiils.dk/kunder/lars-vestergaard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/kunder/lars-vestergaard/</guid>
+      <description>Kiils anbefaler ubetinget Lars Vestergaard</description>
     </item>
     
   </channel>
