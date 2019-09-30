@@ -4,4 +4,4 @@ description: Den er svær at mestre
 type: list
 ---
 
-## Abonnementsmodellen forbindes på engelsk ofte med SaaS, men den rette term er snarere _subscription model_
+> ### Abonnementsmodellen forbindes på engelsk ofte med SaaS, men den rette term er snarere _subscription model_

@@ -1,10 +1,11 @@
 {{ define "main" }}
-  <article class="cf pa3 pa4-m pa4-l">
-    <div class="measure mw8 f4 lh-copy nested-copy-line-height nested-links nested-img mid-gray">
+<div class="flex flex-wrap-reverse">
+  <article class="order-1 w-100 w-50-l pa3 pa4-m pa4-l">
+    <div class="measure f4 lh-copy nested-copy-line-height nested-links nested-img mid-gray">
       {{ .Content }}
     </div>
   </article>
-  <div class="mw8 center">
+  <div class="order-0 w-100 w-50-l">
     <section class="flex-ns flex-wrap justify-around mt5">
       {{ range  .Pages }}
         <div class="relative w-100  mb4 bg-white">
@@ -13,4 +14,5 @@
       {{ end }}
     </section>
   </div>
+</div>
 {{ end }}
