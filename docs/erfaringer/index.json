@@ -2,13 +2,6 @@
     
     
     {
-        "url": "/kunder/",
-        "title": "",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/cases/",
         "title": "",
         "content": ""
@@ -23,9 +16,16 @@
     
     , 
     {
+        "url": "/kunder/",
+        "title": "",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/",
         "title": "15 års erfaring i krydsfeltet mellem journalistik, sociale medier og produktudvikling på nettet",
-        "content": " Jeg siger ofte \u0026lsquo;nej\u0026rsquo; Et \u0026lsquo;javel\u0026rsquo; er sikkert udmærket i mange sammenhænge. Men når det gælder digitale produkter er mulighederne overvældende. Og så gælder det om at få kvalificeret modspil. Så det bliver afgrænset og fokuseret.\nInden I går i gang med etablere eller omlægge jeres tilstedeværelse online, bør I sikre jer at I har en klar ide om hvad der er centralt og nødvendigt – og hvad der ikke er. Hvad vil I og for hvem?\nSå vil jeg gerne hjælpe med at finde ud af hvordan.\nAlt for mange mister overblikket, og så ender det med at web-bureauerne tager lidt rigeligt over. Så er der næsten ingen grænser for hvad der skal laves om på eller hvad der er \u0026ldquo;nødvendigt\u0026rdquo;.\nMeget ofte er det bedre at gøre nogle få ting godt end mange halvdårligt. Og både private virksomheder og det offentlige kan spare mange millioner når nogen siger \u0026lsquo;nej\u0026rsquo;.\nDet gør jeg.\n"
+        "content": ""
     }
     
     , 
@@ -359,16 +359,16 @@
     
     , 
     {
-        "url": "/erfaringer/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/",
-        "title": "Om oplevelser og langsigtet indholdsstrategi",
-        "content": "Præmisserne på internettet ændrer sig hele tiden.\nKan det så overhovedet betale sig at tænke langsigtet?\nJa!\nDet er faktisk noget nær nødvendigt. Ikke mindst hvis du har planer om at hente trafik fra søgemaskiner som tillægger \u0026ldquo;historik\u0026rdquo; en stor betydning.\nOg det gør for eksempel Googles søgemaskine i min erfaring.\n(Jeg har Klimaleksikon.dk med hele ti år på nettet i næsten uforandret form at bygge den påstand på, men det vil jeg skrive om i et andet indlæg.)\nHvis du engang i fremtiden vil klare dig godt på et bestemt søgeord, er det en god idé allerede nu at gå igang med at bygge fundamentet.\nPå Folkets Avis har jeg lavet muligheden for at man kan lave publikationer, som får sin egen plads på avisen.\nHver publikation kan være redaktionelt og økonomisk uafhængig af Folkets Avis og kan i princippet endda udgives på et separat domæne.\nDen første publikation, jeg har lavet, er et magasin kaldet Oplevelser. På Folkets Avis fylder politik ret meget. Så er det rart at blive mindet om at livet også er andet end det.\nIdeen er altså dels nu og her at skabe godt indhold som supplerer den redaktionelle linje og samtidig på længere sigt at rykke frem i Google på ordet \u0026lsquo;oplevelser\u0026rsquo;.\nMåske er online publikationer og magasiner i det hele taget en god måde at opbygge digital tilstedeværelse på. Og man behøver ikke nødvendigvis et domæne til hver af dem.\n"
+        "url": "/emner/indholdsstrategi/",
+        "title": "Indholdsstrategi",
+        "content": ""
     }
     
     , 
     {
-        "url": "/emner/indholdsstrategi/",
-        "title": "indholdsstrategi",
-        "content": ""
+        "url": "/erfaringer/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/",
+        "title": "Om oplevelser og langsigtet indholdsstrategi",
+        "content": "Præmisserne på internettet ændrer sig hele tiden.\nKan det så overhovedet betale sig at tænke langsigtet?\nJa!\nDet er faktisk noget nær nødvendigt. Ikke mindst hvis du har planer om at hente trafik fra søgemaskiner som tillægger \u0026ldquo;historik\u0026rdquo; en stor betydning.\nOg det gør for eksempel Googles søgemaskine i min erfaring.\n(Jeg har Klimaleksikon.dk med hele ti år på nettet i næsten uforandret form at bygge den påstand på, men det vil jeg skrive om i et andet indlæg.)\nHvis du engang i fremtiden vil klare dig godt på et bestemt søgeord, er det en god idé allerede nu at gå igang med at bygge fundamentet.\nPå Folkets Avis har jeg lavet muligheden for at man kan lave publikationer, som får sin egen plads på avisen.\nHver publikation kan være redaktionelt og økonomisk uafhængig af Folkets Avis og kan i princippet endda udgives på et separat domæne.\nDen første publikation, jeg har lavet, er et magasin kaldet Oplevelser. På Folkets Avis fylder politik ret meget. Så er det rart at blive mindet om at livet også er andet end det.\nIdeen er altså dels nu og her at skabe godt indhold som supplerer den redaktionelle linje og samtidig på længere sigt at rykke frem i Google på ordet \u0026lsquo;oplevelser\u0026rsquo;.\nMåske er online publikationer og magasiner i det hele taget en god måde at opbygge digital tilstedeværelse på. Og man behøver ikke nødvendigvis et domæne til hver af dem.\n"
     }
     
     , 
@@ -390,6 +390,20 @@
         "url": "/emner/abonnementsmodellen/",
         "title": "Alt om Abonnementsmodellen",
         "content": "  Abonnementsmodellen forbindes på engelsk ofte med SaaS, men den rette term er snarere subscription model  "
+    }
+    
+    , 
+    {
+        "url": "/cm/",
+        "title": "Cm",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/cm/featured/",
+        "title": "Featured",
+        "content": ""
     }
     
     , 

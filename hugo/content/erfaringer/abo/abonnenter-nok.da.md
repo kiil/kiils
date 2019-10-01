@@ -15,6 +15,9 @@ cases:
   - folkets
 emner:
   - Abonnementsmodellen
+
+cm:
+  - Featured
 ---
 
 Sandsynligvis ikke. Men læs alligevel videre og få et simpelt værktøj til at vurdere dine chancer.
