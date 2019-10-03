@@ -1,7 +1,7 @@
 ---
 title: Kunder
 menu: main
-type: list
+type: page
 ---
 
 
