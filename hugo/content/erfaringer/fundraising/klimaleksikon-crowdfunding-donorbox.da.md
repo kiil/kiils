@@ -1,5 +1,5 @@
 ---
-title: "Kan man crowdfunde et klimaleksikon - lad os finde ud af det"
+title: "Kan man crowdfunde et klimaleksikon?"
 description: "Interessen for klima er stor - er villigheden til at betale for viden på området det også?"
 summary: "Interessen for klima er stor - er villigheden til at betale for viden på området det også?"
 date: 3-10-2019
