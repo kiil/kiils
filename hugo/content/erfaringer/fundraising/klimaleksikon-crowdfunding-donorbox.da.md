@@ -47,6 +47,7 @@ Jeg vil nu undersøge om der blandt befolkningen er en større interesse for at 
 Derfor har jeg lavet en crowdfunding med følgende ordlyd:
 
 ----
+
 Lennart Kiil har gennem 11 år _for egen regning_ drevet Klimaleksikon. I den periode er **over en million mennesker** blevet klogere på klima på grund af Klimaleksikon.
 
 Klimaleksikon bruges dagligt af især unge over hele landet når de søger viden om klima og relaterede emner. Det er vigtigt at de ved der findes en anden mulighed end at pjække fra skole. Klimaleksikon sørger for at der også er at sted på nettet for dem som vil lære noget og søger at tilgå klimaproblemet konstruktivt.
