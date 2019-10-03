@@ -32,17 +32,17 @@ cases:
 
 ---
 
-Klimaleksikon er en meget væsentlig dansk kilde til især unge menneskers viden om klima og klimaændring.
+Klimaleksikon er en meget væsentlig dansk kilde til især unge menneskers viden om [klima][kl] og klimaændring.
 
 Om to måneder fejrer Klimaleksikon 11 års fødselsdag på nettet. Jeg har personligt sørget for at over en million mennesker i den periode er blevet klogere på klima. Det har jeg gjort rent _pro bono_.
 
-Men det koster at udvikle og holde et klimaleksikon _up to date_ og jeg har derfor besluttet at jeg vil skabe et økonomisk fundament for Klimaleksikon der gør at jeg i det mindte får dækket mine udgifter ind fremover.
+Men det koster at udvikle og holde et klimaleksikon _up to date_, og jeg har derfor besluttet at jeg vil skabe et økonomisk fundament for Klimaleksikon der gør at jeg i det mindste får dækket mine udgifter ind fremover.
 
-Jeg har kontaktet et stort antal danske virksomheder, men de var ikke interesserede i at bidrage til at udbrede viden om klima. Til trods for at de i pressen fører sig frem om de store klimaforkæmpere.
+Jeg har kontaktet et stort antal danske virksomheder, men de var ikke interesserede i at bidrage til at udbrede viden om klima. Til trods for at de i pressen fører sig frem som de store klimaforkæmpere.
 
 Nuvel, deres penge - deres prioriteringer.
 
-Jeg vil nu undersøge om der blandt befolkningen er en større interesse for at sætte sine penge der hvor snakken går. Eller om det vitterligt mest er snak.
+Jeg vil nu undersøge om der blandt befolkningen bredt set er en større reel interesse for at sætte sine penge der hvor snakken går.
 
 Derfor har jeg lavet en crowdfunding med følgende ordlyd:
 
@@ -68,11 +68,14 @@ Det ser sådan her ud:
 
 ![call to action][cta]
 
-Formularen ser sådan her ud - den er funktionel her og du er naturligvis velkommen til at yde et bidrag til Klimaleksikon.
+Dette CTA sender en videre til en formular.
+
+Denne formular kan både ses og bruges lige herunder, så du er naturligvis velkommen til at yde et bidrag til Klimaleksikon hvis du har lyst til at støtte en videns- og fornuftsbaseret tilgang til klimaproblemet.
 
 <script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/klimaleksikon-2019" style="max-width: 500px; min-width: 310px; max-height:none!important" width="100%"></iframe>
 
 Det bliver spændende om der er opbakning :)
 
+[kl]: https://klimaleksikon.dk/
 
 [cta]: /erfaringer/fundraising/klimaleksikon-crowdfunding.png
