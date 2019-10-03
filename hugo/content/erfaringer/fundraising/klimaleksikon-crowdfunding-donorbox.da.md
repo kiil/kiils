@@ -2,7 +2,7 @@
 title: "Kan man crowdfunde et klimaleksikon?"
 description: "Interessen for klima er stor - er villigheden til at betale for viden på området det også?"
 summary: "Interessen for klima er stor - er villigheden til at betale for viden på området det også?"
-date: 3-10-2019
+date: 2019-10-03
 # draft: true
 thumbnail: "erfaringer/fundraising/klimaleksikon-crowdfunding.png"
 show_reading_time: true

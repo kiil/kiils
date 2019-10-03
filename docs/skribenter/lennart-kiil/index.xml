@@ -6,10 +6,19 @@
     <description>Recent content in Lennart Kiil on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kiils.dk/skribenter/lennart-kiil/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kan man crowdfunde et klimaleksikon?</title>
+      <link>https://www.kiils.dk/erfaringer/fundraising/klimaleksikon-crowdfunding-donorbox/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/fundraising/klimaleksikon-crowdfunding-donorbox/</guid>
+      <description>Interessen for klima er stor - er villigheden til at betale for viden på området det også?</description>
+    </item>
     
     <item>
       <title>Omregner til ingredienser</title>
@@ -193,15 +202,6 @@ For på trods af stigningen faldt antallet af brugere som blev sendt til Folkets
 De små medier er generelt mere manøvredygtige end de store. Det gælder også på indholdsstrategien.
 Det betyder at små medier kan reagere hurtigt på internationale trends.
 Et eksempel på dette er at Folkets Avis har skrevet meget om Jordan Peterson. Det har de store danske medier ikke, på trods af at han er en meget omtalt mand i den internationale presse.</description>
-    </item>
-    
-    <item>
-      <title>Kan man crowdfunde et klimaleksikon?</title>
-      <link>https://www.kiils.dk/erfaringer/fundraising/klimaleksikon-crowdfunding-donorbox/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/erfaringer/fundraising/klimaleksikon-crowdfunding-donorbox/</guid>
-      <description>Interessen for klima er stor - er villigheden til at betale for viden på området det også?</description>
     </item>
     
   </channel>
