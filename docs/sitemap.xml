@@ -3,12 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.kiils.dk/cases/</loc>
-    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kiils.dk/tools/</loc>
     <lastmod>2019-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -16,6 +10,12 @@
   
   <url>
     <loc>https://www.kiils.dk/kunder/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/cases/</loc>
     <lastmod>2019-08-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -335,16 +335,16 @@
   </url>
   
   <url>
+    <loc>https://www.kiils.dk/emner/indholdsstrategi/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kiils.dk/erfaringer/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/</loc>
     <lastmod>2018-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/emner/indholdsstrategi/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -434,6 +434,12 @@
   </url>
   
   <url>
+    <loc>https://www.kiils.dk/erfaringer/fundraising/klimaleksikon-crowdfunding-donorbox/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kiils.dk/kontakt/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -464,9 +470,29 @@
   </url>
   
   <url>
+    <loc>https://www.kiils.dk/emner/crowdfunding/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kiils.dk/brands/digitalt/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/tools/donorbox/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/finansiering/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/fundraising/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
