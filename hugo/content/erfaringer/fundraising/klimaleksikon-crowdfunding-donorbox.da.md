@@ -16,11 +16,13 @@ skribenter:
 keywords:
   - fundraising
   - finansiering
+  - cta
 
 emner:
   - fundraising
   - crowdfunding
   - finansiering
+  - cta
 
 tools:
   - donorbox
@@ -56,12 +58,16 @@ Men det er dyrt at holde et klimaleksikon kørende, udvikle det og give så mang
 Derfor mener Lennart Kiil at det er på tide at flere træder til og bakker op om Klimaleksikon som baserer sig på viden frem for følelser i klimaspørgsmålet. Desværre har danske virksomheder, som ellers taler meget om klima, hidtil vist sig uvillige til at bakke op om og sponsorere det vidensbaserede Klimaleksikon.
 
 **Så nu må almindelige borgere og gode mennesker træde til!**
+
 ----
 
 På Klimaleksikon har jeg valgt at holde _call to action_ diskret i første omgang.
 
 Det ser sådan her ud:
 
-[!][/erfaringer/fundraising/klimaleksikon-crowdfunding.png]
+![call to action][cta]
 
 Det bliver spændende om der er opbakning :)
+
+
+[cta]: /erfaringer/fundraising/klimaleksikon-crowdfunding.png

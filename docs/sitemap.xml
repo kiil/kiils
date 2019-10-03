@@ -475,6 +475,11 @@
   </url>
   
   <url>
+    <loc>https://www.kiils.dk/emner/cta/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kiils.dk/brands/digitalt/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
