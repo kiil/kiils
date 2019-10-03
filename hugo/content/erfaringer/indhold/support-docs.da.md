@@ -4,6 +4,8 @@ twitterenable: true
 toc: true
 draft: true
 show_reading_time: true
+skribenter:
+  - lennart-kiil
 
 cases:
   - folkets

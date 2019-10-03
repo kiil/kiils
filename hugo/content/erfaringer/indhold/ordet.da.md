@@ -3,6 +3,8 @@ title: 'Først kom ordet'
 draft: true
 toc: true
 show_reading_time: true
+skribenter:
+  - lennart-kiil
 ---
 
 Teksten er udgangspunktet for alt medieindhold

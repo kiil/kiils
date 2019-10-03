@@ -4,6 +4,8 @@ date: '2018-05-22'
 published: true
 toc: true
 show_reading_time: true
+skribenter:
+  - lennart-kiil
 keywords:
   - FOLKETS
 

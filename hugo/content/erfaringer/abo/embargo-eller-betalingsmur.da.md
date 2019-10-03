@@ -3,6 +3,8 @@ title: 'Embargo eller betalingsmur?'
 draft: true
 toc: true
 show_reading_time: true
+skribenter:
+  - lennart-kiil
 keywords:
   - FOLKETS
 ---

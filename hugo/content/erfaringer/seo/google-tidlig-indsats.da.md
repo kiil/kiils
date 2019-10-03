@@ -13,6 +13,8 @@ keywords:
   - trafik
 
 show_reading_time: true
+skribenter:
+  - lennart-kiil
 
 thumbnail: "erfaringer/seo/jpfa.png"
 ---

@@ -4,6 +4,8 @@ description: "Hvad med en klikfrekvens på over 10?"
 summary: "Googles Discover kan godt komme til at spille en rolle for trafik"
 date: '2019-05-28'
 show_reading_time: true
+skribenter:
+  - lennart-kiil
 
 keywords:
   - seo

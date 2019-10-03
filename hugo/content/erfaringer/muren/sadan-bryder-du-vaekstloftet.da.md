@@ -4,6 +4,8 @@ media_order: stagnation.png
 draft: true
 toc: true
 show_reading_time: true
+skribenter:
+  - lennart-kiil
 ---
 
 Da jeg var barn fortalte min far, som var jagerpilot på det tidspunkt, mig om at bryde lydmuren. Jeg forstod ikke helt detaljerne, men det krævede i hvert fald en kraftig motor og et holdbart fly.

@@ -7,6 +7,8 @@ keywords:
 
 
 show_reading_time: true
+skribenter:
+  - lennart-kiil
 
 cases:
   - folkets

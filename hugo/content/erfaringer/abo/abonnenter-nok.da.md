@@ -7,6 +7,9 @@ katex: true
 toc: true
 show_reading_time: true
 
+skribenter:
+  - lennart-kiil
+
 keywords:
   - abonnement
   - folkets

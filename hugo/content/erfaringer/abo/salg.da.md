@@ -1,6 +1,8 @@
 ---
 title: "risikoen for at abonnenter forsvinder med denne teknik er desværre stor"
 show_reading_time: true
+skribenter:
+  - lennart-kiil
 
 date: '2018-05-28'
 ---

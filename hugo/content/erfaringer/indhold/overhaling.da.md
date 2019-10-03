@@ -3,6 +3,9 @@ title: 'Når de små medier overhaler de store'
 date: '2018-02-01'
 show_reading_time: true
 
+skribenter:
+  - lennart-kiil
+
 cases:
   - folkets
 

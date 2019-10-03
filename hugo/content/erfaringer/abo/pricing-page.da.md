@@ -4,6 +4,8 @@ media_order: prisside.png
 draft: true
 toc: true
 show_reading_time: true
+skribenter:
+  - lennart-kiil
 ---
 
 I USA har det at lave en pris-side, på engelsk en _pricing page_, udviklet sig til en hel videnskab.

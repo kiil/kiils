@@ -3,6 +3,8 @@ title: 'Kommer advertorials og sponseret indhold til små medier?'
 draft: true
 toc: true
 show_reading_time: true
+skribenter:
+  - lennart-kiil
 ---
 
 Såkaldt _native_ annoncering vinder frem.

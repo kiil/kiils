@@ -3,6 +3,8 @@ title: 'Delinger giver bonus på LinkedIn'
 media_order: hockeystickLinkedIn.png
 date: '2018-05-12'
 show_reading_time: true
+skribenter:
+  - lennart-kiil
 keywords:
   - LinkedIn
 emner:
