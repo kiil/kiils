@@ -68,6 +68,10 @@ Det ser sådan her ud:
 
 ![call to action][cta]
 
+Formularen ser sådan her ud - den er funktionel her og du er naturligvis velkommen til at yde et bidrag til Klimaleksikon.
+
+<script src="https://donorbox.org/widget.js" paypalExpress="true"></script><iframe allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/klimaleksikon-2019" style="max-width: 500px; min-width: 310px; max-height:none!important" width="100%"></iframe>
+
 Det bliver spændende om der er opbakning :)
 
 
