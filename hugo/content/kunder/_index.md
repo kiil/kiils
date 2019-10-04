@@ -2,8 +2,14 @@
 title: Kunder
 menu: main
 type: page
+
+description: "Lennart Kiil har hjulpet blandt andre Berlingske, Danfoss Universe, Dansk Industri, Fysioterapeuten, Gentofte Hospital, Illustreret Videnskab, Ingeniøren, Ugeskrift for Læger, Region Syddanmark, Rigshospitalet, Teknovation, Værn om Synet, Aalborg Universitet, Aarhus Universitet, Statens Naturhistoriske Museum"
+
+summary: "Lennart Kiil har gennem tiden hjulpet mange"
+
 ---
 
-Gennem tiden har Kiils hjulpet mange, heriblandt
 
-> Asmussen, Berlingske, Danfoss Universe, Dansk Industri, [FOLKETS](https://www.folkets.dk/), Fysioterapeuten, [GastroFun](https://www.gastrofun.dk/), Gentofte Hospital, Illustreret Videnskab, Ingeniøren, [Klimaleksikon](https://klimaleksikon.dk/), Ugeskrift for Læger, Region Syddanmark, Rigshospitalet, Teknovation, Værn om Synet, Aalborg Universitet, Aarhus Universitet, Statens Naturhistoriske Museum ... og mange flere
+> Jeg giver Kiils mine varmeste anbefalinger
+>
+> – _Per Asmussen_

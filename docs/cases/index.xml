@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cases on Kiils</title>
+    <title>Kiils</title>
     <link>https://www.kiils.dk/cases/</link>
-    <description>Recent content in Cases on Kiils</description>
+    <description>Recent content on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
     <lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
@@ -12,48 +12,12 @@
     
     
     <item>
-      <title></title>
-      <link>https://www.kiils.dk/cases/</link>
-      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      <title>jQuery - væk med paranteser i tekst</title>
+      <link>https://www.kiils.dk/erfaringer/frontend/jquery-javascript/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/cases/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Klimaleksikon</title>
-      <link>https://www.kiils.dk/cases/klimaleksikon/</link>
-      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/cases/klimaleksikon/</guid>
-      <description>Danmarks bedste og længstlevende side om klima</description>
-    </item>
-    
-    <item>
-      <title>Gastro Fun</title>
-      <link>https://www.kiils.dk/cases/gastrofun/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/cases/gastrofun/</guid>
-      <description>Artikler om mad og masser af opskrifter</description>
-    </item>
-    
-    <item>
-      <title>FOLKETS</title>
-      <link>https://www.kiils.dk/cases/folkets/</link>
-      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/cases/folkets/</guid>
-      <description>En dansk platform</description>
-    </item>
-    
-    <item>
-      <title>Climate Encyclopedia</title>
-      <link>https://www.kiils.dk/cases/climate-encyclopedia/</link>
-      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/cases/climate-encyclopedia/</guid>
-      <description>Den engelske udgave af Klimaleksikon.dk</description>
+      <guid>https://www.kiils.dk/erfaringer/frontend/jquery-javascript/</guid>
+      <description>Ikke helt nemt</description>
     </item>
     
   </channel>
