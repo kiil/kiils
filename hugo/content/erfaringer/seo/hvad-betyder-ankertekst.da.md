@@ -33,8 +33,7 @@ tools:
 cases:
   - FOLKETS
 
-kunder:
-  -
+
 
 
 # thumbnail: ""
