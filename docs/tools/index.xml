@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kiils</title>
+    <title>Tools on Kiils</title>
     <link>https://www.kiils.dk/tools/</link>
-    <description>Recent content on Kiils</description>
+    <description>Recent content in Tools on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
     <lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
@@ -12,21 +12,102 @@
     
     
     <item>
-      <title>jQuery - væk med paranteser i tekst</title>
-      <link>https://www.kiils.dk/erfaringer/frontend/jquery-javascript/</link>
-      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://www.kiils.dk/tools/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaringer/frontend/jquery-javascript/</guid>
-      <description>Ikke helt nemt</description>
+      <guid>https://www.kiils.dk/tools/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Hvad betyder ankertekst?</title>
-      <link>https://www.kiils.dk/erfaringer/seo/hvad-betyder-ankertekst/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <title>donorbox</title>
+      <link>https://www.kiils.dk/tools/donorbox/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaringer/seo/hvad-betyder-ankertekst/</guid>
-      <description>I SEO-sprog nævnes ofte ankertekst, men hvad er det egentligt?</description>
+      <guid>https://www.kiils.dk/tools/donorbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://www.kiils.dk/tools/javascript/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://www.kiils.dk/tools/markdown/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perl</title>
+      <link>https://www.kiils.dk/tools/perl/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/perl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terminal</title>
+      <link>https://www.kiils.dk/tools/terminal/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/terminal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bootstrap-4</title>
+      <link>https://www.kiils.dk/tools/bootstrap-4/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/bootstrap-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drupal-8</title>
+      <link>https://www.kiils.dk/tools/drupal-8/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/drupal-8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pantheon</title>
+      <link>https://www.kiils.dk/tools/pantheon/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/pantheon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tachyons</title>
+      <link>https://www.kiils.dk/tools/tachyons/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/tachyons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>google-analytics</title>
+      <link>https://www.kiils.dk/tools/google-analytics/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/google-analytics/</guid>
+      <description></description>
     </item>
     
   </channel>
