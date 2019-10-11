@@ -2,7 +2,7 @@
 title: "Jeg siger ofte 'nej'"
 description: ""
 summary: ""
-date: 1-10-2019
+date: 2019-10-7
 draft: true
 
 show_reading_time: true
@@ -12,28 +12,17 @@ show_reading_time: true
 
 
 
-brands:
-  -
 
 
 skribenter:
   - lennart-kiil
 
 keywords:
-  -
+  - produktudvikling
 
 emner:
-  -
+  - produktudvikling
 
-tools:
-  -
-
-cases:
-  -
-
-
-kunder:
-  -
 
 
 # thumbnail: ""
@@ -44,6 +33,10 @@ kunder:
 ## Jeg siger ofte 'nej'
 
 Et 'javel' er sikkert udmærket i mange sammenhænge. Men når det gælder digitale produkter er mulighederne overvældende. Og så gælder det om at få kvalificeret modspil. Så det bliver afgrænset og fokuseret.
+
+Undgå feature creep
+
+Begrænse fremtidig technical debt
 
 Inden I går i gang med etablere eller omlægge jeres tilstedeværelse online, bør I sikre jer at I har en klar ide om hvad der er centralt og nødvendigt – og hvad der ikke er. Hvad vil I og for hvem?
 
