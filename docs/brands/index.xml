@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Brands on Kiils</title>
+    <title>Kiils</title>
     <link>https://www.kiils.dk/brands/</link>
-    <description>Recent content in Brands on Kiils</description>
+    <description>Recent content on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
     <lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
@@ -12,39 +12,12 @@
     
     
     <item>
-      <title></title>
-      <link>https://www.kiils.dk/brands/</link>
+      <title>jQuery - væk med paranteser i tekst</title>
+      <link>https://www.kiils.dk/erfaringer/frontend/jquery-javascript/</link>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/brands/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Folkets Avis</title>
-      <link>https://www.kiils.dk/brands/folkets-avis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/brands/folkets-avis/</guid>
-      <description>En dansk platform</description>
-    </item>
-    
-    <item>
-      <title>Oplevelser</title>
-      <link>https://www.kiils.dk/brands/oplevelser/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/brands/oplevelser/</guid>
-      <description>Artikler om mad og masser af opskrifter</description>
-    </item>
-    
-    <item>
-      <title>digitalt</title>
-      <link>https://www.kiils.dk/brands/digitalt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/brands/digitalt/</guid>
-      <description>Artikler om mad og masser af opskrifter</description>
+      <guid>https://www.kiils.dk/erfaringer/frontend/jquery-javascript/</guid>
+      <description>Ikke helt nemt</description>
     </item>
     
   </channel>
