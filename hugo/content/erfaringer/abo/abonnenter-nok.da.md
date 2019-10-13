@@ -30,7 +30,7 @@ Abonnementsmodellen for indhold er gammelkendt og har vist sit værd gennem tide
 
 Og i dag har andre leverandører af indhold, for eksempel Netflix, stor succes med modellen. Også privatpersoner, som skaber indhold af forskellig art, har med hjælp fra services som Patroen haft glæde af modellen - nok oftest som supplement til anden indtægt.
 
-Selv har jeg erfaring med modellen fra det medie jeg har stiftet og opbygget: [Folkets Avis](https://www.folkets.dk).
+Selv har jeg erfaring med modellen fra det medie jeg har stiftet og opbygget: [Folkets Avis](https://www.folkets.dk/brands/folkets-avis).
 
 Jeg kan nu leve af Folkets Avis. Det er en lille sejr i sig selv og forhåbentligt første skridt på vej mod flere succeser.
 
