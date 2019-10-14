@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.kiils.dk/cases/</loc>
+    <loc>https://www.kiils.dk/tools/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/tools/</loc>
+    <loc>https://www.kiils.dk/cases/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
