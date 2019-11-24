@@ -3,40 +3,126 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.kiils.dk/tools/</loc>
-    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+    <loc>https://www.kiils.dk/cases/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/cases/</loc>
-    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+    <loc>https://www.kiils.dk/tools/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/fundraising/copydan-digital/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.kiils.dk/</loc>
-    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.kiils.dk/cases/</loc>
-    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.kiils.dk/emner/</loc>
-    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.kiils.dk/erfaringer/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/cases/klimaleksikon/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/skribenter/lennart-kiil/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/tools/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/finansiering/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/fundraising/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/skribenter/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/%C3%B8konomi/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/brands/</loc>
+    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/brands/</loc>
+    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/cases/folkets/</loc>
+    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/brands/folkets-avis/</loc>
+    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/radio4-stjal-mit-brand-og-koncept/hvad-nu/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -50,21 +136,14 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/cases/klimaleksikon/</loc>
+    <loc>https://www.kiils.dk/erfaringer/some/facebook/fald/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/skribenter/lennart-kiil/</loc>
-    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/tools/</loc>
+    <loc>https://www.kiils.dk/emner/some/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -88,22 +167,39 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/emner/finansiering/</loc>
+    <loc>https://www.kiils.dk/tools/facebook/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/emner/fundraising/</loc>
+    <loc>https://www.kiils.dk/emner/facebook/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/skribenter/</loc>
+    <loc>https://www.kiils.dk/emner/investering/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/jura/</loc>
+    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/brands/mediem%C3%B8llen/</loc>
+    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/plagiat/</loc>
+    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -147,13 +243,6 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/cases/folkets/</loc>
-    <lastmod>2019-08-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kiils.dk/erfaringer/journalistik/mellemrubrikker-indholdsoversigt/</loc>
     <lastmod>2019-08-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -176,19 +265,6 @@
     <loc>https://www.kiils.dk/tools/markdown/</loc>
     <lastmod>2019-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/brands/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/brands/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
@@ -366,16 +442,16 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/emner/indholdsstrategi/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kiils.dk/erfaringer/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/</loc>
     <lastmod>2018-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/indholdsstrategi/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -433,12 +509,6 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/emner/some/</loc>
-    <lastmod>2018-05-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kiils.dk/emner/sociale-medier/</loc>
     <lastmod>2018-05-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -454,12 +524,6 @@
   <url>
     <loc>https://www.kiils.dk/erfaringer/indhold/overhaling/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/brands/folkets-avis/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

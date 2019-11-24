@@ -6,10 +6,19 @@
     <description>Recent content in SoMe on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Sat, 12 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kiils.dk/emner/some/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kan man vinde følgere</title>
+      <link>https://www.kiils.dk/erfaringer/some/facebook/fald/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/some/facebook/fald/</guid>
+      <description>Interessen for klima er stor - er villigheden til at betale for viden på området det også?</description>
+    </item>
     
     <item>
       <title>Delinger giver bonus på LinkedIn</title>

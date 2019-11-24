@@ -1,7 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-description: ""
 summary: ""
+# featured_image: ""
+
+description: ""
+# thumbnail: ""
+
 date: {{ .Date }}
 draft: true
 
@@ -36,5 +40,5 @@ kunder:
   -
 
 
-# thumbnail: ""
+
 ---
