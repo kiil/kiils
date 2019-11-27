@@ -28,6 +28,9 @@ tools:
 cases:
   - folkets
 
+cm:
+  - feed
+
 
 
 thumbnail: "erfaringer/frontend/page-load.png"

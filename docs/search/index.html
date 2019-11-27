@@ -54,6 +54,9 @@
     
 
     
+      <link href="https://www.kiils.dk/search/index.xml" rel="alternate" type="application/rss+xml" title="Kiils" />
+      <link href="https://www.kiils.dk/search/index.xml" rel="feed" type="application/rss+xml" title="Kiils" />
+    
 
     <meta property="og:title" content="Søgning" />
 <meta property="og:description" content="// define globale variables var idx, searchInput, searchResults = null var documents = [] function renderSearchResults(results){ if (results.length  0) { // show max 10 results if (results.length  9){ results = results.slice(0,10) } // reset search results searchResults.innerHTML = &#39;&#39; // append results results.forEach(result = { // create result item var article = document.createElement(&#39;article&#39;) article.innerHTML = ` ${documents[result.ref].title}   ` searchResults.appendChild(article) }) // if results are empty } else { searchResults." />

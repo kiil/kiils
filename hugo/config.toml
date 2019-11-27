@@ -13,9 +13,9 @@ enableRobotsTXT = true
 
 
 [outputs]
-  home = ["HTML", "AMP", "RSS"]
-  page = ["HTML", "JSON"]
-  post = ["HTML", "JSON"]
+  home = ["HTML", "JSON", "AMP", "RSS"]
+  page = ["HTML", "JSON", "AMP", "RSS"]
+  post = ["HTML", "JSON", "AMP", "RSS"]
 
 [taxonomies]
   brands = "brands"

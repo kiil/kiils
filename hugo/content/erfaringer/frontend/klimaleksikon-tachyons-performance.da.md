@@ -30,7 +30,8 @@ tools:
 cases:
   - klimaleksikon
 
-
+cm:
+  - feed
 
 
 thumbnail: "erfaringer/frontend/100.png"
