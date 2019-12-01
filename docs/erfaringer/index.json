@@ -9,16 +9,9 @@
     
     , 
     {
-        "url": "/tools/",
-        "title": "",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/erfaringer/fundraising/copydan-digital/",
-        "title": "100.000 gange årligt bruges mine tekster i undervisningen uden at jeg får en krone for det – og Copydan kan ikke hjælpe mig",
-        "content": "Jeg er meget glad for og stolt over Klimaleksikon - Danmarks bedste sted for børn og unge at blive klogere på alt hvad der har med klima at gøre.\nSitet virker på alle måder efter hensigten og hjælper hvert år cirka 100.000 børn og unge med at få mere viden om klima og klimarelaterede emner.\nDet kan jeg kun være enormt tilfreds med.\nOg både politikere og erhvervsliv kan slet ikke holde op med at fortælle om hvor vigtigt emnet er.\nIkke mindst i en tid hvor der er megen følelsesbetonet debat om klima.\nSå er det godt at hjælpe med at klæde børn og unge fagligt på til at forstå mekanismerne bag klimaforandringer.\nOg give dem en forståelse af hvad vi mennesker kan gøre for at imødegå klimaforandringer med hjælp fra vores intelligens og fornuft – og vores enestående evne til at udvikle teknologiske løsninger.\nMen, men, men.\nJeg har i 11 år af egen pengepung betalt for at holde klimaleksikon kørende. Jeg har betalt professionelle fagformidlere for at lave indhold og holde det opdateret.\nDet kan jeg ikke blive ved med.\nDerfor kontaktede jeg Copydan.\nDe var utroligt flinke og rare. Men de kunne til min forbløffelse absolut intet gøre for at hjælpe mig.\nPå trods af jeg er udgiver og autor, som Copydan kalder forfattere og skribenter.\nOg på trods af at mit indhold bliver massivt brugt på uddannelsesinstitutioner.\nOg på trods af at jeg kan bevise dette.\n"
+        "url": "/erfaringer/fundraising/copydan/copydan-digital/",
+        "title": "100.000 gange årligt bruges mine tekster i undervisningen uden at jeg får en krone for det – og CopyDan kan ikke hjælpe mig",
+        "content": "Jeg er meget glad for og stolt over Klimaleksikon - Danmarks bedste sted for børn og unge at blive klogere på alt hvad der har med klima at gøre.\nSitet virker på alle måder efter hensigten og hjælper hvert år cirka 100.000 børn og unge med at få mere viden om klima og klimarelaterede emner.\nDet kan jeg kun være enormt tilfreds med.\nOg både politikere og erhvervsliv kan slet ikke holde op med at fortælle om hvor vigtigt emnet er.\nIkke mindst i en tid hvor der er megen følelsesbetonet debat om klima.\nSå er det godt at hjælpe med at klæde børn og unge fagligt på til at forstå mekanismerne bag klimaforandringer.\nOplysning af den art kan også modvirke de debiliterende tendenser til klimaskræk i børn.\nOg give dem en forståelse af hvad vi mennesker kan gøre for at imødegå klimaforandringer med hjælp fra vores intelligens og fornuft – og vores enestående evne til at udvikle teknologiske løsninger.\nOg ovenikøbet kan klima engagere flere piger i STEM-fagene.\nMen, men, men.\nJeg har i 11 år af egen pengepung betalt for at holde Klimaleksikon kørende. Jeg har betalt professionelle fagformidlere for at lave indhold og holde det opdateret.\nDet kan jeg ikke blive ved med.\nDerfor kontaktede jeg CopyDan.\nDe var utroligt flinke og rare. Men de kunne til min forbløffelse absolut intet gøre for at hjælpe mig.\nPå trods af jeg er udgiver og autor, som CopyDan kalder forfattere og skribenter.\nOg på trods af at mit indhold bliver massivt brugt på uddannelsesinstitutioner.\nOg på trods af at jeg kan bevise dette.\nHer er for eksempel en liste over de store jeg har flest henvisninger fra:\nOg hvis vi ser på hvornår Klimaleksikon bliver benyttet, så er det også klart i skoletiden:\nSå selvom mit materiale bliver massivt benyttet i undervisningen, også af lærerne, så kan jeg intet få fra CopyDan. Fordi det foregår digitalt. Så skal der fysiske kopier til. Det virker som om CopyDan ikke rigtigt er kommet ind i det 21. århundrede.\nMen det var vist noget med lovgivningen som haltede, kunne jeg forstå på en samtale med CopyDan. Det kan jeg bare ikke bruge til specielt meget, jeg kan blot konstatere at mange andre som får deres materiale benyttet i mindre omfang end mig, de får penge - mens jeg ikke får en krone.\n"
     }
     
     , 
@@ -33,6 +26,13 @@
         "url": "/cases/",
         "title": "Cases",
         "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/copydan/",
+        "title": "CopyDan",
+        "content": ""
     }
     
     , 
@@ -61,13 +61,6 @@
         "url": "/skribenter/lennart-kiil/",
         "title": "Lennart Kiil",
         "content": "Lennart Kiil kan også findes på FOLKETS, og på LinkedIn.\n"
-    }
-    
-    , 
-    {
-        "url": "/tools/",
-        "title": "Tools",
-        "content": ""
     }
     
     , 
@@ -101,6 +94,13 @@
     , 
     {
         "url": "/brands/",
+        "title": "",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/",
         "title": "",
         "content": ""
     }
@@ -151,6 +151,13 @@
     {
         "url": "/emner/some/",
         "title": "SoMe",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/",
+        "title": "Tools",
         "content": ""
     }
     
