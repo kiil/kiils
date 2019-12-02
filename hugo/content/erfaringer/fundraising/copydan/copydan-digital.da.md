@@ -44,40 +44,62 @@ Det kan jeg kun være enormt tilfreds med.
 
 Og både politikere og erhvervsliv kan slet ikke holde op med at fortælle om hvor vigtigt emnet er.
 
-Ikke mindst i en tid hvor der er megen følelsesbetonet debat om klima.
-
 Så er det godt at hjælpe med at klæde børn og unge fagligt på til at forstå mekanismerne bag klimaforandringer.
 
-Oplysning af den art kan også modvirke de debiliterende tendenser til klimaskræk i børn.
+Men der er også meget følelsesbetonet og irrationel debat om klima i Danmark. Ikke mindst blandt voksne mennesker.
+
+Det har skabt en situation hvor emnet klima for mange børn og unge er blevet en debiliterende ting i deres hverdag som gør dem bekymrede og kede af det.
+
+Oplysning af den art som Klimaleksikon leverer med fokus på det faktuelle kan også være med til at modvirke de debiliterende tendenser til klimaangst i børn.
 
 Og give dem en forståelse af hvad vi mennesker kan gøre for at imødegå klimaforandringer med hjælp fra vores intelligens og fornuft – og vores enestående evne til at udvikle teknologiske løsninger.
 
-Og ovenikøbet kan klima engagere flere piger i STEM-fagene.
+Som en ekstra bonus kan klima, som emnet tilgås på Klimaleksikon, engagere flere piger i STEM-fagene og STEAM-fagene. Noget som mange mener er meget vigtigt.
+
+Det lyder jo alt sammen meget godt.
 
 Men, men, men.
 
-Jeg har i 11 år af egen pengepung betalt for at holde Klimaleksikon kørende. Jeg har betalt professionelle fagformidlere for at lave indhold og holde det opdateret.
+Jeg har nu i 11 år af egen pengepung betalt for at holde Klimaleksikon kørende. Jeg har betalt professionelle fagformidlere for at lave indhold og holde indhold opdateret.
 
 Det kan jeg ikke blive ved med.
 
-Derfor kontaktede jeg CopyDan.
+Og da jeg på forskellig vis kunne se at Klimaleksikon blev aktivt brugt i undervisningen kontaktede jeg CopyDan.
 
-De var utroligt flinke og rare. Men de kunne til min forbløffelse absolut intet gøre for at hjælpe mig.
+CopyDan sender nemlig med lovhjemmel fakturaer ud til uddannelsesinstitutionerne på vegne af udgivere og autorer.
 
-På trods af jeg er udgiver og _autor_, som CopyDan kalder forfattere og skribenter.
+De var utroligt flinke og rare inde på CopyDan. Men de kunne til min forbløffelse absolut intet gøre for at hjælpe mig.
 
-Og på trods af at mit indhold bliver _massivt_ brugt på uddannelsesinstitutioner.
+På trods af jeg er både _udgiver_ og _autor_, som CopyDan kalder forfattere og skribente, så kunne de ikke hjælpe mig.
+
+Selvom de jo egentligt som nævnt kræver penge ind fra netop uddannelsesinstitutionerne på vegne af netop sådan nogle som mig, der skaber tekster og andet indhold som bruges massivt i undervisningen.
 
 Og på trods af at jeg kan bevise dette.
 
-Her er for eksempel en liste over de store jeg har flest henvisninger fra:
+Her er for eksempel en liste over de ti sites jeg har flest henvisninger fra:
 
 ![henvisninger](/erfaringer/fundraising/copydan/klimaleksikon-henvisninger.png)
+
+Som I kan se, så er det hovedsageligt forskellige læringsplatforme som bruges af folkeskoler og ungdomsuddannelser som dominerer de øverste pladser.
+
+Det betyder at lærere aktivt linker til og altså bruger mit materiale i deres undervisning. Og med god grund.
 
 Og hvis vi ser på hvornår Klimaleksikon bliver benyttet, så er det også klart i skoletiden:
 
 ![tidspunkter](/erfaringer/fundraising/copydan/brugere-klimaleksikon-tidspunkt.png)
 
-Så selvom mit materiale bliver massivt benyttet i undervisningen, også af lærerne, så kan jeg intet få fra CopyDan. Fordi det foregår digitalt. Så skal der fysiske kopier til. Det virker som om  CopyDan ikke rigtigt er kommet ind i det 21. århundrede.
+Men selvom mit materiale bliver massivt benyttet i undervisningen, også af lærerne, så kan jeg _intet_ få fra CopyDan.
 
-Men det var vist noget med lovgivningen som haltede, kunne jeg forstå på en samtale med CopyDan. Det kan jeg bare ikke bruge til specielt meget, jeg kan blot konstatere at mange andre som får deres materiale benyttet i mindre omfang end mig, de får penge - mens jeg ikke får en krone.
+Fordi det foregår digitalt.
+
+Havde jeg udgivet en håndgribelig fysisk bog som var blevet kopieret (en browser skaber en lokal kopi når en webside tilgås) og benyttet i undervisningen i samme omgang, så var jeg blevet betalt for det.
+
+Det virker som om CopyDan ikke rigtigt er kommet ind i det 21. århundrede.
+
+Men det var vist noget med lovgivningen som haltede, kunne jeg forstå på min samtale med CopyDan.
+
+Det kan jeg bare ikke bruge til specielt meget, jeg kan blot konstatere at mange andre, som får deres materiale benyttet i mindre omfang end mig, de får penge for det - mens jeg ikke får en krone.
+
+Så indtil videre må jeg glæde mig over at have været idealist og gennem 11 år at have gjort over en million mennesker _klogere_ på klima. Gjort flere piger interesserede i tekniske og naturvidenskabelige fag. Og have afhjulpet klimaangst blandt en del børn.
+
+Og det er altsammen bestemt også ganske værdifuldt.
