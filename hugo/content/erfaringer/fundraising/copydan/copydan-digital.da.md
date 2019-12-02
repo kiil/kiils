@@ -70,7 +70,7 @@ CopyDan sender nemlig med lovhjemmel fakturaer ud til uddannelsesinstitutionerne
 
 De var utroligt flinke og rare inde på CopyDan. Men de kunne til min forbløffelse absolut intet gøre for at hjælpe mig.
 
-På trods af jeg er både _udgiver_ og _autor_, som CopyDan kalder forfattere og skribente, så kunne de ikke hjælpe mig.
+På trods af jeg er både _udgiver_ og _autor_, som CopyDan kalder forfattere og skribenter, så kunne de ikke hjælpe mig.
 
 Selvom de jo egentligt som nævnt kræver penge ind fra netop uddannelsesinstitutionerne på vegne af netop sådan nogle som mig, der skaber tekster og andet indhold som bruges massivt i undervisningen.
 
