@@ -34,7 +34,9 @@ thumbnail: "erfaringer/fundraising/copydan/klimaleksikon-henvisninger.png"
 ---
 
 
+På grund af forældet lovgivning kan CopyDan ikke hjælpe mig.
 
+Lad mig forklare sagen:
 
 Jeg er meget glad for og stolt over Klimaleksikon - Danmarks bedste sted for børn og unge at blive klogere på alt hvad der har med [klima](https://klimaleksikon.dk) at gøre.
 
@@ -70,7 +72,7 @@ CopyDan sender nemlig med lovhjemmel fakturaer ud til uddannelsesinstitutionerne
 
 De var utroligt flinke og rare inde på CopyDan. Men de kunne til min forbløffelse absolut intet gøre for at hjælpe mig.
 
-På trods af jeg er både _udgiver_ og _autor_, som CopyDan kalder forfattere og skribenter, så kunne de ikke hjælpe mig.
+På trods af jeg er både udgiver og _autor_, som CopyDan kalder forfattere og skribenter, så kunne de ikke hjælpe mig.
 
 Selvom de jo egentligt som nævnt kræver penge ind fra netop uddannelsesinstitutionerne på vegne af netop sådan nogle som mig, der skaber tekster og andet indhold som bruges massivt i undervisningen.
 
@@ -90,16 +92,14 @@ Og hvis vi ser på hvornår Klimaleksikon bliver benyttet, så er det også klar
 
 Men selvom mit materiale bliver massivt benyttet i undervisningen, også af lærerne, så kan jeg _intet_ få fra CopyDan.
 
-Fordi det foregår digitalt.
+Fordi det foregår digitalt. Og fordi der "kun" i teknisk forstand foretages en kopiering (af filer ned i elevens browser når de klikker det link som læreren deler med dem.)
 
-Havde jeg udgivet en håndgribelig fysisk bog som var blevet kopieret (en browser skaber en lokal kopi når en webside tilgås) og benyttet i undervisningen i samme omgang, så var jeg blevet betalt for det.
+Havde jeg udgivet en håndgribelig fysisk bog som var blevet kopieret og benyttet i undervisningen i samme omgang, så var jeg blevet betalt for det.
 
-Det virker som om CopyDan ikke rigtigt er kommet ind i det 21. århundrede.
-
-Men det var vist noget med lovgivningen som haltede, kunne jeg forstå på min samtale med CopyDan.
+Det virker som om lovgivningen ikke er fulgt med tiden.
 
 Det kan jeg bare ikke bruge til specielt meget, jeg kan blot konstatere at mange andre, som får deres materiale benyttet i mindre omfang end mig, de får penge for det - mens jeg ikke får en krone.
 
-Så indtil videre må jeg glæde mig over at have været idealist og gennem 11 år at have gjort over en million mennesker _klogere_ på klima. Gjort flere piger interesserede i tekniske og naturvidenskabelige fag. Og have afhjulpet klimaangst blandt en del børn.
+Så indtil videre må jeg glæde mig over at have været idealist og gennem 11 år at have gjort over en million mennesker _klogere_ på klima. Gjort flere piger interesserede i tekniske og naturvidenskabelige fag. Og måske endda have forhindret eller afhjulpet klimaangst blandt en del børn.
 
 Og det er altsammen bestemt også ganske værdifuldt.
