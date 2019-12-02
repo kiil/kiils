@@ -50,7 +50,7 @@ Men der er også meget følelsesbetonet og irrationel debat om klima i Danmark. 
 
 Det har skabt en situation hvor emnet klima for mange børn og unge er blevet en debiliterende ting i deres hverdag som gør dem bekymrede og kede af det.
 
-Oplysning af den art som Klimaleksikon leverer med fokus på det faktuelle kan også være med til at modvirke de debiliterende tendenser til klimaangst i børn.
+Oplysning, af den art som Klimaleksikon leverer med fokus på det faktuelle, kan også være med til at modvirke de debiliterende tendenser til klimaangst i børn.
 
 Og give dem en forståelse af hvad vi mennesker kan gøre for at imødegå klimaforandringer med hjælp fra vores intelligens og fornuft – og vores enestående evne til at udvikle teknologiske løsninger.
 
