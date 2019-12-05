@@ -4,7 +4,7 @@ description: "Alle siger at emnet er enormt vigtigt"
 summary: "Alle siger at emnet er enormt vigtigt"
 date: 2019-12-01
 
-# draft: true
+draft: true
 
 show_reading_time: true
 

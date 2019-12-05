@@ -16,13 +16,6 @@
     
     , 
     {
-        "url": "/erfaringer/journalistik/faktatjek/",
-        "title": "100.000 gange årligt bruges mine tekster i undervisningen uden at jeg får en krone for det – og CopyDan kan ikke hjælpe mig",
-        "content": " Opspind Vildledende Kontroversiel Sandfærdig Korrekt\n \u0026lt;script type=\u0026quot;application/ld+json\u0026quot;\u0026gt; { \u0026quot;@context\u0026quot; : \u0026quot;http://schema.org\u0026quot;, \u0026quot;@type\u0026quot; : \u0026quot;ClaimReview\u0026quot;, \u0026quot;author\u0026quot; : { \u0026quot;@type\u0026quot; : \u0026quot;Organization\u0026quot;, \u0026quot;name\u0026quot; : \u0026quot;Mediemøllen\u0026quot;, \u0026quot;url\u0026quot; : \u0026quot;https://www.folkets.dk/brands/mediemøllen\u0026quot; }, \u0026quot;claimReviewed\u0026quot; : \u0026quot;Vi er på vej mod et klima, hvor havet igen kan stige med 13 meter\u0026quot;, \u0026quot;datePublished\u0026quot; : \u0026quot;2019-10-11\u0026quot;, \u0026quot;itemReviewed\u0026quot; : { \u0026quot;@type\u0026quot; : \u0026quot;Claim\u0026quot;, \u0026quot;author\u0026quot; : { \u0026quot;@type\u0026quot; : \u0026quot;Organization\u0026quot;, \u0026quot;name\u0026quot; : \u0026quot;Danmarks Radio\u0026quot; }, \u0026quot;datePublished\u0026quot; : \u0026quot;2019-10-09\u0026quot;, \u0026quot;firstAppearance\u0026quot; : { \u0026quot;@type\u0026quot; : \u0026quot;CreativeWork\u0026quot;, \u0026quot;url\u0026quot; : \u0026quot;https://www.dr.dk/nyheder/viden/klima/det-er-sket-foer-vi-er-paa-vej-mod-et-klima-hvor-havet-igen-kan-stige-med-13\u0026quot; } }, \u0026quot;reviewRating\u0026quot; : { \u0026quot;@type\u0026quot; : \u0026quot;Rating\u0026quot;, \u0026quot;ratingValue\u0026quot;: \u0026quot;2\u0026quot;, \u0026quot;bestRating\u0026quot;: \u0026quot;5\u0026quot;, \u0026quot;worstRating\u0026quot;: \u0026quot;1\u0026quot;, \u0026quot;alternateName\u0026quot; : \u0026quot;Vildledende\u0026quot; }, \u0026quot;url\u0026quot; : \u0026quot;https://www.folkets.dk/node/3762\u0026quot; } \u0026lt;/script\u0026gt;   "
-    }
-    
-    , 
-    {
         "url": "/",
         "title": "16 års erfaring i krydsfeltet mellem journalistik, sociale medier og produktudvikling på nettet",
         "content": ""
