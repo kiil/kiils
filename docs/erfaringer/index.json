@@ -16,6 +16,13 @@
     
     , 
     {
+        "url": "/erfaringer/journalistik/faktatjek/",
+        "title": "100.000 gange årligt bruges mine tekster i undervisningen uden at jeg får en krone for det – og CopyDan kan ikke hjælpe mig",
+        "content": " Opspind Vildledende Kontroversiel Sandfærdig Korrekt\n \u0026lt;script type=\u0026quot;application/ld+json\u0026quot;\u0026gt; { \u0026quot;@context\u0026quot; : \u0026quot;http://schema.org\u0026quot;, \u0026quot;@type\u0026quot; : \u0026quot;ClaimReview\u0026quot;, \u0026quot;author\u0026quot; : { \u0026quot;@type\u0026quot; : \u0026quot;Organization\u0026quot;, \u0026quot;name\u0026quot; : \u0026quot;Mediemøllen\u0026quot;, \u0026quot;url\u0026quot; : \u0026quot;https://www.folkets.dk/brands/mediemøllen\u0026quot; }, \u0026quot;claimReviewed\u0026quot; : \u0026quot;Vi er på vej mod et klima, hvor havet igen kan stige med 13 meter\u0026quot;, \u0026quot;datePublished\u0026quot; : \u0026quot;2019-10-11\u0026quot;, \u0026quot;itemReviewed\u0026quot; : { \u0026quot;@type\u0026quot; : \u0026quot;Claim\u0026quot;, \u0026quot;author\u0026quot; : { \u0026quot;@type\u0026quot; : \u0026quot;Organization\u0026quot;, \u0026quot;name\u0026quot; : \u0026quot;Danmarks Radio\u0026quot; }, \u0026quot;datePublished\u0026quot; : \u0026quot;2019-10-09\u0026quot;, \u0026quot;firstAppearance\u0026quot; : { \u0026quot;@type\u0026quot; : \u0026quot;CreativeWork\u0026quot;, \u0026quot;url\u0026quot; : \u0026quot;https://www.dr.dk/nyheder/viden/klima/det-er-sket-foer-vi-er-paa-vej-mod-et-klima-hvor-havet-igen-kan-stige-med-13\u0026quot; } }, \u0026quot;reviewRating\u0026quot; : { \u0026quot;@type\u0026quot; : \u0026quot;Rating\u0026quot;, \u0026quot;ratingValue\u0026quot;: \u0026quot;2\u0026quot;, \u0026quot;bestRating\u0026quot;: \u0026quot;5\u0026quot;, \u0026quot;worstRating\u0026quot;: \u0026quot;1\u0026quot;, \u0026quot;alternateName\u0026quot; : \u0026quot;Vildledende\u0026quot; }, \u0026quot;url\u0026quot; : \u0026quot;https://www.folkets.dk/node/3762\u0026quot; } \u0026lt;/script\u0026gt;   "
+    }
+    
+    , 
+    {
         "url": "/",
         "title": "16 års erfaring i krydsfeltet mellem journalistik, sociale medier og produktudvikling på nettet",
         "content": ""
@@ -93,14 +100,14 @@
     
     , 
     {
-        "url": "/brands/",
+        "url": "/tools/",
         "title": "",
         "content": ""
     }
     
     , 
     {
-        "url": "/tools/",
+        "url": "/brands/",
         "title": "",
         "content": ""
     }
@@ -124,13 +131,6 @@
         "url": "/brands/folkets-avis/",
         "title": "Folkets Avis",
         "content": "Folkets Avis er et mediebrand på udgiverplatformen FOLKETS.\nLennart Kiil\nEn dansk brand- og medieplatform\nFOLKETS.DK er et enorm stort projekt. Visionen er at udfordre både de danske medier og de amerikanske \u0026ldquo;tech giants\u0026rdquo;.\nSamtidig med at øjnene skal holdes på dette langsigtede mål, skal de betalende brugere også løbende serviceres med godt indhold.\nDer skal skabes indtægter og hele projektet skal løbende tilpasses og \u0026ldquo;trimmes\u0026rdquo; da der hele tiden kommer nyt på.\nFOLKETS.DK er uden sammenligning det mest lærerige fagligt set, som jeg har foretaget mig i mit arbejdsliv.\n"
-    }
-    
-    , 
-    {
-        "url": "/erfaringer/radio4-stjal-mit-brand-og-koncept/hvad-nu/",
-        "title": "Hvad gør man når de stjæler et brand man brugt år på at bygge op?",
-        "content": "Kopierede logotype - valgte samme font til deres egen.\nMediemøllen den mest delte artikel nogensinde på hele FOLKETS nemlig Årligt forsvinder mindst 45.000.000.000 kroner sporløst i EU-systemet https://www.folkets.dk/node/3048 Hvor jeg spørger om medierne mon vil fokusere lige så meget på svindet i EU som de gør på CumEx files (og som også gjalt Panama Papers)\n Mon vi kommer til at se medierne gå EU efter i sømmene med tættekam på samme måde?\n Den 11. december 2014 klokken 11 minutter over ti om formiddagen udgav jeg mit første indlæg på MEDIEMØLLEN.\nI de følgende år bragte jeg regelmæssigt nyt indhold på MEDIEMØLLEN i form af podcasts, screencasts og artikler.\nDen regelmæssige indsats gjorde at jeg med tiden fik etableret MEDIEMØLLEN til en placering som nummer et på Google for den søgning. Jeg havde opbygget et brand omkring et specifikt koncept.\nAt opbygge et brand er at investere tid og penge i et navn. En langsigtet investering som måske betaler sig tilbage på et tidspunkt. Det samme er udviklingen af et koncept.\nAlt sammen gjorde jeg uden at få så meget som en øre i tilskud eller støtte fra staten.\nDen 1. november 2019 - næsten fem år senere - blev det første afsnit af radioudsendelsen MEDIEMØLLEN bragt på den nye licensbaserede radiokanal RADIO4.\nHer havde man simpelthen taget det brand - det navn - jeg havde bygget op. Og ikke nok med det. Konceptet bag programmet var heller ikke til at skelne fra det jeg havde udviklet over årene for egne penge.\nInden jeg selv kunne begynde at høste frugterne af det store arbejde jeg over en næsten fem-årig periode havde lagt i MEDIEMØLLEN bliver det underløbet af en nyskabt statsfinansieret radiokanal.\nDet er rent ud sagt noget svineri.\n"
     }
     
     , 
@@ -193,34 +193,6 @@
     {
         "url": "/emner/facebook/",
         "title": "facebook",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/investering/",
-        "title": "investering",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/jura/",
-        "title": "jura",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/brands/mediem%C3%B8llen/",
-        "title": "mediemøllen",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/plagiat/",
-        "title": "plagiat",
         "content": ""
     }
     

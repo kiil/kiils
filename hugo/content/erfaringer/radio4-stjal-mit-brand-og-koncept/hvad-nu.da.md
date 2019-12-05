@@ -3,7 +3,7 @@ title: "Hvad gør man når de stjæler et brand man brugt år på at bygge op?"
 description: "Er det i orden at ny licensbaseret radio tager koncept og navn fra etableret medie uden at spørge"
 summary: "Er det i orden at ny licensbaseret radio tager koncept og navn fra etableret medie uden at spørge"
 date: 2019-10-03
-# draft: true
+draft: true
 thumbnail: "erfaringer/fundraising/klimaleksikon-crowdfunding.png"
 # featured_image: "/erfaringer/fundraising/klimaleksikon-crowdfunding.png"
 show_reading_time: true
