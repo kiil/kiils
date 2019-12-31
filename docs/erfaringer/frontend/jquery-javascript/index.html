@@ -32,7 +32,7 @@
 
 
 
-    <meta name="generator" content="Hugo 0.56.3" />
+    <meta name="generator" content="Hugo 0.61.0" />
     
     
       <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
@@ -66,16 +66,13 @@
 <meta property="article:modified_time" content="2019-08-08T00:00:00+00:00" />
 <meta itemprop="name" content="jQuery - væk med paranteser i tekst">
 <meta itemprop="description" content="Ikke helt nemt">
-
-
 <meta itemprop="datePublished" content="2019-08-08T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2019-08-08T00:00:00&#43;00:00" />
 <meta itemprop="wordCount" content="56">
 
 
 
-<meta itemprop="keywords" content="" />
-<meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="jQuery - væk med paranteser i tekst"/>
 <meta name="twitter:description" content="Ikke helt nemt"/>
 
@@ -176,40 +173,39 @@ if (!doNotTrack) {
 </span>
     </header>
 
-    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><pre><code class="language-javascript">&lt;script
-  src=&quot;https://code.jquery.com/jquery-2.2.4.min.js&quot;
-  integrity=&quot;sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=&quot;
-  crossorigin=&quot;anonymous&quot;&gt;
-&lt;/script&gt;
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#f92672">&lt;</span><span style="color:#a6e22e">script</span>
+  <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://code.jquery.com/jquery-2.2.4.min.js&#34;</span>
+  <span style="color:#a6e22e">integrity</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=&#34;</span>
+  <span style="color:#a6e22e">crossorigin</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;anonymous&#34;</span><span style="color:#f92672">&gt;</span>
+<span style="color:#f92672">&lt;</span><span style="color:#960050;background-color:#1e0010">/</span><span style="color:#960050;background-color:#1e0010">s</span><span style="color:#960050;background-color:#1e0010">c</span><span style="color:#960050;background-color:#1e0010">r</span><span style="color:#960050;background-color:#1e0010">i</span><span style="color:#960050;background-color:#1e0010">p</span><span style="color:#960050;background-color:#1e0010">t</span><span style="color:#960050;background-color:#1e0010">&gt;</span>
 
-&lt;script type=&quot;text/javascript&quot;&gt;
+<span style="color:#f92672">&lt;</span><span style="color:#a6e22e">script</span> <span style="color:#a6e22e">type</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;text/javascript&#34;</span><span style="color:#f92672">&gt;</span>
 
-function stripParenthesis( node ) {
-    if(node.length) {
-        node.contents().each(function(index, child) {
-            if( child.nodeType === 3 ) {
-                child.nodeValue = child.nodeValue.replace(/\(|\)/g, '');
+<span style="color:#66d9ef">function</span> <span style="color:#a6e22e">stripParenthesis</span>( <span style="color:#a6e22e">node</span> ) {
+    <span style="color:#66d9ef">if</span>(<span style="color:#a6e22e">node</span>.<span style="color:#a6e22e">length</span>) {
+        <span style="color:#a6e22e">node</span>.<span style="color:#a6e22e">contents</span>().<span style="color:#a6e22e">each</span>(<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">index</span>, <span style="color:#a6e22e">child</span>) {
+            <span style="color:#66d9ef">if</span>( <span style="color:#a6e22e">child</span>.<span style="color:#a6e22e">nodeType</span> <span style="color:#f92672">===</span> <span style="color:#ae81ff">3</span> ) {
+                <span style="color:#a6e22e">child</span>.<span style="color:#a6e22e">nodeValue</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">child</span>.<span style="color:#a6e22e">nodeValue</span>.<span style="color:#a6e22e">replace</span>(<span style="color:#e6db74">/\(|\)/g</span>, <span style="color:#e6db74">&#39;&#39;</span>);
             }
-            else {
-                stripParenthesis( $(child) );
+            <span style="color:#66d9ef">else</span> {
+                <span style="color:#a6e22e">stripParenthesis</span>( <span style="color:#a6e22e">$</span>(<span style="color:#a6e22e">child</span>) );
             }
         });
     }
 }
 
-jQuery(document).ready(function($) {
+<span style="color:#a6e22e">jQuery</span>(document).<span style="color:#a6e22e">ready</span>(<span style="color:#66d9ef">function</span>(<span style="color:#a6e22e">$</span>) {
 
-stripParenthesis( $('a:contains(&quot;Opskriftsgruppe&quot;)').closest( &quot;span&quot; ) );
+<span style="color:#a6e22e">stripParenthesis</span>( <span style="color:#a6e22e">$</span>(<span style="color:#e6db74">&#39;a:contains(&#34;Opskriftsgruppe&#34;)&#39;</span>).<span style="color:#a6e22e">closest</span>( <span style="color:#e6db74">&#34;span&#34;</span> ) );
 
-$('a:contains(&quot;Opskriftsgruppe&quot;)').css('display', 'none');
+<span style="color:#a6e22e">$</span>(<span style="color:#e6db74">&#39;a:contains(&#34;Opskriftsgruppe&#34;)&#39;</span>).<span style="color:#a6e22e">css</span>(<span style="color:#e6db74">&#39;display&#39;</span>, <span style="color:#e6db74">&#39;none&#39;</span>);
 
-$('a:contains(&quot;Opskriftsgruppe&quot;)').closest( &quot;span&quot; ).css({ &quot;font-size&quot;: &quot;21px&quot;, &quot;line-height&quot;: &quot;3&quot; });
+<span style="color:#a6e22e">$</span>(<span style="color:#e6db74">&#39;a:contains(&#34;Opskriftsgruppe&#34;)&#39;</span>).<span style="color:#a6e22e">closest</span>( <span style="color:#e6db74">&#34;span&#34;</span> ).<span style="color:#a6e22e">css</span>({ <span style="color:#e6db74">&#34;font-size&#34;</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;21px&#34;</span>, <span style="color:#e6db74">&#34;line-height&#34;</span><span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;3&#34;</span> });
 
 });
 
-&lt;/script&gt;
-</code></pre>
-<ul class="pa0">
+<span style="color:#f92672">&lt;</span><span style="color:#960050;background-color:#1e0010">/</span><span style="color:#960050;background-color:#1e0010">s</span><span style="color:#960050;background-color:#1e0010">c</span><span style="color:#960050;background-color:#1e0010">r</span><span style="color:#960050;background-color:#1e0010">i</span><span style="color:#960050;background-color:#1e0010">p</span><span style="color:#960050;background-color:#1e0010">t</span><span style="color:#960050;background-color:#1e0010">&gt;</span>
+</code></pre></div><ul class="pa0">
   
 </ul>
 <ul class="pa0">

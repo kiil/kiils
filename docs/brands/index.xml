@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brands on Kiils</title>
@@ -12,15 +12,6 @@
     
     
     <item>
-      <title></title>
-      <link>https://www.kiils.dk/brands/</link>
-      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/brands/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Folkets Avis</title>
       <link>https://www.kiils.dk/brands/folkets-avis/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
@@ -30,20 +21,20 @@
     </item>
     
     <item>
-      <title>Oplevelser</title>
-      <link>https://www.kiils.dk/brands/oplevelser/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/brands/oplevelser/</guid>
-      <description>Artikler om mad og masser af opskrifter</description>
-    </item>
-    
-    <item>
       <title>digitalt</title>
       <link>https://www.kiils.dk/brands/digitalt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/brands/digitalt/</guid>
+      <description>Artikler om mad og masser af opskrifter</description>
+    </item>
+    
+    <item>
+      <title>Oplevelser</title>
+      <link>https://www.kiils.dk/brands/oplevelser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/brands/oplevelser/</guid>
       <description>Artikler om mad og masser af opskrifter</description>
     </item>
     

@@ -32,7 +32,7 @@
 
 
 
-    <meta name="generator" content="Hugo 0.56.3" />
+    <meta name="generator" content="Hugo 0.61.0" />
     
     
       <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
@@ -66,16 +66,13 @@
 <meta property="article:modified_time" content="2019-07-09T00:00:00+00:00" />
 <meta itemprop="name" content="Bevar whitespace i output med &amp;nbsp;">
 <meta itemprop="description" content="Nogle gange her man bare brug for noget plads i et dokument">
-
-
 <meta itemprop="datePublished" content="2019-07-09T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2019-07-09T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="227">
+<meta itemprop="wordCount" content="225">
 
 
 
-<meta itemprop="keywords" content="" />
-<meta name="twitter:card" content="summary"/>
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Bevar whitespace i output med &amp;nbsp;"/>
 <meta name="twitter:description" content="Nogle gange her man bare brug for noget plads i et dokument"/>
 
@@ -164,7 +161,7 @@ if (!doNotTrack) {
       
       
         <span class="f7 mv4 dib tracked"> - 2 minutter </span>
-        <span class="f7 mv4 dib tracked"> - 227 ord</span>
+        <span class="f7 mv4 dib tracked"> - 225 ord</span>
       
       <span class="f7 mv4 dib tracked"> -
   
@@ -177,22 +174,17 @@ if (!doNotTrack) {
     </header>
 
     <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Nogle gange her man bare brug for noget plads i et dokument.</p>
-
 <p>Non-breaking space – <code>&amp;nbsp;</code> – er ikke bare non-breaking, den er også &lsquo;non-collapsing&rsquo;.</p>
-
 <p>Som du kan <a href="https://en.wikipedia.org/wiki/Non-breaking_space">læse på wikipedia</a>:</p>
-
 <blockquote>
 <p>Non-collapsing behavior
 A second common application of non-breaking spaces is in plain text file formats such as SGML, HTML, TeX and LaTeX, whose rendering engines are programmed to treat sequences of whitespace characters (space, newline, tab, form feed, etc.) as if they were a single character (but this behavior can be overridden). Such &ldquo;collapsing&rdquo; of whitespace allows the author to neatly arrange the source text using line breaks, indentation and other forms of spacing without affecting the final typeset result.</p>
-
+</blockquote>
+<blockquote>
 <p>In contrast, non-breaking spaces are not merged with neighboring whitespace characters when displayed, and can therefore be used by an author to simply insert additional visible space in the resulting output without using spans styled with peculiar values of the CSS “white-space” property. Conversely, indiscriminate use (see the recommended use in style guides), in addition to a normal space, gives extraneous space in the output.</p>
 </blockquote>
-
 <p>Derfor kan <code>&amp;nbsp;</code> bruges til at bevare whitespace, altså tomrum - herunder blanke linjer, i html-output i browsere, pdf-output i dokumenter og så videre, når kilden er en tekst-fil, markdown eller anden &lsquo;ren tekst&rsquo;-baseret fil.</p>
-
 <p>Eksempler:</p>
-
 <pre><code>Text
 
 
@@ -200,20 +192,12 @@ A second common application of non-breaking spaces is in plain text file formats
 
 
 Text
-</code></pre>
-
-<p>giver</p>
-
-<hr />
-
+</code></pre><p>giver</p>
+<hr>
 <p>Text</p>
-
 <p>Text</p>
-
-<hr />
-
+<hr>
 <p>Mens</p>
-
 <pre><code>Text
 
 &amp;nbsp;
@@ -221,21 +205,13 @@ Text
 &amp;nbsp;
 
 Text
-</code></pre>
-
-<p>giver</p>
-
-<hr />
-
+</code></pre><p>giver</p>
+<hr>
 <p>Text</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
+<p> </p>
+<p> </p>
 <p>Text</p>
-
-<hr />
+<hr>
 <ul class="pa0">
   
 </ul>

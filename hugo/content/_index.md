@@ -1,5 +1,5 @@
 ---
-title: 16 års erfaring i krydsfeltet mellem journalistik, sociale medier og produktudvikling på nettet
+title: 17 års erfaring i krydsfeltet mellem journalistik, sociale medier og produktudvikling på nettet
 description: "Indholdsstrategi og effektiv kommunikation online"
 
 outputs:

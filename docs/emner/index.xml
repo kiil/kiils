@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emner on Kiils</title>
@@ -48,15 +48,6 @@
     </item>
     
     <item>
-      <title>SoMe</title>
-      <link>https://www.kiils.dk/emner/some/</link>
-      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/emner/some/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>crowdfunding</title>
       <link>https://www.kiils.dk/emner/crowdfunding/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
@@ -80,6 +71,15 @@
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/emner/facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoMe</title>
+      <link>https://www.kiils.dk/emner/some/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/some/</guid>
       <description></description>
     </item>
     
@@ -111,15 +111,6 @@
     </item>
     
     <item>
-      <title>SEO</title>
-      <link>https://www.kiils.dk/emner/seo/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/emner/seo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ankertekst</title>
       <link>https://www.kiils.dk/emner/ankertekst/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
@@ -143,6 +134,15 @@
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/emner/ranking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEO</title>
+      <link>https://www.kiils.dk/emner/seo/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/seo/</guid>
       <description></description>
     </item>
     
@@ -183,21 +183,21 @@
     </item>
     
     <item>
-      <title>Ydelse</title>
-      <link>https://www.kiils.dk/emner/ydelse/</link>
-      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/emner/ydelse/</guid>
-      <description>Ydelse, på engelsk performance, er en meget væsentlig parameter i næsten alle digitale produkter.</description>
-    </item>
-    
-    <item>
       <title>frontend</title>
       <link>https://www.kiils.dk/emner/frontend/</link>
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/emner/frontend/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Ydelse</title>
+      <link>https://www.kiils.dk/emner/ydelse/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/ydelse/</guid>
+      <description>Ydelse, på engelsk performance, er en meget væsentlig parameter i næsten alle digitale produkter.</description>
     </item>
     
     <item>
@@ -215,7 +215,7 @@
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/emner/abonnementsmodellen/</guid>
-      <description>  Abonnementsmodellen forbindes på engelsk ofte med SaaS, men den rette term er snarere subscription model  </description>
+      <description> Abonnementsmodellen forbindes på engelsk ofte med SaaS, men den rette term er snarere subscription model  </description>
     </item>
     
     <item>
