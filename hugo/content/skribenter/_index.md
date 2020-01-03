@@ -1,5 +1,5 @@
 ---
-title: skribenter
+title: Skribenter
 type: list
-menu: ["foot"]
+# menu: ["foot"]
 ---

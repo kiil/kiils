@@ -12,7 +12,7 @@ googleAnalytics = "UA-89827484-1"
 enableRobotsTXT = true
 
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true
 
 
 [outputs]

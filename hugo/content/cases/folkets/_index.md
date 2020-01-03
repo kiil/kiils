@@ -3,6 +3,11 @@ title: FOLKETS
 description: Danmarks medieplatform
 type: list
 summary: En dansk platform
+
+menu:
+  foot:
+    name: 'FOLKETS'
+    parent: Cases
 ---
 
 En dansk _brand-_ og medieplatform

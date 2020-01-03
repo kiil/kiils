@@ -1,33 +1,43 @@
-<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa5" role="contentinfo">
   <div class="flex justify-between">
-  <span class="f4 fw4  white-70 pv2 ph3">
+  <span class="f4 fw4  white-70 pv3">
     &copy; {{ now.Format "2006" }} {{ .Site.Title }} v/ <a class="hover-white  white-70 no-underline" href="https://www.folkets.dk/brugere/lennart-kiil">Lennart Kiil</a>
   </span>
     <div>{{ partial "social-follow.html" . }}</div>
   </div>
-  <div class="flex justify-between">
-      <span class="f4 fw4  white-70 pv2 ph3">
 
 
 
-        <aside>
-    <ul  class="list ph3 ph5-ns pv4">
+    <ul class="list pl0 flex-column-s flex-column-m flex-l justify-between-l">
         {{ $currentPage := . }}
-        {{ range .Site.Menus.foot }}
 
-                <li class="dib mr2">
-                    <a href="{{ .URL }}" class="f6 f5-ns b db pa2 link dim mid-gray hover-white no-underline white-90">
-                        {{ .Pre }}
+        {{ range .Site.Menus.foot }}
+            {{ if .HasChildren }}
+                <li class="f5 pv2">
+                    <a href="{{ .URL }}" class="hover-white no-underline white-60">
+                        <span>{{ .Name }}</span>
+                    </a>
+
+
+                    {{ range .Children }}
+                        <ul class="list pl1">
+                        <li class="f7">
+                        <a href="{{ .URL }}" class="hover-white no-underline white-60">
+                            <span>{{ .Name }}</span>
+                        </a>
+                        </li>
+                      </ul>
+                    {{ end }}
+                </li>
+            {{ else }}
+                <li class="f5 pv2">
+                    <a href="{{ .URL }}" class="hover-white no-underline white-60">
                         <span>{{ .Name }}</span>
                     </a>
                 </li>
-
+            {{ end }}
         {{ end }}
 
     </ul>
-</aside>
-
-  </span>
-  </div>
 
 </footer>

@@ -3,6 +3,11 @@ title: Folkets Avis
 description: Fordi demokrati betyder Folkestyre
 type: list
 summary: En dansk platform
+
+menu:
+  foot:
+    name: 'Folkets Avis'
+    parent: Brands
 ---
 
 [Folkets Avis](https://www.folkets.dk/brands/folkets-avis) er et mediebrand på udgiverplatformen FOLKETS.
