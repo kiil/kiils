@@ -1,6 +1,6 @@
 ---
 title: Kunder
-menu: main
+menu: ["main", "foot"]
 type: page
 
 description: "Lennart Kiil har hjulpet blandt andre Berlingske, Dansk Industri, Gentofte Hospital, Illustreret Videnskab, Ingeniøren, Ugeskrift for Læger, Region Syddanmark, Rigshospitalet, Aarhus Universitet og Statens Naturhistoriske Museum"

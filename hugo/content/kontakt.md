@@ -4,8 +4,7 @@ title: Kontakt
 # omit_header_text: true
 description: Altid klar til at hjælpe
 type: page
-menu:
-  main: {}
+menu: ["main", "foot"]
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Cases
-# menu: main
+menu: ["foot"]
 type: list
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Brands
-# menu: main
+menu: ["foot"]
 type: list
 ---
 

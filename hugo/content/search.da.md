@@ -3,6 +3,8 @@ title: Søgning
 menu:
   main:
     name: 'Søg'
+  foot:
+    name: 'Søg'
 type: search
 
 

@@ -4,8 +4,7 @@ title: Priser
 omit_header_text: true
 description: Den samme pris for alle
 type: page
-# menu:
-  # main: {}
+menu: ["foot"]
 
 ---
 

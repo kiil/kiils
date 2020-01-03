@@ -7,9 +7,26 @@
   </div>
   <div class="flex justify-between">
       <span class="f4 fw4  white-70 pv2 ph3">
-    <a class="hover-white  white-70 no-underline" href="/brands/">Brands</a>
-    <a class="hover-white  white-70 no-underline" href="/cases/">Cases</a>
-    <a class="hover-white  white-70 no-underline" href="/priser/">Priser</a>
+
+
+
+        <aside>
+    <ul  class="list ph3 ph5-ns pv4">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.foot }}
+
+                <li class="dib mr2">
+                    <a href="{{ .URL }}" class="f6 f5-ns b db pa2 link dim mid-gray hover-white no-underline white-90">
+                        {{ .Pre }}
+                        <span>{{ .Name }}</span>
+                    </a>
+                </li>
+
+        {{ end }}
+
+    </ul>
+</aside>
+
   </span>
   </div>
 
