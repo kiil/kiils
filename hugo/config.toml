@@ -11,6 +11,9 @@ Paginate = 6 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = "UA-89827484-1"
 enableRobotsTXT = true
 
+[markup.goldmark.renderer]
+unsafe= true
+
 
 [outputs]
   home = ["HTML", "JSON", "AMP", "RSS"]
@@ -63,4 +66,4 @@ pattern = "2006"
   background_color_class = "bg-black"
   # featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 3
-  custom_css = ["css/custom.css","css/custom2.css"]
+  custom_css = ["css/custom.css"]

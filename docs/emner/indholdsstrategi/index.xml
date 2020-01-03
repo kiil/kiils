@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Indholdsstrategi on Kiils</title>
+    <title>indholdsstrategi on Kiils</title>
     <link>https://www.kiils.dk/emner/indholdsstrategi/</link>
-    <description>Recent content in Indholdsstrategi on Kiils</description>
+    <description>Recent content in indholdsstrategi on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
     <lastBuildDate>Mon, 28 May 2018 00:00:00 +0000</lastBuildDate>
@@ -43,7 +43,10 @@ Og det gør for eksempel Googles søgemaskine i min erfaring.
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/erfaringer/indhold/overhaling/</guid>
-      <description>Den korte afstand mellem læser og redaktion er en fordel.</description>
+      <description>Den korte afstand mellem læser og redaktion er en fordel.
+De små medier er generelt mere manøvredygtige end de store. Det gælder også på indholdsstrategien.
+Det betyder at små medier kan reagere hurtigt på internationale trends.
+Et eksempel på dette er at Folkets Avis har skrevet meget om Jordan Peterson. Det har de store danske medier ikke, på trods af at han er en meget omtalt mand i den internationale presse.</description>
     </item>
     
   </channel>

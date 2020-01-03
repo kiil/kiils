@@ -4,6 +4,8 @@ menu:
   main:
     name: 'Søg'
 type: search
+
+
 ---
 
 <script src="https://unpkg.com/lunr/lunr.js"></script>
@@ -116,6 +118,6 @@ window.onload = function() {
 }
 </script>
 
-<input id="search-input" type="text" placeholder="Loading..." name="search">
+<input id="search-input" class="mb3" type="text" placeholder="Loading..." name="search">
 
 <section id="search-results" class="search"></section>

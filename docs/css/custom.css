@@ -8,6 +8,9 @@ main {
   flex: 1;
 }
 
+table {
+  border-spacing: 10px;
+}
 
 /*
  * Made by Erik Terwan
