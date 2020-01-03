@@ -114,14 +114,14 @@
     
     , 
     {
-        "url": "/tools/facebook/",
+        "url": "/emner/facebook/",
         "title": "facebook",
         "content": ""
     }
     
     , 
     {
-        "url": "/emner/facebook/",
+        "url": "/tools/facebook/",
         "title": "facebook",
         "content": ""
     }
