@@ -9,13 +9,6 @@
     
     , 
     {
-        "url": "/",
-        "title": "17 års erfaring i krydsfeltet mellem journalistik, sociale medier og produktudvikling på nettet",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/cases/",
         "title": "Cases",
         "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
@@ -54,6 +47,13 @@
         "url": "/emner/fundraising/",
         "title": "fundraising",
         "content": ""
+    }
+    
+    , 
+    {
+        "url": "/",
+        "title": "Kiils",
+        "content": "17 års praktisk erfaring i krydsfeltet mellem journalistik og sociale medier "
     }
     
     , 
@@ -114,14 +114,14 @@
     
     , 
     {
-        "url": "/emner/facebook/",
+        "url": "/tools/facebook/",
         "title": "facebook",
         "content": ""
     }
     
     , 
     {
-        "url": "/tools/facebook/",
+        "url": "/emner/facebook/",
         "title": "facebook",
         "content": ""
     }
@@ -157,7 +157,7 @@
     , 
     {
         "url": "/emner/some/",
-        "title": "SoMe",
+        "title": "some",
         "content": ""
     }
     
@@ -444,7 +444,7 @@
     , 
     {
         "url": "/emner/indholdsstrategi/",
-        "title": "indholdsstrategi",
+        "title": "Indholdsstrategi",
         "content": ""
     }
     

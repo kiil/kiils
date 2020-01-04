@@ -1,10 +1,19 @@
 ---
-title: 17 års erfaring i krydsfeltet mellem journalistik, sociale medier og produktudvikling på nettet
+title: Kiils
+
 description: "Indholdsstrategi og effektiv kommunikation online"
+
+body_classes: bg-black avenir
+
+main_classes: pa3 avenir bg-lightest-blue navy
 
 outputs:
   - html
   - json
 
-type: index
+menu:
+  main:
+    weight: 100
 ---
+
+# 17 års _praktisk_ erfaring i krydsfeltet mellem journalistik og sociale medier

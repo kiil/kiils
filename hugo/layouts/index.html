@@ -1,0 +1,41 @@
+{{ define "main" }}
+  <article class="cf ph3 ph5-l pv3 pv4-l f2 measure-wide tc-l center lh-copy">
+    {{ .Content }}
+  </article>
+
+<div class="flex-column-s flex-column-m flex-l justify-between-l">
+
+<div class="w-100 w-third-l pa4">
+<h5 class="mt0 mb2 tracked ttu">Senest</h5>
+<ul class="list pl0">
+        {{ range (last 2 .Site.RegularPages.ByDate) }}
+          <li class="f4 pv2"><a href="{{ .Page.RelPermalink }}" class="link">{{ .Page.Title }}</a></li>
+        {{ end }}
+      </ul>
+</div>
+
+<div class="w-100 w-third-l pa4">
+<h5 class="mt0 mb2 tracked ttu">Udvalgt</h5>
+<ul class="list pl0">
+  {{ range .Site.Taxonomies.cm.featured }}
+        <li class="f4 pv2"><a href="{{ .Page.RelPermalink }}" class="link">{{ .Page.Title }}</a></li>
+    {{ end }}
+</ul>
+</div>
+
+
+<div class="w-100 w-third-l pa4">
+<h5 class="mt0 mb2 tracked ttu">Long read</h5>
+<ul class="list pl0">
+        {{ range (last 2 .Site.RegularPages.ByLength) }}
+        <li class="f4 pv2">
+          <a href="{{ .Page.RelPermalink }}" class="link">{{ .Page.Title }}</a>
+        </li>
+    {{ end }}
+</ul>
+</div>
+
+</div>
+
+
+{{ end }}

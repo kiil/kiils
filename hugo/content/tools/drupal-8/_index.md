@@ -6,5 +6,4 @@ menu:
   foot:
     name: 'Drupal 8'
     parent: Tools
-
 ---
