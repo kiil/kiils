@@ -6,10 +6,19 @@
     <description>Recent content in Per Asmussen on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kiils.dk/kunder/per-asmussen/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Omregner til ingredienser</title>
+      <link>https://www.kiils.dk/erfaringer/frontend/ingrediens-omregner/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/frontend/ingrediens-omregner/</guid>
+      <description>Simpel omregner</description>
+    </item>
     
     <item>
       <title>jQuery - væk med paranteser i tekst</title>

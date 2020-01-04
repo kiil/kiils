@@ -5,7 +5,7 @@ summary: "Ikke helt nemt"
 date: 2019-08-08
 # draft: true
 
-show_reading_time: true
+# show_reading_time: true
 
 # toc: true
 # katex: true

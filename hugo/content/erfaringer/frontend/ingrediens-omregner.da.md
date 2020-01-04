@@ -3,16 +3,14 @@ title: Omregner til ingredienser
 description: "Simpel omregner"
 summary: "Simpel omregner"
 date: 2019-08-28
-draft: true
+# draft: true
 
-## show_reading_time: true
+# show_reading_time: true
 
 # toc: true
 # katex: true
 
 
-
-brands:
 
 skribenter:
   - lennart-kiil
@@ -34,6 +32,8 @@ cases:
 kunder:
   - Per Asmussen
 
+cm:
+  - nlr
 
 # thumbnail: ""
 ---

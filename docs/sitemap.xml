@@ -115,14 +115,14 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/emner/facebook/</loc>
+    <loc>https://www.kiils.dk/tools/facebook/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/tools/facebook/</loc>
+    <loc>https://www.kiils.dk/emner/facebook/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -171,6 +171,62 @@
   </url>
   
   <url>
+    <loc>https://www.kiils.dk/cm/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/cases/gastrofun/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/tools/javascript/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/kunder/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/cm/nlr/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/frontend/ingrediens-omregner/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/kunder/per-asmussen/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/widgets/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kiils.dk/emner/brugervenlighed/</loc>
     <lastmod>2019-08-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -200,20 +256,6 @@
   
   <url>
     <loc>https://www.kiils.dk/erfaringer/frontend/jquery-javascript/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/kunder/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/kunder/per-asmussen/</loc>
     <lastmod>2019-08-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -318,13 +360,6 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/cm/</loc>
-    <lastmod>2019-06-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kiils.dk/tools/drupal-8/</loc>
     <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -403,13 +438,6 @@
   
   <url>
     <loc>https://www.kiils.dk/erfaringer/frontend/bootstrap-4/</loc>
-    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/cases/gastrofun/</loc>
     <lastmod>2019-05-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
