@@ -1,11 +1,11 @@
 {{ define "main" }}
-  <article class="cf ph3 ph5-l pv3 pv4-l f3 f2-ns measure-wide tc-l center lh-copy">
+  <article class="cf ph5-l pv3 pv4-l f3 f2-ns measure-wide tc-l center">
     {{ .Content }}
   </article>
 
 <div class="flex-column-s flex-column-m flex-l justify-between-l">
 
-<div class="w-100 w-third-l pa4">
+<div class="w-100 w-third-l pa4-ns">
 <h5 class="mt0 mb2 tracked ttu">Senest</h5>
 <ul class="list pl0">
         {{ range (last 2 .Site.RegularPages.ByDate) }}
@@ -14,7 +14,7 @@
       </ul>
 </div>
 
-<div class="w-100 w-third-l pa4">
+<div class="w-100 w-third-l pa4-ns">
 <h5 class="mt0 mb2 tracked ttu">Udvalgt</h5>
 <ul class="list pl0">
   {{ range .Site.Taxonomies.cm.featured }}
@@ -24,7 +24,7 @@
 </div>
 
 
-<div class="w-100 w-third-l pa4">
+<div class="w-100 w-third-l pa4-ns">
 <h5 class="mt0 mb2 tracked ttu">Long read</h5>
 <ul class="list pl0">
         {{ range (last 2 .Site.RegularPages.ByLength) }}

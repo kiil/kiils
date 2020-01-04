@@ -16,4 +16,4 @@ menu:
     weight: 100
 ---
 
-# 17 års _praktisk_ erfaring i krydsfeltet mellem journalistik og sociale medier
+# 17 års _praktisk_ erfaring i krydsfeltet mellem journalistik og sociale medier {.f3 .f2-ns}
