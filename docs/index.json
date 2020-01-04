@@ -114,14 +114,14 @@
     
     , 
     {
-        "url": "/tools/facebook/",
+        "url": "/emner/facebook/",
         "title": "facebook",
         "content": ""
     }
     
     , 
     {
-        "url": "/emner/facebook/",
+        "url": "/tools/facebook/",
         "title": "facebook",
         "content": ""
     }
@@ -157,7 +157,7 @@
     , 
     {
         "url": "/emner/some/",
-        "title": "some",
+        "title": "SoMe",
         "content": ""
     }
     
@@ -444,7 +444,7 @@
     , 
     {
         "url": "/emner/indholdsstrategi/",
-        "title": "Indholdsstrategi",
+        "title": "indholdsstrategi",
         "content": ""
     }
     
