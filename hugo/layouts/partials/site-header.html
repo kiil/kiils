@@ -2,10 +2,10 @@
 {{ if $featured_image }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   {{ $featured_image := (trim $featured_image "/") | absURL }}
-  <header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
-    <div class="{{ .Site.Params.cover_dimming_class | default "bg-black-60" }}">
+  <header class="pa3 cover bg-top {{ .Site.Params.cover_dimming_class | default "bg-black-60" }}" style="background-image: url('{{ $featured_image }}');">
+
       {{ partial "site-navigation.html" .}}
-      <div class="pa3">
+
         <h1 class="f3 f2-ns fw5 white measure-wide">
           {{ .Title | default .Site.Title }}
         </h1>
@@ -14,12 +14,12 @@
             {{ . }}
           </h2>
         {{ end }}
-      </div>
-    </div>
+
+
   </header>
 {{ else }}
-  <header>
-    <div class=" {{ .Site.Params.background_color_class | default "bg-black" }}">
+  <header class="pa3 {{ .Site.Params.background_color_class | default "bg-black" }}">
+
       {{ partial "site-navigation.html" . }}
       <div class="pa3 pa5-l">
         <h1 class="f3 f2-ns fw5 white measure-narrow lh-title">
@@ -31,6 +31,6 @@
           </h2>
         {{ end }}
       </div>
-    </div>
+
   </header>
 {{ end }}

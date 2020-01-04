@@ -1,4 +1,5 @@
-<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3 pa4-ns" role="contentinfo">
+<footer class="pa3 {{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100" role="contentinfo">
+ <div class="pa3 pa5-l">
   <div class="flex justify-between">
   <span class="f4 fw4  white-70 pv3">
     &copy; {{ now.Format "2006" }} {{ .Site.Title }} v/ <a class="hover-white  white-70 no-underline" href="https://www.folkets.dk/brugere/lennart-kiil">Lennart Kiil</a>
@@ -39,5 +40,5 @@
         {{ end }}
 
     </ul>
-
+  </div>
 </footer>
