@@ -3,7 +3,7 @@ title: Omregner til ingredienser
 description: "Simpel omregner"
 summary: "Simpel omregner"
 date: 2019-08-28
-## draft: true
+draft: true
 
 ## show_reading_time: true
 
