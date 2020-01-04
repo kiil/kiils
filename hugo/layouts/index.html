@@ -8,7 +8,7 @@
 <div class="w-100 w-third-l pa4-ns">
 <h5 class="mt0 mb2 tracked ttu">Senest</h5>
 <ul class="list pl0">
-        {{ range (last 2 .Site.RegularPages.ByDate) }}
+        {{ range first 2 .Site.RegularPages.ByDate.Reverse }}
           <li class="f4 pv2"><a href="{{ .Page.RelPermalink }}" class="link">{{ .Page.Title }}</a></li>
         {{ end }}
       </ul>
@@ -29,7 +29,7 @@
 <ul class="list pl0">
 
 
-{{ range first 3 (where .Site.RegularPages.ByLength.Reverse "Params.show_reading_time" true) }}
+{{ range first 2 (where .Site.RegularPages.ByLength.Reverse "Params.show_reading_time" true) }}
 
 
 
