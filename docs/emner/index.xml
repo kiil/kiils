@@ -6,10 +6,28 @@
     <description>Recent content in Emner on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kiils.dk/emner/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>facebook</title>
+      <link>https://www.kiils.dk/emner/facebook/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoMe</title>
+      <link>https://www.kiils.dk/emner/some/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/some/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CopyDan</title>
@@ -215,24 +233,6 @@
       <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/emner/sociale-medier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SoMe</title>
-      <link>https://www.kiils.dk/emner/some/</link>
-      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/emner/some/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>facebook</title>
-      <link>https://www.kiils.dk/emner/facebook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/emner/facebook/</guid>
       <description></description>
     </item>
     

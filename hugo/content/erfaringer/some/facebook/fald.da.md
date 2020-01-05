@@ -2,7 +2,7 @@
 title: "Jeg har brudt koden på facebook!"
 description: "Facebook har ændret sig - hvordan får man succes?"
 summary: "Facebook har ændret sig - hvordan får man succes?"
-date: 2020-1-4
+date: 2020-01-05
 # draft: true
 thumbnail: "erfaringer/some/facebook/skidt-trend-facebook-page-followers.png"
 show_reading_time: true
@@ -29,6 +29,7 @@ brands:
   - folkets-avis
 
 ---
+
 
 En samarbejdspartner fortalte mig for ikke så længe siden:
 
@@ -67,6 +68,8 @@ Det er derfor mest sandsynligt at jeg koncentrerer mere af min indsats andre ste
 For andre kan facebook til stadighed være en central del af forretningen.
 
 Men det kræver som hovedregel en betydelig investering af både tid og efterhånden også penge at få ordentligt udbytte af indsatsen.
+
+De nemme tider med facebook er for længst forbi.
 
 
 [followers]: /erfaringer/some/facebook/skidt-trend-facebook-page-followers.png

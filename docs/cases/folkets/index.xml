@@ -6,10 +6,19 @@
     <description>Recent content in FOLKETS on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Fri, 09 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kiils.dk/cases/folkets/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Jeg har brudt koden på facebook!</title>
+      <link>https://www.kiils.dk/erfaringer/some/facebook/fald/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/some/facebook/fald/</guid>
+      <description>Facebook har ændret sig - hvordan får man succes?</description>
+    </item>
     
     <item>
       <title>Mellemrubrikker som indholdsoversigt</title>
@@ -124,15 +133,6 @@ For på trods af stigningen faldt antallet af brugere som blev sendt til Folkets
 De små medier er generelt mere manøvredygtige end de store. Det gælder også på indholdsstrategien.
 Det betyder at små medier kan reagere hurtigt på internationale trends.
 Et eksempel på dette er at Folkets Avis har skrevet meget om Jordan Peterson. Det har de store danske medier ikke, på trods af at han er en meget omtalt mand i den internationale presse.</description>
-    </item>
-    
-    <item>
-      <title>Jeg har brudt koden på facebook!</title>
-      <link>https://www.kiils.dk/erfaringer/some/facebook/fald/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/erfaringer/some/facebook/fald/</guid>
-      <description>Facebook har ændret sig - hvordan får man succes?</description>
     </item>
     
   </channel>
