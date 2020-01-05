@@ -1,7 +1,7 @@
 ---
-title: Kiils
+title: "Kiils – indholdsstrategi og effektiv kommunikation"
 
-description: "Indholdsstrategi og effektiv kommunikation online"
+description: ""
 
 body_classes: bg-black avenir
 
