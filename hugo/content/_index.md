@@ -13,6 +13,7 @@ outputs:
 
 menu:
   main:
+    name: Forside
     weight: 100
 ---
 
