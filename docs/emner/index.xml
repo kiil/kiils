@@ -66,24 +66,6 @@
     </item>
     
     <item>
-      <title>facebook</title>
-      <link>https://www.kiils.dk/emner/facebook/</link>
-      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/emner/facebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SoMe</title>
-      <link>https://www.kiils.dk/emner/some/</link>
-      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/emner/some/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>widgets</title>
       <link>https://www.kiils.dk/emner/widgets/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
@@ -233,6 +215,24 @@
       <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/emner/sociale-medier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoMe</title>
+      <link>https://www.kiils.dk/emner/some/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/some/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>facebook</title>
+      <link>https://www.kiils.dk/emner/facebook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/facebook/</guid>
       <description></description>
     </item>
     
