@@ -2,7 +2,7 @@
 title: "Jeg har brudt koden på facebook!"
 description: "Facebook har ændret sig - hvordan får man succes?"
 summary: "Facebook har ændret sig - hvordan får man succes?"
-date: 2020-1-05
+date: 2020-1-4
 # draft: true
 thumbnail: "erfaringer/some/facebook/skidt-trend-facebook-page-followers.png"
 show_reading_time: true
