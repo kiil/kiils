@@ -3,10 +3,10 @@
 <!--    Made by Erik Terwan    -->
 <!--   24th of November 2015   -->
 <!--        MIT License        -->
-<nav class="dt w-100" role="navigation">
+<nav class="w-100" role="navigation">
 
 
-  <div class="dtc" id="menuToggle">
+  <div class="fl w-third pa2 " id="menuToggle">
 
     <!--
     A fake / hidden checkbox is used as click reciever,
@@ -50,9 +50,14 @@
 
 
   </div>
-  <div class="dtc ">
-  <a href="{{ .Site.BaseURL }}" class="pa3 fr  f3 fw2 hover-white no-underline white-90 dib">
+  <div class="fl w-third pa2 tc">
+  <a href="{{ .Site.BaseURL }}" class="pa3 f3 fw1 hover-white no-underline white-90">
     {{ .Site.Title }}
+  </a>
+  </div>
+  <div class="fl w-third pa2 ">
+  <a href="/search" class=" fr rotate-45 f3 fw2 hover-white no-underline white-90">
+    ⚲
   </a>
   </div>
 
