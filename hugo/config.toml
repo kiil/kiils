@@ -27,6 +27,7 @@ unsafe = true
   emner = "emner"
   kunder = "kunder"
   tools = "tools"
+  genrer = "genrer"
   skribenter = "skribenter"
 
 

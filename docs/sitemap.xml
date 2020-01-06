@@ -534,6 +534,12 @@
   </url>
   
   <url>
+    <loc>https://www.kiils.dk/genrer/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kiils.dk/kontakt/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

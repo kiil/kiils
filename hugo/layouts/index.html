@@ -10,14 +10,14 @@
 
 <div class="flex-column-s flex-column-m flex-l justify-between-l">
 
-  <div class="w-100 w-third-l pt3 pa4-l">
+  <div class="w-100 w-third-l pt4 pa4-l">
     <h5 class="mt0 mb2 tracked ttu">Senest</h5>
     <ul class="list pl0">
       {{ range first 2 .Site.RegularPages.ByDate.Reverse }}
-      <li class="f4 pt2 pb3">
+      <li class="f4 pt3 pb3 mw5 lh-title">
 
         <a href="{{ .Page.RelPermalink }}" class="link">{{ .Page.Title }}</a>
-        <div class="f6 fw4 mt1 mb0 black-60"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+        <div class="f7 fw4 mt1 mb0 black-60"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
             {{- .Date.Format "02/01/2006" -}}
           </time>
         </div>
@@ -26,11 +26,11 @@
     </ul>
   </div>
 
-  <div class="w-100 w-third-l pt3 pa4-l">
+  <div class="w-100 w-third-l pt4 pa4-l">
     <h5 class="mt0 mb2 tracked ttu">Udvalgt</h5>
     <ul class="list pl0">
       {{ range .Site.Taxonomies.cm.featured }}
-      <li class="f4 pt2 pb3">
+      <li class="f4 pt3 pb3 mw5 lh-title">
         <a href="{{ .Page.RelPermalink }}" class="link">{{ .Page.Title }}</a>
         <div class="f6 fw4 mt1 mb0 black-60">{{ .Summary  }}</div>
       </li>
@@ -39,7 +39,7 @@
   </div>
 
 
-  <div class="w-100 w-third-l pt3 pa4-l">
+  <div class="w-100 w-third-l pt4 pa4-l">
     <h5 class="mt0 mb2 tracked ttu">Long read</h5>
     <ul class="list pl0">
 
@@ -48,10 +48,10 @@
 
 
 
-      <li class="f4 pt2 pb3">
+      <li class="f4 pt3 pb3 mw5 lh-title">
 
         <a href="{{ .Page.RelPermalink }}" class="link">{{ .Page.Title }}</a>
-        <div class="f6 fw4 mt1 mb0 black-60 ttu">{{ i18n "readingTime" .ReadingTime}}</div>
+        <div class="f6 fw4 mt1 mb0 black-60">{{ i18n "readingTime" .ReadingTime}}</div>
       </li>
 
       {{ end }}
