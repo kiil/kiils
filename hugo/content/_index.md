@@ -17,4 +17,6 @@ menu:
     weight: 100
 ---
 
-## 17 års _praktisk_ erfaring i krydsfeltet mellem internet, journalistik og sociale medier {.f3 .f1-m .f-subheadline-l .pb5 .bw3 .bw4-l .bb .measure}
+## 17 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier {.f3 .f1-m .f-subheadline-l .pb5}
+
+### Måske kan jeg hjælpe _dig?_ {.f4 .f2-m .f1-l}
