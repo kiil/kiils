@@ -77,7 +77,7 @@ function registerSearchHandler() {
 
     // set focus on search input and remove loading placeholder
     searchInput.focus()
-    searchInput.placeholder = ''
+    searchInput.placeholder = '⌕'
 }
 
 window.onload = function() {
@@ -120,6 +120,25 @@ window.onload = function() {
 }
 </script>
 
-<input id="search-input" class="mb3" type="text" placeholder="Loading..." name="search">
+
+
+
+
+
+
+
+
+<form class="pv4 black-80 w-100">
+    <label for="name" class="f6 b db mb2">Tast søgeord i feltet</label>
+    <input id="search-input" class="input-reset ba b--black-20 pa2 mb2 db w-100" type="text" aria-describedby="name-desc">
+    <small id="name-desc" class="f6 black-60 db mb2">Noget du ikke fandt? <a href="/kontakt/" class="link underline black-80 hover-blue">Kontakt Kiils</a></small>
+</form>
+
 
 <section id="search-results" class="search"></section>
+
+<style>
+input::placeholder {
+  text-align: right;
+}
+</style>

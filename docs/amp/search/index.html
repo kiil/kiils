@@ -64,7 +64,7 @@
 <meta itemprop="name" content="Søgning">
 <meta itemprop="description" content="// define globale variables var idx, searchInput, searchResults = null var documents = [] function renderSearchResults(results){ if (results.length  0) { // show max 10 results if (results.length  9){ results = results.slice(0,10) } // reset search results searchResults.innerHTML = &#39;&#39; // append results results.forEach(result = { // create result item var article = document.createElement(&#39;article&#39;) article.innerHTML = ` ${documents[result.ref].title}   ` searchResults.appendChild(article) }) // if results are empty } else { searchResults.">
 
-<meta itemprop="wordCount" content="224">
+<meta itemprop="wordCount" content="239">
 
 
 
@@ -255,7 +255,7 @@ function registerSearchHandler() {
 
     // set focus on search input and remove loading placeholder
     searchInput.focus()
-    searchInput.placeholder = ''
+    searchInput.placeholder = '⌕'
 }
 
 window.onload = function() {
@@ -297,8 +297,17 @@ window.onload = function() {
     )
 }
 </script>
-<input id="search-input" class="mb3" type="text" placeholder="Loading..." name="search">
+<form class="pv4 black-80 w-100">
+    <label for="name" class="f6 b db mb2">Tast søgeord i feltet</label>
+    <input id="search-input" class="input-reset ba b--black-20 pa2 mb2 db w-100" type="text" aria-describedby="name-desc">
+    <small id="name-desc" class="f6 black-60 db mb2">Noget du ikke fandt? <a href="/kontakt/" class="link underline black-80 hover-blue">Kontakt Kiils</a></small>
+</form>
 <section id="search-results" class="search"></section>
+<style>
+input::placeholder {
+  text-align: right;
+}
+</style>
 
       </div>
     </article>
