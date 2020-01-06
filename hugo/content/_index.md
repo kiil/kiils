@@ -1,11 +1,11 @@
 ---
-title: "Kiils – indholdsstrategi og effektiv kommunikation"
+title: "Kiils | digitalt mediebureau"
 
-description: ""
+description:
 
-body_classes: bg-black avenir
+body_classes: bg-near-white avenir
 
-main_classes: pa3 avenir bg-lightest-blue navy
+main_classes: pa3 avenir
 
 outputs:
   - html
@@ -17,4 +17,4 @@ menu:
     weight: 100
 ---
 
-# 17 års _praktisk_ erfaring i krydsfeltet mellem journalistik og sociale medier {.f3 .f2-ns}
+## 17 års _praktisk_ erfaring i krydsfeltet mellem internet, journalistik og sociale medier {.f3 .f2-m .f1-l .pb5 .bw3 .bb}
