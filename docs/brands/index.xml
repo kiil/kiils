@@ -26,7 +26,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/brands/digitalt/</guid>
-      <description>Artikler om mad og masser af opskrifter</description>
+      <description>Nutid og fremtid - altid online</description>
+    </item>
+    
+    <item>
+      <title>Mediemøllen</title>
+      <link>https://www.kiils.dk/brands/mediem%C3%B8llen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/brands/mediem%C3%B8llen/</guid>
+      <description>Analyser af medierne og deres rolle i samfund og politik</description>
     </item>
     
     <item>
@@ -35,7 +44,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/brands/oplevelser/</guid>
-      <description>Artikler om mad og masser af opskrifter</description>
+      <description>Det gode i livet</description>
+    </item>
+    
+    <item>
+      <title>Rævekagen</title>
+      <link>https://www.kiils.dk/brands/r%C3%A6vekagen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/brands/r%C3%A6vekagen/</guid>
+      <description>Sjov med magthaverne</description>
     </item>
     
   </channel>

@@ -552,6 +552,12 @@
   </url>
   
   <url>
+    <loc>https://www.kiils.dk/brands/mediem%C3%B8llen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kiils.dk/brands/oplevelser/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -559,6 +565,12 @@
   
   <url>
     <loc>https://www.kiils.dk/priser/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/brands/r%C3%A6vekagen/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
