@@ -17,6 +17,12 @@ show_reading_time: true
 skribenter:
   - lennart-kiil
 
+
+genrer:
+  -
+
+
+
 keywords:
   -
 

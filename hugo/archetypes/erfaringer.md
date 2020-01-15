@@ -14,14 +14,18 @@ show_reading_time: true
 # toc: true
 # katex: true
 
+skribenter:
+  - lennart-kiil
+
+genrer:
+  -
 
 
 brands:
   -
 
 
-skribenter:
-  - lennart-kiil
+
 
 keywords:
   -
@@ -34,6 +38,8 @@ tools:
 
 cases:
   -
+
+
 
 
 kunder:

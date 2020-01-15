@@ -1,5 +1,5 @@
 ---
-title: "Jeg har brudt koden på facebook!"
+title: "En langsom pinefuld død på Facebook"
 description: "Facebook har ændret sig - hvordan får man succes?"
 summary: "Facebook har ændret sig - hvordan får man succes?"
 date: 2020-01-05
@@ -12,6 +12,9 @@ show_reading_time: true
 
 skribenter:
   - lennart-kiil
+
+genrer:
+  - polemik
 
 keywords:
   - facebook
@@ -63,6 +66,8 @@ Jeg skal her være ærlig:
 
 Som medieejer er facebook blevet mindre interessant. For for et givet antal følgere er det nu sværere end tidligere at få folk ud af facebooks lukkede have.
 
+![opfordring][opfordring]
+
 Det er derfor mest sandsynligt at jeg koncentrerer mere af min indsats andre steder fremover. Om at opbygge medieplatformen FOLKETS yderligere.
 
 For andre kan facebook til stadighed være en central del af forretningen.
@@ -73,3 +78,5 @@ De nemme tider med facebook er for længst forbi.
 
 
 [followers]: /erfaringer/some/facebook/skidt-trend-facebook-page-followers.png
+
+[opfordring]: /erfaringer/some/facebook/going-down.png
