@@ -23,13 +23,6 @@
     
     , 
     {
-        "url": "/genrer/",
-        "title": "Emner",
-        "content": "Emner i det arbejde Kiils laver\n"
-    }
-    
-    , 
-    {
         "url": "/erfaringer/some/facebook/fald/",
         "title": "En langsom pinefuld død på Facebook",
         "content": "En samarbejdspartner fortalte mig for ikke så længe siden:\n– Jeg har brudt koden på facebook!\n– Hvordan?\n– Man betaler bare.\nJo, det tror jeg gerne på.\nEnhver som arbejder med markedsføring eller mediedrift på facebook ved at facebook gør meget ud af at oplyse en om mulighederne for at øge rækkevidden ved at betale for boost af ens indhold.\nDer levnes ingen tvivl om at facebook gerne vil have at man bruger penge på at promovere sine sider og sine ikke-personlige indlæg.\nDer dukker meget ofte forskellige former for påmindelser op om at dette er muligt. Og hvis man betaler og for sat sin målgruppe rigtigt sammen, så kan man sikkert ofte få en del \u0026ldquo;bang for the buck\u0026rdquo;.\nMen det er ikke bare de direkte opfordringer, facebook kommer med, som underbygger teorien om at der skal bruges penge på facebook hvis man vil have hurtige resultater.\nHer ses udviklingen i antal følgere på Folkets Avis\u0026rsquo; facebookside nogle måneder i slutningen af 2019:\nJeg bemærker en jævn langsomt nedadgående trend. Det på trods af at der ellers ofte er interesse og engagement på siden.\nJeg ville ikke blive overrasket hvis facebook arbejder med deres algoritmer på en måde så der falder flere fra end der kommer til - med mindre særlige forhold gør sig gældende.\nSå kan man enten være meget dygtig og dedikeret i sin jagt på flere følgere. Eller man kan betale sig fra det. Eller, naturligvis, kombinere de to tilgange.\nJeg skal her være ærlig:\nSom medieejer er facebook blevet mindre interessant. For for et givet antal følgere er det nu sværere end tidligere at få folk ud af facebooks lukkede have.\nDet er derfor mest sandsynligt at jeg koncentrerer mere af min indsats andre steder fremover. Om at opbygge medieplatformen FOLKETS yderligere.\nFor andre kan facebook til stadighed være en central del af forretningen.\nMen det kræver som hovedregel en betydelig investering af både tid og efterhånden også penge at få ordentligt udbytte af indsatsen.\nDe nemme tider med facebook er for længst forbi.\n"
@@ -61,6 +54,13 @@
         "url": "/brands/folkets-avis/",
         "title": "Folkets Avis",
         "content": "Folkets Avis er et mediebrand på udgiverplatformen FOLKETS.\nLennart Kiil En dansk brand- og medieplatform\nFOLKETS.DK er et enorm stort projekt. Visionen er at udfordre både de danske medier og de amerikanske \u0026ldquo;tech giants\u0026rdquo;.\nSamtidig med at øjnene skal holdes på dette langsigtede mål, skal de betalende brugere også løbende serviceres med godt indhold.\nDer skal skabes indtægter og hele projektet skal løbende tilpasses og \u0026ldquo;trimmes\u0026rdquo; da der hele tiden kommer nyt på.\nFOLKETS.DK er uden sammenligning det mest lærerige fagligt set, som jeg har foretaget mig i mit arbejdsliv.\n"
+    }
+    
+    , 
+    {
+        "url": "/genrer/",
+        "title": "Genrer",
+        "content": "Genrer på Kiils\n"
     }
     
     , 
@@ -458,7 +458,7 @@
     , 
     {
         "url": "/emner/indholdsstrategi/",
-        "title": "indholdsstrategi",
+        "title": "Indholdsstrategi",
         "content": ""
     }
     

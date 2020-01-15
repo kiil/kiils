@@ -1,6 +1,6 @@
 ---
-title: Emner
-menu: ["foot"]
+title: Genrer
+
 ---
 
-Emner i det arbejde Kiils laver
+Genrer på Kiils

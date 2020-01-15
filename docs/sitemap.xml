@@ -24,13 +24,6 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/genrer/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kiils.dk/erfaringer/some/facebook/fald/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -60,6 +53,13 @@
   
   <url>
     <loc>https://www.kiils.dk/brands/folkets-avis/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/genrer/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
