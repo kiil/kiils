@@ -1,0 +1,8 @@
+
+  {{ range .Params.genrer }}
+
+     <a href="{{ "/genrer/" | relLangURL }}{{ . | urlize }}" class="link f5 grow no-underline dib black">
+       {{- . -}}
+     </a>
+
+  {{ end }}

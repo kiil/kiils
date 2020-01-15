@@ -1,12 +1,12 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+# title: "{{ replace .Name "-" " " | title }}"
 summary: ""
 # featured_image: ""
 
 description: ""
 # thumbnail: ""
 
-date: {{ .Date }}
+# date: {{ .Date }}
 draft: true
 
 show_reading_time: true

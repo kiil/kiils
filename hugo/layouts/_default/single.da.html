@@ -8,18 +8,17 @@
   <article class="flex-l flex-wrap justify-between pa4-l">
 
     <header class="mt4 w-100">
-      <p class="f6 b helvetica tracked">
-          {{/*
-          CurrentSection allows us to use the section title instead of inferring from the folder.
-          https://gohugo.io/variables/page/#section-variables-and-methods
-          */}}
-        {{with .CurrentSection.Title }}{{. | upper }}{{end}}
-      </p>
-      <h1 class="f2 athelas mb1">
+      <div class="f6 b helvetica tc ttu tracked">
+      {{- partial "genrer.html" . -}}
+      </div>
+      <h1 class="f2 center measure-narrow athelas tc mb4 mt4">
         {{- .Title -}}
       </h1>
+      <div class="f4 mid-gray center tc tracked link  ">Af {{- partial "skribenter.html" . -}} </div>
+      <hr class="ml0 mt4 mb2 mw-100 bb b--mid-gray">
+      <div>
       {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
-      <time class="f7 mv4 dib tracked" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+      <time class="f7 dib tracked" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
         {{- .Date.Format "02/01/2006" -}}
       </time>
       {{/*
@@ -29,10 +28,12 @@
           3) A page front matter value is set `show_reading_time = true`
         */}}
       {{ if (or (eq (.Param "show_reading_time") true) (eq $section.Params.show_reading_time true) )}}
-        <span class="f7 mv4 dib tracked"> - {{ i18n "readingTime" .ReadingTime}} </span>
-        <span class="f7 mv4 dib tracked"> - {{ .WordCount}} ord</span>
+        <span class="f7 dib tracked"> - {{ i18n "readingTime" .ReadingTime}} </span>
+        <span class="f7 dib tracked"> - {{ .WordCount}} ord</span>
       {{ end }}
-      <span class="f7 mv4 dib tracked"> - {{- partial "skribenter.html" . -}} </span>
+      </div>
+
+
     </header>
 
     <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
