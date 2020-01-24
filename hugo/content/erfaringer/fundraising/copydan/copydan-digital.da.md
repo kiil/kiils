@@ -38,7 +38,7 @@ På grund af forældet lovgivning kan CopyDan ikke hjælpe mig.
 
 Lad mig forklare sagen:
 
-Jeg er meget glad for og stolt over Klimaleksikon - Danmarks bedste sted for børn og unge at blive klogere på alt hvad der har med [klima](https://klimaleksikon.dk) at gøre.
+Jeg er meget glad for og stolt over Klimaleksikon - Danmarks bedste sted for børn og unge at blive klogere på alt hvad der har med [klima](https://klimaleksikon.dk/opslag/klima) at gøre.
 
 Sitet virker på alle måder efter hensigten og hjælper hvert år cirka 100.000 børn og unge med at få mere viden om klima og klimarelaterede emner.
 

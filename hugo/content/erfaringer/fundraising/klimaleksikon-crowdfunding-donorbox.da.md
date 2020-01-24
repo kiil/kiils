@@ -76,6 +76,6 @@ Denne formular kan både ses og bruges lige herunder, så du er naturligvis velk
 
 Det bliver spændende om der er opbakning :)
 
-[kl]: https://klimaleksikon.dk/
+[kl]: https://klimaleksikon.dk/opslag/klima
 
 [cta]: /erfaringer/fundraising/klimaleksikon-crowdfunding.png
