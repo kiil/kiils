@@ -95,7 +95,7 @@
     {
         "url": "/erfaringer/devops/workflow/workflow-gastrofun/",
         "title": "Workflow for code på gastrofun",
-        "content": "Lokalt Det første foregår lokalt på gitlab/dev.gastrofun.dk\nmaster branch fra gitlab/dev.gastrofun.dk går til live site over gitlab.\ndev branch fra gitlab/dev.gastrofun.dk går til dev site over gitlab.\nTil live Hvis noget skal til live\ngit checkout master vær sikker på at have den nyeste master fra origin:\ngit pull Lav ændringer\ncheck med\ngit status Så\ngit add . og\ngit commit -m \u0026quot;deskriptiv tekst her\u0026quot; og\ngit push Til dev Tilsvarende, men\ngit checkout dev På internet-serveren ssh XXXXX@NN.NN.NN.NN -p NNN Hvis det er dev så gå til dev folder, hvis det er live så gå til live folderen.\nSikre at vi er på den rigtige branch i forhold til miljø\ngit branch hvis i orden\ngit pull Bemærk at git pull i virkeligheden både henter (fetch) og merger filerne.\nAfsluttende bemærkning Dette workflow er kun for kode-filer og omfatter ikke medie-filer, konfiguration eller databaser\n"
+        "content": "Lokalt Det første foregår lokalt på gitlab/dev.gastrofun.dk\nmaster branch fra gitlab/dev.gastrofun.dk går til live site over gitlab.\ndev branch fra gitlab/dev.gastrofun.dk går til dev site over gitlab.\nTil live Hvis noget skal til live\ngit checkout master vær sikker på at have den nyeste master fra origin:\ngit pull Lav ændringer\ncheck med\ngit status Så\ngit add . og\ngit commit -m \u0026quot;deskriptiv tekst her\u0026quot; og\ngit push Til dev Tilsvarende, men\ngit checkout dev På internet-serveren ssh XXXXX@NN.NN.NN.NN -p NNN Hvis det er dev så gå til dev folder, hvis det er live så gå til live folderen.\nSikre at vi er på den rigtige branch i forhold til miljø\ngit branch hvis i orden\ngit pull Bemærk at git pull i virkeligheden både henter (fetch) og merger filerne.\nAfsluttende bemærkning Dette workflow er kun for kode-filer og omfatter ikke medie-filer, konfiguration eller databaser.\n"
     }
     
     , 
@@ -493,7 +493,7 @@
     , 
     {
         "url": "/emner/indholdsstrategi/",
-        "title": "indholdsstrategi",
+        "title": "Indholdsstrategi",
         "content": ""
     }
     

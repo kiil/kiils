@@ -120,4 +120,4 @@ Bemærk at `git pull` i virkeligheden både henter (fetch) og merger filerne.
 
 ## Afsluttende bemærkning
 
-Dette workflow er kun for kode-filer og omfatter ikke medie-filer, konfiguration eller databaser
+Dette workflow er kun for kode-filer og omfatter ikke medie-filer, konfiguration eller databaser.
