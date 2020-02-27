@@ -26,10 +26,7 @@ emner:
   - facebook
   - some
 
-cases:
-  - gastrofun
 
-brands:
 
 
 ---

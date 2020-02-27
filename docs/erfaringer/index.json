@@ -2,16 +2,23 @@
     
     
     {
-        "url": "/brands/",
-        "title": "Brands",
-        "content": "Brands som Kiils råder over. Hosted på platformen Folkets\n"
+        "url": "/cases/",
+        "title": "Cases",
+        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
     }
     
     , 
     {
-        "url": "/cases/",
-        "title": "Cases",
-        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
+        "url": "/emner/devops/",
+        "title": "devops",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/genrer/docs/",
+        "title": "docs",
+        "content": ""
     }
     
     , 
@@ -23,16 +30,86 @@
     
     , 
     {
-        "url": "/erfaringer/some/facebook/fald/",
-        "title": "En langsom pinefuld død på Facebook",
-        "content": "En samarbejdspartner fortalte mig for ikke så længe siden:\n– Jeg har brudt koden på facebook!\n– Hvordan?\n– Man betaler bare.\nJo, det tror jeg gerne på.\nEnhver som arbejder med markedsføring eller mediedrift på facebook ved at facebook gør meget ud af at oplyse en om mulighederne for at øge rækkevidden ved at betale for boost af ens indhold.\nDer levnes ingen tvivl om at facebook gerne vil have at man bruger penge på at promovere sine sider og sine ikke-personlige indlæg.\nDer dukker meget ofte forskellige former for påmindelser op om at dette er muligt. Og hvis man betaler og for sat sin målgruppe rigtigt sammen, så kan man sikkert ofte få en del \u0026ldquo;bang for the buck\u0026rdquo;.\nMen det er ikke bare de direkte opfordringer, facebook kommer med, som underbygger teorien om at der skal bruges penge på facebook hvis man vil have hurtige resultater.\nHer ses udviklingen i antal følgere på Folkets Avis\u0026rsquo; facebookside nogle måneder i slutningen af 2019:\nJeg bemærker en jævn langsomt nedadgående trend. Det på trods af at der ellers ofte er interesse og engagement på siden.\nJeg ville ikke blive overrasket hvis facebook arbejder med deres algoritmer på en måde så der falder flere fra end der kommer til - med mindre særlige forhold gør sig gældende.\nSå kan man enten være meget dygtig og dedikeret i sin jagt på flere følgere. Eller man kan betale sig fra det. Eller, naturligvis, kombinere de to tilgange.\nJeg skal her være ærlig:\nSom medieejer er facebook blevet mindre interessant. For for et givet antal følgere er det nu sværere end tidligere at få folk ud af facebooks lukkede have.\nDet er derfor mest sandsynligt at jeg koncentrerer mere af min indsats andre steder fremover. Om at opbygge medieplatformen FOLKETS yderligere.\nFor andre kan facebook til stadighed være en central del af forretningen.\nMen det kræver som hovedregel en betydelig investering af både tid og efterhånden også penge at få ordentligt udbytte af indsatsen.\nDe nemme tider med facebook er for længst forbi.\n"
+        "url": "/erfaringer/",
+        "title": "Erfaringer",
+        "content": ""
     }
     
     , 
     {
-        "url": "/erfaringer/",
-        "title": "Erfaringer",
+        "url": "/cases/gastrofun/",
+        "title": "Gastro Fun",
+        "content": "For mig er der en ekstra tilfredsstillelse ved at arbejde på ting hvor jeg har været med fra starten til at lægge fundamentet. Og det var tilfældet med madsitet GastroFun.dk .\nSammen med Per Asmussen byggede jeg GastroFun.dk fra bunden. Vi har været gode til at finde de rigtige løsninger i forhold til indholdsstruktur og informationsarkitektur.\nSiden har allerede opnået en meget prominent placering i Googles søgemaskine hvilket har været et centralt succeskriterie.\nPer er meget ambitiøs med siden, og det passer mig godt. I dag er udvikling på nettet altid noget løbende fordi konkurrenterne hele tiden er i bevægelse.\nJeg er derfor fortsat med til at rådgive og løse konkrete udfordringer på GastroFun.dk så siden forhåbentligt kan klare sig endnu bedre i fremtiden.\nSe også docs "
+    }
+    
+    , 
+    {
+        "url": "/genrer/",
+        "title": "Genrer",
+        "content": "Genrer på Kiils\n"
+    }
+    
+    , 
+    {
+        "url": "/tools/git/",
+        "title": "git",
         "content": ""
+    }
+    
+    , 
+    {
+        "url": "/",
+        "title": "Kiils | digitalt mediebureau",
+        "content": " 17 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier Måske kan jeg hjælpe dig? Kontakt mig nu!  "
+    }
+    
+    , 
+    {
+        "url": "/skribenter/lennart-kiil/",
+        "title": "Lennart Kiil",
+        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
+    }
+    
+    , 
+    {
+        "url": "/skribenter/",
+        "title": "Skribenter",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/ssh/",
+        "title": "ssh",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/",
+        "title": "Tools",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/devops/workflow/workflow-gastrofun/",
+        "title": "Workflow for code på gastrofun",
+        "content": "Lokalt Det første foregår lokalt på gitlab/dev.gastrofun.dk\nmaster branch fra gitlab/dev.gastrofun.dk går til live site over gitlab.\ndev branch fra gitlab/dev.gastrofun.dk går til dev site over gitlab.\nTil live Hvis noget skal til live\ngit checkout master vær sikker på at have den nyeste master fra origin:\ngit pull Lav ændringer\ncheck med\ngit status Så\ngit add . og\ngit commit -m \u0026quot;deskriptiv tekst her\u0026quot; og\ngit push Til dev Tilsvarende, men\ngit checkout dev På internet-serveren ssh XXXXX@NN.NN.NN.NN -p NNN Hvis det er dev så gå til dev folder, hvis det er live så gå til live folderen.\nSikre at vi er på den rigtige branch i forhold til miljø\ngit branch hvis i orden\ngit pull Bemærk at git pull i virkeligheden både henter (fetch) og merger filerne.\nAfsluttende bemærkning Dette workflow er kun for kode-filer og omfatter ikke medie-filer, konfiguration eller databaser\n"
+    }
+    
+    , 
+    {
+        "url": "/brands/",
+        "title": "Brands",
+        "content": "Brands som Kiils råder over. Hosted på platformen Folkets\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/some/facebook/fald/",
+        "title": "En langsom pinefuld død på Facebook",
+        "content": "En samarbejdspartner fortalte mig for ikke så længe siden:\n– Jeg har brudt koden på facebook!\n– Hvordan?\n– Man betaler bare.\nJo, det tror jeg gerne på.\nEnhver som arbejder med markedsføring eller mediedrift på facebook ved at facebook gør meget ud af at oplyse en om mulighederne for at øge rækkevidden ved at betale for boost af ens indhold.\nDer levnes ingen tvivl om at facebook gerne vil have at man bruger penge på at promovere sine sider og sine ikke-personlige indlæg.\nDer dukker meget ofte forskellige former for påmindelser op om at dette er muligt. Og hvis man betaler og for sat sin målgruppe rigtigt sammen, så kan man sikkert ofte få en del \u0026ldquo;bang for the buck\u0026rdquo;.\nMen det er ikke bare de direkte opfordringer, facebook kommer med, som underbygger teorien om at der skal bruges penge på facebook hvis man vil have hurtige resultater.\nHer ses udviklingen i antal følgere på Folkets Avis\u0026rsquo; facebookside nogle måneder i slutningen af 2019:\nJeg bemærker en jævn langsomt nedadgående trend. Det på trods af at der ellers ofte er interesse og engagement på siden.\nJeg ville ikke blive overrasket hvis facebook arbejder med deres algoritmer på en måde så der falder flere fra end der kommer til - med mindre særlige forhold gør sig gældende.\nSå kan man enten være meget dygtig og dedikeret i sin jagt på flere følgere. Eller man kan betale sig fra det. Eller, naturligvis, kombinere de to tilgange.\nJeg skal her være ærlig:\nSom medieejer er facebook blevet mindre interessant. For for et givet antal følgere er det nu sværere end tidligere at få folk ud af facebooks lukkede have.\nDet er derfor mest sandsynligt at jeg koncentrerer mere af min indsats andre steder fremover. Om at opbygge medieplatformen FOLKETS yderligere.\nFor andre kan facebook til stadighed være en central del af forretningen.\nMen det kræver som hovedregel en betydelig investering af både tid og efterhånden også penge at få ordentligt udbytte af indsatsen.\nDe nemme tider med facebook er for længst forbi.\n"
     }
     
     , 
@@ -58,36 +135,8 @@
     
     , 
     {
-        "url": "/genrer/",
-        "title": "Genrer",
-        "content": "Genrer på Kiils\n"
-    }
-    
-    , 
-    {
-        "url": "/",
-        "title": "Kiils | digitalt mediebureau",
-        "content": " 17 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier Måske kan jeg hjælpe dig? Kontakt mig nu!  "
-    }
-    
-    , 
-    {
-        "url": "/skribenter/lennart-kiil/",
-        "title": "Lennart Kiil",
-        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
-    }
-    
-    , 
-    {
         "url": "/genrer/polemik/",
         "title": "Polemik",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/skribenter/",
-        "title": "Skribenter",
         "content": ""
     }
     
@@ -170,23 +219,9 @@
     
     , 
     {
-        "url": "/tools/",
-        "title": "Tools",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/cm/",
         "title": "Cm",
         "content": ""
-    }
-    
-    , 
-    {
-        "url": "/cases/gastrofun/",
-        "title": "Gastro Fun",
-        "content": "For mig er der en ekstra tilfredsstillelse ved at arbejde på ting hvor jeg har været med fra starten til at lægge fundamentet. Og det var tilfældet med madsitet GastroFun.dk .\nSammen med Per Asmussen byggede jeg GastroFun.dk fra bunden. Vi har været gode til at finde de rigtige løsninger i forhold til indholdsstruktur og informationsarkitektur.\nSiden har allerede opnået en meget prominent placering i Googles søgemaskine hvilket har været et centralt succeskriterie.\nPer er meget ambitiøs med siden, og det passer mig godt. I dag er udvikling på nettet altid noget løbende fordi konkurrenterne hele tiden er i bevægelse.\nJeg er derfor fortsat med til at rådgive og løse konkrete udfordringer på GastroFun.dk så siden forhåbentligt kan klare sig endnu bedre i fremtiden.\n"
     }
     
     , 

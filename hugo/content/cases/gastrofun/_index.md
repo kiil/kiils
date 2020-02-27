@@ -14,3 +14,5 @@ Siden har allerede opnået en meget prominent placering i Googles søgemaskine h
 Per er meget ambitiøs med siden, og det passer mig godt. I dag er udvikling på nettet altid noget løbende fordi konkurrenterne hele tiden er i bevægelse.
 
 Jeg er derfor fortsat med til at rådgive og løse konkrete udfordringer på GastroFun.dk så siden forhåbentligt kan klare sig endnu bedre i fremtiden.
+
+[Se også docs](/erfaringer/devops/workflow/workflow-gastrofun/)
