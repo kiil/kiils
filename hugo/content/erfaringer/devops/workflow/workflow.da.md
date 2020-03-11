@@ -119,9 +119,18 @@ læg mærke til at web/.htaccess  web/core og web/sites  ikke er der.
 
 `git commit -m "initial commit"`
 
+
+(hvis ting allerede er i repo fra tidligere) https://stackoverflow.com/questions/1139762/ignore-files-that-have-already-been-committed-to-a-git-repository)
+
 ## gitlab private repo
 
 
 ## På selve internet-serveren
 
  bruges kun commposer install (ikke composer update, composer require eller andre tunge kommanddoer)
+
+ ```
+ composer install --no-dev
+ ```
+
+ Heller ikke dev ting på internetsewrvere

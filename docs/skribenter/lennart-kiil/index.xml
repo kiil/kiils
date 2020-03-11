@@ -6,10 +6,19 @@
     <description>Recent content in Lennart Kiil on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kiils.dk/skribenter/lennart-kiil/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Er det sådan censur ser ud?</title>
+      <link>https://www.kiils.dk/erfaringer/seo/corona/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/seo/corona/</guid>
+      <description>Eller er Googles veje bare uransagelige</description>
+    </item>
     
     <item>
       <title>Workflow for code på gastrofun</title>

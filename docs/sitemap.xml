@@ -3,8 +3,106 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.kiils.dk/brands/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kiils.dk/cases/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/seo/corona/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/cases/folkets/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/brands/folkets-avis/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/genrer/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/tools/googles-s%C3%B8gekonsol/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/skribenter/lennart-kiil/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/genrer/overvejelser/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/seo/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/skribenter/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/tools/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -24,28 +122,7 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/emner/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/erfaringer/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kiils.dk/cases/gastrofun/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/genrer/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -59,35 +136,7 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/skribenter/lennart-kiil/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/skribenter/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kiils.dk/tools/ssh/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/tools/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -101,13 +150,6 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/brands/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kiils.dk/erfaringer/some/facebook/fald/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -116,20 +158,6 @@
   
   <url>
     <loc>https://www.kiils.dk/emner/facebook/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/cases/folkets/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/brands/folkets-avis/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -326,13 +354,6 @@
   
   <url>
     <loc>https://www.kiils.dk/emner/ranking/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/emner/seo/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -574,6 +595,16 @@
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/devops/language-domains/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/devops/litespeed-server/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
