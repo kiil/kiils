@@ -1,8 +1,8 @@
 ---
 title: Tools
-description: Fordi demokrati betyder Folkestyre
+description: De rigtige værktøjer til opgaverne
 type: list
-summary: En dansk platform
+summary: De rigtige værktøjer til opgaverne
 
 menu:
   foot:
