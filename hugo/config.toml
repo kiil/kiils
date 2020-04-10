@@ -11,6 +11,24 @@ Paginate = 6 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = "UA-89827484-1"
 enableRobotsTXT = true
 
+[languages]
+  [languages.en]
+    title = "KIILS"
+    languageName = "English 🇺🇸"
+    weight = 1
+    [languages.en.params]
+      languageName = "English 🇺🇸"
+      # linkedin = "https://linkedin.com/whoever"
+  [languages.da]
+    title = "KIILS"
+    languageName = "Dansk 🇩🇰"
+    weight = 2
+    [languages.da.params]
+      languageName = "Dansk 🇩🇰"
+      # linkedin = "https://linkedin.com/fr/whoever"
+      [languages.da.params.navigation]
+        help = "Aide"
+
 [markup.goldmark.renderer]
 unsafe = true
 

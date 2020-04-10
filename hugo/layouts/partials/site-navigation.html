@@ -33,7 +33,7 @@
 
 
 
-    {{ partial "i18nlist.html" . }}
+
     {{ if .Site.Menus.main }}
       <ul id="menu" class="shadow-5">
         {{ range .Site.Menus.main }}
@@ -54,6 +54,7 @@
   <a href="{{ .Site.BaseURL }}" class="p0 bt bw3 lh-solid f2 fw9 tracked-tight ttu hover-white no-underline white">
     {{ .Site.Title }}
   </a>
+  {{ partial "i18nlist.html" . }}
   </div>
   <div class="fl w-third pa2 ">
   <a href="/search" class="fr f3 fw2 hover-white lh-solid no-underline white-90">
