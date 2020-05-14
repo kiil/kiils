@@ -55,4 +55,6 @@ Maybe the extraordinary responsiveness and service is due in part to the relativ
 
 Servicebot.io has my highest recommendation.
 
+Here is a video of it live on Folkets:
+
 {{< youtube 2LIhqgdlk70 >}}
