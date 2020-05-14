@@ -33,7 +33,7 @@ images:
 
 I had to upgrade my payment system on my media platform – Folkets.
 
-Since I was already on Stripe, I was looking for something that made it easy to keep up with stripe in the sense that stripe is developing new features at a rapid rate.
+Since I was already on Stripe, I was looking for something that made it easy to keep up with Stripe in the sense that Stripe is developing new features at a rapid rate.
 
 I found Servicebot.io which is basically a layer on top of Stripe's very flexible API. This layer makes it easy to give your users or customers an interaction with your payment implementation that is both simple to use and complete with regards to functionality.
 
@@ -43,7 +43,7 @@ Here is some of it on Folkets:
 
 I needed, for example, functionality where a user could download invoices past and present, since I am planning to do more B2B, and companies need the invoice for their bookkeeping.
 
-At the same time I did not want a cluttered or complicated user interface that could be off putting to non-businnes customers.
+At the same time I did not want a cluttered or complicated user interface that could be off putting to non-business customers.
 
 Servicebot.io made it easy for me to achieve both of these objectives.
 
