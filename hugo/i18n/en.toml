@@ -1,0 +1,24 @@
+[more]
+other = "More"
+
+[allTitle]
+other = "All {{.Title }}"
+
+[recentTitle]
+other = "Recent {{.Title }}"
+
+[readMore]
+other = "read more"
+
+[whatsInThis]
+other = "Table of Contents"
+
+[related]
+other = "Related"
+
+[wordCount]
+other = "This post has {{ .WordCount }} words."
+
+[readingTime]
+one = "One minute"
+other = "{{.Count}} minutes"

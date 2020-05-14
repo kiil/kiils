@@ -133,4 +133,6 @@ læg mærke til at web/.htaccess  web/core og web/sites  ikke er der.
  composer install --no-dev
  ```
 
+
+
  Heller ikke dev ting på internetsewrvere

@@ -4,7 +4,7 @@
     {
         "url": "/brands/",
         "title": "Brands",
-        "content": "Brands som Kiils råder over. Hosted på platformen Folkets\n"
+        "content": "Brands som Kiils råder over. Hosted på platformen Folkets.\n"
     }
     
     , 
@@ -514,7 +514,7 @@
     , 
     {
         "url": "/emner/indholdsstrategi/",
-        "title": "indholdsstrategi",
+        "title": "Indholdsstrategi",
         "content": ""
     }
     
@@ -625,6 +625,20 @@
     
     , 
     {
+        "url": "/erfaringer/muren/dogmer/",
+        "title": "",
+        "content": "Medier uden mur\nAlle medier på FOLKETS er frit tilgængelige - ingen betlaingsmur.\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/tips-tricks/git-tips/",
+        "title": "",
+        "content": "Reset dev branch til master\ngit checkout dev git reset --hard master git push --force origin dev "
+    }
+    
+    , 
+    {
         "url": "/cases/coronakatastrofen/",
         "title": "Coronakatastrofen",
         "content": "En dansk brand- og medieplatform\nCoronakatastrofen er en bog om coronavirus.\n"
@@ -676,7 +690,7 @@
     {
         "url": "/brands/r%C3%A6vekagen/",
         "title": "Rævekagen",
-        "content": ""
+        "content": "Rævekagen Satire og provokerende politisk analyse.\nFokus på personer, magtkampe, hykleri.\n"
     }
     
     , 

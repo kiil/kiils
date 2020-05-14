@@ -65,6 +65,16 @@
     <lastmod>2020-03-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/erfaringer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/erfaringer/"
+                />
   </url>
   
   <url>
@@ -72,6 +82,16 @@
     <lastmod>2020-03-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/cases/folkets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/cases/folkets/"
+                />
   </url>
   
   <url>
@@ -127,6 +147,16 @@
     <lastmod>2020-03-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/skribenter/lennart-kiil/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/skribenter/lennart-kiil/"
+                />
   </url>
   
   <url>
@@ -704,6 +734,16 @@
   
   <url>
     <loc>https://www.kiils.dk/erfaringer/indhold/tegninger-grafik-illustrationer-billeder-fotos-gratis/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/muren/dogmer/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/tips-tricks/git-tips/</loc>
     <priority>0</priority>
   </url>
   

@@ -4,4 +4,5 @@ menu: ["foot"]
 type: list
 ---
 
-Brands som Kiils råder over. Hosted på platformen Folkets
+Brands som Kiils råder over. Hosted på platformen Folkets.
+  

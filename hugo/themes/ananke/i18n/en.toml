@@ -15,3 +15,10 @@ other = "What's in this {{ .Type }}"
 
 [related]
 other = "Related"
+
+[wordCount]
+other = "This post has {{ .WordCount }} words."
+
+[readingTime]
+one = "One minute"
+other = "{{.Count}} minutes"
