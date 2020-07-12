@@ -46,7 +46,7 @@
     {
         "url": "/erfaringer/tips-tricks/sidetal/",
         "title": "Sidetal væk fra forsiden i pdf fra Pandoc fra markdown",
-        "content": "Først fjernes sidenumre generelt i frontmatter:\nheader-includes: | \\usepackage{sectsty} \\sectionfont{\\clearpage} \\pagenumbering{gobble} Så indsættes sidenumre nede i selve dokumentet:\n\\pagenumbering{arabic} "
+        "content": "Først fjernes sidenumre generelt i frontmatter:\nheader-includes: | \\pagenumbering{gobble} Så indsættes sidenumre nede i selve dokumentet:\n\\pagenumbering{arabic} "
     }
     
     , 
@@ -220,7 +220,7 @@
     , 
     {
         "url": "/emner/some/",
-        "title": "some",
+        "title": "SoMe",
         "content": ""
     }
     

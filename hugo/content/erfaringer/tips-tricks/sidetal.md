@@ -38,8 +38,6 @@ Først fjernes sidenumre generelt i frontmatter:
 
 ```
 header-includes: |
-    \usepackage{sectsty}
-    \sectionfont{\clearpage}
     \pagenumbering{gobble}
 ```
 
