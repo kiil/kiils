@@ -1,7 +1,7 @@
 ---
-title: "Sidetal væk fra forsiden i pdf fra Pandoc fra markdown"
-description: "Sorter sektioner i markdown"
-summary: "Sorter sektioner i markdown"
+title: "Sidetal væk fra forsiden i pdf over Pandoc fra markdown"
+description: "Nogle gange vil man ikke have sidetal på titel-siden"
+summary: "Nogle gange vil man ikke have sidetal på titel-siden"
 date: 2020-07-12
 # draft: true
 
@@ -16,33 +16,42 @@ skribenter:
   - lennart-kiil
 
 keywords:
-  - html
+  - latex
   - markdown
   - txt
-  - struktur
+  - indhold
 
 emner:
   - tips
   - tricks
-  - struktur
+  - redigering
+  - indhold
 
 
 tools:
-  - perl
+  - latex
   - terminal
   - atom
+  - pandoc
 ---
 
 
 Først fjernes sidenumre generelt i frontmatter:
 
 ```
+---
 header-includes: |
     \pagenumbering{gobble}
+...
+---
 ```
 
 Så indsættes sidenumre nede i selve dokumentet:
 
 ```
 \pagenumbering{arabic}
+
+...
 ```
+
+På den måde får man fjernet sidetal fra forsiden, hvor titlen er, og igen indsat sidetal længere fremme i selve dokumentet.

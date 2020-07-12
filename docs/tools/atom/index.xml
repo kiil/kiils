@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Sidetal væk fra forsiden i pdf fra Pandoc fra markdown</title>
+      <title>Sidetal væk fra forsiden i pdf over Pandoc fra markdown</title>
       <link>https://www.kiils.dk/erfaringer/tips-tricks/sidetal/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/erfaringer/tips-tricks/sidetal/</guid>
-      <description>Sorter sektioner i markdown</description>
+      <description>Nogle gange vil man ikke have sidetal på titel-siden</description>
     </item>
     
   </channel>

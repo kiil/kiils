@@ -44,6 +44,13 @@
   </url>
   
   <url>
+    <loc>https://www.kiils.dk/emner/indhold/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kiils.dk/</loc>
     <lastmod>2020-07-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -58,6 +65,13 @@
                 hreflang="da"
                 href="https://www.kiils.dk/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/tools/latex/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -78,7 +92,14 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/tools/perl/</loc>
+    <loc>https://www.kiils.dk/tools/pandoc/</loc>
+    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/redigering/</loc>
     <lastmod>2020-07-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -106,13 +127,6 @@
                 hreflang="da"
                 href="https://www.kiils.dk/skribenter/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/emner/struktur/</loc>
-    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
@@ -529,6 +543,13 @@
   </url>
   
   <url>
+    <loc>https://www.kiils.dk/tools/perl/</loc>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kiils.dk/erfaringer/tips-tricks/sorter-markdown-efter-overskrifter/</loc>
     <lastmod>2019-07-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -537,6 +558,13 @@
   
   <url>
     <loc>https://www.kiils.dk/emner/sortering/</loc>
+    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/struktur/</loc>
     <lastmod>2019-07-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

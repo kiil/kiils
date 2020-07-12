@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>struktur</title>
-      <link>https://www.kiils.dk/emner/struktur/</link>
+      <title>indhold</title>
+      <link>https://www.kiils.dk/emner/indhold/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/emner/struktur/</guid>
+      <guid>https://www.kiils.dk/emner/indhold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redigering</title>
+      <link>https://www.kiils.dk/emner/redigering/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/redigering/</guid>
       <description></description>
     </item>
     
@@ -188,6 +197,15 @@
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/emner/sortering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>struktur</title>
+      <link>https://www.kiils.dk/emner/struktur/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/struktur/</guid>
       <description></description>
     </item>
     

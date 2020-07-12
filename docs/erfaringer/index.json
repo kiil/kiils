@@ -23,9 +23,23 @@
     
     , 
     {
+        "url": "/emner/indhold/",
+        "title": "indhold",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/",
         "title": "Kiils | digitalt mediebureau",
         "content": " 17 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier Måske kan jeg hjælpe dig? Kontakt mig nu!  "
+    }
+    
+    , 
+    {
+        "url": "/tools/latex/",
+        "title": "latex",
+        "content": ""
     }
     
     , 
@@ -37,29 +51,29 @@
     
     , 
     {
-        "url": "/tools/perl/",
-        "title": "perl",
+        "url": "/tools/pandoc/",
+        "title": "pandoc",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/redigering/",
+        "title": "redigering",
         "content": ""
     }
     
     , 
     {
         "url": "/erfaringer/tips-tricks/sidetal/",
-        "title": "Sidetal væk fra forsiden i pdf fra Pandoc fra markdown",
-        "content": "Først fjernes sidenumre generelt i frontmatter:\nheader-includes: | \\pagenumbering{gobble} Så indsættes sidenumre nede i selve dokumentet:\n\\pagenumbering{arabic} "
+        "title": "Sidetal væk fra forsiden i pdf over Pandoc fra markdown",
+        "content": "Først fjernes sidenumre generelt i frontmatter:\n--- header-includes: | \\pagenumbering{gobble} ... --- Så indsættes sidenumre nede i selve dokumentet:\n\\pagenumbering{arabic} ... På den måde får man fjernet sidetal fra forsiden, hvor titlen er, og igen indsat sidetal længere fremme i selve dokumentet.\n"
     }
     
     , 
     {
         "url": "/skribenter/",
         "title": "Skribenter",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/struktur/",
-        "title": "struktur",
         "content": ""
     }
     
@@ -408,6 +422,13 @@
     
     , 
     {
+        "url": "/tools/perl/",
+        "title": "perl",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/erfaringer/tips-tricks/sorter-markdown-efter-overskrifter/",
         "title": "Sorter markdown dokument",
         "content": "Sorter sektioner i markdown. For eksempel efter #\nSorter # b mellemrubrik efter # a mellemrubrik.\n#B a content of B #A b content of A til\n#A b content of A #B a content of B I terminal med\nperl -0777 -ne \u0026#39; (undef,@paragraphs) = split /^#(?=[^#])/m; print map {\u0026#34;#$_\u0026#34;} sort @paragraphs; \u0026#39; file.md For yderligere info se også svar her "
@@ -417,6 +438,13 @@
     {
         "url": "/emner/sortering/",
         "title": "sortering",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/struktur/",
+        "title": "struktur",
         "content": ""
     }
     
