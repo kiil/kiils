@@ -6,10 +6,37 @@
     <description>Recent content in Tools on KIILS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kiils.dk/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>atom</title>
+      <link>https://www.kiils.dk/tools/atom/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/atom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perl</title>
+      <link>https://www.kiils.dk/tools/perl/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/perl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terminal</title>
+      <link>https://www.kiils.dk/tools/terminal/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/terminal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Googles-søgekonsol</title>
@@ -62,24 +89,6 @@
       <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/tools/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>perl</title>
-      <link>https://www.kiils.dk/tools/perl/</link>
-      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/tools/perl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>terminal</title>
-      <link>https://www.kiils.dk/tools/terminal/</link>
-      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/tools/terminal/</guid>
       <description></description>
     </item>
     

@@ -2,6 +2,97 @@
     
     
     {
+        "url": "/tools/atom/",
+        "title": "atom",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/",
+        "title": "Emner",
+        "content": "Emner i det arbejde Kiils laver\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/",
+        "title": "Erfaringer",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/",
+        "title": "Kiils | digitalt mediebureau",
+        "content": " 17 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier Måske kan jeg hjælpe dig? Kontakt mig nu!  "
+    }
+    
+    , 
+    {
+        "url": "/skribenter/lennart-kiil/",
+        "title": "Lennart Kiil",
+        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
+    }
+    
+    , 
+    {
+        "url": "/tools/perl/",
+        "title": "perl",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/tips-tricks/sidetal/",
+        "title": "Sidetal væk fra forsiden i pdf fra Pandoc fra markdown",
+        "content": "Først fjernes sidenumre generelt i frontmatter:\nheader-includes: | \\usepackage{sectsty} \\sectionfont{\\clearpage} \\pagenumbering{gobble} Så indsættes sidenumre nede i selve dokumentet:\n\\pagenumbering{arabic} "
+    }
+    
+    , 
+    {
+        "url": "/skribenter/",
+        "title": "Skribenter",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/struktur/",
+        "title": "struktur",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/terminal/",
+        "title": "terminal",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/tips/",
+        "title": "tips",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/",
+        "title": "Tools",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/tricks/",
+        "title": "tricks",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/brands/",
         "title": "Brands",
         "content": "Brands som Kiils råder over. Hosted på platformen Folkets.\n"
@@ -16,23 +107,9 @@
     
     , 
     {
-        "url": "/emner/",
-        "title": "Emner",
-        "content": "Emner i det arbejde Kiils laver\n"
-    }
-    
-    , 
-    {
         "url": "/erfaringer/seo/corona/",
         "title": "Er det sådan censur ser ud?",
         "content": "Jeg valgte fra starten at alt indhold om den nye coronavirus på FOLKETS skulle være frit tilgængeligt for alle. Også selvom jeg vidste at den beslutning ville komme til at koste mig en del penge.\nJeg fulgte virkelig meget med. Nok for meget. Brugte al min tid på at følge udviklingen i andre lande. Og jeg brugte naturligvis tid på at advare danskerne om at coronavirus var en alvorlig sag. Ikke \u0026ldquo;bare en influenza\u0026rdquo;.\nDenne indsats fra min side blev bestemt ikke belønnet på Facebook. Her havde mine indlæg om coronavirus stort set ingen gennemslagskraft. I hvert fald ikke i forhold til andre ting jeg til dagligt skriver om.\nMen til min store glæde, så kompenserede trafikken fra Google for manglen på Facebook. Når man bruger tid på noget vigtigt, og mener at man har noget at byde ind med, så er det rart at det rent faktisk kommer ud og gør gavn.\nOg det gør oplysning og information jo kun hvis folk rent faktisk for dem at se.\nMen så skete der for et par dage siden noget underligt. Jeg bemærkede hurtigt at trafikken til FOLKETS faldt en del. Ret abrupt.\nDelingerne på Facebook de klarede sig hverken bedre eller dårligere end andre delinger om coronavirus. Så der var noget andet i gære.\nJeg tjekkede så i Googles søgekonsol. Og fik der bekræftet min mistanke.\nPå få dage var FOLKETS skubbet fra en placering på side et til en placering ned på side tre for søgeordet \u0026lsquo;corona\u0026rsquo;. Det er alligevel noget af et \u0026ldquo;drop\u0026rdquo;.\nSå nu står jeg i den situation at jeg ikke får trafik fra hverken Facebook eller Google. Endda på et område hvor jeg har bidraget med væsentlige indlæg før de fleste andre her i landet.\nOg jeg aner ikke hvorfor. Jeg aner det virkelig ikke.\nMen det får mig da til at tænke over den magt Google og Facebook har. Og den magt staten har med Google og Facebook som proxier.\nJeg kan ikke konkludere at der er tale om censur. Og måske er censur slet ikke det rigtige ord. Måske er det bare en fluktuation.\nMen effekten er den samme; folk kommer ikke til at læse det jeg skriver.\nDet må jeg leve med. Og jeg håber da på et comeback.\nOg uanset hvad er det trods alt betydeligt bedre at blive usynliggjort i den digitale verden end at blive \u0026ldquo;taget ud\u0026rdquo; i den virkelige.\n"
-    }
-    
-    , 
-    {
-        "url": "/erfaringer/",
-        "title": "Erfaringer",
-        "content": ""
     }
     
     , 
@@ -65,20 +142,6 @@
     
     , 
     {
-        "url": "/",
-        "title": "Kiils | digitalt mediebureau",
-        "content": " 17 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier Måske kan jeg hjælpe dig? Kontakt mig nu!  "
-    }
-    
-    , 
-    {
-        "url": "/skribenter/lennart-kiil/",
-        "title": "Lennart Kiil",
-        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
-    }
-    
-    , 
-    {
         "url": "/genrer/overvejelser/",
         "title": "overvejelser",
         "content": ""
@@ -88,20 +151,6 @@
     {
         "url": "/emner/seo/",
         "title": "SEO",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/skribenter/",
-        "title": "Skribenter",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/",
-        "title": "Tools",
         "content": ""
     }
     
@@ -359,13 +408,6 @@
     
     , 
     {
-        "url": "/tools/perl/",
-        "title": "perl",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/erfaringer/tips-tricks/sorter-markdown-efter-overskrifter/",
         "title": "Sorter markdown dokument",
         "content": "Sorter sektioner i markdown. For eksempel efter #\nSorter # b mellemrubrik efter # a mellemrubrik.\n#B a content of B #A b content of A til\n#A b content of A #B a content of B I terminal med\nperl -0777 -ne \u0026#39; (undef,@paragraphs) = split /^#(?=[^#])/m; print map {\u0026#34;#$_\u0026#34;} sort @paragraphs; \u0026#39; file.md For yderligere info se også svar her "
@@ -375,34 +417,6 @@
     {
         "url": "/emner/sortering/",
         "title": "sortering",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/struktur/",
-        "title": "struktur",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/terminal/",
-        "title": "terminal",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/tips/",
-        "title": "tips",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/tricks/",
-        "title": "tricks",
         "content": ""
     }
     

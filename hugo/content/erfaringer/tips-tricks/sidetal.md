@@ -3,7 +3,7 @@ title: "Sidetal væk fra forsiden i pdf fra Pandoc fra markdown"
 description: "Sorter sektioner i markdown"
 summary: "Sorter sektioner i markdown"
 date: 2020-07-12
-draft: true
+# draft: true
 
 show_reading_time: true
 
