@@ -1,0 +1,49 @@
+---
+title: HTML med toc fra markddown via pandoc
+description: "Plus en  bonus"
+summary: "Sorter sektioner i markdown"
+date: 2020-09-02
+# draft: true
+
+show_reading_time: true
+
+# toc: true
+# katex: true
+
+
+
+skribenter:
+  - lennart-kiil
+
+keywords:
+  - html
+  - markdown
+  - txt
+  - struktur
+  - pandoc
+
+emner:
+  - tips
+  - tricks
+  - struktur
+  - sortering
+
+tools:
+  - pandoc
+
+
+# thumbnail: ""
+---
+
+
+
+I terminalen i samme folder som filen ligger:
+
+```
+pandoc -s --toc filename.md
+```
+
+Og kopier så alt mellem body-tags.
+
+
+Bonus: Pandoc gør ikke æ, ø og å grimme i interne links :)
