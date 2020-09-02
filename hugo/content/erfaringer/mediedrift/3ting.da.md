@@ -58,3 +58,7 @@ Tre fængendde undderrubrikker som alle kan se henvisninggerne til.
 Mere organisk trafik ved at ramme aktuelle keywords
 
 Googles discovery
+
+Kan sagtens brugge som interview med tre spørggsmål ogg svar.
+
+kan let konverteres til video og soundbytes.

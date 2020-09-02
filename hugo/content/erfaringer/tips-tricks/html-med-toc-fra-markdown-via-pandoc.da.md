@@ -10,7 +10,8 @@ show_reading_time: true
 # toc: true
 # katex: true
 
-genrer: lifehacks
+genrer:
+  - lifehacks
 
 skribenter:
   - lennart-kiil

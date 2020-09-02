@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lennart Kiil on KIILS</title>
+    <link>https://www.kiils.dk/skribenter/lennart-kiil/</link>
+    <description>Recent content in Lennart Kiil on KIILS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.kiils.dk/skribenter/lennart-kiil/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HTML med toc fra markddown via pandoc</title>
+      <link>https://www.kiils.dk/erfaringer/tips-tricks/html-med-toc-fra-markdown-via-pandoc/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/tips-tricks/html-med-toc-fra-markdown-via-pandoc/</guid>
+      <description>Sorter sektioner i markdown</description>
+    </item>
+    
+    <item>
+      <title>Sidetal væk fra forsiden i pdf over Pandoc fra markdown</title>
+      <link>https://www.kiils.dk/erfaringer/tips-tricks/sidetal/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/tips-tricks/sidetal/</guid>
+      <description>Nogle gange vil man ikke have sidetal på titel-siden</description>
+    </item>
+    
+    <item>
+      <title>Er det sådan censur ser ud?</title>
+      <link>https://www.kiils.dk/erfaringer/seo/corona/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/seo/corona/</guid>
+      <description>Eller er Googles veje bare uransagelige</description>
+    </item>
+    
+    <item>
+      <title>Workflow for code på gastrofun</title>
+      <link>https://www.kiils.dk/erfaringer/devops/workflow/workflow-gastrofun/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/devops/workflow/workflow-gastrofun/</guid>
+      <description>Som det er sat op</description>
+    </item>
+    
+    <item>
+      <title>En langsom pinefuld død på Facebook</title>
+      <link>https://www.kiils.dk/erfaringer/some/facebook/fald/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/some/facebook/fald/</guid>
+      <description>Facebook har ændret sig - hvordan får man succes?</description>
+    </item>
+    
+    <item>
+      <title>100.000 gange årligt bruges mine tekster i undervisningen uden at jeg får en krone for det – og CopyDan kan ikke hjælpe mig</title>
+      <link>https://www.kiils.dk/erfaringer/fundraising/copydan/copydan-digital/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/fundraising/copydan/copydan-digital/</guid>
+      <description>Alle siger at emnet er enormt vigtigt</description>
+    </item>
+    
+    <item>
+      <title>Kan man crowdfunde et klimaleksikon?</title>
+      <link>https://www.kiils.dk/erfaringer/fundraising/klimaleksikon-crowdfunding-donorbox/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/fundraising/klimaleksikon-crowdfunding-donorbox/</guid>
+      <description>Interessen for klima er stor - er villigheden til at betale for viden på området det også?</description>
+    </item>
+    
+    <item>
+      <title>Omregner til ingredienser</title>
+      <link>https://www.kiils.dk/erfaringer/frontend/ingrediens-omregner/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/frontend/ingrediens-omregner/</guid>
+      <description>Simpel omregner</description>
+    </item>
+    
+    <item>
+      <title>Mellemrubrikker som indholdsoversigt</title>
+      <link>https://www.kiils.dk/erfaringer/journalistik/mellemrubrikker-indholdsoversigt/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/journalistik/mellemrubrikker-indholdsoversigt/</guid>
+      <description>Det handler om at give læseren overblik</description>
+    </item>
+    
+    <item>
+      <title>jQuery - væk med paranteser i tekst</title>
+      <link>https://www.kiils.dk/erfaringer/frontend/jquery-javascript/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/frontend/jquery-javascript/</guid>
+      <description>Ikke helt nemt</description>
+    </item>
+    
+    <item>
+      <title>Hvad betyder ankertekst?</title>
+      <link>https://www.kiils.dk/erfaringer/seo/hvad-betyder-ankertekst/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/seo/hvad-betyder-ankertekst/</guid>
+      <description>I SEO-sprog nævnes ofte ankertekst, men hvad er det egentligt?</description>
+    </item>
+    
+    <item>
+      <title>Sorter markdown dokument</title>
+      <link>https://www.kiils.dk/erfaringer/tips-tricks/sorter-markdown-efter-overskrifter/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/tips-tricks/sorter-markdown-efter-overskrifter/</guid>
+      <description>Sorter sektioner i markdown</description>
+    </item>
+    
+    <item>
+      <title>Bevar whitespace i output med &amp;nbsp;</title>
+      <link>https://www.kiils.dk/erfaringer/tips-tricks/bevar-whitespace-output/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/tips-tricks/bevar-whitespace-output/</guid>
+      <description>Nogle gange her man bare brug for noget plads i et dokument</description>
+    </item>
+    
+    <item>
+      <title>Sådan fik jeg perfekte 100 i mobilhastighed</title>
+      <link>https://www.kiils.dk/erfaringer/frontend/klimaleksikon-tachyons-performance/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/frontend/klimaleksikon-tachyons-performance/</guid>
+      <description>Det er ikke nemt i et CMS</description>
+    </item>
+    
+    <item>
+      <title>FOLKETS meget hurtigere efter drop af bannere</title>
+      <link>https://www.kiils.dk/erfaringer/frontend/hastighed-uden-bannere/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/frontend/hastighed-uden-bannere/</guid>
+      <description>Nu er der data nok til at konkludere noget mere håndfast.</description>
+    </item>
+    
+    <item>
+      <title>Lovende Google Discover klikrate (CTR)</title>
+      <link>https://www.kiils.dk/erfaringer/seo/lovende-ctr-google-discover/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/seo/lovende-ctr-google-discover/</guid>
+      <description>Googles Discover kan godt komme til at spille en rolle for trafik</description>
+    </item>
+    
+    <item>
+      <title>Det nemmeste CSS framework</title>
+      <link>https://www.kiils.dk/erfaringer/frontend/bootstrap-4/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/frontend/bootstrap-4/</guid>
+      <description>Bootstrap 4 er næppe det nemmeste og hurtigste at prototype i længere. Og lidt for tungt hvis man virkelig går op i hastighed også på langsommere mobilforbindelser.</description>
+    </item>
+    
+    <item>
+      <title>Google belønner tidlig indsats</title>
+      <link>https://www.kiils.dk/erfaringer/seo/google-tidlig-indsats/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/seo/google-tidlig-indsats/</guid>
+      <description>Små medier kan markere sig ved at være først med på internationale navne. Og det er tilsyneladende også noget som giver bonus i søgeresultaterne.
+For ikke så længe tid siden skrev jeg et indlæg her på Kiils med titlen: Når de små medier overhaler de store :
+ De små medier er generelt mere manøvredygtige end de store. Det gælder også på indholdsstrategien.
+Det betyder at små medier kan reagere hurtigt på internationale trends.</description>
+    </item>
+    
+    <item>
+      <title>Om oplevelser og langsigtet indholdsstrategi</title>
+      <link>https://www.kiils.dk/erfaringer/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/</guid>
+      <description>Præmisserne på internettet ændrer sig hele tiden.
+Kan det så overhovedet betale sig at tænke langsigtet?
+Ja!
+Det er faktisk noget nær nødvendigt. Ikke mindst hvis du har planer om at hente trafik fra søgemaskiner som tillægger &amp;ldquo;historik&amp;rdquo; en stor betydning.
+Og det gør for eksempel Googles søgemaskine i min erfaring.
+(Jeg har Klimaleksikon.dk med hele ti år på nettet i næsten uforandret form at bygge den påstand på, men det vil jeg skrive om i et andet indlæg.</description>
+    </item>
+    
+    <item>
+      <title>risikoen for at abonnenter forsvinder med denne teknik er desværre stor</title>
+      <link>https://www.kiils.dk/erfaringer/abo/salg/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/abo/salg/</guid>
+      <description>Tidligere telefonmand skrev til mig med godt råd – lige efter kampagnen var gået i luften.
+Man kan ikke tage højde for alt selv. Og nogle gange prøver man noget af uden at have tænkt alle konsekvenser helt igennem.
+Og i forhold til abonnementsmodellen bør man nok altid overveje et eventuelt tiltags effekt ikke bare på konverteringsraten, men også på frafaldsraten.
+Og blot få minutter efter jeg i dag havde lovet en signeret madbog af Knud Damgaard til nye privat- og supersponsorer på Folkets Avis tikkede følgende besked ind:</description>
+    </item>
+    
+    <item>
+      <title>En redningsplan for Folkets Avis – sådan tilpasser jeg mig for at overleve</title>
+      <link>https://www.kiils.dk/erfaringer/muren/redning/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/muren/redning/</guid>
+      <description>Folkets Avis er enestående i den forstand at mediet i modsætning til den øvrige danske presse fungerer helt uden mediestøtte.
+Det gør at den er skarpere end de andre medier i sin kritik af systemet og politikerne. Og det er godt for demokratiet.
+Men det skal heller ikke være nogen hemmelighed at det er lidt af en udfordring at få sådan en størrelse til at løbe rundt og give overskud.</description>
+    </item>
+    
+    <item>
+      <title>Får jeg abonnenter nok til at leve af mit online-medie?</title>
+      <link>https://www.kiils.dk/erfaringer/abo/abonnenter-nok/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/abo/abonnenter-nok/</guid>
+      <description>Sandsynligvis ikke</description>
+    </item>
+    
+    <item>
+      <title>Delinger giver bonus på LinkedIn</title>
+      <link>https://www.kiils.dk/erfaringer/some/delinger-bonus-linkedin/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/some/delinger-bonus-linkedin/</guid>
+      <description>Læg relevante links på LinkedIn og forøg antallet af besøg til din profilside mangefold.
+For ganske nylig begyndte jeg via LinkedIn at dele links til min blog her på Kiils .
+I første omgang var hensigten at dele ud af de erfaringer, som opbygningen af et digitalt medie helt fra bunden, har givet mig. Og det er ikke så få!
+Jeg har brugt fem år på at skabe Folkets Avis , og i det tidsrum har jeg faktisk kun sporadisk haft tid til at bruge LinkedIn.</description>
+    </item>
+    
+    <item>
+      <title>Sociale medier vigtige – men husk de andre trafikkilder</title>
+      <link>https://www.kiils.dk/erfaringer/trafik/kilder/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/trafik/kilder/</guid>
+      <description>2017 var et rekordår for Folkets Avis på mange måder.
+Således var også de samlede antal sidevisninger højere end noget tidligere år.
+Ser vi på anskaffelse skete der noget lidt overraskende. I hvert fald når man tager i betratning at antallet af fans på Folkets Avis Facebook side voksede pænt hen over året og nærmede sig 10.000 ved dets afslutning.
+For på trods af stigningen faldt antallet af brugere som blev sendt til Folkets Avis fra de sociale medier, og med de sociale medier menes praktisk taget ene og alene Facebook.</description>
+    </item>
+    
+    <item>
+      <title>Når de små medier overhaler de store</title>
+      <link>https://www.kiils.dk/erfaringer/indhold/overhaling/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/indhold/overhaling/</guid>
+      <description>Den korte afstand mellem læser og redaktion er en fordel.
+De små medier er generelt mere manøvredygtige end de store. Det gælder også på indholdsstrategien.
+Det betyder at små medier kan reagere hurtigt på internationale trends.
+Et eksempel på dette er at Folkets Avis har skrevet meget om Jordan Peterson. Det har de store danske medier ikke, på trods af at han er en meget omtalt mand i den internationale presse.</description>
+    </item>
+    
+  </channel>
+</rss>
