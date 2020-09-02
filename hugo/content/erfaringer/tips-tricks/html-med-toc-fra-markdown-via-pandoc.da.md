@@ -1,5 +1,5 @@
 ---
-title: HTML med toc fra markddown via pandoc
+title: "HTML med toc fra markddown via pandoc"
 description: "Plus en  bonus"
 summary: "Sorter sektioner i markdown"
 date: 2020-09-02
@@ -10,7 +10,7 @@ show_reading_time: true
 # toc: true
 # katex: true
 
-
+genrer: lifehacks
 
 skribenter:
   - lennart-kiil
