@@ -1,7 +1,7 @@
 ---
-title: "HTML med toc fra markddown via pandoc"
-description: "Plus en  bonus"
-summary: "Sorter sektioner i markdown"
+title: "HTML med toc fra markdown via pandoc"
+description: "Plus en bonus"
+summary: "Plus en bonus"
 date: 2020-09-02
 # draft: true
 

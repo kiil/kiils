@@ -24,7 +24,7 @@
     , 
     {
         "url": "/erfaringer/tips-tricks/html-med-toc-fra-markdown-via-pandoc/",
-        "title": "HTML med toc fra markddown via pandoc",
+        "title": "HTML med toc fra markdown via pandoc",
         "content": "I terminalen i samme folder som filen ligger:\npandoc -s --toc filename.md Og kopier så alt mellem body-tags.\nBonus: Pandoc gør ikke æ, ø og å grimme i interne links :)\n"
     }
     
