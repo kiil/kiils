@@ -1,12 +1,15 @@
 ---
-title: 'Om oplevelser og langsigtet indholdsstrategi'
+title: 'Frontmatter i Zettlr'
 show_reading_time: true
 skribenter:
   - lennart-kiil
-date: '2018-09-18'
+date: '2020-09-17'
 
 emner:
   - Indholdshåndtering
+
+tools:
+  - Zettlr
 ---
 
 

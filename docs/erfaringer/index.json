@@ -2,13 +2,6 @@
     
     
     {
-        "url": "/cases/",
-        "title": "Cases",
-        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
-    }
-    
-    , 
-    {
         "url": "/emner/",
         "title": "Emner",
         "content": "Emner i det arbejde Kiils laver\n"
@@ -19,6 +12,62 @@
         "url": "/erfaringer/",
         "title": "Erfaringer",
         "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/yaml-zettlr/",
+        "title": "Frontmatter i Zettlr",
+        "content": "zid: 20200917203359 # Zettlr-id # author: Lennart Kiil # status: #u "
+    }
+    
+    , 
+    {
+        "url": "/emner/indholdsh%C3%A5ndtering/",
+        "title": "Indholdshåndtering",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/",
+        "title": "Kiils | digitalt mediebureau",
+        "content": " 17 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier Måske kan jeg hjælpe dig? Kontakt mig nu!  "
+    }
+    
+    , 
+    {
+        "url": "/skribenter/lennart-kiil/",
+        "title": "Lennart Kiil",
+        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
+    }
+    
+    , 
+    {
+        "url": "/skribenter/",
+        "title": "Skribenter",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/",
+        "title": "Tools",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/zettlr/",
+        "title": "Zettlr",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/cases/",
+        "title": "Cases",
+        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
     }
     
     , 
@@ -44,29 +93,8 @@
     
     , 
     {
-        "url": "/",
-        "title": "Kiils | digitalt mediebureau",
-        "content": " 17 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier Måske kan jeg hjælpe dig? Kontakt mig nu!  "
-    }
-    
-    , 
-    {
-        "url": "/skribenter/lennart-kiil/",
-        "title": "Lennart Kiil",
-        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
-    }
-    
-    , 
-    {
         "url": "/genrer/lifehacks/",
         "title": "lifehacks",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/skribenter/",
-        "title": "Skribenter",
         "content": ""
     }
     
@@ -79,22 +107,8 @@
     
     , 
     {
-        "url": "/tools/",
-        "title": "Tools",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/tools/zettelkasten/",
         "title": "Zettelkasten",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/zettlr/",
-        "title": "Zettlr",
         "content": ""
     }
     
@@ -607,20 +621,6 @@
         "url": "/erfaringer/frontend/bootstrap-4/",
         "title": "Det nemmeste CSS framework",
         "content": "Bootstrap 4 er næppe det nemmeste og hurtigste at prototype i længere. Og lidt for tungt hvis man virkelig går op i hastighed også på langsommere mobilforbindelser.\n"
-    }
-    
-    , 
-    {
-        "url": "/emner/indholdsh%C3%A5ndtering/",
-        "title": "Indholdshåndtering",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/erfaringer/indhold/yaml-zettlr/",
-        "title": "Om oplevelser og langsigtet indholdsstrategi",
-        "content": "zid: 20200917203359 # Zettlr-id # author: Lennart Kiil # status: #u "
     }
     
     , 
