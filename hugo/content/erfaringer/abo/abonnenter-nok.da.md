@@ -115,3 +115,5 @@ Kan du leve af for eksempel 500 abonnenter - eller af 1000?
 Det kommer vel dels an på, hvor meget hver især betaler om måneden. Men prisen på abonnementet påvirker også antallet af abonnementer som kan sælges og dermed antallet af abonnenter som kan vindes og fastholdes.
 
 Det vender vil tilbage til.
+
+

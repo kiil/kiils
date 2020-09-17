@@ -2,6 +2,13 @@
     
     
     {
+        "url": "/cases/",
+        "title": "Cases",
+        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
+    }
+    
+    , 
+    {
         "url": "/emner/",
         "title": "Emner",
         "content": "Emner i det arbejde Kiils laver\n"
@@ -16,6 +23,13 @@
     
     , 
     {
+        "url": "/cases/folkets/",
+        "title": "FOLKETS",
+        "content": "En dansk brand- og medieplatform\nFOLKETS.DK er et enorm stort projekt. Visionen er at udfordre både de danske medier og de amerikanske \u0026ldquo;tech giants\u0026rdquo;.\nSamtidig med at øjnene skal holdes på dette langsigtede mål, skal de betalende brugere også løbende serviceres med godt indhold.\nDer skal skabes indtægter og hele projektet skal løbende tilpasses og \u0026ldquo;trimmes\u0026rdquo; da der hele tiden kommer nyt på.\nFOLKETS.DK er uden sammenligning det mest lærerige fagligt set, som jeg har foretaget mig i mit arbejdsliv.\n"
+    }
+    
+    , 
+    {
         "url": "/genrer/",
         "title": "Genrer",
         "content": "Genrer på Kiils\n"
@@ -23,9 +37,9 @@
     
     , 
     {
-        "url": "/erfaringer/tips-tricks/html-med-toc-fra-markdown-via-pandoc/",
-        "title": "HTML med toc fra markdown via pandoc",
-        "content": "I terminalen i samme folder som filen ligger:\npandoc -s --toc filename.md Og kopier så alt mellem body-tags.\nBonus: Pandoc gør ikke æ, ø og å grimme i interne links :)\n"
+        "url": "/emner/indhold/",
+        "title": "indhold",
+        "content": ""
     }
     
     , 
@@ -51,15 +65,99 @@
     
     , 
     {
-        "url": "/tools/pandoc/",
-        "title": "pandoc",
+        "url": "/skribenter/",
+        "title": "Skribenter",
         "content": ""
     }
     
     , 
     {
-        "url": "/skribenter/",
-        "title": "Skribenter",
+        "url": "/erfaringer/hosting/20200912071936/",
+        "title": "Styr på dit indhold: Global prioritet og status",
+        "content": "Indledning Hvis man i sit daglige virke skaber meget indhold, så kan det være en udfordring at skabe overblik over indholdet.\nFor det første skal man jo vide, hvad man allerede har skabt - eller rettere hvor langt man er kommet medd udviklingen af forskellige tekster.\nOg her tager jeg udgangspunkt i tekster, men den metode jeg her præsenterer jer for kan sikkert med fordel anvendes på andre typer indhold også.\nPrioritering Der er mange måder at prioritere sit indhold på. Når tiden er knap, er det vigtigt at overveje om det indhold du arbejder med overhovedet er relevant.\nSelv laver jeg en overordnet prioritering af mine tekster allerede i ide-fasen ud fra mine forpligtelser: Bidrager teksten med værdi til mine abonnenter på Folkets? Bidrager den med værdi i mit eget liv?\nHvis svaret er nej til de to spørgsmål, så får teksten en lav prioritet eller jeg \u0026ldquo;dræber\u0026rdquo; den allerede i idéfasen. Har jeg allerede skrevet noget, så ryger det i arkivet.\nIndhold, som er væsentligt nok til at arbejde videre med, tagger jeg på følgende vis:\nDeadline\n   Tag Prioritet     #p4 Lever i ARKIV   #p3 Udvikles i ARBEJD   #p2 \u0026hellip;   #p1 Deadline   #p0 Lige nu    Status    Tag Status     #s5 Udkast / ide   #s4 \u0026hellip;   #s3 \u0026hellip;   #s2 Mangler kun korrektur   #s1 Klar til udgivelse   #s0 Udgivet og arkiveret    Meget tidsfølsomt materiale får en deadline\nPIPA\nProjekter\nAfsluttende bemærkning Dette workflow er kun for kode-filer og omfatter ikke medie-filer, konfiguration eller databaser.\n"
+    }
+    
+    , 
+    {
+        "url": "/tools/",
+        "title": "Tools",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/zettelkasten/",
+        "title": "Zettelkasten",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/zettlr/",
+        "title": "Zettlr",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/automatisering/",
+        "title": "automatisering",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/tips-tricks/grep-mv/",
+        "title": "mv og grep",
+        "content": "Command substitution i terminalen i samme folder som filen ligger med zsh:\nmv $(grep -il \u0026quot;tekst\u0026quot; *.md) ../ARKIV I mit tilfæde\nmv $(grep -il \u0026quot;#s0\u0026quot; *.md) ../ARKIV Hvor #s0er navnet på det tag som jeg giver udgivet materiale.\nBemærk: virker muligvis ikke hvis filnavane indeholder mellmrum eller ikke-standard karakterer. Se evt: http://www.jpeek.com/articles/linuxmag/2005-05/\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/tips-tricks/zmv-filetype-change/",
+        "title": "mv og grep",
+        "content": "Jeg har et arkiv over de fleste af mine skriverier i markdown-format.\nMen nu er markdown jo reelt bare tekst-filer. Så for eftertidens skyld ville jeg ændre endelsen på mine markdown filer fra md til txt.\nTusindvis af filnavne skulle ændre. Manuelt ville det tage lang tid.\nDer var heldigvis en nemmere løsning.\nDen nyeste udgave af MacOs har zsh som shell, og her er det nemt. Først skel der installeres en extension til zsh som hedder zmv.\nautoload -U zmv Så skal alle .md fil-endelser laves om til .txt fil-endelser.\nzmv '(*).md' '$1.txt' Så er det gjort.\nPS. Lad være at gøre dette hvis dit program kun tolker filernes markdown markup hvis filen har md-endelse.\n"
+    }
+    
+    , 
+    {
+        "url": "/tools/terminal/",
+        "title": "terminal",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/tips/",
+        "title": "tips",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/tricks/",
+        "title": "tricks",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/zsh/",
+        "title": "zsh",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/tips-tricks/html-med-toc-fra-markdown-via-pandoc/",
+        "title": "HTML med toc fra markdown via pandoc",
+        "content": "I terminalen i samme folder som filen ligger:\npandoc -s --toc filename.md Og kopier så alt mellem body-tags.\nBonus: Pandoc gør ikke æ, ø og å grimme i interne links :)\n"
+    }
+    
+    , 
+    {
+        "url": "/tools/pandoc/",
+        "title": "pandoc",
         "content": ""
     }
     
@@ -79,36 +177,8 @@
     
     , 
     {
-        "url": "/emner/tips/",
-        "title": "tips",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/",
-        "title": "Tools",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/tricks/",
-        "title": "tricks",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/tools/atom/",
         "title": "atom",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/indhold/",
-        "title": "indhold",
         "content": ""
     }
     
@@ -135,13 +205,6 @@
     
     , 
     {
-        "url": "/tools/terminal/",
-        "title": "terminal",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/brands/",
         "title": "Brands",
         "content": "Brands som Kiils råder over. Hosted på platformen Folkets.\n"
@@ -149,23 +212,9 @@
     
     , 
     {
-        "url": "/cases/",
-        "title": "Cases",
-        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
-    }
-    
-    , 
-    {
         "url": "/erfaringer/seo/corona/",
         "title": "Er det sådan censur ser ud?",
         "content": "Jeg valgte fra starten at alt indhold om den nye coronavirus på FOLKETS skulle være frit tilgængeligt for alle. Også selvom jeg vidste at den beslutning ville komme til at koste mig en del penge.\nJeg fulgte virkelig meget med. Nok for meget. Brugte al min tid på at følge udviklingen i andre lande. Og jeg brugte naturligvis tid på at advare danskerne om at coronavirus var en alvorlig sag. Ikke \u0026ldquo;bare en influenza\u0026rdquo;.\nDenne indsats fra min side blev bestemt ikke belønnet på Facebook. Her havde mine indlæg om coronavirus stort set ingen gennemslagskraft. I hvert fald ikke i forhold til andre ting jeg til dagligt skriver om.\nMen til min store glæde, så kompenserede trafikken fra Google for manglen på Facebook. Når man bruger tid på noget vigtigt, og mener at man har noget at byde ind med, så er det rart at det rent faktisk kommer ud og gør gavn.\nOg det gør oplysning og information jo kun hvis folk rent faktisk for dem at se.\nMen så skete der for et par dage siden noget underligt. Jeg bemærkede hurtigt at trafikken til FOLKETS faldt en del. Ret abrupt.\nDelingerne på Facebook de klarede sig hverken bedre eller dårligere end andre delinger om coronavirus. Så der var noget andet i gære.\nJeg tjekkede så i Googles søgekonsol. Og fik der bekræftet min mistanke.\nPå få dage var FOLKETS skubbet fra en placering på side et til en placering ned på side tre for søgeordet \u0026lsquo;corona\u0026rsquo;. Det er alligevel noget af et \u0026ldquo;drop\u0026rdquo;.\nSå nu står jeg i den situation at jeg ikke får trafik fra hverken Facebook eller Google. Endda på et område hvor jeg har bidraget med væsentlige indlæg før de fleste andre her i landet.\nOg jeg aner ikke hvorfor. Jeg aner det virkelig ikke.\nMen det får mig da til at tænke over den magt Google og Facebook har. Og den magt staten har med Google og Facebook som proxier.\nJeg kan ikke konkludere at der er tale om censur. Og måske er censur slet ikke det rigtige ord. Måske er det bare en fluktuation.\nMen effekten er den samme; folk kommer ikke til at læse det jeg skriver.\nDet må jeg leve med. Og jeg håber da på et comeback.\nOg uanset hvad er det trods alt betydeligt bedre at blive usynliggjort i den digitale verden end at blive \u0026ldquo;taget ud\u0026rdquo; i den virkelige.\n"
-    }
-    
-    , 
-    {
-        "url": "/cases/folkets/",
-        "title": "FOLKETS",
-        "content": "En dansk brand- og medieplatform\nFOLKETS.DK er et enorm stort projekt. Visionen er at udfordre både de danske medier og de amerikanske \u0026ldquo;tech giants\u0026rdquo;.\nSamtidig med at øjnene skal holdes på dette langsigtede mål, skal de betalende brugere også løbende serviceres med godt indhold.\nDer skal skabes indtægter og hele projektet skal løbende tilpasses og \u0026ldquo;trimmes\u0026rdquo; da der hele tiden kommer nyt på.\nFOLKETS.DK er uden sammenligning det mest lærerige fagligt set, som jeg har foretaget mig i mit arbejdsliv.\n"
     }
     
     , 
@@ -508,7 +557,7 @@
     {
         "url": "/erfaringer/frontend/klimaleksikon-tachyons-performance/",
         "title": "Sådan fik jeg perfekte 100 i mobilhastighed",
-        "content": "Med en static site generator er det efterhånden relativt nemt at bygge et site som er optimeret på ydelse.\nMen hvis nu man skal bygge noget mere kompliceret hvor man har brug for et CMS. Hvad så? Kan man stadig komme helt i top med performance i frontend med et CMS?\nJa! Heldigvis da.\nKlimaleksikon, Danmarks bedste sted at blive klog på klima , er bygget med Drupal 8. Tidligere brugte jeg Bootstrap 4 i frontend. Nu har jeg skiftet til Tachyons.\nSitet er hosted på Pantheon. Og de arbejder sammen med Fastly omkring CDN.\nAllerede med Bootstrap 4 klarede Klimaleksikon sig flot i Chromes test for ydelse i mobil. Med resultater i de helt høje 90'ere.\nMen jeg udskiftede Bootstrap 4 med Tachyons. Og nu er det lykkedes mig at få det bedst mulige resultat på 100 i mobil-testen.\nOg resultatet er vel at mærke opnået med den hårde indstilling: \u0026ldquo;Applied Fast 3G, 4x CPU Slowdown\u0026rdquo;\nDet skal siges at det er på sider uden billeder. På sider med billeder, som for eksempel forsiden, får jeg \u0026ldquo;kun\u0026rdquo; 99 som resultat.\nMen alt i alt yderst tilfredstillende resultater. Som du naturligvis selv kan efterprøve hvis du har Chrome som browser.\nKonklusion:\nKombinationen Pantheon, Drupal 8 og Tachyons kan bestemt anbefales hvis du vil have et hurtigt site.\n"
+        "content": "Med en static site generator er det efterhånden relativt nemt at bygge et site som er optimeret på ydelse.\nMen hvis nu man skal bygge noget mere kompliceret hvor man har brug for et CMS. Hvad så? Kan man stadig komme helt i top med performance i frontend med et CMS?\nJa! Heldigvis da.\nKlimaleksikon, Danmarks bedste sted at blive klog på klima , er bygget med Drupal 8. Tidligere brugte jeg Bootstrap 4 i frontend. Nu har jeg skiftet til Tachyons.\nSitet er hosted på Pantheon. Og de arbejder sammen med Fastly omkring CDN.\nAllerede med Bootstrap 4 klarede Klimaleksikon sig flot i Chromes test for ydelse i mobil. Med resultater i de helt høje 90\u0026rsquo;ere.\nMen jeg udskiftede Bootstrap 4 med Tachyons. Og nu er det lykkedes mig at få det bedst mulige resultat på 100 i mobil-testen.\nOg resultatet er vel at mærke opnået med den hårde indstilling: \u0026ldquo;Applied Fast 3G, 4x CPU Slowdown\u0026rdquo;\nDet skal siges at det er på sider uden billeder. På sider med billeder, som for eksempel forsiden, får jeg \u0026ldquo;kun\u0026rdquo; 99 som resultat.\nMen alt i alt yderst tilfredstillende resultater. Som du naturligvis selv kan efterprøve hvis du har Chrome som browser.\nKonklusion:\nKombinationen Pantheon, Drupal 8 og Tachyons kan bestemt anbefales hvis du vil have et hurtigt site.\n"
     }
     
     , 
@@ -558,6 +607,20 @@
         "url": "/erfaringer/frontend/bootstrap-4/",
         "title": "Det nemmeste CSS framework",
         "content": "Bootstrap 4 er næppe det nemmeste og hurtigste at prototype i længere. Og lidt for tungt hvis man virkelig går op i hastighed også på langsommere mobilforbindelser.\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/indholdsh%C3%A5ndtering/",
+        "title": "Indholdshåndtering",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/yaml-zettlr/",
+        "title": "Om oplevelser og langsigtet indholdsstrategi",
+        "content": "zid: 20200917203359 # Zettlr-id # author: Lennart Kiil # status: #u "
     }
     
     , 
