@@ -56,7 +56,7 @@
 <meta property="og:description" content="En blog der bygger på praktisk erfaring" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://www.kiils.dk/erfaringer/" />
-<meta property="og:updated_time" content="2020-09-17T00:00:00+00:00" /><meta property="og:site_name" content="KIILS" />
+<meta property="og:updated_time" content="2021-02-08T00:00:00+00:00" /><meta property="og:site_name" content="KIILS" />
 <meta itemprop="name" content="Erfaringer">
 <meta itemprop="description" content="En blog der bygger på praktisk erfaring">
 <meta name="twitter:card" content="summary"/>
@@ -200,12 +200,19 @@ if (!doNotTrack) {
   
 </div>
     <h1 class="f3 near-black">
-      <a href="/erfaringer/journalistik/mellemrubrikker-indholdsoversigt/" class="link black dim">
-        Mellemrubrikker som indholdsoversigt
+      <a href="/erfaringer/indhold/vim-multiple/" class="link black dim">
+        vim cheat sheet
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Det handler om at give læseren overblik
+      :bn - Switch to next buffer
+:bp - Switch to previous buffer
+:bd - Close a buffer
+:sp [filename] - Opens a new file and splits your screen horizontally to show more than one buffer
+:vsp [filename] - Opens a new file and splits your screen vertically to show more than one buffer
+:ls - Lists all open buffers
+Ctrl + ws - Split windows horizontally
+Ctrl + wv - Split windows vertically
     </div>
   </div>
 </div>
@@ -217,12 +224,13 @@ if (!doNotTrack) {
   
 </div>
     <h1 class="f3 near-black">
-      <a href="/erfaringer/frontend/jquery-javascript/" class="link black dim">
-        jQuery - væk med paranteser i tekst
+      <a href="/erfaringer/indhold/vim-redigering/" class="link black dim">
+        vim cheat sheet
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Ikke helt nemt
+      Kommandoer som J for join. For eksempel 4J for at samle fire linjer til at afsnit. Det kan man spare meget tid med. ( og ) flytter frem og tilbage i sætninger som på den måde kan splittes også vis og vas kan bruges. Specifikt vasA-slet-retur.
+Thus: :.,$j meaning &ldquo;from the current line to the last line, join them all into one line&rdquo;. :% is synonymous with :1,$ (all the lines).
     </div>
   </div>
 </div>
@@ -234,12 +242,20 @@ if (!doNotTrack) {
   
 </div>
     <h1 class="f3 near-black">
-      <a href="/erfaringer/seo/hvad-betyder-ankertekst/" class="link black dim">
-        Hvad betyder ankertekst?
+      <a href="/erfaringer/indhold/vim-tekstobjekter/" class="link black dim">
+        vim cheat sheet
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      I SEO-sprog nævnes ofte ankertekst, men hvad er det egentligt?
+      Exchange https://github.com/tommcdo/vim-exchange
+Virker også på tekstobjekter
+Kommandoer Generelt :set nu linjenummer til
+:set nu! linjenummer fra
+Bevægelse Generelt for bevægelse gælder at det sted man er, tæller med. Alrtså at bevægelsen sker fra cursorens position.
+&lt;antal&gt;[retning og objekt] Tegn h tegn tilbage
+l tegn frem
+&lt;tal&gt;go Absout fra start af fil
+Character Movement The f and F commands are extremely useful for navigating within a line. Pressing f{char} will move the next occurrence of {char} within the current line.
     </div>
   </div>
 </div>
@@ -251,12 +267,19 @@ if (!doNotTrack) {
   
 </div>
     <h1 class="f3 near-black">
-      <a href="/erfaringer/tips-tricks/sorter-markdown-efter-overskrifter/" class="link black dim">
-        Sorter markdown dokument
+      <a href="/erfaringer/indhold/vim-tips-tricks/" class="link black dim">
+        vim cheat sheet
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Sorter sektioner i markdown
+      i  for example: 12ia will insert 12 a&rsquo;s. share follow answered Apr 27 &lsquo;11 at 13:53
+qed 18.9k1616 gold badges9292 silver badges152152 bronze badges 8 This is the exact sequence of commands the OP wanted to avoid. – Kenny Evitt Sep 3 &lsquo;15 at 19:26 add a comment
+17
+Through single repeat:
+Insert mode Esc 80.
+Kommandoer Generelt :set nu linjenummer til
+:set nu! linjenummer fra
+Bevægelse Generelt for bevægelse gælder at det sted man er, tæller med.
     </div>
   </div>
 </div>
@@ -268,12 +291,15 @@ if (!doNotTrack) {
   
 </div>
     <h1 class="f3 near-black">
-      <a href="/erfaringer/tips-tricks/bevar-whitespace-output/" class="link black dim">
-        Bevar whitespace i output med &amp;nbsp;
+      <a href="/erfaringer/indhold/vim-visual/" class="link black dim">
+        vim cheat sheet
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Nogle gange her man bare brug for noget plads i et dokument
+      V Visual mode allows you to select a block of text in Vim. Once a block of text is selected you can use visual commands to perform actions on the selected text such as deleting it, copying it, etc.
+v - starts visual mode, you can then select a range of text, and run a command
+V - starts linewise visual mode (selects entire lines)
+Ctrl + v - starts visual block mode (selects columns)
     </div>
   </div>
 </div>
@@ -285,12 +311,13 @@ if (!doNotTrack) {
   
 </div>
     <h1 class="f3 near-black">
-      <a href="/erfaringer/frontend/klimaleksikon-tachyons-performance/" class="link black dim">
-        Sådan fik jeg perfekte 100 i mobilhastighed
+      <a href="/erfaringer/indhold/vim-wiki/" class="link black dim">
+        vim cheat sheet
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Det er ikke nemt i et CMS
+      Vim wiki og diary VimWiki Cheatsheet [number] refers to the wiki number, set by the order in your vimrc. The default is 1.
+Wiki Management [number]  ww - open wiki index file [number]  wt - open wiki index file in new tab  ws - list and select available wikis  wd - delete wiki page  wr - rename wiki page Diary management [number]  wi - open diary index file for wiki  w  i - update current diary index [number]  w  w - open today’s diary file for wiki [number]  w  t - open today’s diary file for wiki in new tab  - open previous day’s diary  - open next day’s diary Navigation  - follow/create wiki link  - follow/create wiki link in new tab  - go back to previous wiki page  - go to next link on current page  - go to previous link on current page Editing shortcuts  - toggle list item on/off = - add header level
     </div>
   </div>
 </div>
@@ -320,13 +347,13 @@ if (!doNotTrack) {
     <span aria-hidden="true">&nbsp;&hellip;&nbsp;</span>
   </li>
   <li class="page-item">
-    <a class="page-link" href="/erfaringer/page/6/">6</a>
+    <a class="page-link" href="/erfaringer/page/11/">11</a>
   </li>
   <li class="page-item">
     <a href="/erfaringer/page/4/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
   </li>
   <li class="page-item">
-    <a href="/erfaringer/page/6/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+    <a href="/erfaringer/page/11/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
   </li>
 </ul>
 
@@ -337,7 +364,7 @@ if (!doNotTrack) {
  <div class="pa3 pa5-l">
   <div class="flex justify-between">
   <span class="f4 fw4  white-70 pv3">
-    &copy; 2020 KIILS v/ <a class="hover-white  white-70 no-underline" href="https://www.folkets.dk/brugere/lennart-kiil">Lennart Kiil</a>
+    &copy; 2021 KIILS v/ <a class="hover-white  white-70 no-underline" href="https://www.folkets.dk/brugere/lennart-kiil">Lennart Kiil</a>
   </span>
     <div>
 

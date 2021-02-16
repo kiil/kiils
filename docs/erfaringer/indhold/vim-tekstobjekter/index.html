@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="da-dk">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Vim cheat sheet</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+
+    <meta name="description" content="">
+
+    
+<meta property="og:title" content="vim cheat sheet">
+
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2020-09-21">
+
+<meta property="og:description" content="">
+<meta property="og:url" content="https://www.kiils.dk/erfaringer/indhold/vim-tekstobjekter/">
+<meta property="og:site_name" content="KIILS">
+
+
+
+
+
+<meta property="twitter:description" content="">
+<meta property="twitter:title" content="vim cheat sheet">
+
+
+
+
+    <meta name="generator" content="Hugo 0.74.3" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    
+    
+      <link href="/dist/css/app.d98f2eb6bcd1eaedb7edf166bd16af26.css" rel="stylesheet">
+    
+
+    
+      <link rel="stylesheet" href="/css/custom.css">
+    
+
+    
+      
+    
+
+    
+      <link href="https://www.kiils.dk/erfaringer/indhold/vim-tekstobjekter/index.xml" rel="alternate" type="application/rss+xml" title="KIILS" />
+      <link href="https://www.kiils.dk/erfaringer/indhold/vim-tekstobjekter/index.xml" rel="feed" type="application/rss+xml" title="KIILS" />
+    
+
+    <meta property="og:title" content="vim cheat sheet" />
+<meta property="og:description" content="Exchange https://github.com/tommcdo/vim-exchange
+Virker også på tekstobjekter
+Kommandoer Generelt :set nu linjenummer til
+:set nu! linjenummer fra
+Bevægelse Generelt for bevægelse gælder at det sted man er, tæller med. Alrtså at bevægelsen sker fra cursorens position.
+&lt;antal&gt;[retning og objekt] Tegn h tegn tilbage
+l tegn frem
+&lt;tal&gt;go Absout fra start af fil
+Character Movement The f and F commands are extremely useful for navigating within a line. Pressing f{char} will move the next occurrence of {char} within the current line." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.kiils.dk/erfaringer/indhold/vim-tekstobjekter/" />
+<meta property="article:published_time" content="2020-09-21T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-09-21T00:00:00+00:00" /><meta property="og:site_name" content="KIILS" />
+<meta itemprop="name" content="vim cheat sheet">
+<meta itemprop="description" content="Exchange https://github.com/tommcdo/vim-exchange
+Virker også på tekstobjekter
+Kommandoer Generelt :set nu linjenummer til
+:set nu! linjenummer fra
+Bevægelse Generelt for bevægelse gælder at det sted man er, tæller med. Alrtså at bevægelsen sker fra cursorens position.
+&lt;antal&gt;[retning og objekt] Tegn h tegn tilbage
+l tegn frem
+&lt;tal&gt;go Absout fra start af fil
+Character Movement The f and F commands are extremely useful for navigating within a line. Pressing f{char} will move the next occurrence of {char} within the current line.">
+<meta itemprop="datePublished" content="2020-09-21T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2020-09-21T00:00:00+00:00" />
+<meta itemprop="wordCount" content="971">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="vim cheat sheet"/>
+<meta name="twitter:description" content="Exchange https://github.com/tommcdo/vim-exchange
+Virker også på tekstobjekter
+Kommandoer Generelt :set nu linjenummer til
+:set nu! linjenummer fra
+Bevægelse Generelt for bevægelse gælder at det sted man er, tæller med. Alrtså at bevægelsen sker fra cursorens position.
+&lt;antal&gt;[retning og objekt] Tegn h tegn tilbage
+l tegn frem
+&lt;tal&gt;go Absout fra start af fil
+Character Movement The f and F commands are extremely useful for navigating within a line. Pressing f{char} will move the next occurrence of {char} within the current line."/>
+
+      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-89827484-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    
+  </head>
+
+  <body class="ma0 avenir bg-near-white production">
+
+    
+   
+  
+
+  <header class="pa3 bg-near-black">
+
+      
+
+
+
+
+<nav class="w-100" role="navigation">
+
+
+  <div class="fl w-third pa2 " id="menuToggle">
+
+    
+    <input type="checkbox" />
+
+    
+    <span></span>
+    <span></span>
+    <span></span>
+
+    
+
+
+
+
+
+
+    
+      <ul id="menu" class="shadow-5">
+        
+
+          <a class="hover-white no-underline white-90" href="/" title="Forside page">
+                    <li class="">
+            Forside
+                    </li>
+          </a>
+
+        
+
+          <a class="hover-white no-underline white-90" href="/erfaringer/" title="Erfaring page">
+                    <li class="">
+            Erfaring
+                    </li>
+          </a>
+
+        
+
+          <a class="hover-white no-underline white-90" href="/kontakt/" title="Kontakt page">
+                    <li class="">
+            Kontakt
+                    </li>
+          </a>
+
+        
+
+          <a class="hover-white no-underline white-90" href="/kunder/" title="Kunder page">
+                    <li class="">
+            Kunder
+                    </li>
+          </a>
+
+        
+      </ul>
+    
+
+
+  </div>
+  <div class="fl w-third pa2 tc">
+  <a href="https://www.kiils.dk/" class="p0 bt bw3 lh-solid f2 fw9 tracked-tight ttu hover-white no-underline white">
+    KIILS
+  </a>
+  
+
+  </div>
+  <div class="fl w-third pa2 ">
+  <a href="/search" class="fr f3 fw2 hover-white lh-solid no-underline white-90">
+    ⌕
+  </a>
+  </div>
+
+</nav>
+
+
+  </header>
+
+
+
+    <main class="pa3 w-100 w-90-l mw8 center production" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between pa4-l">
+
+    <header class="mt4 w-100">
+      <div class="f5 b helvetica tc ttu tracked">
+  
+</div>
+      <h1 class="f2 f1-l center measure-narrow athelas tc mb4 mt4">vim cheat sheet</h1>
+      <div class="f4 mid-gray center tc tracked link  ">Af
+  
+
+     <a href="/skribenter/lennart-kiil" class="link mid-gray fw6" rel="author">
+       Lennart kiil</a>
+
+  
+</div>
+      <hr class="ml0 mt4 mb2 mw-100 bb b--mid-gray">
+      <div>
+      
+      <time class="f7 dib tracked" datetime="2020-09-21T00:00:00Z">21/09/2020</time>
+      
+      
+        <span class="f7 dib tracked"> - 5 minutter </span>
+        <span class="f7 dib tracked"> - 971 ord</span>
+      
+      </div>
+
+
+    </header>
+
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><h2 id="exchange">Exchange</h2>
+<p><a href="https://github.com/tommcdo/vim-exchange">https://github.com/tommcdo/vim-exchange</a></p>
+<p>Virker også på tekstobjekter</p>
+<h2 id="kommandoer">Kommandoer</h2>
+<h3 id="generelt">Generelt</h3>
+<pre><code>:set nu
+</code></pre><p>linjenummer til</p>
+<pre><code>:set nu!
+</code></pre><p>linjenummer fra</p>
+<h2 id="bevægelse">Bevægelse</h2>
+<p>Generelt for bevægelse gælder at det sted man er, tæller med. Alrtså at bevægelsen sker fra cursorens position.</p>
+<pre><code>&lt;antal&gt;[retning og objekt]
+</code></pre><h3 id="tegn">Tegn</h3>
+<pre><code>h
+</code></pre><p>tegn tilbage</p>
+<pre><code>l
+</code></pre><p>tegn frem</p>
+<pre><code>&lt;tal&gt;go
+</code></pre><p>Absout fra start af fil</p>
+<p>Character Movement
+The f and F commands are extremely useful for navigating within a line. Pressing f{char} will move the next occurrence of {char} within the current line. Meanwhile, F will move backwards. A numerical count argument can also be supplied, so 2f: will go to the second occurrence of : after the current cursor position.
+To move before the matching character, t and T can be used. The last ftFT can be repeated by pressing ;.</p>
+<h3 id="linjer">Linjer</h3>
+<pre><code>k
+</code></pre><p>linje op</p>
+<pre><code>j
+</code></pre><p>linje ned</p>
+<p>gg eller 1G gå tilbegyndelse af tekst</p>
+<p>G gå til slutningen af teksten</p>
+<p>&lt;tal&gt;G gå til linje-&lt;tal&gt;</p>
+<p>eller <tal>gg</p>
+<h3 id="ord">Ord</h3>
+<pre><code>b
+</code></pre><p>til start af ord og hvis allerede i starten af ordet så til start af forrige ord.</p>
+<pre><code>w
+</code></pre><p>til start af næste ord eller til punktuation.</p>
+<pre><code>e
+</code></pre><p>til slut af ord eller slut af næsten ord hvios allerede ved slut - stopper også ved punktution.</p>
+<pre><code>ge
+</code></pre><p>til slutningen af forrige ord. Stopper også ved punktuation.</p>
+<p>Typing E, W, or B will perform a similar operation, but won&rsquo;t count symbols or punctuation as separate words.</p>
+<h3 id="sætninger">Sætninger</h3>
+<pre><code>)
+</code></pre><p>Til start af næste sætning.</p>
+<pre><code>(
+</code></pre><p>Til start af denne, hvis allered epå start så start af forrige.</p>
+<h3 id="afsnit">Afsnit</h3>
+<pre><code>}
+</code></pre><p>Afsnit frem.</p>
+<pre><code>{
+</code></pre><p>Afsnit ilbage.</p>
+<h3 id="søgning">Søgning</h3>
+<p>Søgning åbner i  kommandolinjen og kræver derfor retur for at udføre.</p>
+<pre><code>/[søgeord]
+</code></pre><p>går til første sted</p>
+<pre><code>2/[søgeord]
+</code></pre><p>d/rails - delete up until the first search match for “rails”</p>
+<p>går direkte til andet sted søgeordet forekommer</p>
+<p>/ - search for any word in the file
+n - repeat last search
+N - repeat last search in opposite direction</p>
+<p>f<char> - (f)ind a character forward in a line and move to it
+T<char> - find a character backward in a line and move un(t)il it</p>
+<p>t<char> - find a character forward in a line and move un(t)il it (one character before)
+F<char> - (f)ind a character backward in a line and move to it</p>
+<h3 id="skærm">Skærm</h3>
+<p>Bevæggelser relativt til det synlige område i vinduet:</p>
+<p>Screen Positioning
+In command mode, I often find myself scrolling the screen by half increments using ctrl u and ctrl d. The equivalent full screen commands are ctrl f and ctrl b. Page up and page down may also work depending on your configuration.
+Pressing z and then return will move the current line to the top of the screen. A number will move that line number to the top of the screen, so pressing 50z and then return will make the top of the screen start at line 50. Conversely, z. will move the current line to the centre of the screen, and z- will move to the bottom.
+To move within a screen without scrolling it, H is useful because it&rsquo;ll move the cursor to the top line. M shifts it to the middle, and then L moves it to the last line.</p>
+<h3 id="tekstobjekter">Tekstobjekter</h3>
+<p>Når jeg redigerer almindelige tekster, jeg bruger ikke vim til programmering, så er tekstobjekter enormt effektive fordi de tillader hurtigt redigering af ord, sætninger og afsnit uden at cursoren skal placeres i starten af ord, sætninger eller afsnit for at lave en hanlding på hele dette &ldquo;tekstobjekt&rdquo;.</p>
+<p>Kræver en handling.</p>
+<p>a eller i skal anngives.</p>
+<pre><code>&lt;antal&gt;[handlingyi][i||a][tekstobjekt]
+</code></pre><p>hvis antal ikke angives antages 1.</p>
+<p>Motion Commands vs. Text Objects Commands
+A command using a motion, e.g., cw, operates from the current cursor position. A command using a text-object, e.g., ciw operates on the whole object regardless of the cursor position. We saw this behavior in each of the various plaintext text objects. Although this requires one more character, it saves you the time and effort of moving the cursor into the “right” position.</p>
+<p><a href="https://blog.carbonfive.com/vim-text-objects-the-definitive-guide/">https://blog.carbonfive.com/vim-text-objects-the-definitive-guide/</a></p>
+<p>Using Text Objects
+You can think of text objects as a kind of “noun” that can be used in place of motions to define a range of text from anywhere within it. Let’s look at some examples:</p>
+<p>iw, aw - inner word, a word
+ip, ap - inner paragraph, a paragraph
+i), ap - inner parenthesis, a parenthesis
+i&rsquo;, a&rsquo; - inner single quote
+i&rdquo;, a&rdquo; - inner double quote
+it, at - inner tag, a tag
+Check out this blogpost for a nice rundown of the different text objects available and practical examples.</p>
+<p>You can also get a full listing from within Vim by typing :h text-objects.</p>
+<h3 id="ord-1">Ord</h3>
+<pre><code>daw
+</code></pre><p>sletter et ord inklusive efterfølgende mellemrum. I modsætning til <code>dw</code> er det ligegyldigt hvor i ordet cursoren befinder sig.</p>
+<pre><code>diw
+</code></pre><p>sletter et ord eksklusive efterfølgende mellemrum.</p>
+<h3 id="sætning">Sætning</h3>
+<pre><code>das
+</code></pre><p>sletter en sætning inklusive efterfølgende mellemrum.</p>
+<pre><code>dis
+</code></pre><p>sletter en sætning eksklusive efterfølgende mellemrum.</p>
+<h3 id="afsnit-1">Afsnit</h3>
+<pre><code>das
+</code></pre><p>sletter et afsnit iklusive efterfølgende mellemrum.</p>
+<pre><code>dis
+</code></pre><p>sletter et afsnit eksklusive efterfølgende mellemrum.</p>
+<p>The operator either affects whole lines, or the characters between the start
+and end position. Generally, motions that move between lines affect lines
+(are linewise), and motions that move within a line affect characters (are
+characterwise). However, there are some exceptions.</p>
+<p>Der.</p>
+<h3 id="flytte-rundt">Flytte rundt</h3>
+<p>gg eller 1G gå tilbegyndelse af tekst</p>
+<p>G gå til slutningen af teksten</p>
+<p>&lt;tal&gt;G gå til linje-&lt;tal&gt;</p>
+<pre><code>&lt;tal&gt;go
+</code></pre><p>Absout fra start af fil</p>
+<h3 id="tekstmanipulation">Tekstmanipulation</h3>
+<pre><code>ciw
+</code></pre><pre><code>cw
+</code></pre><p>das slet en sætning</p>
+<p>dap slet et afsnit</p>
+<pre><code>    1 &quot;This first word should overwrite the second&quot;
+    
+    yiw     yank inner word (copy word under cursor, say &quot;first&quot;).
+    ...     Move the cursor to another word (say &quot;second&quot;).
+    viwp    select &quot;second&quot;, then replace it with &quot;first&quot;.
+</code></pre><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#f92672">[</span>antal<span style="color:#f92672">]</span> handling <span style="color:#f92672">[</span>antal<span style="color:#f92672">]</span> objekt
+</code></pre></div><p>antal = 1 med mindre andet er angivet.</p>
+<p>autocompletion (using<code>CTRL-p</code>and<code>CTRL-n</code>),</p>
+<p><a href="https://www.linux.com/training-tutorials/using-spell-checking-vim/">https://www.linux.com/training-tutorials/using-spell-checking-vim/</a></p>
+<pre><code>:set lbr
+
+:set spell spelllang=da
+</code></pre><p>To delete_blank lines_in vim (empty lines), use this vim command in “last line mode”:</p>
+<pre><code>:g/^$/d
+</code></pre>
+<ul class="pa0">
+  
+</ul>
+<ul class="pa0">
+  
+   <li class="list">
+     <a href="/emner/indholdsh%C3%A5ndtering" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Indholdshåndtering</a>
+   </li>
+  
+</ul>
+<div class="mt6">
+        
+      </div>
+
+      <div class="flex items-center justify-center pa4">
+        
+            <a href="https://www.kiils.dk/erfaringer/indhold/vim-tips-tricks/" class="f5 no-underline black bg-animate hover-bg-black hover-white inline-flex items-center pa3 ba border-box mr4">
+                <svg class="w1" data-icon="chevronLeft" viewBox="0 0 32 32" style="fill:currentcolor">
+                  <title>chevronLeft icon</title>
+                  <path d="M20 1 L24 5 L14 16 L24 27 L20 31 L6 16 z"></path>
+                </svg>
+              <span class="pl1">Forrige</span>
+            </a>
+            
+            
+            <a href="https://www.kiils.dk/erfaringer/indhold/vim-redigering/" class="f5 no-underline black bg-animate hover-bg-black hover-white inline-flex items-center pa3 ba border-box">
+              <span class="pr1">Næste</span>
+              <svg class="w1" data-icon="chevronRight" viewBox="0 0 32 32" style="fill:currentcolor">
+                <title>chevronRight icon</title>
+                <path d="M12 1 L26 16 L12 31 L8 27 L18 16 L8 5 z"></path>
+              </svg>
+            </a>
+            
+          </div>
+
+
+    </section>
+
+
+
+
+
+
+
+    <aside class="w-30-l mt6-l"><div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Indholdsfortegnelse</p>
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#exchange">Exchange</a></li>
+    <li><a href="#kommandoer">Kommandoer</a>
+      <ul>
+        <li><a href="#generelt">Generelt</a></li>
+      </ul>
+    </li>
+    <li><a href="#bevægelse">Bevægelse</a>
+      <ul>
+        <li><a href="#tegn">Tegn</a></li>
+        <li><a href="#linjer">Linjer</a></li>
+        <li><a href="#ord">Ord</a></li>
+        <li><a href="#sætninger">Sætninger</a></li>
+        <li><a href="#afsnit">Afsnit</a></li>
+        <li><a href="#søgning">Søgning</a></li>
+        <li><a href="#skærm">Skærm</a></li>
+        <li><a href="#tekstobjekter">Tekstobjekter</a></li>
+        <li><a href="#ord-1">Ord</a></li>
+        <li><a href="#sætning">Sætning</a></li>
+        <li><a href="#afsnit-1">Afsnit</a></li>
+        <li><a href="#flytte-rundt">Flytte rundt</a></li>
+        <li><a href="#tekstmanipulation">Tekstmanipulation</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+  </div>
+
+
+
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="pa3 bg-near-black bottom-0 w-100" role="contentinfo">
+ <div class="pa3 pa5-l">
+  <div class="flex justify-between">
+  <span class="f4 fw4  white-70 pv3">
+    &copy; 2021 KIILS v/ <a class="hover-white  white-70 no-underline" href="https://www.folkets.dk/brugere/lennart-kiil">Lennart Kiil</a>
+  </span>
+    <div>
+
+
+
+
+
+
+
+
+
+
+</div>
+  </div>
+
+
+
+    <ul class="list pl0 flex-column-s flex-column-m flex-l justify-between-l">
+        
+
+        
+            
+                <li class="f5 pv2">
+                    <a href="/brands/" class="hover-white no-underline white-60">
+                        <span>Brands</span>
+                    </a>
+
+
+                    
+                        <ul class="list pl1">
+                        <li class="f7">
+                        <a href="/brands/digitalt/" class="hover-white no-underline white-60">
+                            <span>digitalt</span>
+                        </a>
+                        </li>
+                      </ul>
+                    
+                        <ul class="list pl1">
+                        <li class="f7">
+                        <a href="/brands/folkets-avis/" class="hover-white no-underline white-60">
+                            <span>Folkets Avis</span>
+                        </a>
+                        </li>
+                      </ul>
+                    
+                        <ul class="list pl1">
+                        <li class="f7">
+                        <a href="/brands/mediem%C3%B8llen/" class="hover-white no-underline white-60">
+                            <span>Mediemøllen</span>
+                        </a>
+                        </li>
+                      </ul>
+                    
+                        <ul class="list pl1">
+                        <li class="f7">
+                        <a href="/brands/r%C3%A6vekagen/" class="hover-white no-underline white-60">
+                            <span>Rævekagen</span>
+                        </a>
+                        </li>
+                      </ul>
+                    
+                </li>
+            
+        
+            
+                <li class="f5 pv2">
+                    <a href="/cases/" class="hover-white no-underline white-60">
+                        <span>Cases</span>
+                    </a>
+
+
+                    
+                        <ul class="list pl1">
+                        <li class="f7">
+                        <a href="/cases/coronakatastrofen/" class="hover-white no-underline white-60">
+                            <span>Coronakatastrofen</span>
+                        </a>
+                        </li>
+                      </ul>
+                    
+                        <ul class="list pl1">
+                        <li class="f7">
+                        <a href="/cases/folkets/" class="hover-white no-underline white-60">
+                            <span>FOLKETS</span>
+                        </a>
+                        </li>
+                      </ul>
+                    
+                </li>
+            
+        
+            
+                <li class="f5 pv2">
+                    <a href="/emner/" class="hover-white no-underline white-60">
+                        <span>Emner</span>
+                    </a>
+
+
+                    
+                        <ul class="list pl1">
+                        <li class="f7">
+                        <a href="/emner/abonnementsmodellen/" class="hover-white no-underline white-60">
+                            <span>Abonnementsmodellen</span>
+                        </a>
+                        </li>
+                      </ul>
+                    
+                </li>
+            
+        
+            
+                <li class="f5 pv2">
+                    <a href="/tools/" class="hover-white no-underline white-60">
+                        <span>Tools</span>
+                    </a>
+
+
+                    
+                        <ul class="list pl1">
+                        <li class="f7">
+                        <a href="/tools/drupal-8/" class="hover-white no-underline white-60">
+                            <span>Drupal 8</span>
+                        </a>
+                        </li>
+                      </ul>
+                    
+                </li>
+            
+        
+
+    </ul>
+  </div>
+</footer>
+
+    
+
+  <script src="/dist/js/app.3fc0f988d21662902933.js"></script>
+
+
+  </body></html>

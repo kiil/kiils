@@ -3,8 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.kiils.dk/tools/atom/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kiils.dk/emner/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -21,7 +28,7 @@
   
   <url>
     <loc>https://www.kiils.dk/erfaringer/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -37,22 +44,15 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/erfaringer/indhold/yaml-zettlr/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/emner/indholdsh%C3%A5ndtering/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+    <loc>https://www.kiils.dk/erfaringer/mediedrift/2020-2021/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.kiils.dk/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -69,7 +69,7 @@
   
   <url>
     <loc>https://www.kiils.dk/skribenter/lennart-kiil/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -85,8 +85,15 @@
   </url>
   
   <url>
+    <loc>https://www.kiils.dk/tools/perl/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kiils.dk/skribenter/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -102,8 +109,29 @@
   </url>
   
   <url>
+    <loc>https://www.kiils.dk/emner/struktur/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/tools/terminal/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/tips/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kiils.dk/tools/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -116,6 +144,174 @@
                 hreflang="da"
                 href="https://www.kiils.dk/tools/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/tricks/</loc>
+    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/tools/google/</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/emner/indholdsh%C3%A5ndtering/</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/tips-tricks/soeg-kun-andre-lande/</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/tools/vim/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/indhold/vim-andet/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/indhold/vim-buffers/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/indhold/vim-erstat/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/indhold/vim-file-management/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/indhold/vim-fzf/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/indhold/vim-generelt/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/indhold/vim-handlinger/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/indhold/vim-intro/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/indhold/vim-kommando/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/indhold/vim-motions/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/indhold/vim-multiple/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/indhold/vim-redigering/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/indhold/vim-tekstobjekter/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/indhold/vim-tips-tricks/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/indhold/vim-visual/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/indhold/vim-wiki/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/indhold/vim-zettelkasten/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/indhold/vim-registre/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/indhold/yaml-zettlr/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -212,7 +408,21 @@
   </url>
   
   <url>
+    <loc>https://www.kiils.dk/erfaringer/tips-tricks/computer-investering/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kiils.dk/erfaringer/tips-tricks/grep-mv/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/tips-tricks/vim-zsh/</loc>
     <lastmod>2020-09-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -226,28 +436,14 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/tools/terminal/</loc>
-    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/emner/tips/</loc>
-    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/emner/tricks/</loc>
-    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kiils.dk/tools/zsh/</loc>
+    <lastmod>2020-09-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/tips-tricks/zsh-cheatsheet/</loc>
     <lastmod>2020-09-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -270,20 +466,6 @@
   <url>
     <loc>https://www.kiils.dk/emner/sortering/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/emner/struktur/</loc>
-    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kiils.dk/tools/atom/</loc>
-    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -634,13 +816,6 @@
   </url>
   
   <url>
-    <loc>https://www.kiils.dk/tools/perl/</loc>
-    <lastmod>2019-07-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kiils.dk/erfaringer/tips-tricks/sorter-markdown-efter-overskrifter/</loc>
     <lastmod>2019-07-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -706,6 +881,20 @@
   <url>
     <loc>https://www.kiils.dk/emner/ydelse/</loc>
     <lastmod>2019-06-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/drupal/drupal-error/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/drupal/drupal-render/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -862,6 +1051,12 @@
   
   <url>
     <loc>https://www.kiils.dk/erfaringer/muren/dogmer/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiils.dk/erfaringer/test/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -2,6 +2,13 @@
     
     
     {
+        "url": "/tools/atom/",
+        "title": "atom",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/emner/",
         "title": "Emner",
         "content": "Emner i det arbejde Kiils laver\n"
@@ -16,23 +23,16 @@
     
     , 
     {
-        "url": "/erfaringer/indhold/yaml-zettlr/",
-        "title": "Frontmatter i Zettlr",
-        "content": "zid: 20200917203359 # Zettlr-id # author: Lennart Kiil # status: #u "
-    }
-    
-    , 
-    {
-        "url": "/emner/indholdsh%C3%A5ndtering/",
-        "title": "Indholdshåndtering",
-        "content": ""
+        "url": "/erfaringer/mediedrift/2020-2021/",
+        "title": "Ikke godt",
+        "content": "  Februar 2020 sammelignet med 2021   Helt nøjagtigt 15539,97 kroner i 2020 og 7913,13 i 2021.\nFra en månedlig indtægt på abonnenter på knap 16000 ned til knap 8000. Alrså en halvering på blot et år.\nDet er status efter et år med corona hvor jeg også mistede alle mine annonceindtæger. Alle.\n"
     }
     
     , 
     {
         "url": "/",
         "title": "Kiils | digitalt mediebureau",
-        "content": " 17 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier Måske kan jeg hjælpe dig? Kontakt mig nu!  "
+        "content": " 18 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier Måske kan jeg hjælpe dig? Kontakt mig nu!    "
     }
     
     , 
@@ -44,8 +44,36 @@
     
     , 
     {
+        "url": "/tools/perl/",
+        "title": "perl",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/skribenter/",
         "title": "Skribenter",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/struktur/",
+        "title": "struktur",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/terminal/",
+        "title": "terminal",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/tips/",
+        "title": "tips",
         "content": ""
     }
     
@@ -54,6 +82,174 @@
         "url": "/tools/",
         "title": "Tools",
         "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/tricks/",
+        "title": "tricks",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/google/",
+        "title": "Google",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/indholdsh%C3%A5ndtering/",
+        "title": "Indholdshåndtering",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/tips-tricks/soeg-kun-andre-lande/",
+        "title": "Udeluk land i søgning",
+        "content": "Hvadd nu hvis man gerne vil frasorte resultater fra et bestemt land?\nSøgeord -dk "
+    }
+    
+    , 
+    {
+        "url": "/tools/vim/",
+        "title": "Vim",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/vim-andet/",
+        "title": "vim cheat sheet",
+        "content": "CTRL-] er CTRL-å\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/vim-buffers/",
+        "title": "vim cheat sheet",
+        "content": ":ba open each buffer in \u0026ldquo;window\u0026rdquo; / \u0026ldquo;split\u0026rdquo; :enew doesn\u0026rsquo;t take any arguments and opens a blank buffer. Kræver ikke filnavn :new in new window / split :edit closes my existing buffer.\n:buffers: List available buffers :ls: Same as above :bn: Switch to next buffer :bp: Switch to previous buffer :bfirst: Switch to first buffer :blast: Switch to last buffer :bdelete: Delete the current buffer :badd: Open a new buffer with the filename that follows :e: Edit another file in a new buffer and switch to it. også :edit - kræver filnavn\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/vim-erstat/",
+        "title": "vim cheat sheet",
+        "content": "You don\u0026rsquo;t need to use the slash character as the expression delimiter. Whatever character follows the :s is defined to be the delimiter character. You can use most non-alphanumeric characters (but not , \u0026quot; or |).\nKun på søgeordet nærmest cursoren\n:s/[pattern]/[replacement] Eksempel:\n:s/han/hun Kun på den linje hvor cursoren befinder sig\n:s/[pattern]/[replacement]/g Eksempel:\n:s/han/hun/g Hele filen\n:%s/[pattern]/[replacement]/g Eksempel:\n:%s/han/hun/g Hvis hvert tilfælde skal bekræftes tilføjes et c for confirm, sådan her:\n:%s/han/hun/gc "
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/vim-file-management/",
+        "title": "vim cheat sheet",
+        "content": "** Gem en del af en fil, ved at skrive v bevægelse :w FILNAVN **\n** Indsæt indholdet af en fil, ved at skrive :r FILNAVN **\nMange filer Mange filer fra kommandolinjen inden vim åbnes vim *.md # åbner alle md filer i pågældende folder Mange filer når vim allerede er åben Se: https://vi.stackexchange.com/questions/2607/how-to-open-multiple-files-matching-a-wildcard-expression\n:args *.md # åbner alle md filer i args-listen :n[ext] *.md # aåbner alle md fil som buffers :e ny .md buffer med navn\nnetrw :Lex så bliver vinduet der og filerne åbnes en efter en til højre for som i project drawer\nOpening files in vim\nOpening a new file for editing\nIf you’re already in vim, then there’s no need to exit it just to open a new file. Simply switch to the command mode (ESC) and type:\n:e /path/to/file That will open the file for editing. You can also use the tab-key for autocompletion of the path. Please note that the current file must be saved, or you’ve to use :e! to discard the unsaved changes.\nReading in a file into the current buffer (file)\nHave you found yourself in the situation, where you had to merge the content of two files? There’s always the shell way by using cat foo \u0026raquo;bar. But what about when you don’t want to append the content on the end of the file, or if you’re already in vim?\nOf course we can also to that! Instead of :e, we simply use :r:\n:r /path/to/file Can’t remember those commands? Just try to remember, :e means edit, while :r means read.\nnetrw - den indbyggede fil-browser Use the r key to set Reverse sorting order. Then press the s key to sort using a particular style : by name, time or file size.\nt\tEnter the file/directory under the cursor in a new tab\n Flere    Map Action     \u0026lt;F1\u0026gt; Causes Netrw to issue help   \u0026lt;cr\u0026gt; Netrw will enter the directory or read the file   \u0026lt;del\u0026gt; Netrw will attempt to remove the file/directory   - Makes Netrw go up one directory   a Toggles between normal display, hiding (suppress display of files matching g:netrw_list_hide) showing (display only files which match g:netrw_list_hide)   c Make browsing directory the current directory   C Setting the editing window   d Make a directory   D Attempt to remove the file(s)/directory(ies)   gb Go to previous bookmarked directory   gh Quick hide/unhide of dot-files   \u0026lt;c-h\u0026gt; Edit file hiding list   i Cycle between thin, long, wide and tree listings   \u0026lt;c-l\u0026gt; Causes Netrw to refresh the directory listing   mb Bookmark current directory   mc Copy marked files to marked-file target directory   md Apply diff to marked files (up to 3)   me Place marked files on arg list and edit them   mf Mark a file   mh Toggle marked file suffices\u0026rsquo; presence on hiding list   mm Move marked files to marked-file target directory   mp Print marked files   mr Mark files satisfying a shell-style   mt Current browsing directory becomes markfile target   mT Apply ctags to marked files   mu Unmark all marked files   mx Apply arbitrary shell command to marked files   mz Compress/decompress marked files   o Enter the file/directory under the cursor in a new browser window. A horizontal split is used.   O Obtain a file specified by cursor   p Preview the file   P Browse in the previously used window   qb List bookmarked directories and history   qf Display information on file   r Reverse sorting order   R Rename the designed file(s)/directory(ies)   s Select sorting style: by name, time or file size   S Specify suffix priority for name-sorting   t Enter the file/directory under the cursor in a new tab   u Change to recently-visited directory   U Change to subsequently-visited directory   v Enter the file/directory under the cursor in a new browser window. A vertical split is used.   x View file with an associated program   X Execute filename under cursor via   % Open a new file in netrw\u0026rsquo;s current directory     The file browser\nDid you know Vim also has a file browser called Netrw? You can access it by defining a directory instead of a file, for example:\nOn the command line vim /path/to/directory/\nIn Vim command mode :e /path/to/directory/ Of course there are the obvious keys you might need, for example:\nThe cursor (or hjkl) keys to browse through the list The return key to enter a directory or open the file But did you know about these:\n– will browse up one dir i will change the browser style I will hide the header D will delete a file (confirmation required) R will rename a file s will change the sorting (name, time, size, exten) r will revert the sorting I really like the collapsing tree browsing style (I think it’s #4). You can access it by pressing i 3 times (by default).\nIn this blog post, I’d like to show you how to use Vim to open and edit multiple files. Use the right techniques and you’ll be even more productive in handling multiple files at the same time.\nThis is the follow up of Mastering Vim: Opening files.\nOpening multiple files\nOpening multiple files in vim is straight forward. Just append all the filenames as CLI args and you’re ready to go:\nvim /path/to/file1 /path/to/file2 /path/to/file3 With the Vim opened, you can now see the first file.\nTo jump between the files you can use the following vim commands:\n:n(ext) # jumps to the next file :prev # jumps to the previous file Easy, isn’t it? But now you can’t really see what files are available for editing, right? Just keep on reading and learn more about tabs.\nUsing tabs\nVim is awesome, and because of that it is also supporting tabs out of the box – at least since Vim 7.0.\nSo let’s stick to the last example, but this time we want to open the 3 files in separate tabs by using the -p CLI flag:\nvim -p /path/to/file1 /path/to/file2 /path/to/file3 Vim is launched as before, but this time all files will be opened in tabs instead of hidden buffers. The tab bar is displayed on the top of the editor / window.\nOf course you can also open a new tab when you’re already in Vim in the normal mode:\n:tabe [/path/to/file] (command-line command) Interfer with tabs by staying in normal mode and using the following commands / keystrokes:\nJumping to the next tab is either gt (normal mode command) or :tabn[ext] (command-line command) Jumping to the previous tab is either gT (normal mode command) or :tabp[revious] (command-line command) Jumping to a specific tab is ngt (normal mode command), where n is the tab index starting by 1 Closing the current tab is :tabc[lose] (command-line command) Looks even more promising. But you still might ask yourself how you can edit multiple files in the same window, right? Let’s see that!\nSplitting the window\nOf course vim can also display multiple files in one single window / workspace. Just use the integrated split feature of Vim.\nTo split the window you can use one of the following command-line commands in Vim:\n:sp[lit] [/path/to/file] # splits the window horizontally [and opens the file] :vs[plit] [/path/to/file] # splits the window vertically [and opens the file] Now you’ve multiple windows open in Vim. Just see them as “multiple Vim’s” aligned in a single terminal window.\nHandling the windows can be tricky, but you’ll get used to it after a short time 😉 Just stay in the normal mode and use the following commands / keystrokes:\nJumping between windows is Ctrl-w \u0026lt;cursor keys\u0026gt;, Ctrl-w [hjkl], or Ctrl-w Ctrl-[hjkl] Jumping to the next window is Ctrl-w w or Ctrl-w Ctrl-w Jumping to the previous window is Ctrl-w W Jumping to the last accessed window is Ctrl-w p or Ctrl-w Ctrl-p Closing the current window is Ctrl-w c or :clo[se] Make the current window the only one and close all other ones is Ctrl-w o or :on[ly] Tabs, windows and workspaces\nNow as you know windows \u0026amp; tabs, please note the following.\nTabs are not classic “file tabs” as in most editors. Instead of it, tabs are like workspaces or window layouts. By default, each tab has exactly one window, and each window has exactly one file. It looks a bit like this:\nVim editor -\u0026gt; Tab(s) -\u0026gt; Window(s) -\u0026gt; File Tabs are our workspaces, and you can easily split the window within the tabs, which means you can have multiple windows in a single tab. So a tab can “host” one or more windows, but not the other way around! Each tab is responsible for its own workspace / window layout.\nTo display the contents, windows and tabs simply use the following command-line command:\n:tabs Using the mouse\nNow, remembering all those keystrokes can be tricky and moving around in windows \u0026amp; tabs can be frustrating in the beginning. Though, if your terminal has integrated mouse support, then you might be able to use the mouse instead of the commands. Just activate the mouse support first:\n:set mouse=a After that you should be able to change windows and/or tabs via mouse click. If it doesn’t work, make sure your terminal has mouse support and it’s activated.\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/vim-fzf/",
+        "title": "vim cheat sheet",
+        "content": "FZF syntax Let\u0026rsquo;s go over syntax so we can search more efficiently. Fortunately for us, there aren\u0026rsquo;t many to learn.\n^ is a prefix exact match. To search for phrase starting with \u0026ldquo;welcome\u0026rdquo;, we do ^welcome. $ is a suffix exact match. To search for phrase ending with \u0026ldquo;my friends\u0026rdquo;, we do friends$. ' is an exact match. To search for phrase \u0026ldquo;welcome my friends\u0026rdquo;, we do \u0026lsquo;welcome my friends. | is an \u0026ldquo;or\u0026rdquo; match. To search for either \u0026ldquo;friends\u0026rdquo; or \u0026ldquo;foes\u0026rdquo;, we can use friends | foes. ! is an inverse match. To search for phrase containing \u0026ldquo;welcome\u0026rdquo; and not \u0026ldquo;friends\u0026rdquo;, we can use welcome !friends We can mix and match the above. For example, ^hello | ^welcome friends$ searches for phrase starting with either \u0026ldquo;welcome\u0026rdquo; or \u0026ldquo;hello\u0026rdquo; and ending with \u0026ldquo;friends\u0026rdquo;.\nhttps://dev.to/iggredible/how-to-search-faster-in-vim-with-fzf-vim-36ko\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/vim-generelt/",
+        "title": "vim cheat sheet",
+        "content": "Kommandoer Generelt :set nu linjenummer til\n:set nu! linjenummer fra\nBevægelse Generelt for bevægelse gælder at det sted man er, tæller med. Alrtså at bevægelsen sker fra cursorens position.\n\u0026lt;antal\u0026gt;[retning og objekt] Tegn h tegn tilbage\nl tegn frem\n\u0026lt;tal\u0026gt;go Absout fra start af fil\nCharacter Movement The f and F commands are extremely useful for navigating within a line. Pressing f{char} will move the next occurrence of {char} within the current line. Meanwhile, F will move backwards. A numerical count argument can also be supplied, so 2f: will go to the second occurrence of : after the current cursor position. To move before the matching character, t and T can be used. The last ftFT can be repeated by pressing ;.\nLinjer k linje op\nj linje ned\ngg eller 1G gå tilbegyndelse af tekst\nG gå til slutningen af teksten\n\u0026lt;tal\u0026gt;G gå til linje-\u0026lt;tal\u0026gt;\neller gg\nOrd b til start af ord og hvis allerede i starten af ordet så til start af forrige ord.\nw til start af næste ord eller til punktuation.\ne til slut af ord eller slut af næsten ord hvios allerede ved slut - stopper også ved punktution.\nge til slutningen af forrige ord. Stopper også ved punktuation.\nTyping E, W, or B will perform a similar operation, but won\u0026rsquo;t count symbols or punctuation as separate words.\nSætninger ) Til start af næste sætning.\n( Til start af denne, hvis allered epå start så start af forrige.\nAfsnit } Afsnit frem.\n{ Afsnit ilbage.\nSøgning Søgning åbner i kommandolinjen og kræver derfor retur for at udføre.\n/[søgeord] går til første sted\n2/[søgeord] d/rails - delete up until the first search match for “rails”\ngår direkte til andet sted søgeordet forekommer\n/ - search for any word in the file n - repeat last search N - repeat last search in opposite direction\nf - (f)ind a character forward in a line and move to it T - find a character backward in a line and move un(t)il it\nt - find a character forward in a line and move un(t)il it (one character before) F - (f)ind a character backward in a line and move to it\nSkærm Bevæggelser relativt til det synlige område i vinduet:\nScreen Positioning In command mode, I often find myself scrolling the screen by half increments using ctrl u and ctrl d. The equivalent full screen commands are ctrl f and ctrl b. Page up and page down may also work depending on your configuration. Pressing z and then return will move the current line to the top of the screen. A number will move that line number to the top of the screen, so pressing 50z and then return will make the top of the screen start at line 50. Conversely, z. will move the current line to the centre of the screen, and z- will move to the bottom. To move within a screen without scrolling it, H is useful because it\u0026rsquo;ll move the cursor to the top line. M shifts it to the middle, and then L moves it to the last line.\nTekstobjekter Når jeg redigerer almindelige tekster, jeg bruger ikke vim til programmering, så er tekstobjekter enormt effektive fordi de tillader hurtigt redigering af ord, sætninger og afsnit uden at cursoren skal placeres i starten af ord, sætninger eller afsnit for at lave en hanlding på hele dette \u0026ldquo;tekstobjekt\u0026rdquo;.\nKræver en handling.\na eller i skal anngives.\n\u0026lt;antal\u0026gt;[handlingyi][i||a][tekstobjekt] hvis antal ikke angives antages 1.\nMotion Commands vs. Text Objects Commands A command using a motion, e.g., cw, operates from the current cursor position. A command using a text-object, e.g., ciw operates on the whole object regardless of the cursor position. We saw this behavior in each of the various plaintext text objects. Although this requires one more character, it saves you the time and effort of moving the cursor into the “right” position.\nhttps://blog.carbonfive.com/vim-text-objects-the-definitive-guide/\nUsing Text Objects You can think of text objects as a kind of “noun” that can be used in place of motions to define a range of text from anywhere within it. Let’s look at some examples:\niw, aw - inner word, a word ip, ap - inner paragraph, a paragraph i), ap - inner parenthesis, a parenthesis i\u0026rsquo;, a\u0026rsquo; - inner single quote i\u0026rdquo;, a\u0026rdquo; - inner double quote it, at - inner tag, a tag Check out this blogpost for a nice rundown of the different text objects available and practical examples.\nYou can also get a full listing from within Vim by typing :h text-objects.\nOrd daw sletter et ord inklusive efterfølgende mellemrum. I modsætning til dw er det ligegyldigt hvor i ordet cursoren befinder sig.\ndiw sletter et ord eksklusive efterfølgende mellemrum.\nSætning das sletter en sætning inklusive efterfølgende mellemrum.\ndis sletter en sætning eksklusive efterfølgende mellemrum.\nAfsnit das sletter et afsnit iklusive efterfølgende mellemrum.\ndis sletter et afsnit eksklusive efterfølgende mellemrum.\nThe operator either affects whole lines, or the characters between the start and end position. Generally, motions that move between lines affect lines (are linewise), and motions that move within a line affect characters (are characterwise). However, there are some exceptions.\nDer.\nFlytte rundt gg eller 1G gå tilbegyndelse af tekst\nG gå til slutningen af teksten\n\u0026lt;tal\u0026gt;G gå til linje-\u0026lt;tal\u0026gt;\n\u0026lt;tal\u0026gt;go Absout fra start af fil\nTekstmanipulation ciw cw das slet en sætning\ndap slet et afsnit\n 1 \u0026quot;This first word should overwrite the second\u0026quot; yiw yank inner word (copy word under cursor, say \u0026quot;first\u0026quot;). ... Move the cursor to another word (say \u0026quot;second\u0026quot;). viwp select \u0026quot;second\u0026quot;, then replace it with \u0026quot;first\u0026quot;. [antal] handling [antal] objekt antal = 1 med mindre andet er angivet.\nautocompletion (usingCTRL-pandCTRL-n),\nhttps://www.linux.com/training-tutorials/using-spell-checking-vim/\n:set lbr :set spell spelllang=da To delete_blank lines_in vim (empty lines), use this vim command in “last line mode”:\n:g/^$/d  "
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/vim-handlinger/",
+        "title": "vim cheat sheet",
+        "content": "(subjektobjekt)\n2d2w = 4dw = d4w\n2d2w = 4d1w = 1d4w\nFor at arbejde effektivt, hurtigt og kreativt, så foretrækker jeg at splitte skriveproces og redigeringsproces op.\nDerfor er jeg gladd for at vim har to modes som passer til det worflow. Og når jeg reidgerer vil jeg helst blive i normal mode.\nBlive i normal  r - i normal-mode udskift (replace) et tegn under cursoren uden at skifte til insert\n Gå i erstat-mode R\nSlet BEMærk at slet også kopierer over i default registeret\nd - Deletes highlighted text\ndd - Deletes a line of text\nAndet dG\nyy - Copies a line\nyw - Copies a word\ny$ - Copies from where your cursor is to the end of a line\nv - Highlight one character at a time using arrow buttons or the h, k, j, l buttons\nV - Highlights one line, and movement keys can allow you to highlight additional lines\np - put ind Paste whatever has been copied to the unnamed register\ndw - Deletes a word\nde - som dw men tager ikke efterfølgende mellemrum med væk\nD - Deletes everything from where your cursor is to the end of the line\nd0 - Deletes everything from where your cursor is to the beginning of the line\ndgg - Deletes everything from where your cursor is to the beginning of the file\ndG - Deletes everything from where your cursor is to the end of the file\nx - Deletes a single character under cursoren delete X - sletter et tegn til venstre for cursoren backspace\nu - Undo the last operation; u# allows you to undo multiple actions\nCtrl + r - Redo the last undo\n. - Repeats the last action\nFra normal til insert  a = efter cursoren og insert\nA = efter slutningen af linjen og insert\nce = sletter fra og med cursor og resten af ordet\ncc = sletter hele linjen og går i insert\nC slet fra cursor og resten af linjen og gå i insert\ni\nI starten af linjen og insert\no ny linje under\nO ny linje over\ns slet tegn og gå i insert\n "
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/vim-intro/",
+        "title": "vim cheat sheet",
+        "content": "Kommandoer Generelt :set nu linjenummer til\n:set nu! linjenummer fra\nBevægelse Generelt for bevægelse gælder at det sted man er, tæller med. Alrtså at bevægelsen sker fra cursorens position.\n\u0026lt;antal\u0026gt;[retning og objekt] Tegn h tegn tilbage\nl tegn frem\n\u0026lt;tal\u0026gt;go Absout fra start af fil\nCharacter Movement The f and F commands are extremely useful for navigating within a line. Pressing f{char} will move the next occurrence of {char} within the current line. Meanwhile, F will move backwards. A numerical count argument can also be supplied, so 2f: will go to the second occurrence of : after the current cursor position. To move before the matching character, t and T can be used. The last ftFT can be repeated by pressing ;.\nLinjer k linje op\nj linje ned\ngg eller 1G gå tilbegyndelse af tekst\nG gå til slutningen af teksten\n\u0026lt;tal\u0026gt;G gå til linje-\u0026lt;tal\u0026gt;\neller gg\nOrd b til start af ord og hvis allerede i starten af ordet så til start af forrige ord.\nw til start af næste ord eller til punktuation.\ne til slut af ord eller slut af næsten ord hvios allerede ved slut - stopper også ved punktution.\nge til slutningen af forrige ord. Stopper også ved punktuation.\nTyping E, W, or B will perform a similar operation, but won\u0026rsquo;t count symbols or punctuation as separate words.\nSætninger ) Til start af næste sætning.\n( Til start af denne, hvis allered epå start så start af forrige.\nAfsnit } Afsnit frem.\n{ Afsnit ilbage.\nSøgning Søgning åbner i kommandolinjen og kræver derfor retur for at udføre.\n/[søgeord] går til første sted\n2/[søgeord] d/rails - delete up until the first search match for “rails”\ngår direkte til andet sted søgeordet forekommer\n/ - search for any word in the file n - repeat last search N - repeat last search in opposite direction\nf - (f)ind a character forward in a line and move to it T - find a character backward in a line and move un(t)il it\nt - find a character forward in a line and move un(t)il it (one character before) F - (f)ind a character backward in a line and move to it\nSkærm Bevæggelser relativt til det synlige område i vinduet:\nScreen Positioning In command mode, I often find myself scrolling the screen by half increments using ctrl u and ctrl d. The equivalent full screen commands are ctrl f and ctrl b. Page up and page down may also work depending on your configuration. Pressing z and then return will move the current line to the top of the screen. A number will move that line number to the top of the screen, so pressing 50z and then return will make the top of the screen start at line 50. Conversely, z. will move the current line to the centre of the screen, and z- will move to the bottom. To move within a screen without scrolling it, H is useful because it\u0026rsquo;ll move the cursor to the top line. M shifts it to the middle, and then L moves it to the last line.\nTekstobjekter Når jeg redigerer almindelige tekster, jeg bruger ikke vim til programmering, så er tekstobjekter enormt effektive fordi de tillader hurtigt redigering af ord, sætninger og afsnit uden at cursoren skal placeres i starten af ord, sætninger eller afsnit for at lave en hanlding på hele dette \u0026ldquo;tekstobjekt\u0026rdquo;.\nKræver en handling.\na eller i skal anngives.\n\u0026lt;antal\u0026gt;[handlingyi][i||a][tekstobjekt] hvis antal ikke angives antages 1.\nMotion Commands vs. Text Objects Commands A command using a motion, e.g., cw, operates from the current cursor position. A command using a text-object, e.g., ciw operates on the whole object regardless of the cursor position. We saw this behavior in each of the various plaintext text objects. Although this requires one more character, it saves you the time and effort of moving the cursor into the “right” position.\nhttps://blog.carbonfive.com/vim-text-objects-the-definitive-guide/\nUsing Text Objects You can think of text objects as a kind of “noun” that can be used in place of motions to define a range of text from anywhere within it. Let’s look at some examples:\niw, aw - inner word, a word ip, ap - inner paragraph, a paragraph i), ap - inner parenthesis, a parenthesis i\u0026rsquo;, a\u0026rsquo; - inner single quote i\u0026rdquo;, a\u0026rdquo; - inner double quote it, at - inner tag, a tag Check out this blogpost for a nice rundown of the different text objects available and practical examples.\nYou can also get a full listing from within Vim by typing :h text-objects.\nOrd daw sletter et ord inklusive efterfølgende mellemrum. I modsætning til dw er det ligegyldigt hvor i ordet cursoren befinder sig.\ndiw sletter et ord eksklusive efterfølgende mellemrum.\nSætning das sletter en sætning inklusive efterfølgende mellemrum.\ndis sletter en sætning eksklusive efterfølgende mellemrum.\nAfsnit das sletter et afsnit iklusive efterfølgende mellemrum.\ndis sletter et afsnit eksklusive efterfølgende mellemrum.\nThe operator either affects whole lines, or the characters between the start and end position. Generally, motions that move between lines affect lines (are linewise), and motions that move within a line affect characters (are characterwise). However, there are some exceptions.\nDer.\nFlytte rundt gg eller 1G gå tilbegyndelse af tekst\nG gå til slutningen af teksten\n\u0026lt;tal\u0026gt;G gå til linje-\u0026lt;tal\u0026gt;\n\u0026lt;tal\u0026gt;go Absout fra start af fil\nTekstmanipulation ciw cw das slet en sætning\ndap slet et afsnit\n 1 \u0026quot;This first word should overwrite the second\u0026quot; yiw yank inner word (copy word under cursor, say \u0026quot;first\u0026quot;). ... Move the cursor to another word (say \u0026quot;second\u0026quot;). viwp select \u0026quot;second\u0026quot;, then replace it with \u0026quot;first\u0026quot;. [antal] handling [antal] objekt antal = 1 med mindre andet er angivet.\nautocompletion (usingCTRL-pandCTRL-n),\nhttps://www.linux.com/training-tutorials/using-spell-checking-vim/\n:set lbr :set spell spelllang=da To delete_blank lines_in vim (empty lines), use this vim command in “last line mode”:\n:g/^$/d  "
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/vim-kommando/",
+        "title": "vim cheat sheet",
+        "content": ":vnew | r ! pdt # :w! temp.html | silent !open /Applications/Safari.app % "
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/vim-motions/",
+        "title": "vim cheat sheet",
+        "content": "If you type A after G you will enter insert mode at the end of the last line.\nIf you just want to go to the last character, then G-End will suffice\nExchange https://github.com/tommcdo/vim-exchange\nVirker også på tekstobjekter\nTranspose two characters In Emacs, you have C-t (transpose-chars) which transposes the two characters before the cursor, for instance to turn normla into normal. The equivalent keypress in Vim is xp (or Xp, depending on cursor position): Delete a character and put it after the following character.\nt = til\nfx ctf = sletter indtil første f i linjen og sætter i insert.\nT går den anden vej\nf det samme men inklisive det valgte bogtav\nKommandoer Generelt :set nu linjenummer til\n:set nu! linjenummer fra\nBevægelse Generelt for bevægelse gælder at det sted man er, tæller med. Alrtså at bevægelsen sker fra cursorens position.\n\u0026lt;antal\u0026gt;[retning og objekt] Tegn h tegn tilbage\nl tegn frem\n\u0026lt;tal\u0026gt;go Absout fra start af fil\nCharacter Movement The f and F commands are extremely useful for navigating within a line. Pressing f{char} will move the next occurrence of {char} within the current line. Meanwhile, F will move backwards. A numerical count argument can also be supplied, so 2f: will go to the second occurrence of : after the current cursor position. To move before the matching character, t and T can be used. The last ftFT can be repeated by pressing ;.\nLinjer k linje op\nj linje ned\ngg eller 1G gå tilbegyndelse af tekst\nG gå til slutningen af teksten\n\u0026lt;tal\u0026gt;G gå til linje-\u0026lt;tal\u0026gt;\neller gg\nOrd b til start af ord og hvis allerede i starten af ordet så til start af forrige ord.\nw til start af næste ord eller til punktuation.\ne til slut af ord eller slut af næsten ord hvios allerede ved slut - stopper også ved punktution.\nge til slutningen af forrige ord. Stopper også ved punktuation.\nTyping E, W, or B will perform a similar operation, but won\u0026rsquo;t count symbols or punctuation as separate words.\nSætninger ) Til start af næste sætning.\n( Til start af denne, hvis allered epå start så start af forrige.\nAfsnit } Afsnit frem.\n{ Afsnit ilbage.\nSøgning Søgning åbner i kommandolinjen og kræver derfor retur for at udføre.\n/[søgeord] går til første sted\n2/[søgeord] d/rails - delete up until the first search match for “rails”\ngår direkte til andet sted søgeordet forekommer\n/ - search for any word in the file n - repeat last search N - repeat last search in opposite direction\n\u0026ldquo;inline\u0026rdquo; søgning f - (f)ind a character forward in a line and move to it T - find a character backward in a line and move un(t)il it\nt - find a character forward in a line and move un(t)il it (one character before) F - (f)ind a character backward in a line and move to\n; \u0026ldquo;Repeat latest f, t, F or T [count] times.\u0026rdquo; , Modsat retning\nI find f and t very useful in combination with d and c. For example, ct: will let you replace everything from your cursor up to the next colon, but not delete the colon. You can remember it as \u0026ldquo;change to colon\u0026rdquo;.\nI prefer vt:c because you don\u0026rsquo;t spot always spot each occurrence of a given letter 100% correct. With v you can see the visual selection, a nice visual cue\n2fx to jump to the second x on the line.\nSkærm Bevæggelser relativt til det synlige område i vinduet:\nScreen Positioning In command mode, I often find myself scrolling the screen by half increments using ctrl u and ctrl d. The equivalent full screen commands are ctrl f and ctrl b. Page up and page down may also work depending on your configuration. Pressing z and then return will move the current line to the top of the screen. A number will move that line number to the top of the screen, so pressing 50z and then return will make the top of the screen start at line 50. Conversely, z. will move the current line to the centre of the screen, and z- will move to the bottom. To move within a screen without scrolling it, H is useful because it\u0026rsquo;ll move the cursor to the top line. M shifts it to the middle, and then L moves it to the last line.\nClick ‘zz’ to recenter the page so that your cursor is at the center\nz.\tCenter the screen on the cursor zt\tScroll the screen so the cursor is at the top zb\tScroll the screen so the cursor is at the bottom\nScreen Positioning In command mode, I often find myself scrolling the screen by half increments using ctrl u and ctrl d. The equivalent full screen commands are ctrl f and ctrl b. Page up and page down may also work depending on your configuration. Pressing z and then return will move the current line to the top of the screen. A number will move that line number to the top of the screen, so pressing 50z and then return will make the top of the screen start at line 50. Conversely, z. will move the current line to the centre of the screen, and z- will move to the bottom. To move within a screen without scrolling it, H is useful because it\u0026rsquo;ll move the cursor to the top line. M shifts it to the middle, and then L moves it to the last line. All of these commands are easy to remember with some simple mnemonics: up down forward back Home Middle Last Word Movement To move to the end of the next word, use e. The opposite is b, which moves backwards a word. The w command also moves forwards, but leaves the cursor at the start of the word. Typing E, W, or B will perform a similar operation, but won\u0026rsquo;t count symbols or punctuation as separate words. When I\u0026rsquo;m programming I find myself using these versions.\nTekstobjekter Når jeg redigerer almindelige tekster, jeg bruger ikke vim til programmering, så er tekstobjekter enormt effektive fordi de tillader hurtigt redigering af ord, sætninger og afsnit uden at cursoren skal placeres i starten af ord, sætninger eller afsnit for at lave en hanlding på hele dette \u0026ldquo;tekstobjekt\u0026rdquo;.\nKræver en handling.\na eller i skal anngives.\n\u0026lt;antal\u0026gt;[handlingyi][i||a][tekstobjekt] hvis antal ikke angives antages 1.\nMotion Commands vs. Text Objects Commands A command using a motion, e.g., cw, operates from the current cursor position. A command using a text-object, e.g., ciw operates on the whole object regardless of the cursor position. We saw this behavior in each of the various plaintext text objects. Although this requires one more character, it saves you the time and effort of moving the cursor into the “right” position.\nhttps://blog.carbonfive.com/vim-text-objects-the-definitive-guide/\nUsing Text Objects You can think of text objects as a kind of “noun” that can be used in place of motions to define a range of text from anywhere within it. Let’s look at some examples:\niw, aw - inner word, a word ip, ap - inner paragraph, a paragraph i), ap - inner parenthesis, a parenthesis i\u0026rsquo;, a\u0026rsquo; - inner single quote i\u0026rdquo;, a\u0026rdquo; - inner double quote it, at - inner tag, a tag Check out this blogpost for a nice rundown of the different text objects available and practical examples.\nYou can also get a full listing from within Vim by typing :h text-objects.\nOrd daw sletter et ord inklusive efterfølgende mellemrum. I modsætning til dw er det ligegyldigt hvor i ordet cursoren befinder sig.\ndiw sletter et ord eksklusive efterfølgende mellemrum.\nSætning das sletter en sætning inklusive efterfølgende mellemrum.\ndis sletter en sætning eksklusive efterfølgende mellemrum.\nAfsnit das sletter et afsnit iklusive efterfølgende mellemrum.\ndis sletter et afsnit eksklusive efterfølgende mellemrum.\nThe operator either affects whole lines, or the characters between the start and end position. Generally, motions that move between lines affect lines (are linewise), and motions that move within a line affect characters (are characterwise). However, there are some exceptions.\nDer.\nFlytte rundt gg eller 1G gå tilbegyndelse af tekst\nG gå til slutningen af teksten\n\u0026lt;tal\u0026gt;G gå til linje-\u0026lt;tal\u0026gt;\n\u0026lt;tal\u0026gt;go Absout fra start af fil\nÆndringer I normal-mode går ctrl+r+tal til seneste ændring, hvor 0 er seneste 1 er næstseneste etc.\nTekstmanipulation ciw cw das slet en sætning\ndap slet et afsnit\n 1 \u0026quot;This first word should overwrite the second\u0026quot; yiw yank inner word (copy word under cursor, say \u0026quot;first\u0026quot;). ... Move the cursor to another word (say \u0026quot;second\u0026quot;). viwp select \u0026quot;second\u0026quot;, then replace it with \u0026quot;first\u0026quot;. [antal] handling [antal] objekt antal = 1 med mindre andet er angivet.\nautocompletion (usingCTRL-pandCTRL-n),\nhttps://www.linux.com/training-tutorials/using-spell-checking-vim/\n:set lbr :set spell spelllang=da To delete_blank lines_in vim (empty lines), use this vim command in “last line mode”:\n:g/^$/d  "
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/vim-multiple/",
+        "title": "vim cheat sheet",
+        "content": ":bn - Switch to next buffer\n:bp - Switch to previous buffer\n:bd - Close a buffer\n:sp [filename] - Opens a new file and splits your screen horizontally to show more than one buffer\n:vsp [filename] - Opens a new file and splits your screen vertically to show more than one buffer\n:ls - Lists all open buffers\nCtrl + ws - Split windows horizontally\nCtrl + wv - Split windows vertically\nCtrl + ww - Switch between windows\nCtrl + wq - Quit a window\nCtrl + wh - Moves your cursor to the window to the left\nCtrl + wl - Moves your cursor to the window to the right\nCtrl + wj - Moves your cursor to the window below the one you\u0026rsquo;re in\nCtrl + wk - Moves your cursor to the window above the one you\u0026rsquo;re in\nJust like any browser, you can also use tabs within Vim. This makes it incredibly easy to switch between multiple files while you\u0026rsquo;re making some code changes instead of working in one single file, closing it, and opening a new one. Below are some useful Vim commands for using tab pages:\n:tabedit file - opens a new tab and will take you to edit \u0026ldquo;file\u0026rdquo;\ngt - move to the next tab\ngT - move to the previous tab\n#gt - move to a specific tab number (e.g. 2gt takes you to the second tab)\n:tabs - list all open tabs\n:tabclose - close a single tab\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/vim-redigering/",
+        "title": "vim cheat sheet",
+        "content": "Kommandoer som J for join. For eksempel 4J for at samle fire linjer til at afsnit. Det kan man spare meget tid med. ( og ) flytter frem og tilbage i sætninger som på den måde kan splittes også vis og vas kan bruges. Specifikt vasA-slet-retur.\nThus: :.,$j meaning \u0026ldquo;from the current line to the last line, join them all into one line\u0026rdquo;. :% is synonymous with :1,$ (all the lines).\nf. er også en hurtig med at springe frem til næste punktum i linjen - og dermed typisk slutningen på en sætning. Så\no hurtig måde at indsætte linje og gå i insert efter linjer stort O hurtigt indsætte og gå i insert før.\nEn hurtig måde at fjerne en sætning på midt i et afsnit er (c) - med kan der skrives en ny. Hurtigere er dog nok tekstobjekter - fx. cas hvis der skal sættes noget andet ind i sætningens sted. Hvis den bare skal slettes så das.\nJeg bruger ofte slutningen af filen til at opbevare ting som endnu ikke er indarbejdet rigtigt i teksten. Det kan jeg lynhrtiggt hoppe ned til med G. Og så tilbage ti seneste sted inden med ctrl-o\nThe quickest way is to hit either:\n'\u0026rsquo;\n(two apostrophes) or:\n``\n(two backticks). Note that the difference is that the backtick goes to the same location on the line, whereas the apostrophe goes to the start of the line. On a UK keyboard, the apostrophe is more accessible, so I tend to use that one.\nou can also use g; and g, to move backward and forward in your edit locations.\n'\u0026rsquo; or `` switch between the last position and the current position. CtrlI and CtrlO work through the jump list history.\ng; and g, move through edit positions, which are also very frequently used.\njumplist If you want j and k to be added to the jump list, you can do so using a mark. Reddit user PlayMeWhile provided the following solution. Add this to your .vimrc and CTRL-o and i will work as expected. Image for post Add this in your .vimrc\nRegister Marks I\u0026rsquo;ve always done by it setting a mark.\nIn command-mode, press m[letter]. For example, ma sets a mark at the current line using a as the mark identifier.\nTo get back to the mark press ' [letter]. For example, \u0026lsquo;a takes you back to the line mark set in step 1. To get back to the column position of the row where you marked the line, use `a (back-tick [letter]).\nTo see all of the marks that currently set, type :marks.\nOn a slightly unrelated note, I just discovered another nifty thing about marks.\nLet\u0026rsquo;s say you jump to mark b by doing mb. Vim automatically sets the mark ' (that\u0026rsquo;s a single-quote) to be whichever line you were on before jumping to mark b.\nThat means you can do \u0026lsquo;b to jump to that mark, then do '\u0026rsquo; (2 single-quotes) to jump back to wherever you were before.\nI discovered this accidentally using the :marks command, which shows a list of all marks.\naction\t/re\t… search to string expression re ?re\t… search backwards to string expression re n\t… next result N\t… previous result\n … search for word under cursor  … search backwards for word under cursor gd\tgo to 1st occurence of word under cursor %\tjump to end of matching brackets (or meta-tags – requires match-it plugin)\naction\tzO\topen all nested folds zr\topen highest level fold zR\topen all folds of all levels zc\tclose all folds zm\tclose all highest level of open folds zM\tclose all folds of all levels space\ttoggle current fold level\nDelete in insert mode To delete a character, word or line while in Insert mode, Vim Command Line mode or Shell Command Line we have the following shortcuts available:   \u0026quot; delete back one character (backspace)  \u0026quot; delete back one word  \u0026quot; delete back to start of line  \u0026quot; delete forward to end of line\n Pad\nVIM\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/vim-tekstobjekter/",
+        "title": "vim cheat sheet",
+        "content": "Exchange https://github.com/tommcdo/vim-exchange\nVirker også på tekstobjekter\nKommandoer Generelt :set nu linjenummer til\n:set nu! linjenummer fra\nBevægelse Generelt for bevægelse gælder at det sted man er, tæller med. Alrtså at bevægelsen sker fra cursorens position.\n\u0026lt;antal\u0026gt;[retning og objekt] Tegn h tegn tilbage\nl tegn frem\n\u0026lt;tal\u0026gt;go Absout fra start af fil\nCharacter Movement The f and F commands are extremely useful for navigating within a line. Pressing f{char} will move the next occurrence of {char} within the current line. Meanwhile, F will move backwards. A numerical count argument can also be supplied, so 2f: will go to the second occurrence of : after the current cursor position. To move before the matching character, t and T can be used. The last ftFT can be repeated by pressing ;.\nLinjer k linje op\nj linje ned\ngg eller 1G gå tilbegyndelse af tekst\nG gå til slutningen af teksten\n\u0026lt;tal\u0026gt;G gå til linje-\u0026lt;tal\u0026gt;\neller gg\nOrd b til start af ord og hvis allerede i starten af ordet så til start af forrige ord.\nw til start af næste ord eller til punktuation.\ne til slut af ord eller slut af næsten ord hvios allerede ved slut - stopper også ved punktution.\nge til slutningen af forrige ord. Stopper også ved punktuation.\nTyping E, W, or B will perform a similar operation, but won\u0026rsquo;t count symbols or punctuation as separate words.\nSætninger ) Til start af næste sætning.\n( Til start af denne, hvis allered epå start så start af forrige.\nAfsnit } Afsnit frem.\n{ Afsnit ilbage.\nSøgning Søgning åbner i kommandolinjen og kræver derfor retur for at udføre.\n/[søgeord] går til første sted\n2/[søgeord] d/rails - delete up until the first search match for “rails”\ngår direkte til andet sted søgeordet forekommer\n/ - search for any word in the file n - repeat last search N - repeat last search in opposite direction\nf - (f)ind a character forward in a line and move to it T - find a character backward in a line and move un(t)il it\nt - find a character forward in a line and move un(t)il it (one character before) F - (f)ind a character backward in a line and move to it\nSkærm Bevæggelser relativt til det synlige område i vinduet:\nScreen Positioning In command mode, I often find myself scrolling the screen by half increments using ctrl u and ctrl d. The equivalent full screen commands are ctrl f and ctrl b. Page up and page down may also work depending on your configuration. Pressing z and then return will move the current line to the top of the screen. A number will move that line number to the top of the screen, so pressing 50z and then return will make the top of the screen start at line 50. Conversely, z. will move the current line to the centre of the screen, and z- will move to the bottom. To move within a screen without scrolling it, H is useful because it\u0026rsquo;ll move the cursor to the top line. M shifts it to the middle, and then L moves it to the last line.\nTekstobjekter Når jeg redigerer almindelige tekster, jeg bruger ikke vim til programmering, så er tekstobjekter enormt effektive fordi de tillader hurtigt redigering af ord, sætninger og afsnit uden at cursoren skal placeres i starten af ord, sætninger eller afsnit for at lave en hanlding på hele dette \u0026ldquo;tekstobjekt\u0026rdquo;.\nKræver en handling.\na eller i skal anngives.\n\u0026lt;antal\u0026gt;[handlingyi][i||a][tekstobjekt] hvis antal ikke angives antages 1.\nMotion Commands vs. Text Objects Commands A command using a motion, e.g., cw, operates from the current cursor position. A command using a text-object, e.g., ciw operates on the whole object regardless of the cursor position. We saw this behavior in each of the various plaintext text objects. Although this requires one more character, it saves you the time and effort of moving the cursor into the “right” position.\nhttps://blog.carbonfive.com/vim-text-objects-the-definitive-guide/\nUsing Text Objects You can think of text objects as a kind of “noun” that can be used in place of motions to define a range of text from anywhere within it. Let’s look at some examples:\niw, aw - inner word, a word ip, ap - inner paragraph, a paragraph i), ap - inner parenthesis, a parenthesis i\u0026rsquo;, a\u0026rsquo; - inner single quote i\u0026rdquo;, a\u0026rdquo; - inner double quote it, at - inner tag, a tag Check out this blogpost for a nice rundown of the different text objects available and practical examples.\nYou can also get a full listing from within Vim by typing :h text-objects.\nOrd daw sletter et ord inklusive efterfølgende mellemrum. I modsætning til dw er det ligegyldigt hvor i ordet cursoren befinder sig.\ndiw sletter et ord eksklusive efterfølgende mellemrum.\nSætning das sletter en sætning inklusive efterfølgende mellemrum.\ndis sletter en sætning eksklusive efterfølgende mellemrum.\nAfsnit das sletter et afsnit iklusive efterfølgende mellemrum.\ndis sletter et afsnit eksklusive efterfølgende mellemrum.\nThe operator either affects whole lines, or the characters between the start and end position. Generally, motions that move between lines affect lines (are linewise), and motions that move within a line affect characters (are characterwise). However, there are some exceptions.\nDer.\nFlytte rundt gg eller 1G gå tilbegyndelse af tekst\nG gå til slutningen af teksten\n\u0026lt;tal\u0026gt;G gå til linje-\u0026lt;tal\u0026gt;\n\u0026lt;tal\u0026gt;go Absout fra start af fil\nTekstmanipulation ciw cw das slet en sætning\ndap slet et afsnit\n 1 \u0026quot;This first word should overwrite the second\u0026quot; yiw yank inner word (copy word under cursor, say \u0026quot;first\u0026quot;). ... Move the cursor to another word (say \u0026quot;second\u0026quot;). viwp select \u0026quot;second\u0026quot;, then replace it with \u0026quot;first\u0026quot;. [antal] handling [antal] objekt antal = 1 med mindre andet er angivet.\nautocompletion (usingCTRL-pandCTRL-n),\nhttps://www.linux.com/training-tutorials/using-spell-checking-vim/\n:set lbr :set spell spelllang=da To delete_blank lines_in vim (empty lines), use this vim command in “last line mode”:\n:g/^$/d  "
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/vim-tips-tricks/",
+        "title": "vim cheat sheet",
+        "content": " i  for example: 12ia will insert 12 a\u0026rsquo;s. share follow answered Apr 27 \u0026lsquo;11 at 13:53\nqed 18.9k1616 gold badges9292 silver badges152152 bronze badges 8 This is the exact sequence of commands the OP wanted to avoid. – Kenny Evitt Sep 3 \u0026lsquo;15 at 19:26 add a comment\n17\nThrough single repeat:\nInsert mode Esc 80.\nKommandoer Generelt :set nu linjenummer til\n:set nu! linjenummer fra\nBevægelse Generelt for bevægelse gælder at det sted man er, tæller med. Alrtså at bevægelsen sker fra cursorens position.\n\u0026lt;antal\u0026gt;[retning og objekt] Tegn h tegn tilbage\nl tegn frem\n\u0026lt;tal\u0026gt;go Absout fra start af fil\nCharacter Movement The f and F commands are extremely useful for navigating within a line. Pressing f{char} will move the next occurrence of {char} within the current line. Meanwhile, F will move backwards. A numerical count argument can also be supplied, so 2f: will go to the second occurrence of : after the current cursor position. To move before the matching character, t and T can be used. The last ftFT can be repeated by pressing ;.\nLinjer k linje op\nj linje ned\ngg eller 1G gå tilbegyndelse af tekst\nG gå til slutningen af teksten\n\u0026lt;tal\u0026gt;G gå til linje-\u0026lt;tal\u0026gt;\neller gg\nOrd b til start af ord og hvis allerede i starten af ordet så til start af forrige ord.\nw til start af næste ord eller til punktuation.\ne til slut af ord eller slut af næsten ord hvios allerede ved slut - stopper også ved punktution.\nge til slutningen af forrige ord. Stopper også ved punktuation.\nTyping E, W, or B will perform a similar operation, but won\u0026rsquo;t count symbols or punctuation as separate words.\nSætninger ) Til start af næste sætning.\n( Til start af denne, hvis allered epå start så start af forrige.\nAfsnit } Afsnit frem.\n{ Afsnit ilbage.\nSøgning Søgning åbner i kommandolinjen og kræver derfor retur for at udføre.\n/[søgeord] går til første sted\n2/[søgeord] d/rails - delete up until the first search match for “rails”\ngår direkte til andet sted søgeordet forekommer\n/ - search for any word in the file n - repeat last search N - repeat last search in opposite direction\nf - (f)ind a character forward in a line and move to it T - find a character backward in a line and move un(t)il it\nt - find a character forward in a line and move un(t)il it (one character before) F - (f)ind a character backward in a line and move to it\nSkærm Bevæggelser relativt til det synlige område i vinduet:\nScreen Positioning In command mode, I often find myself scrolling the screen by half increments using ctrl u and ctrl d. The equivalent full screen commands are ctrl f and ctrl b. Page up and page down may also work depending on your configuration. Pressing z and then return will move the current line to the top of the screen. A number will move that line number to the top of the screen, so pressing 50z and then return will make the top of the screen start at line 50. Conversely, z. will move the current line to the centre of the screen, and z- will move to the bottom. To move within a screen without scrolling it, H is useful because it\u0026rsquo;ll move the cursor to the top line. M shifts it to the middle, and then L moves it to the last line.\nTekstobjekter Når jeg redigerer almindelige tekster, jeg bruger ikke vim til programmering, så er tekstobjekter enormt effektive fordi de tillader hurtigt redigering af ord, sætninger og afsnit uden at cursoren skal placeres i starten af ord, sætninger eller afsnit for at lave en hanlding på hele dette \u0026ldquo;tekstobjekt\u0026rdquo;.\nKræver en handling.\na eller i skal anngives.\n\u0026lt;antal\u0026gt;[handlingyi][i||a][tekstobjekt] hvis antal ikke angives antages 1.\nMotion Commands vs. Text Objects Commands A command using a motion, e.g., cw, operates from the current cursor position. A command using a text-object, e.g., ciw operates on the whole object regardless of the cursor position. We saw this behavior in each of the various plaintext text objects. Although this requires one more character, it saves you the time and effort of moving the cursor into the “right” position.\nhttps://blog.carbonfive.com/vim-text-objects-the-definitive-guide/\nUsing Text Objects You can think of text objects as a kind of “noun” that can be used in place of motions to define a range of text from anywhere within it. Let’s look at some examples:\niw, aw - inner word, a word ip, ap - inner paragraph, a paragraph i), ap - inner parenthesis, a parenthesis i\u0026rsquo;, a\u0026rsquo; - inner single quote i\u0026rdquo;, a\u0026rdquo; - inner double quote it, at - inner tag, a tag Check out this blogpost for a nice rundown of the different text objects available and practical examples.\nYou can also get a full listing from within Vim by typing :h text-objects.\nOrd daw sletter et ord inklusive efterfølgende mellemrum. I modsætning til dw er det ligegyldigt hvor i ordet cursoren befinder sig.\ndiw sletter et ord eksklusive efterfølgende mellemrum.\nSætning das sletter en sætning inklusive efterfølgende mellemrum.\ndis sletter en sætning eksklusive efterfølgende mellemrum.\nAfsnit das sletter et afsnit iklusive efterfølgende mellemrum.\ndis sletter et afsnit eksklusive efterfølgende mellemrum.\nThe operator either affects whole lines, or the characters between the start and end position. Generally, motions that move between lines affect lines (are linewise), and motions that move within a line affect characters (are characterwise). However, there are some exceptions.\nDer.\nFlytte rundt gg eller 1G gå tilbegyndelse af tekst\nG gå til slutningen af teksten\n\u0026lt;tal\u0026gt;G gå til linje-\u0026lt;tal\u0026gt;\n\u0026lt;tal\u0026gt;go Absout fra start af fil\nTekstmanipulation ciw cw das slet en sætning\ndap slet et afsnit\n 1 \u0026quot;This first word should overwrite the second\u0026quot; yiw yank inner word (copy word under cursor, say \u0026quot;first\u0026quot;). ... Move the cursor to another word (say \u0026quot;second\u0026quot;). viwp select \u0026quot;second\u0026quot;, then replace it with \u0026quot;first\u0026quot;. [antal] handling [antal] objekt antal = 1 med mindre andet er angivet.\nautocompletion (usingCTRL-pandCTRL-n),\nhttps://www.linux.com/training-tutorials/using-spell-checking-vim/\n:set lbr :set spell spelllang=da To delete_blank lines_in vim (empty lines), use this vim command in “last line mode”:\n:g/^$/d  "
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/vim-visual/",
+        "title": "vim cheat sheet",
+        "content": "V Visual mode allows you to select a block of text in Vim. Once a block of text is selected you can use visual commands to perform actions on the selected text such as deleting it, copying it, etc.\nv - starts visual mode, you can then select a range of text, and run a command\nV - starts linewise visual mode (selects entire lines)\nCtrl + v - starts visual block mode (selects columns)\nab - a block with ()\naB - a block with {}\nib - inner block with ()\niB - inner block with {}\naw - mark a word\nEsc - exit visual mode\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/vim-wiki/",
+        "title": "vim cheat sheet",
+        "content": "Vim wiki og diary VimWiki Cheatsheet [number] refers to the wiki number, set by the order in your vimrc. The default is 1.\nWiki Management [number]  ww - open wiki index file [number]  wt - open wiki index file in new tab  ws - list and select available wikis  wd - delete wiki page  wr - rename wiki page Diary management [number]  wi - open diary index file for wiki  w  i - update current diary index [number]  w  w - open today’s diary file for wiki [number]  w  t - open today’s diary file for wiki in new tab  - open previous day’s diary  - open next day’s diary Navigation  - follow/create wiki link  - follow/create wiki link in new tab  - go back to previous wiki page  - go to next link on current page  - go to previous link on current page Editing shortcuts  - toggle list item on/off = - add header level\n   remove header level       create/decorate links glm - increase indent of list item gll - decrease indent of list item gl* or gl8 - switch or insert “*” symbol gl# or gl3 - switch or insert “#” symbol gl- - switch or insert “-“ symbol gl1 - switch or insert “1.” symbol Table shortcuts  move column left  move column right  (insert mode) go down/create cell  (insert mode) go next/create cell gqq or gww reformat table Text objects ah section between 2 headings including empty trailing lines ih section between 2 headings excluding empty trailing lines a\\ table cell i\\ inner table cell ac table column ic inner table column    "
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/vim-zettelkasten/",
+        "title": "vim cheat sheet",
+        "content": "(subjektobjekt)\n2d2w = 4dw = d4w\n2d2w = 4d1w = 1d4w\nFor at arbejde effektivt, hurtigt og kreativt, så foretrækker jeg at splitte skriveproces og redigeringsproces op.\nDerfor er jeg gladd for at vim har to modes som passer til det worflow. Og når jeg reidgerer vil jeg helst blive i normal mode.\nBlive i normal  r - i normal-mode udskift (replace) et tegn under cursoren uden at skifte til insert\n Slet Bemærk at slet også kopierer over i default registeret\nd - Deletes highlighted text\ndd - Deletes a line of text\nAndet dG\nyy - Copies a line\nyw - Copies a word\ny$ - Copies from where your cursor is to the end of a line\nv - Highlight one character at a time using arrow buttons or the h, k, j, l buttons\nV - Highlights one line, and movement keys can allow you to highlight additional lines\np - put ind Paste whatever has been copied to the unnamed register\ndw - Deletes a word\nde - som dw men tager ikke efterfølgende mellemrum med væk\nD - Deletes everything from where your cursor is to the end of the line\nd0 - Deletes everything from where your cursor is to the beginning of the line\ndgg - Deletes everything from where your cursor is to the beginning of the file\ndG - Deletes everything from where your cursor is to the end of the file\nx - Deletes a single character under cursoren delete X - sletter et tegn til venstre for cursoren backspace\nu - Undo the last operation; u# allows you to undo multiple actions\nCtrl + r - Redo the last undo\n. - Repeats the last action\nFra normal til insert  ce = sletter fra og med cursor og resten af ordet\ncc sletter hele linjen og går i inser\nC slet fra cursor og resten af linjen og gå i insert\no ny linje under\nO ny linje over\ns slet tegn og gå i insert\n "
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/vim-registre/",
+        "title": "vim registre",
+        "content": "Jeg bruger registre til for eksempel længere navne som jeg ved jeg kommer til at skulle skrive flere gange i en tekst.\nsheet\nDer er en række danske love og en række EU-love som har til hensigt at sikre lige muligheder for kvinder og mænd.\nDisse love skal blandt andet sikre at ingen bliver diskrimineret imod på grund af sit køn.\nCtrl+r+registernavn (uden \u0026ldquo;) sætter ind fra registeret.\n:reg a b c --- Registers --- \u0026quot;a register a content \u0026quot;b register b content \u0026quot;c register c content "
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/yaml-zettlr/",
+        "title": "Frontmatter i Zettlr",
+        "content": "Status:\n          s..9 Noteret Ide-fasen   s..7 Researchet     Kladde - udfolde og tilføje    s..4 Revideret Indhold til- og fravalgt   s..3 Redigeret Struktur - udtryk   s..2 Korrigeret Korrektur   s..1 Færdig (skal udgives)    s..0 Udgivet (skal markedsføres)     zid: 20200917203359 # Zettlr-id title: Titel author: Lennart Kiil s: s..0 # udgivet "
     }
     
     , 
@@ -121,9 +317,23 @@
     
     , 
     {
+        "url": "/erfaringer/tips-tricks/computer-investering/",
+        "title": "Hvad betaler du din computer i løn?",
+        "content": "Der fdf\n"
+    }
+    
+    , 
+    {
         "url": "/erfaringer/tips-tricks/grep-mv/",
         "title": "mv og grep",
         "content": "Command substitution i terminalen i samme folder som filen ligger med zsh:\nmv $(grep -il \u0026quot;tekst\u0026quot; *.md) ../ARKIV I mit tilfæde\nmv $(grep -il \u0026quot;#s0\u0026quot; *.md) ../ARKIV Hvor #s0er navnet på det tag som jeg giver udgivet materiale.\nBemærk: virker muligvis ikke hvis filnavane indeholder mellmrum eller ikke-standard karakterer. Se evt: http://www.jpeek.com/articles/linuxmag/2005-05/\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/tips-tricks/vim-zsh/",
+        "title": "mv og grep",
+        "content": "vim *.txt(om[1]) mvim *.txt(om[1]) vim *.md(om[1]) mvim *.md(om[1]) "
     }
     
     , 
@@ -135,30 +345,16 @@
     
     , 
     {
-        "url": "/tools/terminal/",
-        "title": "terminal",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/tips/",
-        "title": "tips",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/tricks/",
-        "title": "tricks",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/tools/zsh/",
         "title": "zsh",
         "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/tips-tricks/zsh-cheatsheet/",
+        "title": "zsh cheatsheet",
+        "content": "mv $(grep -il \u0026quot;#s0\u0026quot; *.txt) ../ARKIV pdt *.txt(om[1]) pdt er mit eget alias for pandoc med toc.\nOg *.txt(om[1]) tager den seneste ændredede fil. om er order modified. Med stort O ville samme kommando have vendt rækkefælden så man fik den fil som var blevet ændre for længst tid siden.\nmv *.txt(.m+31) ../ARKIV Flyt alle txt-filer, som ikke er blevet ændret de seneste 31 dage, til ARKIV.\nzsh er rigtig god til den slags.\n"
     }
     
     , 
@@ -179,20 +375,6 @@
     {
         "url": "/emner/sortering/",
         "title": "sortering",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/struktur/",
-        "title": "struktur",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/atom/",
-        "title": "atom",
         "content": ""
     }
     
@@ -513,13 +695,6 @@
     
     , 
     {
-        "url": "/tools/perl/",
-        "title": "perl",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/erfaringer/tips-tricks/sorter-markdown-efter-overskrifter/",
         "title": "Sorter markdown dokument",
         "content": "Sorter sektioner i markdown. For eksempel efter #\nSorter # b mellemrubrik efter # a mellemrubrik.\n#B a content of B #A b content of A til\n#A b content of A #B a content of B I terminal med\nperl -0777 -ne \u0026#39; (undef,@paragraphs) = split /^#(?=[^#])/m; print map {\u0026#34;#$_\u0026#34;} sort @paragraphs; \u0026#39; file.md For yderligere info se også svar her "
@@ -586,6 +761,20 @@
         "url": "/emner/ydelse/",
         "title": "Ydelse",
         "content": "Ydelse, på engelsk performance, er en meget væsentlig parameter i næsten alle digitale produkter.\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/drupal/drupal-error/",
+        "title": "FOLKETS meget hurtigere efter drop af bannere",
+        "content": "$config['system.logging']['error_level'] = 'verbose'; Genskabe cachen - hvis du ikke lige har drush ved hånden:\n$settings['rebuild_access'] = TRUE; Visit http://www.example.com/core/rebuild.php "
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/drupal/drupal-render/",
+        "title": "FOLKETS meget hurtigere efter drop af bannere",
+        "content": "\u0026lt;?php $elements = drupal_get_form(\u0026quot;user_login\u0026quot;); $form = drupal_render($elements); echo $form; ?\u0026gt;  if (!user_is_logged_in()) { $elements = drupal_get_form('user_register_form'); $form = drupal_render($elements); echo $form; } "
     }
     
     , 
@@ -747,6 +936,13 @@
         "url": "/erfaringer/muren/dogmer/",
         "title": "",
         "content": "Medier uden mur\nAlle medier på FOLKETS er frit tilgængelige - ingen betlaingsmur.\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/test/",
+        "title": "",
+        "content": ""
     }
     
     , 

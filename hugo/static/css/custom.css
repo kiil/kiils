@@ -1,3 +1,15 @@
+figure {
+display: block;
+margin-block-start: 1em;
+margin-block-end: 1em;
+margin-inline-start: -15px;
+margin-inline-end: -15px;
+}
+figcaption {
+display: block;
+margin-inline-start: 10px;
+margin-inline-end: 10px;
+}
 body {
   display: flex;
   min-height: 100vh;
