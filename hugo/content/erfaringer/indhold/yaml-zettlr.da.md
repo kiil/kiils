@@ -10,6 +10,9 @@ emner:
 
 tools:
   - Zettlr
+
+
+draft: true
 ---
 
 Status:

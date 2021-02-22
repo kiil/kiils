@@ -13,6 +13,7 @@ emner:
 tools:
   - Vim
 
+draft: true
 ---
 
 If you type A after G you will enter insert mode at the end of the last line.

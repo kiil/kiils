@@ -13,6 +13,7 @@ emner:
 tools:
   - Vim
 
+draft: true
 ---
 
 Kommandoer som J for join.  For eksempel 4J for at  samle fire linjer til at afsnit.  Det kan man spare meget tid med. ( og ) flytter frem og tilbage i sætninger som på den måde kan splittes også vis og vas kan bruges. Specifikt vasA-slet-retur.

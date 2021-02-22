@@ -9,6 +9,7 @@ emner:
   - Indholdshåndtering
 tools:
   - Google
+draft: true
 ---
 
 Hvadd nu hvis man gerne vil frasorte resultater fra et bestemt land?

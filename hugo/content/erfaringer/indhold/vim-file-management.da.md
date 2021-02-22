@@ -13,6 +13,7 @@ emner:
 tools:
   - Vim
 
+draft: true
 ---
 ** Gem en del af en fil, ved at skrive  v  bevægelse  :w FILNAVN **
 

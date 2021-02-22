@@ -13,6 +13,7 @@ emner:
 tools:
   - Vim
 
+draft: true
 ---
 
 Jeg bruger registre til for eksempel længere navne som jeg ved jeg kommer til at skulle skrive flere gange i en tekst.

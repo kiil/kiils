@@ -13,6 +13,7 @@ emner:
 tools:
   - Vim
 
+draft: true
 ---
 
 :bn - Switch to next buffer

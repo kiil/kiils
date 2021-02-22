@@ -6,20 +6,10 @@
     <description>Recent content in Zettlr on KIILS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kiils.dk/tools/zettlr/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Frontmatter i Zettlr</title>
-      <link>https://www.kiils.dk/erfaringer/indhold/yaml-zettlr/</link>
-      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/erfaringer/indhold/yaml-zettlr/</guid>
-      <description>Status:
-          s..9 Noteret Ide-fasen   s..7 Researchet     Kladde - udfolde og tilføje    s..4 Revideret Indhold til- og fravalgt   s..3 Redigeret Struktur - udtryk   s..2 Korrigeret Korrektur   s..1 Færdig (skal udgives)    s..0 Udgivet (skal markedsføres)     zid: 20200917203359 # Zettlr-id title: Titel author: Lennart Kiil s: s.</description>
-    </item>
     
     <item>
       <title>Styr på dit indhold: Global prioritet og status</title>

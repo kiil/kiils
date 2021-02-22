@@ -13,6 +13,7 @@ emner:
 tools:
   - Vim
 
+draft: true
 ---
 :ba open each buffer in "window" / "split"
  :enew doesn't take any arguments and opens a blank buffer. Kræver ikke filnavn
