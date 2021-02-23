@@ -4,7 +4,7 @@ description: "Som det er sat op"
 summary: "Som det er sat op"
 date: 2020-02-27
 type: single
-# draft: true
+draft: true
 
 show_reading_time: true
 

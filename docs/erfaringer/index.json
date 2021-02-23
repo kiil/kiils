@@ -2,13 +2,6 @@
     
     
     {
-        "url": "/cases/",
-        "title": "Cases",
-        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
-    }
-    
-    , 
-    {
         "url": "/emner/",
         "title": "Emner",
         "content": "Emner i det arbejde Kiils laver\n"
@@ -23,13 +16,6 @@
     
     , 
     {
-        "url": "/cases/folkets/",
-        "title": "FOLKETS",
-        "content": "En dansk brand- og medieplatform\nFOLKETS.DK er et enorm stort projekt. Visionen er at udfordre både de danske medier og de amerikanske \u0026ldquo;tech giants\u0026rdquo;.\nSamtidig med at øjnene skal holdes på dette langsigtede mål, skal de betalende brugere også løbende serviceres med godt indhold.\nDer skal skabes indtægter og hele projektet skal løbende tilpasses og \u0026ldquo;trimmes\u0026rdquo; da der hele tiden kommer nyt på.\nFOLKETS.DK er uden sammenligning det mest lærerige fagligt set, som jeg har foretaget mig i mit arbejdsliv.\n"
-    }
-    
-    , 
-    {
         "url": "/genrer/",
         "title": "Genrer",
         "content": "Genrer på Kiils\n"
@@ -37,9 +23,9 @@
     
     , 
     {
-        "url": "/emner/indhold/",
-        "title": "indhold",
-        "content": ""
+        "url": "/erfaringer/tips-tricks/html-med-toc-fra-markdown-via-pandoc/",
+        "title": "HTML med toc fra markdown via pandoc",
+        "content": "I terminalen i samme folder som filen ligger:\npandoc -s --toc filename.md Og kopier så alt mellem body-tags.\nBonus: Pandoc gør ikke æ, ø og å grimme i interne links :)\n"
     }
     
     , 
@@ -65,120 +51,15 @@
     
     , 
     {
-        "url": "/skribenter/",
-        "title": "Skribenter",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/erfaringer/hosting/20200912071936/",
-        "title": "Styr på dit indhold: Global prioritet og status",
-        "content": "Indledning Hvis man i sit daglige virke skaber meget indhold, så kan det være en udfordring at skabe overblik over indholdet.\nFor det første skal man jo vide, hvad man allerede har skabt - eller rettere hvor langt man er kommet medd udviklingen af forskellige tekster.\nOg her tager jeg udgangspunkt i tekster, men den metode jeg her præsenterer jer for kan sikkert med fordel anvendes på andre typer indhold også.\nPrioritering Der er mange måder at prioritere sit indhold på. Når tiden er knap, er det vigtigt at overveje om det indhold du arbejder med overhovedet er relevant.\nSelv laver jeg en overordnet prioritering af mine tekster allerede i ide-fasen ud fra mine forpligtelser: Bidrager teksten med værdi til mine abonnenter på Folkets? Bidrager den med værdi i mit eget liv?\nHvis svaret er nej til de to spørgsmål, så får teksten en lav prioritet eller jeg \u0026ldquo;dræber\u0026rdquo; den allerede i idéfasen. Har jeg allerede skrevet noget, så ryger det i arkivet.\nIndhold, som er væsentligt nok til at arbejde videre med, tagger jeg på følgende vis:\nDeadline\n   Tag Prioritet     #p4 Lever i ARKIV   #p3 Udvikles i ARBEJD   #p2 \u0026hellip;   #p1 Deadline   #p0 Lige nu    Status    Tag Status     #s5 Udkast / ide   #s4 \u0026hellip;   #s3 \u0026hellip;   #s2 Mangler kun korrektur   #s1 Klar til udgivelse   #s0 Udgivet og arkiveret    Meget tidsfølsomt materiale får en deadline\nPIPA\nProjekter\nAfsluttende bemærkning Dette workflow er kun for kode-filer og omfatter ikke medie-filer, konfiguration eller databaser.\n"
-    }
-    
-    , 
-    {
-        "url": "/tools/",
-        "title": "Tools",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/zettelkasten/",
-        "title": "Zettelkasten",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/zettlr/",
-        "title": "Zettlr",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/automatisering/",
-        "title": "automatisering",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/erfaringer/tips-tricks/computer-investering/",
-        "title": "Hvad betaler du din computer i løn?",
-        "content": "Der fdf\n"
-    }
-    
-    , 
-    {
-        "url": "/erfaringer/tips-tricks/grep-mv/",
-        "title": "mv og grep",
-        "content": "Command substitution i terminalen i samme folder som filen ligger med zsh:\nmv $(grep -il \u0026quot;tekst\u0026quot; *.md) ../ARKIV I mit tilfæde\nmv $(grep -il \u0026quot;#s0\u0026quot; *.md) ../ARKIV Hvor #s0er navnet på det tag som jeg giver udgivet materiale.\nBemærk: virker muligvis ikke hvis filnavane indeholder mellmrum eller ikke-standard karakterer. Se evt: http://www.jpeek.com/articles/linuxmag/2005-05/\n"
-    }
-    
-    , 
-    {
-        "url": "/erfaringer/tips-tricks/vim-zsh/",
-        "title": "mv og grep",
-        "content": "vim *.txt(om[1]) mvim *.txt(om[1]) vim *.md(om[1]) mvim *.md(om[1]) "
-    }
-    
-    , 
-    {
-        "url": "/erfaringer/tips-tricks/zmv-filetype-change/",
-        "title": "mv og grep",
-        "content": "Jeg har et arkiv over de fleste af mine skriverier i markdown-format.\nMen nu er markdown jo reelt bare tekst-filer. Så for eftertidens skyld ville jeg ændre endelsen på mine markdown filer fra md til txt.\nTusindvis af filnavne skulle ændre. Manuelt ville det tage lang tid.\nDer var heldigvis en nemmere løsning.\nDen nyeste udgave af MacOs har zsh som shell, og her er det nemt. Først skel der installeres en extension til zsh som hedder zmv.\nautoload -U zmv Så skal alle .md fil-endelser laves om til .txt fil-endelser.\nzmv '(*).md' '$1.txt' Så er det gjort.\nPS. Lad være at gøre dette hvis dit program kun tolker filernes markdown markup hvis filen har md-endelse.\n"
-    }
-    
-    , 
-    {
-        "url": "/tools/terminal/",
-        "title": "terminal",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/tips/",
-        "title": "tips",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/tricks/",
-        "title": "tricks",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/zsh/",
-        "title": "zsh",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/erfaringer/tips-tricks/zsh-cheatsheet/",
-        "title": "zsh cheatsheet",
-        "content": "mv $(grep -il \u0026quot;#s0\u0026quot; *.txt) ../ARKIV pdt *.txt(om[1]) pdt er mit eget alias for pandoc med toc.\nOg *.txt(om[1]) tager den seneste ændredede fil. om er order modified. Med stort O ville samme kommando have vendt rækkefælden så man fik den fil som var blevet ændre for længst tid siden.\nmv *.txt(.m+31) ../ARKIV Flyt alle txt-filer, som ikke er blevet ændret de seneste 31 dage, til ARKIV.\nzsh er rigtig god til den slags.\n"
-    }
-    
-    , 
-    {
-        "url": "/erfaringer/tips-tricks/html-med-toc-fra-markdown-via-pandoc/",
-        "title": "HTML med toc fra markdown via pandoc",
-        "content": "I terminalen i samme folder som filen ligger:\npandoc -s --toc filename.md Og kopier så alt mellem body-tags.\nBonus: Pandoc gør ikke æ, ø og å grimme i interne links :)\n"
-    }
-    
-    , 
-    {
         "url": "/tools/pandoc/",
         "title": "pandoc",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/skribenter/",
+        "title": "Skribenter",
         "content": ""
     }
     
@@ -198,8 +79,36 @@
     
     , 
     {
+        "url": "/emner/tips/",
+        "title": "tips",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/",
+        "title": "Tools",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/tricks/",
+        "title": "tricks",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/tools/atom/",
         "title": "atom",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/indhold/",
+        "title": "indhold",
         "content": ""
     }
     
@@ -226,6 +135,13 @@
     
     , 
     {
+        "url": "/tools/terminal/",
+        "title": "terminal",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/brands/",
         "title": "Brands",
         "content": "Brands som Kiils råder over. Hosted på platformen Folkets.\n"
@@ -233,9 +149,23 @@
     
     , 
     {
+        "url": "/cases/",
+        "title": "Cases",
+        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
+    }
+    
+    , 
+    {
         "url": "/erfaringer/seo/corona/",
         "title": "Er det sådan censur ser ud?",
         "content": "Jeg valgte fra starten at alt indhold om den nye coronavirus på FOLKETS skulle være frit tilgængeligt for alle. Også selvom jeg vidste at den beslutning ville komme til at koste mig en del penge.\nJeg fulgte virkelig meget med. Nok for meget. Brugte al min tid på at følge udviklingen i andre lande. Og jeg brugte naturligvis tid på at advare danskerne om at coronavirus var en alvorlig sag. Ikke \u0026ldquo;bare en influenza\u0026rdquo;.\nDenne indsats fra min side blev bestemt ikke belønnet på Facebook. Her havde mine indlæg om coronavirus stort set ingen gennemslagskraft. I hvert fald ikke i forhold til andre ting jeg til dagligt skriver om.\nMen til min store glæde, så kompenserede trafikken fra Google for manglen på Facebook. Når man bruger tid på noget vigtigt, og mener at man har noget at byde ind med, så er det rart at det rent faktisk kommer ud og gør gavn.\nOg det gør oplysning og information jo kun hvis folk rent faktisk for dem at se.\nMen så skete der for et par dage siden noget underligt. Jeg bemærkede hurtigt at trafikken til FOLKETS faldt en del. Ret abrupt.\nDelingerne på Facebook de klarede sig hverken bedre eller dårligere end andre delinger om coronavirus. Så der var noget andet i gære.\nJeg tjekkede så i Googles søgekonsol. Og fik der bekræftet min mistanke.\nPå få dage var FOLKETS skubbet fra en placering på side et til en placering ned på side tre for søgeordet \u0026lsquo;corona\u0026rsquo;. Det er alligevel noget af et \u0026ldquo;drop\u0026rdquo;.\nSå nu står jeg i den situation at jeg ikke får trafik fra hverken Facebook eller Google. Endda på et område hvor jeg har bidraget med væsentlige indlæg før de fleste andre her i landet.\nOg jeg aner ikke hvorfor. Jeg aner det virkelig ikke.\nMen det får mig da til at tænke over den magt Google og Facebook har. Og den magt staten har med Google og Facebook som proxier.\nJeg kan ikke konkludere at der er tale om censur. Og måske er censur slet ikke det rigtige ord. Måske er det bare en fluktuation.\nMen effekten er den samme; folk kommer ikke til at læse det jeg skriver.\nDet må jeg leve med. Og jeg håber da på et comeback.\nOg uanset hvad er det trods alt betydeligt bedre at blive usynliggjort i den digitale verden end at blive \u0026ldquo;taget ud\u0026rdquo; i den virkelige.\n"
+    }
+    
+    , 
+    {
+        "url": "/cases/folkets/",
+        "title": "FOLKETS",
+        "content": "En dansk brand- og medieplatform\nFOLKETS.DK er et enorm stort projekt. Visionen er at udfordre både de danske medier og de amerikanske \u0026ldquo;tech giants\u0026rdquo;.\nSamtidig med at øjnene skal holdes på dette langsigtede mål, skal de betalende brugere også løbende serviceres med godt indhold.\nDer skal skabes indtægter og hele projektet skal løbende tilpasses og \u0026ldquo;trimmes\u0026rdquo; da der hele tiden kommer nyt på.\nFOLKETS.DK er uden sammenligning det mest lærerige fagligt set, som jeg har foretaget mig i mit arbejdsliv.\n"
     }
     
     , 
@@ -264,48 +194,6 @@
         "url": "/emner/seo/",
         "title": "SEO",
         "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/devops/",
-        "title": "devops",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/genrer/docs/",
-        "title": "docs",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/cases/gastrofun/",
-        "title": "Gastro Fun",
-        "content": "For mig er der en ekstra tilfredsstillelse ved at arbejde på ting hvor jeg har været med fra starten til at lægge fundamentet. Og det var tilfældet med madsitet GastroFun.dk .\nSammen med Per Asmussen byggede jeg GastroFun.dk fra bunden. Vi har været gode til at finde de rigtige løsninger i forhold til indholdsstruktur og informationsarkitektur.\nSiden har allerede opnået en meget prominent placering i Googles søgemaskine hvilket har været et centralt succeskriterie.\nPer er meget ambitiøs med siden, og det passer mig godt. I dag er udvikling på nettet altid noget løbende fordi konkurrenterne hele tiden er i bevægelse.\nJeg er derfor fortsat med til at rådgive og løse konkrete udfordringer på GastroFun.dk så siden forhåbentligt kan klare sig endnu bedre i fremtiden.\nSe også docs "
-    }
-    
-    , 
-    {
-        "url": "/tools/git/",
-        "title": "git",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/ssh/",
-        "title": "ssh",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/erfaringer/devops/workflow/workflow-gastrofun/",
-        "title": "Workflow for code på gastrofun",
-        "content": "Lokalt Det første foregår lokalt på gitlab/dev.gastrofun.dk\nmaster branch fra gitlab/dev.gastrofun.dk går til live site over gitlab.\ndev branch fra gitlab/dev.gastrofun.dk går til dev site over gitlab.\nTil live Hvis noget skal til live\ngit checkout master vær sikker på at have den nyeste master fra origin:\ngit pull Lav ændringer\ncheck med\ngit status Så\ngit add . og\ngit commit -m \u0026quot;deskriptiv tekst her\u0026quot; og\ngit push Til dev Tilsvarende, men\ngit checkout dev På internet-serveren ssh XXXXX@NN.NN.NN.NN -p NNN Hvis det er dev så gå til dev folder, hvis det er live så gå til live folderen.\nSikre at vi er på den rigtige branch i forhold til miljø\ngit branch hvis i orden\ngit pull Bemærk at git pull i virkeligheden både henter (fetch) og merger filerne.\nAfsluttende bemærkning Dette workflow er kun for kode-filer og omfatter ikke medie-filer, konfiguration eller databaser.\n"
     }
     
     , 
@@ -411,6 +299,13 @@
         "url": "/cm/",
         "title": "Cm",
         "content": ""
+    }
+    
+    , 
+    {
+        "url": "/cases/gastrofun/",
+        "title": "Gastro Fun",
+        "content": "For mig er der en ekstra tilfredsstillelse ved at arbejde på ting hvor jeg har været med fra starten til at lægge fundamentet. Og det var tilfældet med madsitet GastroFun.dk .\nSammen med Per Asmussen byggede jeg GastroFun.dk fra bunden. Vi har været gode til at finde de rigtige løsninger i forhold til indholdsstruktur og informationsarkitektur.\nSiden har allerede opnået en meget prominent placering i Googles søgemaskine hvilket har været et centralt succeskriterie.\nPer er meget ambitiøs med siden, og det passer mig godt. I dag er udvikling på nettet altid noget løbende fordi konkurrenterne hele tiden er i bevægelse.\nJeg er derfor fortsat med til at rådgive og løse konkrete udfordringer på GastroFun.dk så siden forhåbentligt kan klare sig endnu bedre i fremtiden.\nSe også docs "
     }
     
     , 

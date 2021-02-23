@@ -3,7 +3,7 @@ title: "zsh cheatsheet"
 description: "Plus en bonus"
 summary: "Plus en bonus"
 date: 2020-09-13
-# draft: true
+draft: true
 
 show_reading_time: true
 

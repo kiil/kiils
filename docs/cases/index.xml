@@ -6,7 +6,7 @@
     <description>Recent content in Cases on KIILS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kiils.dk/cases/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,19 +14,10 @@
     <item>
       <title>FOLKETS</title>
       <link>https://www.kiils.dk/cases/folkets/</link>
-      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/cases/folkets/</guid>
       <description>En dansk platform</description>
-    </item>
-    
-    <item>
-      <title>Gastro Fun</title>
-      <link>https://www.kiils.dk/cases/gastrofun/</link>
-      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/cases/gastrofun/</guid>
-      <description>Artikler om mad og masser af opskrifter</description>
     </item>
     
     <item>
@@ -36,6 +27,15 @@
       
       <guid>https://www.kiils.dk/cases/klimaleksikon/</guid>
       <description>Danmarks bedste og længstlevende side om klima</description>
+    </item>
+    
+    <item>
+      <title>Gastro Fun</title>
+      <link>https://www.kiils.dk/cases/gastrofun/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/cases/gastrofun/</guid>
+      <description>Artikler om mad og masser af opskrifter</description>
     </item>
     
     <item>
