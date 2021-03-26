@@ -47,6 +47,7 @@ unsafe = true
   tools = "tools"
   genrer = "genrer"
   skribenter = "skribenter"
+  ydelser = "ydelser"
 
 
 

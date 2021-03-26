@@ -2,6 +2,13 @@
     
     
     {
+        "url": "/cases/",
+        "title": "Cases",
+        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
+    }
+    
+    , 
+    {
         "url": "/emner/",
         "title": "Emner",
         "content": "Emner i det arbejde Kiils laver\n"
@@ -11,6 +18,69 @@
     {
         "url": "/erfaringer/",
         "title": "Erfaringer",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/indholdsh%C3%A5ndtering/",
+        "title": "Indholdshåndtering",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/",
+        "title": "Kiils | digitalt mediebureau",
+        "content": " 18 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier Måske kan jeg hjælpe dig? Kontakt mig nu!    "
+    }
+    
+    , 
+    {
+        "url": "/cases/klimaleksikon/",
+        "title": "Klimaleksikon",
+        "content": "Klimaleksikon.dk er med over 11 år på bagen Danmarks bedste og længstlevende side om klima .\nSiden er et samarbejde mellem mig og to andre naturfagsformidlere, Thomas Hesselberg og Mikkel Houmøller. Siden indeholder omkring 100 opslag på centrale emner inden for klima og klarer sig enormt godt i google-søgninger.\nSiden holdes løbende opdateret, og hundredetusinder af børn og unge har lært om klima og energi på siden.\nSidens brugere er overvejende børn i folkeskolens ældste klasser og unge på ungdomsuddannelserne.\nLærerne bruger aktivt Klimaleksikon i undervisningen, det ses blandt andet af de mange henvisninger fra diverse undervisningsplatforme:\nDesuden ser vi at Klimaleksikon hovedsageligt finder anvendelse inden for den almindelige undervisningstid:\nDer er en overvægt af piger hvilket er en smule atypisk for en side som i bund og grund er naturvidenskabeligt orienteret og skabt af naturfagsformidlere.\nMen det viser i hvert fald at interessen i naturvidenskab og teknologi er der fra den kant også når det overordnede emne blot er vedkommende nok.\nOpslagene, som er kerneindholdet på siden, er naturligvis skrevet i et tilgængeligt sprog som passer til målgruppen af unge mennesker. Men mange granvoksne har skam også glæde af siden. På en række af opslagene har vi nederst spørgsmål, som brugeren kan besvare og dermed få en fornemmelse af om man fået fat i de væsentligste oplysninger i teksten ovenfor.\nSiden er strengt apolitisk og faktuelt baseret. Det er en aftale jeg selv er glad for, da der er en stor lettelse i at være involveret i noget som er ent fakta-orienteret. Jeg nyder virkelig at have et frirum for politik og har derfor meget let ved at adskille Klimaleksikon fra mit øvrige virke.\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/seo/google-klima-succes/",
+        "title": "Klimaleksikon nummer et i Google på klima",
+        "content": "  Klimaleksikon i top på Google for søgeordet \u0026#39;klima\u0026#39;   Det er ikke nødvendigvis en placering som jeg forventer vil holde. Der er hård konkurrence og mange gode bud.\nGoogles søgegkonsol bekræfter resultatet og viser i øvrigt at Klimaleksikon klarer sig godt på en række relaterede ord også:\n  Flere fordelagtive placeringer     Klimarelaterede søgeord på Klimaleksikon   "
+    }
+    
+    , 
+    {
+        "url": "/skribenter/lennart-kiil/",
+        "title": "Lennart Kiil",
+        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
+    }
+    
+    , 
+    {
+        "url": "/skribenter/",
+        "title": "Skribenter",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/indhold/substans/",
+        "title": "Mere substans — mindre sensation",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/",
+        "title": "Tools",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/vim/",
+        "title": "Vim",
         "content": ""
     }
     
@@ -30,20 +100,6 @@
     
     , 
     {
-        "url": "/",
-        "title": "Kiils | digitalt mediebureau",
-        "content": " 18 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier Måske kan jeg hjælpe dig? Kontakt mig nu!    "
-    }
-    
-    , 
-    {
-        "url": "/skribenter/lennart-kiil/",
-        "title": "Lennart Kiil",
-        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
-    }
-    
-    , 
-    {
         "url": "/genrer/lifehacks/",
         "title": "lifehacks",
         "content": ""
@@ -53,13 +109,6 @@
     {
         "url": "/tools/pandoc/",
         "title": "pandoc",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/skribenter/",
-        "title": "Skribenter",
         "content": ""
     }
     
@@ -81,13 +130,6 @@
     {
         "url": "/emner/tips/",
         "title": "tips",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/",
-        "title": "Tools",
         "content": ""
     }
     
@@ -145,13 +187,6 @@
         "url": "/brands/",
         "title": "Brands",
         "content": "Brands som Kiils råder over. Hosted på platformen Folkets.\n"
-    }
-    
-    , 
-    {
-        "url": "/cases/",
-        "title": "Cases",
-        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
     }
     
     , 
@@ -250,13 +285,6 @@
         "url": "/emner/fundraising/",
         "title": "fundraising",
         "content": ""
-    }
-    
-    , 
-    {
-        "url": "/cases/klimaleksikon/",
-        "title": "Klimaleksikon",
-        "content": "Klimaleksikon.dk er med over 11 år på bagen Danmarks bedste og længstlevende side om klima .\nSiden er et samarbejde mellem mig og to andre naturfagsformidlere, Thomas Hesselberg og Mikkel Houmøller. Siden indeholder omkring 100 opslag på centrale emner inden for klima og klarer sig enormt godt i google-søgninger.\nSiden holdes løbende opdateret, og hundredetusinder af børn og unge har lært om klima og energi på siden.\nSidens brugere er overvejende børn i folkeskolens ældste klasser og unge på ungdomsuddannelserne.\nLærerne bruger aktivt Klimaleksikon i undervisningen, det ses blandt andet af de mange henvisninger fra diverse undervisningsplatforme:\nDesuden ser vi at Klimaleksikon hovedsageligt finder anvendelse inden for den almindelige undervisningstid:\nDer er en overvægt af piger hvilket er en smule atypisk for en side som i bund og grund er naturvidenskabeligt orienteret og skabt af naturfagsformidlere.\nMen det viser i hvert fald at interessen i naturvidenskab og teknologi er der fra den kant også når det overordnede emne blot er vedkommende nok.\nOpslagene, som er kerneindholdet på siden, er naturligvis skrevet i et tilgængeligt sprog som passer til målgruppen af unge mennesker. Men mange granvoksne har skam også glæde af siden. På en række af opslagene har vi nederst spørgsmål, som brugeren kan besvare og dermed få en fornemmelse af om man fået fat i de væsentligste oplysninger i teksten ovenfor.\nSiden er strengt apolitisk og faktuelt baseret. Det er en aftale jeg selv er glad for, da der er en stor lettelse i at være involveret i noget som er ent fakta-orienteret. Jeg nyder virkelig at have et frirum for politik og har derfor meget let ved at adskille Klimaleksikon fra mit øvrige virke.\n"
     }
     
     , 
@@ -550,7 +578,7 @@
     {
         "url": "/erfaringer/abo/abonnenter-nok/",
         "title": "Får jeg abonnenter nok til at leve af mit online-medie?",
-        "content": "Sandsynligvis ikke. Men læs alligevel videre og få et simpelt værktøj til at vurdere dine chancer.\nAbonnementsmodellen for indhold er gammelkendt og har vist sit værd gennem tiden for magasiner og aviser.\nOg i dag har andre leverandører af indhold, for eksempel Netflix, stor succes med modellen. Også privatpersoner, som skaber indhold af forskellig art, har med hjælp fra services som Patroen haft glæde af modellen - nok oftest som supplement til anden indtægt.\nSelv har jeg erfaring med modellen fra det medie jeg har stiftet og opbygget: Folkets Avis .\nJeg kan nu leve af Folkets Avis. Det er en lille sejr i sig selv og forhåbentligt første skridt på vej mod flere succeser.\nMen hvad med dig?\nMange vil gerne starte et medie op eller på anden vis leve at at skabe indhold og sælge det online på et site man selv er ejer af.\nHvor meget skal der til? Inden man går i gang kan man med fordel gøre sig nogle overvejelser om hvad der skal til.\nDet handler om\n at få nogle læsere ind på sin side og sælge abonnementer til dem  Vi kan nu se nærmere på hvor mange læsere der skal til, hvor god man skal være til at overbevise dem om at købe et abonnement, og hvor dygtig man skal være til at fastholde sine kunder, når man først har fået dem ind som abonnenter.\nHver solgt abonnement er en \u0026ldquo;vundet\u0026rdquo; abonnent. Las os kalde antallet af vundne abonnenter for Va.\nDet antal abonnenter, som kan vindes inden for en given periode, er givet ved antal læsere, noteret som L, og den andel af læsere man får solgt et abonnement til. Denne andel kalder vi konverteringraten, noteret som K.\nFor en given periode er tilvæksten i antal abonnenter således givet ved:\n$ V_a = L \\cdot K $\nHvis der ikke er noget frafald så er det samlede antal abonnenter, noteret A, ganske enkelt lig antallet af abonnenter vundet over tid, altså Va.\nMen sådan er virkeligheden ikke. Abonnenter falder hele tiden fra og tabes konstant af mange forskellige årsager.\nDet antal abonnenter, som tabes over en given periode, kan vil kalde Ta for tabte abonnenter. Det kan udregnes som produktet af det samlede antal abonnenter, A, og den andel af disse abonnenter som tabes inden for en given periode. Denne andel kalder vi frafaldsraten, F.\n$ T_a = A \\cdot F $\nGivet et nogenlunde stabilt læsertal og stabile konverterings- og frafaldsrater, så vil mediet på et tidspunkt nå et plateau, eller et vækstloft om man vil, hvor antal af løbende vundne abonnenter er lig med antallet af løbende tabte abonnenter – og det samlede antal abonnenter vil da stagnere. En ligevægt er på plads:\n$ T_a = V_a $\nHvis vi i stedet indsætter komponenterne for Ta og Va, får vi:\n$ A \\cdot F = L \\cdot K $\nDet antal abonnenter, du vil kunne opnå med et givet antal læsere og en fastlagt konverterings- og frafaldsrate, kan altså forudsiges ud fra denne simple formel:\n$ A = \\frac{L \\cdot K}{F } $\nLad os tage et konkret eksempel med 100.000 månedlige læsere, en månedlig konverteringsrate på en halv promille og en månedlig frafaldsrate på fem procent.\n$ A = \\frac{100000 \\cdot 0{,}0005}{0{,}05} = 1000 $\nAltså kan du under de forudsætninger ikke forvente mere end maksimalt 1000 abonnenter.\nFå læsere - få abonnenter Hvis du i stedet kun har 10.000 læsere rammes vækstloftet allerede ved 100 opnåede abonnenter og så fremdeles.\nHvis dit medie er mere specialiseret, kan du måske øge konverteringsraten og sænke frafaldsraten, men så er det til gengæld også sværere at opnå det store antal læsere.\nOg husk på: Med tiden vil et større antal af læserne allerede være abonnenter og kan således ikke vindes. Og i takt med at antallet af abonnenter stiger vil det samlede antal abonnenter, der tabes, gøre det samme.\nDin vækst vil med andre ord flade asymptotisk ud, når antallet af abonnenter nærmer sig vækstloftet. Og så vil antallet ellers forblive omkring vækstloftet, med mindre du kan ændre markant på nogle af de nævnte faktorer.\nDu vil altså med stor sandsyblighed opleve at det bliver svært at opretholde vækst.\nOg du vil med næsten usvigelig sikkerhed ramme loftet. Og man kan nå dertil overraskende hurtigt.\nKan du leve af for eksempel 500 abonnenter - eller af 1000?\nDet kommer vel dels an på, hvor meget hver især betaler om måneden. Men prisen på abonnementet påvirker også antallet af abonnementer som kan sælges og dermed antallet af abonnenter som kan vindes og fastholdes.\nDet vender vil tilbage til.\n"
+        "content": "Sandsynligvis ikke. Men læs alligevel videre og få et simpelt værktøj til at vurdere dine chancer.\nAbonnementsmodellen for indhold er gammelkendt og har vist sit værd gennem tiden for magasiner og aviser.\nOg i dag har andre leverandører af indhold, for eksempel Netflix, stor succes med modellen. Også privatpersoner, som skaber indhold af forskellig art, har med hjælp fra services som Patroen haft glæde af modellen - nok oftest som supplement til anden indtægt.\nSelv har jeg erfaring med modellen fra det medie jeg har stiftet og opbygget: Folkets Avis .\nJeg kan nu leve af Folkets Avis. Det er en lille sejr i sig selv og forhåbentligt første skridt på vej mod flere succeser.\nMen hvad med dig?\nMange vil gerne starte et medie op eller på anden vis leve at at skabe indhold og sælge det online på et site man selv er ejer af.\nHvor meget skal der til? Inden man går i gang kan man med fordel gøre sig nogle overvejelser om hvad der skal til.\nDet handler om\n at få nogle læsere ind på sin side og sælge abonnementer til dem  Vi kan nu se nærmere på hvor mange læsere der skal til, hvor god man skal være til at overbevise dem om at købe et abonnement, og hvor dygtig man skal være til at fastholde sine kunder, når man først har fået dem ind som abonnenter.\nHver solgt abonnement er en \u0026ldquo;vundet\u0026rdquo; abonnent. Las os kalde antallet af vundne abonnenter for Va.\nDet antal abonnenter, som kan vindes inden for en given periode, er givet ved antal læsere, noteret som L, og den andel af læsere man får solgt et abonnement til. Denne andel kalder vi konverteringraten, noteret som K.\nFor en given periode er tilvæksten i antal abonnenter således givet ved:\n$ V_a = L \\cdot K $\nHvis der ikke er noget frafald så er det samlede antal abonnenter, noteret A, ganske enkelt lig antallet af abonnenter vundet over tid, altså Va.\nMen sådan er virkeligheden ikke. Abonnenter falder hele tiden fra og tabes konstant af mange forskellige årsager.\nDet antal abonnenter, som tabes over en given periode, kan vi kalde Ta for tabte abonnenter. Det kan udregnes som produktet af det samlede antal abonnenter, A, og den andel af disse abonnenter som tabes inden for en given periode. Denne andel kalder vi frafaldsraten, F.\n$ T_a = A \\cdot F $\nGivet et nogenlunde stabilt læsertal og stabile konverterings- og frafaldsrater, så vil mediet på et tidspunkt nå et plateau, eller et vækstloft om man vil, hvor antal af løbende vundne abonnenter er lig med antallet af løbende tabte abonnenter – og det samlede antal abonnenter vil da stagnere. En ligevægt er på plads:\n$ T_a = V_a $\nHvis vi i stedet indsætter komponenterne for Ta og Va, får vi:\n$ A \\cdot F = L \\cdot K $\nDet antal abonnenter, du vil kunne opnå med et givet antal læsere og en fastlagt konverterings- og frafaldsrate, kan altså forudsiges ud fra denne simple formel:\n$ A = \\frac{L \\cdot K}{F } $\nLad os tage et konkret eksempel med 100.000 månedlige læsere, en månedlig konverteringsrate på en halv promille og en månedlig frafaldsrate på fem procent.\n$ A = \\frac{100000 \\cdot 0{,}0005}{0{,}05} = 1000 $\nAltså kan du under de forudsætninger ikke forvente mere end maksimalt 1000 abonnenter.\nFå læsere - få abonnenter Hvis du i stedet kun har 10.000 læsere rammes vækstloftet allerede ved 100 opnåede abonnenter og så fremdeles.\nHvis dit medie er mere specialiseret, kan du måske øge konverteringsraten og sænke frafaldsraten, men så er det til gengæld også sværere at opnå det store antal læsere.\nOg husk på: Med tiden vil et større antal af læserne allerede være abonnenter og kan således ikke vindes. Og i takt med at antallet af abonnenter stiger vil det samlede antal abonnenter, der tabes, gøre det samme.\nDin vækst vil med andre ord flade asymptotisk ud, når antallet af abonnenter nærmer sig vækstloftet. Og så vil antallet ellers forblive omkring vækstloftet, med mindre du kan ændre markant på nogle af de nævnte faktorer.\nDu vil altså med stor sandsyblighed opleve at det bliver svært at opretholde vækst.\nOg du vil med næsten usvigelig sikkerhed ramme loftet. Og man kan nå dertil overraskende hurtigt.\nKan du leve af for eksempel 500 abonnenter - eller af 1000?\nDet kommer vel dels an på, hvor meget hver især betaler om måneden. Men prisen på abonnementet påvirker også antallet af abonnementer som kan sælges og dermed antallet af abonnenter som kan vindes og fastholdes.\nDet vender vil tilbage til.\n"
     }
     
     , 
@@ -625,13 +653,6 @@
     
     , 
     {
-        "url": "/erfaringer/test/",
-        "title": "",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/erfaringer/tips-tricks/git-tips/",
         "title": "",
         "content": "Reset dev branch til master\ngit checkout dev git reset --hard master git push --force origin dev "
@@ -655,7 +676,7 @@
     {
         "url": "/kontakt/",
         "title": "Kontakt",
-        "content": "Du kan ringe på telefon 40261872 eller skrive en mail direkte til lennart@kiils.dk\nPostadresse:\nKiils v/Lennart Kiil Kirkeskov Allé 72 3050 Humlebæk\neller bruge kontaktformularen\nYour Name Email Address An email address is required.  Message   "
+        "content": "Du kan ringe på telefon 40261872 eller skrive en mail direkte til lennart@kiils.dk\nPostadresse:\nKiils v/Lennart Kiil Kirkeskov Allé 72 3050 Humlebæk\n"
     }
     
     , 
@@ -688,6 +709,13 @@
     
     , 
     {
+        "url": "/ydelser/remote/",
+        "title": "Remote",
+        "content": "Hvad jeg kan tilbyde\nJeg kan være gavnlig at have tilknyttet web-projekter i den indledende fase.\n"
+    }
+    
+    , 
+    {
         "url": "/brands/r%C3%A6vekagen/",
         "title": "Rævekagen",
         "content": "Rævekagen Satire og provokerende politisk analyse.\nFokus på personer, magtkampe, hykleri.\n"
@@ -698,6 +726,13 @@
         "url": "/search/",
         "title": "Søgning",
         "content": "  // define globale variables var idx, searchInput, searchResults = null var documents = [] function renderSearchResults(results){ if (results.length  0) { // show max 10 results if (results.length  9){ results = results.slice(0,10) } // reset search results searchResults.innerHTML = '' // append results results.forEach(result = { // create result item var article = document.createElement('article') article.innerHTML = ` ${documents[result.ref].title}   ` searchResults.appendChild(article) }) // if results are empty } else { searchResults.innerHTML = 'Ingen resultater.\n' } } function registerSearchHandler() { // register on input event searchInput.oninput = function(event) { // remove search results if the user empties the search input field if (searchInput.value == '') { searchResults.innerHTML = '' } else { // get input value var query = event.target.value // run fuzzy search var results = idx.search(query + '*') // render results renderSearchResults(results) } } // set focus on search input and remove loading placeholder searchInput.focus() searchInput.placeholder = '⌕' } window.onload = function() { // get dom elements searchInput = document.getElementById('search-input') searchResults = document.getElementById('search-results') // request and index documents fetch('/index.json', { method: 'get' }).then( res = res.json() ).then( res = { // index document idx = lunr(function() { this.ref('url') this.field('title') this.field('content') res.forEach(function(doc) { this.add(doc) documents[doc.url] = { 'title': doc.title, 'content': doc.content, } }, this) }) // data is loaded, next register handler registerSearchHandler() } ).catch( err = { searchResults.innerHTML = `${err}\n` } ) }  Tast søgeord i feltet Noget du ikke fandt? Kontakt Kiils    input::placeholder { text-align: right; }  "
+    }
+    
+    , 
+    {
+        "url": "/ydelser/",
+        "title": "Ydelser",
+        "content": ""
     }
     
 ]

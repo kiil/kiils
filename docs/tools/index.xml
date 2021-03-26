@@ -6,10 +6,19 @@
     <description>Recent content in Tools on KIILS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kiils.dk/tools/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vim</title>
+      <link>https://www.kiils.dk/tools/vim/</link>
+      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/vim/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>pandoc</title>

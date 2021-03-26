@@ -17,6 +17,4 @@ Postadresse:
 Kirkeskov Allé 72    
 3050 Humlebæk**
 
-eller bruge kontaktformularen
 
-{{< form-contact action="https://formspree.io/lennart@kiils.dk" >}}

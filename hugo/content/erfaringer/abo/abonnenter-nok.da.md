@@ -63,7 +63,7 @@ Hvis der ikke er noget frafald så er det samlede antal abonnenter, noteret A, g
 
 Men sådan er virkeligheden ikke. Abonnenter falder hele tiden fra og tabes konstant af mange forskellige årsager.
 
-Det antal abonnenter, som tabes over en given periode, kan vil kalde T<sub>a</sub> for tabte abonnenter. Det kan udregnes som produktet af det samlede antal abonnenter, A,  og den andel af disse abonnenter som tabes inden for en given periode. Denne andel kalder vi frafaldsraten, F.
+Det antal abonnenter, som tabes over en given periode, kan vi kalde T<sub>a</sub> for tabte abonnenter. Det kan udregnes som produktet af det samlede antal abonnenter, A,  og den andel af disse abonnenter som tabes inden for en given periode. Denne andel kalder vi frafaldsraten, F.
 
 $
 T_a = A \cdot F

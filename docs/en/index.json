@@ -46,7 +46,7 @@
     {
         "url": "/en/",
         "title": "Kiils | digital media",
-        "content": " 17 years of practical experience with internet, journalism and social media Maybe I can help you? Contact me now!  "
+        "content": " 18 years of practical experience with internet, journalism and social media Maybe I can help you? Contact me now!  "
     }
     
     , 
@@ -109,6 +109,20 @@
     {
         "url": "/en/kunder/",
         "title": "Kunder",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/en/ydelser/remote/",
+        "title": "Remote",
+        "content": "Remote work\n"
+    }
+    
+    , 
+    {
+        "url": "/en/ydelser/",
+        "title": "Services",
         "content": ""
     }
     
