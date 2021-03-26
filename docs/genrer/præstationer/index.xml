@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Indholdshåndtering on KIILS</title>
-    <link>https://www.kiils.dk/emner/indholdsh%C3%A5ndtering/</link>
-    <description>Recent content in Indholdshåndtering on KIILS</description>
+    <title>præstationer on KIILS</title>
+    <link>https://www.kiils.dk/genrer/pr%C3%A6stationer/</link>
+    <description>Recent content in præstationer on KIILS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
     <lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.kiils.dk/emner/indholdsh%C3%A5ndtering/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.kiils.dk/genrer/pr%C3%A6stationer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://www.kiils.dk/erfaringer/seo/google-klima-succes/</guid>
       <description>Det tog 13 år at komme helt til tops</description>
-    </item>
-    
-    <item>
-      <title>Mere substans — mindre sensation</title>
-      <link>https://www.kiils.dk/erfaringer/indhold/substans/</link>
-      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/erfaringer/indhold/substans/</guid>
-      <description></description>
     </item>
     
   </channel>

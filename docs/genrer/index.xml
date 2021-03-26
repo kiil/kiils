@@ -6,10 +6,19 @@
     <description>Recent content in Genrer on KIILS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.kiils.dk/genrer/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>præstationer</title>
+      <link>https://www.kiils.dk/genrer/pr%C3%A6stationer/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/genrer/pr%C3%A6stationer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>lifehacks</title>
