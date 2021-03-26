@@ -2,6 +2,13 @@
     
     
     {
+        "url": "/genrer/bedrifter/",
+        "title": "bedrifter",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/cases/",
         "title": "Cases",
         "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
@@ -61,13 +68,6 @@
         "url": "/skribenter/lennart-kiil/",
         "title": "Lennart Kiil",
         "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
-    }
-    
-    , 
-    {
-        "url": "/genrer/pr%C3%A6stationer/",
-        "title": "præstationer",
-        "content": ""
     }
     
     , 

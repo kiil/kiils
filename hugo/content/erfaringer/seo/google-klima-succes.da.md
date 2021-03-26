@@ -16,7 +16,7 @@ emner:
 cases:
   - klimaleksikon
 genrer:
-  - præstationer
+  - bedrifter
 
 thumbnail: "erfaringer/seo/klima-klimaleksikon-google.png"
 ---
