@@ -37,7 +37,7 @@ En placering over selveste Wikipedia — det er vi enormt glade for og stolte ov
 
 Googles søgekonsol bekræfter resultatet:
 
-{{< figure src="/erfaringer/seo/klima-google.png" title="Flere fordelagtive placeringer" >}}
+{{< figure src="/erfaringer/seo/klima-google.png" title="Flere fordelagtige placeringer" >}}
 
 Og viser i øvrigt at Klimaleksikon klarer sig godt på en række relaterede ord også. Faktisk ikke mindre end 682 søgeord med tæt relation til klima:
 
