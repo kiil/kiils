@@ -41,7 +41,9 @@ thumbnail: "erfaringer/frontend/100.png"
 ---
 Med en static site generator er det efterhånden relativt nemt at bygge et site som er optimeret på ydelse.
 
-Men hvis nu man skal bygge noget mere kompliceret hvor man har brug for et CMS. Hvad så? Kan man stadig komme helt i top med performance i frontend med et CMS?
+Men hvis nu man skal bygge noget mere kompliceret hvor man har brug for et CMS. Eller endda en DXP, som typisk er endnu tungere — hvad så?
+
+Kan man stadig komme helt i top med performance i frontend med et CMS?
 
 Ja! Heldigvis da.
 
