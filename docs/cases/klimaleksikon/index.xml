@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Klimaleksikon on KIILS</title>
+    <link>https://www.kiils.dk/cases/klimaleksikon/</link>
+    <description>Recent content in Klimaleksikon on KIILS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.kiils.dk/cases/klimaleksikon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bæredygtig diversitet — rollemodeller eller reel interesse?</title>
+      <link>https://www.kiils.dk/erfaringer/marketing/diversitet/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/marketing/diversitet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Klimaleksikon nummer et i Google på klima</title>
+      <link>https://www.kiils.dk/erfaringer/seo/google-klima-succes/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/seo/google-klima-succes/</guid>
+      <description>Det tog 13 år at komme helt til tops</description>
+    </item>
+    
+    <item>
+      <title>100.000 gange årligt bruges mine tekster i undervisningen uden at jeg får en krone for det – og CopyDan kan ikke hjælpe mig</title>
+      <link>https://www.kiils.dk/erfaringer/fundraising/copydan/copydan-digital/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/fundraising/copydan/copydan-digital/</guid>
+      <description>Alle siger at emnet er enormt vigtigt</description>
+    </item>
+    
+    <item>
+      <title>Kan man crowdfunde et klimaleksikon?</title>
+      <link>https://www.kiils.dk/erfaringer/fundraising/klimaleksikon-crowdfunding-donorbox/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/fundraising/klimaleksikon-crowdfunding-donorbox/</guid>
+      <description>Interessen for klima er stor - er villigheden til at betale for viden på området det også?</description>
+    </item>
+    
+    <item>
+      <title>Sådan fik jeg perfekte 100 i mobilhastighed</title>
+      <link>https://www.kiils.dk/erfaringer/frontend/klimaleksikon-tachyons-performance/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/frontend/klimaleksikon-tachyons-performance/</guid>
+      <description>Det er ikke nemt i et CMS</description>
+    </item>
+    
+    <item>
+      <title>Det nemmeste CSS framework</title>
+      <link>https://www.kiils.dk/erfaringer/frontend/bootstrap-4/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaringer/frontend/bootstrap-4/</guid>
+      <description>Bootstrap 4 er næppe det nemmeste og hurtigste at prototype i længere. Og lidt for tungt hvis man virkelig går op i hastighed også på langsommere mobilforbindelser.</description>
+    </item>
+    
+  </channel>
+</rss>
