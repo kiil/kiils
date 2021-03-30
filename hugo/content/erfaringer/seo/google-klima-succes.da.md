@@ -29,7 +29,7 @@ Ganske enkelt nummer et på søgeordet *klima*:
 
 {{< figure src="/erfaringer/seo/klima-klimaleksikon-google.png" title="Klimaleksikon i top på Google for søgeordet 'klima'" >}}
 
-Det er ikke nødvendigvis en placering som jeg forventer vil holde for evigt. Der er hård konkurrence og mange gode bud.
+Jeg forventer ikke nødvendigvis at den placering vil holde for evigt. Der er hård konkurrence og mange gode bud.
 
 Men placeringen er en stor *cadeau* til det arbejde som mine to medredaktører og jeg selv har udført på Klimaleksikon gennem nu 13 år.
 

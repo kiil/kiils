@@ -33,6 +33,8 @@ cases:
 cm:
   - feed
 
+genrer: bedrifter 
+
 
 thumbnail: "erfaringer/frontend/100.png"
 ---

@@ -81,6 +81,7 @@ Kør følgende på Generated Links `:VimwikiGenerateLinks`
 - [journalistik/folkets-avis-er-ikke-junk](journalistik/folkets-avis-er-ikke-junk)
 - [journalistik/mellemrubrikker-indholdsoversigt](journalistik/mellemrubrikker-indholdsoversigt)
 - [marketing/kampagne-dogmerne](marketing/kampagne-dogmerne)
+- [marketing/diversitet](marketing/diversitet)
 - [mediedrift/2020-2021](mediedrift/2020-2021)
 - [mediedrift/2020](mediedrift/2020)
 - [mediedrift/3ting](mediedrift/3ting)
