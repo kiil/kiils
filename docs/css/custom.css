@@ -1,3 +1,14 @@
+
+figure {
+    margin-inline-start: 5px;
+    margin-inline-end: 5px;
+}
+
+figcaption {padding: 1rem; background-color: white;}
+
+
+/*
+
 figure {
 display: block;
 margin-block-start: 1em;
@@ -10,6 +21,9 @@ display: block;
 margin-inline-start: 10px;
 margin-inline-end: 10px;
 }
+
+*/
+
 body {
   display: flex;
   min-height: 100vh;
