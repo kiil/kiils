@@ -6,20 +6,7 @@
     <description>Recent content in Genrer on KIILS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.kiils.dk/genrer/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>overvejelser</title>
-      <link>https://www.kiils.dk/genrer/overvejelser/</link>
-      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/genrer/overvejelser/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/genrer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bedrifter</title>
       <link>https://www.kiils.dk/genrer/bedrifter/</link>
@@ -35,6 +22,15 @@
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/genrer/lifehacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>overvejelser</title>
+      <link>https://www.kiils.dk/genrer/overvejelser/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/genrer/overvejelser/</guid>
       <description></description>
     </item>
     

@@ -5,10 +5,6 @@
     <link>https://www.kiils.dk/brands/oplevelser/</link>
     <description>Recent content in Oplevelser on KIILS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>da-dk</language>
-    
-	<atom:link href="https://www.kiils.dk/brands/oplevelser/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>da-dk</language><atom:link href="https://www.kiils.dk/brands/oplevelser/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

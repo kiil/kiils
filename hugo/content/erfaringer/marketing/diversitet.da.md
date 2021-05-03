@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Bæredygtig diversitet — rollemodeller eller reel interesse?'
 summary: ' '
 # featured_image: ' '

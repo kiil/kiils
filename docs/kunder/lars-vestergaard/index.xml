@@ -5,10 +5,6 @@
     <link>https://www.kiils.dk/kunder/lars-vestergaard/</link>
     <description>Recent content in Lars Vestergaard on KIILS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>da-dk</language>
-    
-	<atom:link href="https://www.kiils.dk/kunder/lars-vestergaard/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>da-dk</language><atom:link href="https://www.kiils.dk/kunder/lars-vestergaard/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

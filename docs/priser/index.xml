@@ -5,10 +5,6 @@
     <link>https://www.kiils.dk/priser/</link>
     <description>Recent content in Priser on KIILS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>da-dk</language>
-    
-	<atom:link href="https://www.kiils.dk/priser/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>da-dk</language><atom:link href="https://www.kiils.dk/priser/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

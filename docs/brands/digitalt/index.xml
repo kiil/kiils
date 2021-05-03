@@ -5,10 +5,6 @@
     <link>https://www.kiils.dk/brands/digitalt/</link>
     <description>Recent content in digitalt on KIILS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>da-dk</language>
-    
-	<atom:link href="https://www.kiils.dk/brands/digitalt/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>da-dk</language><atom:link href="https://www.kiils.dk/brands/digitalt/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

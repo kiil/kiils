@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.kiils.dk/en/emner/billing/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.kiils.dk/en/cases/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -24,9 +21,7 @@
                 hreflang="en"
                 href="https://www.kiils.dk/en/cases/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.kiils.dk/en/emner/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -41,9 +36,7 @@
                 hreflang="en"
                 href="https://www.kiils.dk/en/emner/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.kiils.dk/en/erfaringer/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -58,9 +51,7 @@
                 hreflang="en"
                 href="https://www.kiils.dk/en/erfaringer/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.kiils.dk/en/cases/folkets/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -75,9 +66,7 @@
                 hreflang="en"
                 href="https://www.kiils.dk/en/cases/folkets/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.kiils.dk/en/genrer/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -92,9 +81,7 @@
                 hreflang="en"
                 href="https://www.kiils.dk/en/genrer/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.kiils.dk/en/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -109,9 +96,7 @@
                 hreflang="en"
                 href="https://www.kiils.dk/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.kiils.dk/en/skribenter/lennart-kiil/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -126,30 +111,22 @@
                 hreflang="en"
                 href="https://www.kiils.dk/en/skribenter/lennart-kiil/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.kiils.dk/en/emner/payment/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.kiils.dk/en/genrer/recommendation/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.kiils.dk/en/erfaringer/service/servicebot-is-great/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.kiils.dk/en/skribenter/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -164,16 +141,12 @@
                 hreflang="en"
                 href="https://www.kiils.dk/en/skribenter/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.kiils.dk/en/emner/stripe/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.kiils.dk/en/brands/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -187,9 +160,7 @@
                 hreflang="en"
                 href="https://www.kiils.dk/en/brands/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.kiils.dk/en/cm/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -203,9 +174,7 @@
                 hreflang="en"
                 href="https://www.kiils.dk/en/cm/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.kiils.dk/en/kunder/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -219,9 +188,7 @@
                 hreflang="en"
                 href="https://www.kiils.dk/en/kunder/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.kiils.dk/en/ydelser/remote/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -235,9 +202,7 @@
                 hreflang="en"
                 href="https://www.kiils.dk/en/ydelser/remote/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.kiils.dk/en/ydelser/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -251,9 +216,7 @@
                 hreflang="en"
                 href="https://www.kiils.dk/en/ydelser/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.kiils.dk/en/tools/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -268,5 +231,4 @@
                 href="https://www.kiils.dk/en/tools/"
                 />
   </url>
-  
 </urlset>

@@ -5,10 +5,6 @@
     <link>https://www.kiils.dk/erfaringer/tips-tricks/git-tips/</link>
     <description>Recent content on KIILS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>da-dk</language>
-    
-	<atom:link href="https://www.kiils.dk/erfaringer/tips-tricks/git-tips/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>da-dk</language><atom:link href="https://www.kiils.dk/erfaringer/tips-tricks/git-tips/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

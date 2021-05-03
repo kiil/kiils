@@ -6,10 +6,6 @@
     <description>Recent content in jQuery - væk med paranteser i tekst on KIILS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.kiils.dk/erfaringer/frontend/jquery-javascript/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/erfaringer/frontend/jquery-javascript/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

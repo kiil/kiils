@@ -2,9 +2,9 @@
     
     
     {
-        "url": "/erfaringer/marketing/diversitet/",
-        "title": "Bæredygtig diversitet — rollemodeller eller reel interesse?",
-        "content": "Der mangler kvinder i STEM-fagene mener vores magthavere. Det mener de både nede i EU og på Christiansborg — ja, sågar hos FN.\nDe er som regel gode til at mene noget de steder. Mens resultaterne lader vente på sig.\nDet har de ment meget længe. Men de har ikke formået at ændre på forholdet.\nSelv hvis man øger rekrutteringen af kvinder til STEM-uddannelserne, falder mange fra inden de når helt frem til de professor-stillinger som magthaverne mener de skal have.\nNuvel. Måske gør man det forkert.\nMan har valgt den amerikanske tilgang dels med rollemodeller, dels med workshops og kurser kun for piger.\nDisse ting fostrer næppe en bæredygtig diversitet.\nIdeen om rollemodeller bygger allerede i udgangspunktet på en tvivlsom præmis. Nemlig at folk kun kan inspireres af en person med samme køn som dem selv.\nDen ide kan kun være opstået i hovedet på nørder som har læst for mange tegneserier med Wonder Woman eller He Man. Folk som er så sociale begrænsede at de kun kan identificere sig med en af deres eget køn.\nDenne præmis er ganske enkelt ikke gældende for ret mange personer af hverken det ene eller det andet køn.\nDet er i øvrigt en barnagtig opfattelse med helte og rollemodeller.\nDen videnskabelige litteratur er heller ikke overbevist:\n We show in a large-scale field experiment that a brief exposure to female role models working in scientific fields affects high school students’ perceptions and choice of undergraduate major. While the classroom interventions generally reduce the prevalence of stereotypical views on jobs in science and gender differences in abilities, the effects on educational choices are concentrated among high-achieving girls in Grade 12. They are more likely to enroll in selective and male-dominated STEM programs in college. The most effective role model interventions are those that improved students’ perceptions of STEM careers without overemphasizing women’s underrepresentation in science.\n https://halshs.archives-ouvertes.fr/halshs-01713068/document\nDe eksklusive kurser og workshops for pigerr og kvinder fungerer næppe heller, for de er jo bafe en slags luykkede værksteder hvor drenge og mænd holdes ude. Men det er jo ikke sådan at virkeligheden hænger sammen når kvinder kommer længere frem i systemet.\nSom ideen om rollemodeller bygger også denne tilgang altså på en forkert præmis og vil næppe skabe bæredygtig og robust diversitet.\nHvis man vi have kvinder til at vælge STEM og blive i STEM og komme til tops i STEM, så skal man droppe ideen om rollemodeller og de mange eksklsive tiltag som er rettet specifikt mod et køn og udelukker det andet.\nFor hvis ikke man har en reel interesse for faget, for området, så er chancen for at man når det mål – som magthaverne har stillet op for en – lille.\nEn aller anden rollemodel hjælper ikke noget hvis ikke der er kultiveret en interesse for faget.\nDer bliver kort sagt spildt en masse tid og penge på tilgange som ikke virker.\n"
+        "url": "/genrer/bedrifter/",
+        "title": "bedrifter",
+        "content": ""
     }
     
     , 
@@ -12,13 +12,6 @@
         "url": "/cases/",
         "title": "Cases",
         "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
-    }
-    
-    , 
-    {
-        "url": "/emner/diversitet/",
-        "title": "Diversitet",
-        "content": ""
     }
     
     , 
@@ -65,6 +58,13 @@
     
     , 
     {
+        "url": "/erfaringer/seo/google-klima-succes/",
+        "title": "Klimaleksikon nummer et i Google på klima",
+        "content": "Klimaleksikon er det mest troværdige sted på nettet for unge mennesker at finde viden om klima på dansk.\nDet afspejles nu ikke længere blot i massiv søgetrafik på klima og relaterede emner fra skoler og ungdomsuddannelser til sitet, men også ved en flot topplacering på Google.\nGanske enkelt nummer et på søgeordet klima:\n  Klimaleksikon i top på Google for søgeordet \u0026#39;klima\u0026#39;   Jeg forventer ikke nødvendigvis at den placering vil holde for evigt. Der er hård konkurrence og mange gode bud.\nMen placeringen er en stor cadeau til det arbejde som mine to medredaktører og jeg selv har udført på Klimaleksikon gennem nu 13 år.\nEn placering over selveste Wikipedia — det er vi enormt glade for og stolte over.\nGoogles søgekonsol bekræfter resultatet:\n  Flere fordelagtige placeringer   Og viser i øvrigt at Klimaleksikon klarer sig godt på en række relaterede ord også. Faktisk ikke mindre end 682 søgeord med tæt relation til klima:\n  Klimarelaterede søgeord på Klimaleksikon   Vi fortsætter arbejdet.\n"
+    }
+    
+    , 
+    {
         "url": "/skribenter/lennart-kiil/",
         "title": "Lennart Kiil",
         "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
@@ -72,15 +72,15 @@
     
     , 
     {
-        "url": "/genrer/overvejelser/",
-        "title": "overvejelser",
+        "url": "/skribenter/",
+        "title": "Skribenter",
         "content": ""
     }
     
     , 
     {
-        "url": "/skribenter/",
-        "title": "Skribenter",
+        "url": "/erfaringer/indhold/substans/",
+        "title": "Mere substans — mindre sensation",
         "content": ""
     }
     
@@ -95,27 +95,6 @@
     {
         "url": "/tools/vim/",
         "title": "Vim",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/genrer/bedrifter/",
-        "title": "bedrifter",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/erfaringer/seo/google-klima-succes/",
-        "title": "Klimaleksikon nummer et i Google på klima",
-        "content": "Klimaleksikon er det mest troværdige sted på nettet for unge mennesker at finde viden om klima på dansk.\nDet afspejles nu ikke længere blot i massiv søgetrafik på klima og relaterede emner fra skoler og ungdomsuddannelser til sitet, men også ved en flot topplacering på Google.\nGanske enkelt nummer et på søgeordet klima:\n  Klimaleksikon i top på Google for søgeordet \u0026#39;klima\u0026#39;   Jeg forventer ikke nødvendigvis at den placering vil holde for evigt. Der er hård konkurrence og mange gode bud.\nMen placeringen er en stor cadeau til det arbejde som mine to medredaktører og jeg selv har udført på Klimaleksikon gennem nu 13 år.\nEn placering over selveste Wikipedia — det er vi enormt glade for og stolte over.\nGoogles søgekonsol bekræfter resultatet:\n  Flere fordelagtige placeringer   Og viser i øvrigt at Klimaleksikon klarer sig godt på en række relaterede ord også. Faktisk ikke mindre end 682 søgeord med tæt relation til klima:\n  Klimarelaterede søgeord på Klimaleksikon   Vi fortsætter arbejdet.\n"
-    }
-    
-    , 
-    {
-        "url": "/erfaringer/indhold/substans/",
-        "title": "Mere substans — mindre sensation",
         "content": ""
     }
     
@@ -247,6 +226,13 @@
     
     , 
     {
+        "url": "/genrer/overvejelser/",
+        "title": "overvejelser",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/emner/seo/",
         "title": "SEO",
         "content": ""
@@ -256,7 +242,7 @@
     {
         "url": "/erfaringer/some/facebook/fald/",
         "title": "En langsom pinefuld død på Facebook",
-        "content": "En samarbejdspartner fortalte mig for ikke så længe siden:\n– Jeg har brudt koden på facebook!\n– Hvordan?\n– Man betaler bare.\nJo, det tror jeg gerne på.\nEnhver som arbejder med markedsføring eller mediedrift på facebook ved at facebook gør meget ud af at oplyse en om mulighederne for at øge rækkevidden ved at betale for boost af ens indhold.\nDer levnes ingen tvivl om at facebook gerne vil have at man bruger penge på at promovere sine sider og sine ikke-personlige indlæg.\nDer dukker meget ofte forskellige former for påmindelser op om at dette er muligt. Og hvis man betaler og for sat sin målgruppe rigtigt sammen, så kan man sikkert ofte få en del \u0026ldquo;bang for the buck\u0026rdquo;.\nMen det er ikke bare de direkte opfordringer, facebook kommer med, som underbygger teorien om at der skal bruges penge på facebook hvis man vil have hurtige resultater.\nHer ses udviklingen i antal følgere på Folkets Avis\u0026rsquo; facebookside nogle måneder i slutningen af 2019:\nJeg bemærker en jævn langsomt nedadgående trend. Det på trods af at der ellers ofte er interesse og engagement på siden.\nJeg ville ikke blive overrasket hvis facebook arbejder med deres algoritmer på en måde så der falder flere fra end der kommer til - med mindre særlige forhold gør sig gældende.\nSå kan man enten være meget dygtig og dedikeret i sin jagt på flere følgere. Eller man kan betale sig fra det. Eller, naturligvis, kombinere de to tilgange.\nJeg skal her være ærlig:\nSom medieejer er facebook blevet mindre interessant. For for et givet antal følgere er det nu sværere end tidligere at få folk ud af facebooks lukkede have.\nDet er derfor mest sandsynligt at jeg koncentrerer mere af min indsats andre steder fremover. Om at opbygge medieplatformen FOLKETS yderligere.\nFor andre kan facebook til stadighed være en central del af forretningen.\nMen det kræver som hovedregel en betydelig investering af både tid og efterhånden også penge at få ordentligt udbytte af indsatsen.\nDe nemme tider med facebook er for længst forbi.\n"
+        "content": "En samarbejdspartner fortalte mig for ikke så længe siden:\n– Jeg har brudt koden på facebook!\n– Hvordan?\n– Man betaler bare.\nJo, det tror jeg gerne på.\nEnhver som arbejder med markedsføring eller mediedrift på facebook ved at facebook gør meget ud af at oplyse en om mulighederne for at øge rækkevidden ved at betale for boost af ens indhold.\nDer levnes ingen tvivl om at facebook gerne vil have at man bruger penge på at promovere sine sider og sine ikke-personlige indlæg.\nDer dukker meget ofte forskellige former for påmindelser op om at dette er muligt. Og hvis man betaler og for sat sin målgruppe rigtigt sammen, så kan man sikkert ofte få en del \u0026ldquo;bang for the buck\u0026rdquo;.\nMen det er ikke bare de direkte opfordringer, facebook kommer med, som underbygger teorien om at der skal bruges penge på facebook hvis man vil have hurtige resultater.\nHer ses udviklingen i antal følgere på Folkets Avis' facebookside nogle måneder i slutningen af 2019:\nJeg bemærker en jævn langsomt nedadgående trend. Det på trods af at der ellers ofte er interesse og engagement på siden.\nJeg ville ikke blive overrasket hvis facebook arbejder med deres algoritmer på en måde så der falder flere fra end der kommer til - med mindre særlige forhold gør sig gældende.\nSå kan man enten være meget dygtig og dedikeret i sin jagt på flere følgere. Eller man kan betale sig fra det. Eller, naturligvis, kombinere de to tilgange.\nJeg skal her være ærlig:\nSom medieejer er facebook blevet mindre interessant. For for et givet antal følgere er det nu sværere end tidligere at få folk ud af facebooks lukkede have.\nDet er derfor mest sandsynligt at jeg koncentrerer mere af min indsats andre steder fremover. Om at opbygge medieplatformen FOLKETS yderligere.\nFor andre kan facebook til stadighed være en central del af forretningen.\nMen det kræver som hovedregel en betydelig investering af både tid og efterhånden også penge at få ordentligt udbytte af indsatsen.\nDe nemme tider med facebook er for længst forbi.\n"
     }
     
     , 
@@ -578,7 +564,7 @@
     {
         "url": "/erfaringer/muren/redning/",
         "title": "En redningsplan for Folkets Avis – sådan tilpasser jeg mig for at overleve",
-        "content": "Folkets Avis er enestående i den forstand at mediet i modsætning til den øvrige danske presse fungerer helt uden mediestøtte.\nDet gør at den er skarpere end de andre medier i sin kritik af systemet og politikerne. Og det er godt for demokratiet.\nMen det skal heller ikke være nogen hemmelighed at det er lidt af en udfordring at få sådan en størrelse til at løbe rundt og give overskud.\nIkke desto mindre havde jeg held med det. Og i en periode var udviklingen endog meget positiv.\nMen så ændrede Facebook på sin algoritme.\nHelt andre præmisser Facebook ændrede kort sagt på sine algoritmer, og det halverede trafikken til Folkets Avis .\nNår trafikken halveres, så halveres også antallet af abonnenter som sitet kan oppebære . Det er simpel matematik.\nÆndringen i Facebooks algoritmer betød således at antallet af betalende brugere på Folkets Avis begyndte at falde i stedet for at stige. Og det er ikke en holdbar udvikling i længden.\nNår præmisserne på den måde radikalt forandrer sig, så må man tilpasse sig. Eller opgive. Eller søge mediestøtten som de andre.\nMen for mig er mediestøtten ikke en mulighed, jeg vil benytte mig af til Folkets Avis. Så ville den blive lige så ligegyldig og systembevarende som de andre medier i Danmark.\nHeldigvis er der andre veje frem!\nFremover vil jeg fokusere mindre på de sociale medier og mere på at skabe værdi for læsere og virksomheder inde på FOLKETS.DK som nu er en udgiverplatform med plads til brands.\nFolkets Avis er altså ikke længere alene på FOLKETS.DK.\nFolkets Avis er stadig flagskibet på FOLKETS.DK - men der er også andre medier på platformen. Og plads til brands og produkter!\nMan kan sige at Folkets Avis i den forstand er blevet til et brand på FOLKETS.DK\nEt andet brand på FOLKETS.DK er mit magasin om det gode i livet: Oplevelser .\nFolkets Avis vil nok altid have lidt en særstilling i mine øjne. Folkets Avis har opbygget FOLKETS.DK.\nMen nu bliver der også plads til Folkets TV. Og meget, meget mere.\nDet er Folkets Avis der har bygget FOLKETS.DK op. Men nu kommer andre brands og medier til og understøtter det arbejde.\nSåledes klarer FOLKETS.DK sig allerede nu rigtigt fint på en række søgeord som ikke kun har relevans for Folkets Avis (omend det er Folkets Avis\u0026rsquo; fortjeneste), men også for andre brands som er på eller kunne tænkes at komme til på FOLKETS.DK.\nSamtidig vil de nye medier og brands på FOLKETS.DK bidrage yderligt til opbygningen af både forside og landingssider. Det er synergi-effekten i praksis.\nOg den slags skal der til hvis kampen skal tages bare en lille smule op imod de amerikanske medie-giganter ;)\nLad os tage landingssider som eksempel på hvordan synergi-effekten kan tage sig ud i praksis:\nLandingssider på FOLKETS.DK fungerer på tværs af de enkelte brands, og det giver en række fordele for alle parter. Hver publikation og hvert brand kan udgive på de fælles landingssider for personer og organisationer.\nFor eksempel ville et forlag kunne omtale en bog på siden for Jordan Peterson .\nEn landingsside der får en del specifik trafik. Det vil sige at de brugere som kommer ind på siden i forvejen har en interesse for emnet. Så har man et produkt, som knytter sig til den person, så er det her man skal ud med det.\nOgså forsiden er tilgængelig for alle brands og medier på platformen - når bestemte betingelser er opfyldt.\nForsiden giver plads til de bedste og mest interessante indlæg fra hver af udgivelserne og også til brands som vil kunne nyde godt af en forøget trafik og bedre placering i søgeresultaterne på Google.\nEndelig kan hver enkelt bruger på FOLKETS.DK opbygge sin egen nyhedsstrøm og følge relevante brands og medier.\nMikromedier og rapid prototyping Hele denne model giver også plads til rapid prototyping - altså det at man prøver af om noget virker. Man har allerede et publikum til rådighed og værktøjer til sammenligning med andre medier og brands.\nPå den måde kommer alt det, som er bygget op på FOLKETS.DK i forbindelse med udviklingen af Folkets Avis, mange flere til gode.\nOg uanset om det er noget omkring ens brand eller ens udgivelse, man vil have afprøvet, så kan det lade sig gøre. Lykkes eksperimentet, kan man eventuelt køre en bredere kampagne.\nDet er værd at understrege de enkelte udgiveres autonomi.\nHvert brand på FOLKETS.DK kan have sin egen redaktør, sin egen redaktionelle linje, sit eget design (inden for visse rammer) og så fremdeles.\nDer er meget andet og sige om alt dette, men afslutningsvist vil jeg blot nævne én ting mere:\nForsiden og FOLKETS.DK bliver meget mere mangfoldig på den her måde. Så det ikke altsammen handler om politik. Og det gør livet jo heller ikke.\nOg den bliver mere levende og dynamisk.\nJeg er glad for at skabe mere rum til at det gode og rare i livet også får mere omtale og plads på nettet. Og til at de dygtige producenter i Danmark kan fortælle om de de skaber til gavn for os alle.\nOg så lover jeg ikke at glemme den systemkritiske journalistik som ligger mit hjerte nært. Det er nemlig den alt det andet kan være med til at give bedre økonomiske vilkår.\nGod dag derude og tak fordi du læste med!\nLennart Se også min video her:\n  "
+        "content": "Folkets Avis er enestående i den forstand at mediet i modsætning til den øvrige danske presse fungerer helt uden mediestøtte.\nDet gør at den er skarpere end de andre medier i sin kritik af systemet og politikerne. Og det er godt for demokratiet.\nMen det skal heller ikke være nogen hemmelighed at det er lidt af en udfordring at få sådan en størrelse til at løbe rundt og give overskud.\nIkke desto mindre havde jeg held med det. Og i en periode var udviklingen endog meget positiv.\nMen så ændrede Facebook på sin algoritme.\nHelt andre præmisser Facebook ændrede kort sagt på sine algoritmer, og det halverede trafikken til Folkets Avis .\nNår trafikken halveres, så halveres også antallet af abonnenter som sitet kan oppebære . Det er simpel matematik.\nÆndringen i Facebooks algoritmer betød således at antallet af betalende brugere på Folkets Avis begyndte at falde i stedet for at stige. Og det er ikke en holdbar udvikling i længden.\nNår præmisserne på den måde radikalt forandrer sig, så må man tilpasse sig. Eller opgive. Eller søge mediestøtten som de andre.\nMen for mig er mediestøtten ikke en mulighed, jeg vil benytte mig af til Folkets Avis. Så ville den blive lige så ligegyldig og systembevarende som de andre medier i Danmark.\nHeldigvis er der andre veje frem!\nFremover vil jeg fokusere mindre på de sociale medier og mere på at skabe værdi for læsere og virksomheder inde på FOLKETS.DK som nu er en udgiverplatform med plads til brands.\nFolkets Avis er altså ikke længere alene på FOLKETS.DK.\nFolkets Avis er stadig flagskibet på FOLKETS.DK - men der er også andre medier på platformen. Og plads til brands og produkter!\nMan kan sige at Folkets Avis i den forstand er blevet til et brand på FOLKETS.DK\nEt andet brand på FOLKETS.DK er mit magasin om det gode i livet: Oplevelser .\nFolkets Avis vil nok altid have lidt en særstilling i mine øjne. Folkets Avis har opbygget FOLKETS.DK.\nMen nu bliver der også plads til Folkets TV. Og meget, meget mere.\nDet er Folkets Avis der har bygget FOLKETS.DK op. Men nu kommer andre brands og medier til og understøtter det arbejde.\nSåledes klarer FOLKETS.DK sig allerede nu rigtigt fint på en række søgeord som ikke kun har relevans for Folkets Avis (omend det er Folkets Avis' fortjeneste), men også for andre brands som er på eller kunne tænkes at komme til på FOLKETS.DK.\nSamtidig vil de nye medier og brands på FOLKETS.DK bidrage yderligt til opbygningen af både forside og landingssider. Det er synergi-effekten i praksis.\nOg den slags skal der til hvis kampen skal tages bare en lille smule op imod de amerikanske medie-giganter ;)\nLad os tage landingssider som eksempel på hvordan synergi-effekten kan tage sig ud i praksis:\nLandingssider på FOLKETS.DK fungerer på tværs af de enkelte brands, og det giver en række fordele for alle parter. Hver publikation og hvert brand kan udgive på de fælles landingssider for personer og organisationer.\nFor eksempel ville et forlag kunne omtale en bog på siden for Jordan Peterson .\nEn landingsside der får en del specifik trafik. Det vil sige at de brugere som kommer ind på siden i forvejen har en interesse for emnet. Så har man et produkt, som knytter sig til den person, så er det her man skal ud med det.\nOgså forsiden er tilgængelig for alle brands og medier på platformen - når bestemte betingelser er opfyldt.\nForsiden giver plads til de bedste og mest interessante indlæg fra hver af udgivelserne og også til brands som vil kunne nyde godt af en forøget trafik og bedre placering i søgeresultaterne på Google.\nEndelig kan hver enkelt bruger på FOLKETS.DK opbygge sin egen nyhedsstrøm og følge relevante brands og medier.\nMikromedier og rapid prototyping Hele denne model giver også plads til rapid prototyping - altså det at man prøver af om noget virker. Man har allerede et publikum til rådighed og værktøjer til sammenligning med andre medier og brands.\nPå den måde kommer alt det, som er bygget op på FOLKETS.DK i forbindelse med udviklingen af Folkets Avis, mange flere til gode.\nOg uanset om det er noget omkring ens brand eller ens udgivelse, man vil have afprøvet, så kan det lade sig gøre. Lykkes eksperimentet, kan man eventuelt køre en bredere kampagne.\nDet er værd at understrege de enkelte udgiveres autonomi.\nHvert brand på FOLKETS.DK kan have sin egen redaktør, sin egen redaktionelle linje, sit eget design (inden for visse rammer) og så fremdeles.\nDer er meget andet og sige om alt dette, men afslutningsvist vil jeg blot nævne én ting mere:\nForsiden og FOLKETS.DK bliver meget mere mangfoldig på den her måde. Så det ikke altsammen handler om politik. Og det gør livet jo heller ikke.\nOg den bliver mere levende og dynamisk.\nJeg er glad for at skabe mere rum til at det gode og rare i livet også får mere omtale og plads på nettet. Og til at de dygtige producenter i Danmark kan fortælle om de de skaber til gavn for os alle.\nOg så lover jeg ikke at glemme den systemkritiske journalistik som ligger mit hjerte nært. Det er nemlig den alt det andet kan være med til at give bedre økonomiske vilkår.\nGod dag derude og tak fordi du læste med!\nLennart Se også min video her:\n  "
     }
     
     , 
