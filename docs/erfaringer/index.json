@@ -16,13 +16,6 @@
     
     , 
     {
-        "url": "/",
-        "title": "Din egen digitale daglejer",
-        "content": " Du kan købe min bedste tid - mellem 09 og 11 hvor min hjerne er skarpest ;)   Måske kan jeg hjælpe dig? Kontakt mig nu!  20 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier   "
-    }
-    
-    , 
-    {
         "url": "/emner/",
         "title": "Emner",
         "content": "Emner i det arbejde Kiils laver\n"
@@ -47,6 +40,13 @@
         "url": "/emner/indholdsh%C3%A5ndtering/",
         "title": "Indholdshåndtering",
         "content": ""
+    }
+    
+    , 
+    {
+        "url": "/",
+        "title": "Kiils",
+        "content": " Du kan købe min bedste tid - mellem 09 og 11 hvor min hjerne er skarpest ;)   Måske kan jeg hjælpe dig? Kontakt mig nu!  20 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier    .f3.f2-ns.fw5.white.tc.lh-title {display:none;}  "
     }
     
     , 
