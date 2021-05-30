@@ -1,4 +1,5 @@
 ---
+draft: true
 title: '"Min underviser har sagt at jeg skal spørge dig om de her ting"'
 summary: 'Elever bruger Klimaleksikon i opgaver udstukket af deres undervisere - men stadig nul kroner fra copydan'
 # featured_image: ' '
