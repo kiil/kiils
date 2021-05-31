@@ -2,23 +2,16 @@
     
     
     {
+        "url": "/emner/b%C3%A6redygtighed/",
+        "title": "Bæredygtighed",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/emner/",
         "title": "Emner",
         "content": "Emner i det arbejde Kiils laver\n"
-    }
-    
-    , 
-    {
-        "url": "/erfaringer/",
-        "title": "Erfaringer",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/indholdsh%C3%A5ndtering/",
-        "title": "Indholdshåndtering",
-        "content": ""
     }
     
     , 
@@ -30,16 +23,9 @@
     
     , 
     {
-        "url": "/erfaringer/devops/klima/",
+        "url": "/om/klimavenlig/",
         "title": "Kiils.dk er klimavenlig",
         "content": "Opsætningen på Kiils er Klimavenlig\n  "
-    }
-    
-    , 
-    {
-        "url": "/emner/klima/",
-        "title": "Klima",
-        "content": ""
     }
     
     , 
@@ -47,6 +33,13 @@
         "url": "/skribenter/lennart-kiil/",
         "title": "Lennart Kiil",
         "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
+    }
+    
+    , 
+    {
+        "url": "/om/",
+        "title": "Om",
+        "content": "Kiils er en lille virksomhed med store ideer.\n"
     }
     
     , 
@@ -72,9 +65,23 @@
     
     , 
     {
+        "url": "/erfaringer/",
+        "title": "Erfaringer",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/genrer/",
         "title": "Genrer",
         "content": "Genrer på Kiils\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/indholdsh%C3%A5ndtering/",
+        "title": "Indholdshåndtering",
+        "content": ""
     }
     
     , 

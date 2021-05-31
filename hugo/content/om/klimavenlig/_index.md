@@ -1,3 +1,4 @@
+
 ---
 title: 'Kiils.dk er klimavenlig'
 summary: 'Den digitale omstilling skal være bæredygtig'
@@ -8,12 +9,14 @@ show_reading_time: true
 skribenter:
   - lennart-kiil
 date: '2021-05-31'
-toc: true
+toc: false
 emner:
-  - Indholdshåndtering
-  - Klima
+  - Bæredygtighed
 
-menu: ["foot"]
+menu:
+  foot:
+    name: Klimavenlig
+    parent: Om
 ---
 
 
