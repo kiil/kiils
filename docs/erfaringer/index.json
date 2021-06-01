@@ -17,8 +17,8 @@
     , 
     {
         "url": "/",
-        "title": "Kiils — din digitale daglejer",
-        "content": " Du kan købe min bedste tid - mellem 09 og 11 hvor min hjerne er skarpest ;)   Måske kan jeg hjælpe dig? Kontakt mig nu!  20 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier  div.pa3.pt5.pa5-l.pt6-l {display:none;}  "
+        "title": "Kiils er din digitale daglejer",
+        "content": " Jeg hedder Lennart Kiil og har 20 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier. Du kan købe min bedste tid mellem 09 og 11 hvor min hjerne er skarpest, så min erfaring kan gavne dig og din virksomhed :)   Måske kan jeg hjælpe dig? Kontakt mig nu!  --   div.pa3.pt5.pa5-l.pt6-l {padding-top:5em; padding-bottom:2em;}  "
     }
     
     , 
@@ -100,27 +100,6 @@
     
     , 
     {
-        "url": "/erfaringer/indhold/substans/",
-        "title": "Mere substans — mindre sensation",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/",
-        "title": "Tools",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/vim/",
-        "title": "Vim",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/erfaringer/tips-tricks/html-med-toc-fra-markdown-via-pandoc/",
         "title": "HTML med toc fra markdown via pandoc",
         "content": "I terminalen i samme folder som filen ligger:\npandoc -s --toc filename.md Og kopier så alt mellem body-tags.\nBonus: Pandoc gør ikke æ, ø og å grimme i interne links :)\n"
@@ -158,6 +137,13 @@
     {
         "url": "/emner/tips/",
         "title": "tips",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/",
+        "title": "Tools",
         "content": ""
     }
     

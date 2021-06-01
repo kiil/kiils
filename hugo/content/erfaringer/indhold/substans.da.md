@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Mere substans — mindre sensation'
 show_reading_time: true
 skribenter:

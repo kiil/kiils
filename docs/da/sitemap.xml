@@ -142,31 +142,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaringer/indhold/substans/</loc>
-    <lastmod>2021-03-14T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/tools/</loc>
-    <lastmod>2021-03-14T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/tools/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/tools/"
-                />
-  </url><url>
-    <loc>https://www.kiils.dk/tools/vim/</loc>
-    <lastmod>2021-03-14T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.kiils.dk/erfaringer/tips-tricks/html-med-toc-fra-markdown-via-pandoc/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -196,6 +171,21 @@
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/tools/</loc>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/tools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/tools/"
+                />
   </url><url>
     <loc>https://www.kiils.dk/emner/tricks/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
