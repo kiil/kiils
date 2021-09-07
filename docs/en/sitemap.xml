@@ -189,34 +189,6 @@
                 href="https://www.kiils.dk/en/kunder/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/en/ydelser/remote/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/ydelser/remote/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/ydelser/remote/"
-                />
-  </url><url>
-    <loc>https://www.kiils.dk/en/ydelser/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/ydelser/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/ydelser/"
-                />
-  </url><url>
     <loc>https://www.kiils.dk/en/tools/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

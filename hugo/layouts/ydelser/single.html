@@ -1,0 +1,16 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+    <article class="f4 fl w-100 w-60-l pa4-l lh-copy">
+      <header>
+        <p class="f6 b helvetica tracked">
+	<a class="link" href="/{{ .Section | urlize }}">{{ humanize .Section | upper  }}</a> 
+        </p>
+        <h1 class="f1">
+          {{ .Title }}
+        </h1>
+      </header>
+      <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
+        {{ .Content }}
+      </div>
+    </article>
+{{ end }}

@@ -114,20 +114,6 @@
     
     , 
     {
-        "url": "/en/ydelser/remote/",
-        "title": "Remote",
-        "content": "Remote work\n"
-    }
-    
-    , 
-    {
-        "url": "/en/ydelser/",
-        "title": "Services",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/en/tools/",
         "title": "Tools",
         "content": ""

@@ -2,55 +2,6 @@
     
     
     {
-        "url": "/emner/b%C3%A6redygtighed/",
-        "title": "Bæredygtighed",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/",
-        "title": "Emner",
-        "content": "Emner i det arbejde Kiils laver\n"
-    }
-    
-    , 
-    {
-        "url": "/",
-        "title": "Kiils",
-        "content": " Jeg hedder Lennart Kiil og har 20 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier. Du kan \"købe\" min bedste tid mellem 09 og 11 hvor min hjerne er skarpest for 700,- i timen —— bestil tid her:   Tider før 09 og efter 11 koster 500,- i timen\nMåske kan jeg hjælpe dig? Kontakt mig nu!  --   div.pa3.pt5.pa5-l.pt6-l {padding-top:5em; padding-bottom:2em;}  "
-    }
-    
-    , 
-    {
-        "url": "/om/klimavenlig/",
-        "title": "Kiils.dk er klimavenlig",
-        "content": "Opsætningen på Kiils er Klimavenlig\n  "
-    }
-    
-    , 
-    {
-        "url": "/skribenter/lennart-kiil/",
-        "title": "Lennart Kiil",
-        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
-    }
-    
-    , 
-    {
-        "url": "/om/",
-        "title": "Om",
-        "content": "Kiils er en lille virksomhed med store ideer.\n"
-    }
-    
-    , 
-    {
-        "url": "/skribenter/",
-        "title": "Skribenter",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/genrer/bedrifter/",
         "title": "bedrifter",
         "content": ""
@@ -61,6 +12,13 @@
         "url": "/cases/",
         "title": "Cases",
         "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/",
+        "title": "Emner",
+        "content": "Emner i det arbejde Kiils laver\n"
     }
     
     , 
@@ -86,6 +44,13 @@
     
     , 
     {
+        "url": "/",
+        "title": "Kiils",
+        "content": " Jeg hedder Lennart Kiil og har 20 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier. Du kan \"købe\" min bedste tid mellem 09 og 11 hvor min hjerne er skarpest for 700,- i timen —— bestil tid her:   Tider før 09 og efter 11 koster 500,- i timen\nMåske kan jeg hjælpe dig? Kontakt mig nu!  --   div.pa3.pt5.pa5-l.pt6-l {padding-top:5em; padding-bottom:2em;}  "
+    }
+    
+    , 
+    {
         "url": "/cases/klimaleksikon/",
         "title": "Klimaleksikon",
         "content": "Klimaleksikon.dk er med over 11 år på bagen Danmarks bedste og længstlevende side om klima .\nSiden er et samarbejde mellem mig og to andre naturfagsformidlere, Thomas Hesselberg og Mikkel Houmøller. Siden indeholder omkring 100 opslag på centrale emner inden for klima og klarer sig enormt godt i google-søgninger.\nSiden holdes løbende opdateret, og hundredetusinder af børn og unge har lært om klima og energi på siden.\nSidens brugere er overvejende børn i folkeskolens ældste klasser og unge på ungdomsuddannelserne.\nLærerne bruger aktivt Klimaleksikon i undervisningen, det ses blandt andet af de mange henvisninger fra diverse undervisningsplatforme:\nDesuden ser vi at Klimaleksikon hovedsageligt finder anvendelse inden for den almindelige undervisningstid:\nDer er en overvægt af piger hvilket er en smule atypisk for en side som i bund og grund er naturvidenskabeligt orienteret og skabt af naturfagsformidlere.\nMen det viser i hvert fald at interessen i naturvidenskab og teknologi er der fra den kant også når det overordnede emne blot er vedkommende nok.\nOpslagene, som er kerneindholdet på siden, er naturligvis skrevet i et tilgængeligt sprog som passer til målgruppen af unge mennesker. Men mange granvoksne har skam også glæde af siden. På en række af opslagene har vi nederst spørgsmål, som brugeren kan besvare og dermed få en fornemmelse af om man fået fat i de væsentligste oplysninger i teksten ovenfor.\nSiden er strengt apolitisk og faktuelt baseret. Det er en aftale jeg selv er glad for, da der er en stor lettelse i at være involveret i noget som er ent fakta-orienteret. Jeg nyder virkelig at have et frirum for politik og har derfor meget let ved at adskille Klimaleksikon fra mit øvrige virke.\n"
@@ -96,6 +61,20 @@
         "url": "/erfaringer/seo/google-klima-succes/",
         "title": "Klimaleksikon nummer et i Google på klima",
         "content": "Klimaleksikon er det mest troværdige sted på nettet for unge mennesker at finde viden om klima på dansk.\nDet afspejles nu ikke længere blot i massiv søgetrafik på klima og relaterede emner fra skoler og ungdomsuddannelser til sitet, men også ved en flot topplacering på Google.\nGanske enkelt nummer et på søgeordet klima:\n Klimaleksikon i top på Google for søgeordet \u0026#39;klima\u0026#39;   Jeg forventer ikke nødvendigvis at den placering vil holde for evigt. Der er hård konkurrence og mange gode bud.\nMen placeringen er en stor cadeau til det arbejde som mine to medredaktører og jeg selv har udført på Klimaleksikon gennem nu 13 år.\nEn placering over selveste Wikipedia — det er vi enormt glade for og stolte over.\nGoogles søgekonsol bekræfter resultatet:\n Flere fordelagtige placeringer   Og viser i øvrigt at Klimaleksikon klarer sig godt på en række relaterede ord også. Faktisk ikke mindre end 682 søgeord med tæt relation til klima:\n Klimarelaterede søgeord på Klimaleksikon   Vi fortsætter arbejdet.\n"
+    }
+    
+    , 
+    {
+        "url": "/skribenter/lennart-kiil/",
+        "title": "Lennart Kiil",
+        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
+    }
+    
+    , 
+    {
+        "url": "/skribenter/",
+        "title": "Skribenter",
+        "content": ""
     }
     
     , 
@@ -695,6 +674,20 @@
     
     , 
     {
+        "url": "/ydelser/tekst/",
+        "title": "Køb en tekst",
+        "content": "Jeg sælger tekster som journalistisk ydelse.\n"
+    }
+    
+    , 
+    {
+        "url": "/ydelser/faktatjek/",
+        "title": "Køb et faktatjek",
+        "content": "Jeg sælger faktatjek som journalistisk ydelse.\n"
+    }
+    
+    , 
+    {
         "url": "/kunder/lars-vestergaard/",
         "title": "Lars Vestergaard",
         "content": "Kiils har længe arbejdet sammen med Lars Vestergaard som besidder en række kvaliteter på det menneskelige plan som er særdeles væsentlige i forhold til langvarigt samarbejde såsom loyalitet, pålidelighed og høj arbejdsetik.\nLars Vestergaard har især vist sin kunnen inden for salg og marketing via alle digitale kanaler, men også når det har været påkrævet inden for trafikoptimering og SEO.\nLars Vestergaard er ansvarlig og tilstedeværende og lever sig ind i sine klienters og kunders behov. Han har en iværksætters flid og ihærdighed kombineret med den professionelisme som er essentiel på den lange bane.\n"
@@ -723,9 +716,9 @@
     
     , 
     {
-        "url": "/ydelser/remote/",
-        "title": "Remote",
-        "content": "Hvad jeg kan tilbyde\nJeg kan være gavnlig at have tilknyttet web-projekter i den indledende fase.\n"
+        "url": "/ydelser/redigering/",
+        "title": "Redigering af tekst",
+        "content": "Jeg sælger redigering af tekster som journalistisk ydelse.\n"
     }
     
     , 
@@ -746,7 +739,7 @@
     {
         "url": "/ydelser/",
         "title": "Ydelser",
-        "content": " Redigere debatindlæg Klimaoptimere hjemmesider Skrive artikler  "
+        "content": ""
     }
     
 ]
