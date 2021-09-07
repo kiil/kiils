@@ -7,15 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language><atom:link href="https://www.kiils.dk/ydelser/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Køb en tekst</title>
-      <link>https://www.kiils.dk/ydelser/tekst/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/ydelser/tekst/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Køb et faktatjek</title>
       <link>https://www.kiils.dk/ydelser/faktatjek/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -30,6 +21,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/ydelser/redigering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Køb en tekst</title>
+      <link>https://www.kiils.dk/ydelser/tekst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/ydelser/tekst/</guid>
       <description></description>
     </item>
     

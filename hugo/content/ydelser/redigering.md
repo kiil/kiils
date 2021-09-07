@@ -6,10 +6,12 @@ description: 'Få redigeret en tekst'
 # thumbnail: ' '
 # toc: true
 
+weight: 9
 
 menu:
   foot:
     name: Redigering
+    weight: 9
     parent: Ydelser
 
 ---

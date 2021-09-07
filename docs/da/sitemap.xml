@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.kiils.dk/ydelser/faktatjek/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/ydelser/redigering/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/ydelser/tekst/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/genrer/bedrifter/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -593,14 +605,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/ydelser/tekst/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/ydelser/faktatjek/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.kiils.dk/kunder/lars-vestergaard/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -614,10 +618,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/priser/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/ydelser/redigering/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

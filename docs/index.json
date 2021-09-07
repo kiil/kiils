@@ -2,6 +2,27 @@
     
     
     {
+        "url": "/ydelser/faktatjek/",
+        "title": "Køb et faktatjek",
+        "content": "Jeg sælger faktatjek som journalistisk ydelse.\n"
+    }
+    
+    , 
+    {
+        "url": "/ydelser/redigering/",
+        "title": "Redigering af tekst",
+        "content": "Jeg sælger redigering af tekster som journalistisk ydelse.\n"
+    }
+    
+    , 
+    {
+        "url": "/ydelser/tekst/",
+        "title": "Køb en tekst",
+        "content": "Jeg sælger tekster som journalistisk ydelse.\n"
+    }
+    
+    , 
+    {
         "url": "/genrer/bedrifter/",
         "title": "bedrifter",
         "content": ""
@@ -627,14 +648,14 @@
     {
         "url": "/erfaringer/devops/workflow/rollback/",
         "title": "",
-        "content": "https://www.bounteous.com/insights/2020/03/11/automate-drupal-deployments/\n"
+        "content": "https://www.bounteous.com/insights/2020/03/11/automate-drupal-deployments/ "
     }
     
     , 
     {
         "url": "/erfaringer/indhold/tegninger-grafik-illustrationer-billeder-fotos-gratis/",
         "title": "",
-        "content": "https://undraw.co/illustrations\nhttp://www.heropatterns.com/\nJeg har ikke taget ikoner med.\nIkoner - mange. Men ofte er der enfin utf-8 karakter som kan klare opgaven.\n"
+        "content": "https://undraw.co/illustrations http://www.heropatterns.com/ Jeg har ikke taget ikoner med.\nIkoner - mange. Men ofte er der enfin utf-8 karakter som kan klare opgaven.\n"
     }
     
     , 
@@ -669,21 +690,7 @@
     {
         "url": "/kontakt/",
         "title": "Kontakt",
-        "content": "Du kan ringe på telefon 40261872 eller skrive en mail direkte til lennart@kiils.dk\nPostadresse:\nKiils v/Lennart Kiil Kirkeskov Allé 72 3050 Humlebæk\n"
-    }
-    
-    , 
-    {
-        "url": "/ydelser/tekst/",
-        "title": "Køb en tekst",
-        "content": "Jeg sælger tekster som journalistisk ydelse.\n"
-    }
-    
-    , 
-    {
-        "url": "/ydelser/faktatjek/",
-        "title": "Køb et faktatjek",
-        "content": "Jeg sælger faktatjek som journalistisk ydelse.\n"
+        "content": "Du kan ringe på telefon 40261872 eller skrive en mail direkte til lennart@kiils.dk Postadresse:\nKiils v/Lennart Kiil Kirkeskov Allé 72 3050 Humlebæk\n"
     }
     
     , 
@@ -712,13 +719,6 @@
         "url": "/priser/",
         "title": "Priser",
         "content": "Prisen er ens for offentlige institutioner, virksomheder og privatpersoner.\nKr. 700 i timen for tider mellem 09 og 11. Resten af arbejdstimerne koster 500,- i timen.\nDer afregnes kun i hele timer.\nPris eksklusiv moms.\n"
-    }
-    
-    , 
-    {
-        "url": "/ydelser/redigering/",
-        "title": "Redigering af tekst",
-        "content": "Jeg sælger redigering af tekster som journalistisk ydelse.\n"
     }
     
     , 
