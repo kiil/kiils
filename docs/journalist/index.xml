@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journalist on KIILS</title>
+    <link>https://www.kiils.dk/journalist/</link>
+    <description>Recent content in Journalist on KIILS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language><atom:link href="https://www.kiils.dk/journalist/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Køb et faktatjek</title>
+      <link>https://www.kiils.dk/journalist/faktatjek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/journalist/faktatjek/</guid>
+      <description>Få tjekket en påstand eller et udsagn</description>
+    </item>
+    
+    <item>
+      <title>Redigering af tekst</title>
+      <link>https://www.kiils.dk/journalist/redigering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/journalist/redigering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Køb en tekst</title>
+      <link>https://www.kiils.dk/journalist/tekst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/journalist/tekst/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

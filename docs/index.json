@@ -2,21 +2,42 @@
     
     
     {
-        "url": "/ydelser/faktatjek/",
-        "title": "Køb et faktatjek",
-        "content": "Jeg sælger faktatjek som journalistisk ydelse.\n"
+        "url": "/journalist/",
+        "title": "Journalist",
+        "content": ""
     }
     
     , 
     {
-        "url": "/ydelser/redigering/",
+        "url": "/konsulent/",
+        "title": "Konsulent",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/journalist/faktatjek/",
+        "title": "Køb et faktatjek",
+        "content": "Jeg sælger faktatjek som journalistisk ydelse.\nJeg har lavet mange faktatjek og den fakta-orienterede tilgang til journalistik stemmer med min faglige og videnskabelige baggrund som cand scient.\n"
+    }
+    
+    , 
+    {
+        "url": "/journalist/redigering/",
         "title": "Redigering af tekst",
         "content": "Jeg sælger redigering af tekster som journalistisk ydelse.\n"
     }
     
     , 
     {
-        "url": "/ydelser/tekst/",
+        "url": "/konsulent/digital-coaching/",
+        "title": "Digital coaching",
+        "content": "Få hjælp til at overskue dt digitale liv\n"
+    }
+    
+    , 
+    {
+        "url": "/journalist/tekst/",
         "title": "Køb en tekst",
         "content": "Jeg sælger tekster som journalistisk ydelse.\n"
     }
@@ -67,7 +88,7 @@
     {
         "url": "/",
         "title": "Kiils",
-        "content": " Jeg hedder Lennart Kiil og har 20 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier. Du kan \"købe\" min bedste tid mellem 09 og 11 hvor min hjerne er skarpest for 700,- i timen —— bestil tid her:   Tider før 09 og efter 11 koster 500,- i timen\nMåske kan jeg hjælpe dig? Kontakt mig nu!  --   div.pa3.pt5.pa5-l.pt6-l {padding-top:5em; padding-bottom:2em;}  "
+        "content": " Jeg hedder Lennart Kiil og har 20 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier  Jeg arbejder både med journalistiske ydelser og rådgivning — og har gennem årene hjulpet blandt andre Berlingske, Dansk Industri, Gentofte Hospital, Illustreret Videnskab, Ingeniøren, Ugeskrift for Læger, Region Syddanmark, Rigshospitalet, Aarhus Universitet og Statens Naturhistoriske Museum\n  Måske kan jeg hjælpe dig? Kontakt mig nu!    div.pa3.pt5.pa5-l.pt6-l {padding-top:5em; padding-bottom:2em;}  "
     }
     
     , 
@@ -733,13 +754,6 @@
         "url": "/search/",
         "title": "Søgning",
         "content": "  // define globale variables var idx, searchInput, searchResults = null var documents = [] function renderSearchResults(results){ if (results.length  0) { // show max 10 results if (results.length  9){ results = results.slice(0,10) } // reset search results searchResults.innerHTML = '' // append results results.forEach(result = { // create result item var article = document.createElement('article') article.innerHTML = ` ${documents[result.ref].title}   ` searchResults.appendChild(article) }) // if results are empty } else { searchResults.innerHTML = 'Ingen resultater.\n' } } function registerSearchHandler() { // register on input event searchInput.oninput = function(event) { // remove search results if the user empties the search input field if (searchInput.value == '') { searchResults.innerHTML = '' } else { // get input value var query = event.target.value // run fuzzy search var results = idx.search(query + '*') // render results renderSearchResults(results) } } // set focus on search input and remove loading placeholder searchInput.focus() searchInput.placeholder = '⌕' } window.onload = function() { // get dom elements searchInput = document.getElementById('search-input') searchResults = document.getElementById('search-results') // request and index documents fetch('/index.json', { method: 'get' }).then( res = res.json() ).then( res = { // index document idx = lunr(function() { this.ref('url') this.field('title') this.field('content') res.forEach(function(doc) { this.add(doc) documents[doc.url] = { 'title': doc.title, 'content': doc.content, } }, this) }) // data is loaded, next register handler registerSearchHandler() } ).catch( err = { searchResults.innerHTML = `${err}\n` } ) }  Tast søgeord i feltet Noget du ikke fandt? Kontakt Kiils    input::placeholder { text-align: right; }  "
-    }
-    
-    , 
-    {
-        "url": "/ydelser/",
-        "title": "Ydelser",
-        "content": ""
     }
     
 ]

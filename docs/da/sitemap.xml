@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.kiils.dk/ydelser/faktatjek/</loc>
+    <loc>https://www.kiils.dk/journalist/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/ydelser/redigering/</loc>
+    <loc>https://www.kiils.dk/konsulent/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/ydelser/tekst/</loc>
+    <loc>https://www.kiils.dk/journalist/faktatjek/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/journalist/redigering/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/konsulent/digital-coaching/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/journalist/tekst/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -626,10 +638,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/search/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/ydelser/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

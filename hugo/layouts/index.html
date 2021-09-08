@@ -5,7 +5,32 @@
   {{ .Content }}
 </article>
 
+<div class="flex-column-s flex-column-m flex-l justify-between-l">
 
+  <div class="w-100 w-half-l pt4 pa4-l">
+    <h2 class="mt0 mb2 tracked ttu">Udvalgte journalistiske ydelser</h2>
+    <ul class="list pl0">
+      {{- range where .Site.RegularPages "Type" "Journalist" -}} 
+      <li class="f4 pt3 pb3 measure-narrow lh-title">
+
+        <a href="{{ .Page.RelPermalink }}" class="link f2">{{ .Page.Title }}</a>
+       </li>
+      {{ end }}
+    </ul>
+  </div>
+
+  <div class="w-100 w-half-l pt4 pa4-l">
+    <h2 class="mt0 mb2 tracked ttu">Udvalgte konsulentydelser</h2>
+    <ul class="list pl0">
+      {{- range where .Site.RegularPages "Type" "Konsulent" -}} 
+      <li class="f4 pt3 pb3 measure-narrow lh-title">
+
+        <a href="{{ .Page.RelPermalink }}" class="link f2">{{ .Page.Title }}</a>
+       </li>
+      {{ end }}
+    </ul>
+  </div>
+</div>
 
 <hr class="ml0 ml4-l mb5 mb6-l mw5 bb bw2 b--black-70">
 
