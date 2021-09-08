@@ -9,6 +9,13 @@
     
     , 
     {
+        "url": "/anbefalinger/",
+        "title": "Anbefalinger",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/konsulent/",
         "title": "Konsulent",
         "content": ""
@@ -40,6 +47,13 @@
         "url": "/journalist/tekst/",
         "title": "Køb en tekst",
         "content": "Jeg sælger tekster som journalistisk ydelse.\n"
+    }
+    
+    , 
+    {
+        "url": "/anbefalinger/per-gastrofun/",
+        "title": "Mine varmeste anbefalinger",
+        "content": " Mine varmeste anbefalinger\n — Per Asmussen, Gastrofun\n"
     }
     
     , 

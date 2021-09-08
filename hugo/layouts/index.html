@@ -90,6 +90,17 @@
 
 </div>
 
+  <div class="w-100 w-half-l pt4 pa4-l">
+    <h2 class="mt0 mb2 tracked ttu">Anbefalinger</h2>
+    <ul class="list pl0">
+      {{- range where .Site.RegularPages "Type" "Anbefalinger" -}} 
+      <li class="f4 pt3 pb3 measure-narrow lh-title">
+
+        <a href="{{ .Page.RelPermalink }}" class="link f2">{{ .Page.Title }}</a>
+       </li>
+      {{ end }}
+    </ul>
+  </div>
 
 </div>
 {{ end }}

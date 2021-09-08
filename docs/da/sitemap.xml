@@ -6,6 +6,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.kiils.dk/anbefalinger/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/konsulent/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -23,6 +27,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/journalist/tekst/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/anbefalinger/per-gastrofun/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
