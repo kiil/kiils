@@ -8,24 +8,24 @@
 <div class="flex-column-s flex-column-m flex-l justify-between-l">
 
   <div class="w-100 w-half-l pt4 pa4-l">
-    <h2 class="mt0 mb2 tracked ttu">Udvalgte journalistiske ydelser</h2>
+    <h4 class="mt0 mb2 tracked ttu">Udvalgte journalistiske ydelser</h4>
     <ul class="list pl0">
       {{- range where .Site.RegularPages "Type" "Journalist" -}} 
       <li class="f4 pt3 pb3 measure-narrow lh-title">
 
-        <a href="{{ .Page.RelPermalink }}" class="link f2">{{ .Page.Title }}</a>
+        <a href="{{ .Page.RelPermalink }}" class="link f3">{{ .Page.Title }}</a>
        </li>
       {{ end }}
     </ul>
   </div>
 
   <div class="w-100 w-half-l pt4 pa4-l">
-    <h2 class="mt0 mb2 tracked ttu">Udvalgte konsulentydelser</h2>
+    <h4 class="mt0 mb2 tracked ttu">Udvalgte konsulentydelser</h4>
     <ul class="list pl0">
       {{- range where .Site.RegularPages "Type" "Konsulent" -}} 
       <li class="f4 pt3 pb3 measure-narrow lh-title">
 
-        <a href="{{ .Page.RelPermalink }}" class="link f2">{{ .Page.Title }}</a>
+        <a href="{{ .Page.RelPermalink }}" class="link f3">{{ .Page.Title }}</a>
        </li>
       {{ end }}
     </ul>
@@ -90,17 +90,6 @@
 
 </div>
 
-  <div class="w-100 w-half-l pt4 pa4-l">
-    <h2 class="mt0 mb2 tracked ttu">Anbefalinger</h2>
-    <ul class="list pl0">
-      {{- range where .Site.RegularPages "Type" "Anbefalinger" -}} 
-      <li class="f4 pt3 pb3 measure-narrow lh-title">
-
-        <a href="{{ .Page.RelPermalink }}" class="link f2">{{ .Page.Title }}</a>
-       </li>
-      {{ end }}
-    </ul>
-  </div>
-
+  
 </div>
 {{ end }}

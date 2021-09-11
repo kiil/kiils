@@ -1,8 +1,8 @@
 ---
 title: Konsulent
-description: Hvad kan jeg gøre for dig?
+description: Digitalt tekst-baseret indhold
 type: list
-summary: Flere ydelser
+summary: Konsulentydelser
 
 weight: -50
 
@@ -14,4 +14,4 @@ menu:
 ---
 
 
-
+Rådgivning omkring produktion, præsentation og udbredelse af tekst-baseret indhold

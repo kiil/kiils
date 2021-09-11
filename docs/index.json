@@ -18,35 +18,42 @@
     {
         "url": "/konsulent/",
         "title": "Konsulent",
-        "content": ""
+        "content": "Rådgivning omkring produktion, præsentation og udbredelse af tekst-baseret indhold\n"
     }
     
     , 
     {
         "url": "/journalist/faktatjek/",
         "title": "Køb et faktatjek",
-        "content": "Jeg sælger faktatjek som journalistisk ydelse.\nJeg har lavet mange faktatjek og den fakta-orienterede tilgang til journalistik stemmer med min faglige og videnskabelige baggrund som cand scient.\n"
+        "content": "Jeg sælger faktatjek som journalistisk ydelse.\nJeg har lavet mange faktatjek, og den fakta-orienterede tilgang til journalistik stemmer med min faglige og videnskabelige baggrund som cand.scient.\nEt faktatjek handler først og fremmest om at \u0026ldquo;falsificere\u0026rdquo; en påstand og ikke om at etablere en sandhed.\nVi taler om hvad det er for en påstand som du ønsker efterprøvet — og alt efter hvor meget arbejde der ligger i det, laver jeg et tilbud som du kan sige ja eller nej til.\n"
     }
     
     , 
     {
         "url": "/journalist/redigering/",
         "title": "Redigering af tekst",
-        "content": "Jeg sælger redigering af tekster som journalistisk ydelse.\n"
+        "content": "Jeg sælger redigering af tekster som journalistisk ydelse.\nJeg har enorm stor erfaring med redigering af tekster, og jeg har uden overdrivelse redigeret tusindvis af tekster.\nMin redigering sker som regel først efter at du i store træk har lagt dig fast på hvad der skal med i din tekst og hvor der skal skæres fra.\n"
     }
     
     , 
     {
         "url": "/konsulent/digital-coaching/",
         "title": "Digital coaching",
-        "content": "Få hjælp til at overskue dt digitale liv\n"
+        "content": "Digital coaching er uden tvivl den bredeste ydelse i mit sortiment.\nDet er fordi indholdet fuldstændig afhænger af hvad du har behov for at få belyst, vendt eller drejet.\nDet kan være valg af CMS - eller passer en static site generator bedre?\nFå hjælp til at overskue dt digitale liv\n"
+    }
+    
+    , 
+    {
+        "url": "/konsulent/formidling/",
+        "title": "Formidling",
+        "content": "Formidling er en af mine spidskompetencer. Jeg har arbejdet mange år som videnskabsjournallist, og har flere større formidlingsopgaver i porteføljen.\n"
     }
     
     , 
     {
         "url": "/journalist/tekst/",
         "title": "Køb en tekst",
-        "content": "Jeg sælger tekster som journalistisk ydelse.\n"
+        "content": "Jeg sælger tekster som journalistisk ydelse.\nJeg har gennem årene solgt i hundredevis af tekster som artikler. Jeg har skrevet langt flere end det til mine egne medier og for eksempel til klimaleksikon.\nJeg skriver relativt knapt og præcist.\n"
     }
     
     , 
@@ -54,6 +61,13 @@
         "url": "/anbefalinger/per-gastrofun/",
         "title": "Mine varmeste anbefalinger",
         "content": " Mine varmeste anbefalinger\n — Per Asmussen, Gastrofun\n"
+    }
+    
+    , 
+    {
+        "url": "/konsulent/skattejagt/",
+        "title": "Skattejagt",
+        "content": "Nogle gange er det svært at finde fejlene i sine egne projekter.\nJeg vil gerne gå på jagt efter steder som kan forbedres.\n"
     }
     
     , 
@@ -102,7 +116,7 @@
     {
         "url": "/",
         "title": "Kiils",
-        "content": " Jeg hedder Lennart Kiil og har 20 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier  Jeg arbejder både med journalistiske ydelser og rådgivning — og har gennem årene hjulpet blandt andre Berlingske, Dansk Industri, Gentofte Hospital, Illustreret Videnskab, Ingeniøren, Ugeskrift for Læger, Region Syddanmark, Rigshospitalet, Aarhus Universitet og Statens Naturhistoriske Museum\n  Måske kan jeg hjælpe dig? Kontakt mig nu!    div.pa3.pt5.pa5-l.pt6-l {padding-top:5em; padding-bottom:2em;}  "
+        "content": " Jeg hedder Lennart Kiil og har 20 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier   Jeg arbejder både med journalistiske ydelser og rådgivning — og har gennem årene hjulpet blandt andre Berlingske, Dansk Industri, Gentofte Hospital, Illustreret Videnskab, Ingeniøren, Ugeskrift for Læger, Region Syddanmark, Rigshospitalet, Aarhus Universitet og Statens Naturhistoriske Museum\n Mine varmeste anbefalinger ―Per Asmussen     Måske kan jeg hjælpe dig? Kontakt mig nu!    div.pa3.pt5.pa5-l.pt6-l {padding-top:5em; padding-bottom:2em;}  "
     }
     
     , 
