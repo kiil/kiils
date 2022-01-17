@@ -44,6 +44,13 @@
     
     , 
     {
+        "url": "/konsulent/balance/",
+        "title": "Find balancen mellem analog og digital",
+        "content": "Det digitale fylder meget. Hvordan tæmmer man den evindelige strøm af nyheder og notifikationer.\n"
+    }
+    
+    , 
+    {
         "url": "/konsulent/formidling/",
         "title": "Formidling",
         "content": "Formidling er en af mine spidskompetencer. Jeg har arbejdet mange år som videnskabsjournallist, og har flere større formidlingsopgaver i porteføljen.\n"
@@ -72,8 +79,8 @@
     
     , 
     {
-        "url": "/genrer/bedrifter/",
-        "title": "bedrifter",
+        "url": "/emner/brugervenlighed/",
+        "title": "Brugervenlighed",
         "content": ""
     }
     
@@ -82,6 +89,13 @@
         "url": "/cases/",
         "title": "Cases",
         "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
+    }
+    
+    , 
+    {
+        "url": "/tools/drupal-bootstrap/",
+        "title": "Drupal, Bootstrap",
+        "content": ""
     }
     
     , 
@@ -95,6 +109,55 @@
     {
         "url": "/erfaringer/",
         "title": "Erfaringer",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/cases/folkets/",
+        "title": "FOLKETS",
+        "content": "En dansk brand- og medieplatform\nFOLKETS.DK er et enorm stort projekt. Visionen er at udfordre både de danske medier og de amerikanske \u0026ldquo;tech giants\u0026rdquo;.\nSamtidig med at øjnene skal holdes på dette langsigtede mål, skal de betalende brugere også løbende serviceres med godt indhold.\nDer skal skabes indtægter og hele projektet skal løbende tilpasses og \u0026ldquo;trimmes\u0026rdquo; da der hele tiden kommer nyt på.\nFOLKETS.DK er uden sammenligning det mest lærerige fagligt set, som jeg har foretaget mig i mit arbejdsliv.\n"
+    }
+    
+    , 
+    {
+        "url": "/",
+        "title": "Kiils",
+        "content": " Jeg hedder Lennart Kiil og har 20 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier   Jeg arbejder både med journalistiske ydelser og rådgivning — og har gennem årene hjulpet blandt andre Berlingske, Dansk Industri, Gentofte Hospital, Illustreret Videnskab, Ingeniøren, Ugeskrift for Læger, Region Syddanmark, Rigshospitalet, Aarhus Universitet og Statens Naturhistoriske Museum\n Mine varmeste anbefalinger ―Per Asmussen     Måske kan jeg hjælpe dig? Kontakt mig nu!    div.pa3.pt5.pa5-l.pt6-l {padding-top:5em; padding-bottom:2em;}  "
+    }
+    
+    , 
+    {
+        "url": "/skribenter/lennart-kiil/",
+        "title": "Lennart Kiil",
+        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
+    }
+    
+    , 
+    {
+        "url": "/skribenter/",
+        "title": "Skribenter",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/brugervenlighed/brugerens-foretrukne-farvepalette-dark-mode-folkets/",
+        "title": "Sådan satte jeg et "dark theme" op på Folkets uden at genere brugerne med flere valgmuligheder",
+        "content": "I dag er der mange ting en bruger skal tage stilling til når han eller hun surfer ind på en hjemmeside.\nVil man nu have cookies?\nHvilke cookies vil man have?\nVil man tilmeldes nyhedsbrev?\nEller vil man have notifikationer?\nNogle har også en chatbot som begynder at stille brugeren spørgsmål.\nDet sidste brugere har behov for er endnu en detalje at tage stilling til!\nDerfor var det vigtigt for mig at jeg kunne give brugerne af Folkets.dk mulighed for at vælge et mørkt tema, men uden at skulle spørge dem.\nMuligheden er der takket være to css media queries som hedder henholdsvis\n@media (prefers-color-scheme: dark) { } og\n@media (prefers-color-scheme: light) { } På den måde kunne jeg på simpel maner efterkomme brugerens ønske.\nBrugeren behøver kun at foretage valget een gang i sit operativ-system. Så gælder det automatisk på sites som er sat op til det. Nu også Folkets.\nDu kan læse mere om mulighederne her\n The prefers-color-scheme CSS media feature is used to detect if the user has requested a light or dark color theme.\n  The user might indicate this preference through an operating system setting (e.g. light or dark mode) or a user agent setting.\n — prefers-color-scheme - CSS: Cascading Style Sheets | MDN Hvordan ser dark mode så ud på Folkets?\nOmtrent sådan her:\n Dark mode på Folkets   "
+    }
+    
+    , 
+    {
+        "url": "/tools/",
+        "title": "Tools",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/genrer/bedrifter/",
+        "title": "bedrifter",
         "content": ""
     }
     
@@ -114,13 +177,6 @@
     
     , 
     {
-        "url": "/",
-        "title": "Kiils",
-        "content": " Jeg hedder Lennart Kiil og har 20 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier   Jeg arbejder både med journalistiske ydelser og rådgivning — og har gennem årene hjulpet blandt andre Berlingske, Dansk Industri, Gentofte Hospital, Illustreret Videnskab, Ingeniøren, Ugeskrift for Læger, Region Syddanmark, Rigshospitalet, Aarhus Universitet og Statens Naturhistoriske Museum\n Mine varmeste anbefalinger ―Per Asmussen     Måske kan jeg hjælpe dig? Kontakt mig nu!    div.pa3.pt5.pa5-l.pt6-l {padding-top:5em; padding-bottom:2em;}  "
-    }
-    
-    , 
-    {
         "url": "/cases/klimaleksikon/",
         "title": "Klimaleksikon",
         "content": "Klimaleksikon.dk er med over 11 år på bagen Danmarks bedste og længstlevende side om klima .\nSiden er et samarbejde mellem mig og to andre naturfagsformidlere, Thomas Hesselberg og Mikkel Houmøller. Siden indeholder omkring 100 opslag på centrale emner inden for klima og klarer sig enormt godt i google-søgninger.\nSiden holdes løbende opdateret, og hundredetusinder af børn og unge har lært om klima og energi på siden.\nSidens brugere er overvejende børn i folkeskolens ældste klasser og unge på ungdomsuddannelserne.\nLærerne bruger aktivt Klimaleksikon i undervisningen, det ses blandt andet af de mange henvisninger fra diverse undervisningsplatforme:\nDesuden ser vi at Klimaleksikon hovedsageligt finder anvendelse inden for den almindelige undervisningstid:\nDer er en overvægt af piger hvilket er en smule atypisk for en side som i bund og grund er naturvidenskabeligt orienteret og skabt af naturfagsformidlere.\nMen det viser i hvert fald at interessen i naturvidenskab og teknologi er der fra den kant også når det overordnede emne blot er vedkommende nok.\nOpslagene, som er kerneindholdet på siden, er naturligvis skrevet i et tilgængeligt sprog som passer til målgruppen af unge mennesker. Men mange granvoksne har skam også glæde af siden. På en række af opslagene har vi nederst spørgsmål, som brugeren kan besvare og dermed få en fornemmelse af om man fået fat i de væsentligste oplysninger i teksten ovenfor.\nSiden er strengt apolitisk og faktuelt baseret. Det er en aftale jeg selv er glad for, da der er en stor lettelse i at være involveret i noget som er ent fakta-orienteret. Jeg nyder virkelig at have et frirum for politik og har derfor meget let ved at adskille Klimaleksikon fra mit øvrige virke.\n"
@@ -131,20 +187,6 @@
         "url": "/erfaringer/seo/google-klima-succes/",
         "title": "Klimaleksikon nummer et i Google på klima",
         "content": "Klimaleksikon er det mest troværdige sted på nettet for unge mennesker at finde viden om klima på dansk.\nDet afspejles nu ikke længere blot i massiv søgetrafik på klima og relaterede emner fra skoler og ungdomsuddannelser til sitet, men også ved en flot topplacering på Google.\nGanske enkelt nummer et på søgeordet klima:\n Klimaleksikon i top på Google for søgeordet \u0026#39;klima\u0026#39;   Jeg forventer ikke nødvendigvis at den placering vil holde for evigt. Der er hård konkurrence og mange gode bud.\nMen placeringen er en stor cadeau til det arbejde som mine to medredaktører og jeg selv har udført på Klimaleksikon gennem nu 13 år.\nEn placering over selveste Wikipedia — det er vi enormt glade for og stolte over.\nGoogles søgekonsol bekræfter resultatet:\n Flere fordelagtige placeringer   Og viser i øvrigt at Klimaleksikon klarer sig godt på en række relaterede ord også. Faktisk ikke mindre end 682 søgeord med tæt relation til klima:\n Klimarelaterede søgeord på Klimaleksikon   Vi fortsætter arbejdet.\n"
-    }
-    
-    , 
-    {
-        "url": "/skribenter/lennart-kiil/",
-        "title": "Lennart Kiil",
-        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
-    }
-    
-    , 
-    {
-        "url": "/skribenter/",
-        "title": "Skribenter",
-        "content": ""
     }
     
     , 
@@ -186,13 +228,6 @@
     {
         "url": "/emner/tips/",
         "title": "tips",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/",
-        "title": "Tools",
         "content": ""
     }
     
@@ -257,13 +292,6 @@
         "url": "/erfaringer/seo/corona/",
         "title": "Er det sådan censur ser ud?",
         "content": "Jeg valgte fra starten at alt indhold om den nye coronavirus på FOLKETS skulle være frit tilgængeligt for alle. Også selvom jeg vidste at den beslutning ville komme til at koste mig en del penge.\nJeg fulgte virkelig meget med. Nok for meget. Brugte al min tid på at følge udviklingen i andre lande. Og jeg brugte naturligvis tid på at advare danskerne om at coronavirus var en alvorlig sag. Ikke \u0026ldquo;bare en influenza\u0026rdquo;.\nDenne indsats fra min side blev bestemt ikke belønnet på Facebook. Her havde mine indlæg om coronavirus stort set ingen gennemslagskraft. I hvert fald ikke i forhold til andre ting jeg til dagligt skriver om.\nMen til min store glæde, så kompenserede trafikken fra Google for manglen på Facebook. Når man bruger tid på noget vigtigt, og mener at man har noget at byde ind med, så er det rart at det rent faktisk kommer ud og gør gavn.\nOg det gør oplysning og information jo kun hvis folk rent faktisk for dem at se.\nMen så skete der for et par dage siden noget underligt. Jeg bemærkede hurtigt at trafikken til FOLKETS faldt en del. Ret abrupt.\nDelingerne på Facebook de klarede sig hverken bedre eller dårligere end andre delinger om coronavirus. Så der var noget andet i gære.\nJeg tjekkede så i Googles søgekonsol. Og fik der bekræftet min mistanke.\nPå få dage var FOLKETS skubbet fra en placering på side et til en placering ned på side tre for søgeordet \u0026lsquo;corona\u0026rsquo;. Det er alligevel noget af et \u0026ldquo;drop\u0026rdquo;.\nSå nu står jeg i den situation at jeg ikke får trafik fra hverken Facebook eller Google. Endda på et område hvor jeg har bidraget med væsentlige indlæg før de fleste andre her i landet.\nOg jeg aner ikke hvorfor. Jeg aner det virkelig ikke.\nMen det får mig da til at tænke over den magt Google og Facebook har. Og den magt staten har med Google og Facebook som proxier.\nJeg kan ikke konkludere at der er tale om censur. Og måske er censur slet ikke det rigtige ord. Måske er det bare en fluktuation.\nMen effekten er den samme; folk kommer ikke til at læse det jeg skriver.\nDet må jeg leve med. Og jeg håber da på et comeback.\nOg uanset hvad er det trods alt betydeligt bedre at blive usynliggjort i den digitale verden end at blive \u0026ldquo;taget ud\u0026rdquo; i den virkelige.\n"
-    }
-    
-    , 
-    {
-        "url": "/cases/folkets/",
-        "title": "FOLKETS",
-        "content": "En dansk brand- og medieplatform\nFOLKETS.DK er et enorm stort projekt. Visionen er at udfordre både de danske medier og de amerikanske \u0026ldquo;tech giants\u0026rdquo;.\nSamtidig med at øjnene skal holdes på dette langsigtede mål, skal de betalende brugere også løbende serviceres med godt indhold.\nDer skal skabes indtægter og hele projektet skal løbende tilpasses og \u0026ldquo;trimmes\u0026rdquo; da der hele tiden kommer nyt på.\nFOLKETS.DK er uden sammenligning det mest lærerige fagligt set, som jeg har foretaget mig i mit arbejdsliv.\n"
     }
     
     , 
@@ -383,13 +411,6 @@
         "url": "/erfaringer/fundraising/klimaleksikon-crowdfunding-donorbox/",
         "title": "Kan man crowdfunde et klimaleksikon?",
         "content": "Klimaleksikon er en meget væsentlig dansk kilde til især unge menneskers viden om klima og klimaændring.\nOm to måneder fejrer Klimaleksikon 11 års fødselsdag på nettet. Jeg har personligt sørget for at over en million mennesker i den periode er blevet klogere på klima. Det har jeg gjort rent pro bono.\nMen det koster at udvikle og holde et klimaleksikon up to date, og jeg har derfor besluttet at jeg vil skabe et økonomisk fundament for Klimaleksikon der gør at jeg i det mindste får dækket mine udgifter ind fremover.\nJeg har kontaktet et stort antal danske virksomheder, men de var ikke interesserede i at bidrage til at udbrede viden om klima. Til trods for at de i pressen fører sig frem som de store klimaforkæmpere.\nNuvel, deres penge - deres prioriteringer.\nJeg vil nu undersøge om der blandt befolkningen bredt set er en større reel interesse for at sætte sine penge der hvor snakken går.\nDerfor har jeg lavet en crowdfunding med følgende ordlyd:\n Lennart Kiil har gennem 11 år for egen regning drevet Klimaleksikon. I den periode er over en million mennesker blevet klogere på klima på grund af Klimaleksikon.\nKlimaleksikon bruges dagligt af især unge over hele landet når de søger viden om klima og relaterede emner. Det er vigtigt at de ved der findes en anden mulighed end at pjække fra skole. Klimaleksikon sørger for at der også er at sted på nettet for dem som vil lære noget og søger at tilgå klimaproblemet konstruktivt.\nDen vidensbaserede og fornuftige tilgang er nu vigtigere end nogensinde før. Vi risikerer at spørgsmålet om klima bliver overtaget af politiske aktivister.\nMen det er dyrt at holde et klimaleksikon kørende, udvikle det og give så mange mennesker i alle aldre mere viden. Det koster årligt titusindvis af kroner.\nDerfor mener Lennart Kiil at det er på tide at flere træder til og bakker op om Klimaleksikon som baserer sig på viden frem for følelser i klimaspørgsmålet. Desværre har danske virksomheder, som ellers taler meget om klima, hidtil vist sig uvillige til at bakke op om og sponsorere det vidensbaserede Klimaleksikon.\nSå nu må almindelige borgere og gode mennesker træde til!\n På Klimaleksikon har jeg valgt at holde call to action diskret i første omgang.\nDet ser sådan her ud:\nDette CTA sender en videre til en formular.\nDenne formular kan både ses og bruges lige herunder, så du er naturligvis velkommen til at yde et bidrag til Klimaleksikon hvis du har lyst til at støtte en videns- og fornuftsbaseret tilgang til klimaproblemet.\n Det bliver spændende om der er opbakning :)\n"
-    }
-    
-    , 
-    {
-        "url": "/emner/brugervenlighed/",
-        "title": "brugervenlighed",
-        "content": ""
     }
     
     , 
