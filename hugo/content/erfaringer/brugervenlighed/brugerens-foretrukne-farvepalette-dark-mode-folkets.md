@@ -2,7 +2,7 @@
 title: 'Sådan satte jeg et "dark theme" op på Folkets uden at genere brugerne med flere valgmuligheder'
 summary: 'Det er muligt at efterkomme brugernes ønsker uden at genere dem med yderligere forespørgsler'
 #featured_image: '/erfaringer/brugervenlighed/darkmode.png'
-description: ' '
+description: 'Giv brugerne hvad de vil have uden at forstyrre'
 thumbnail: 'erfaringer/brugervenlighed/darkmode.png'
 toc: false
 show_reading_time: true
