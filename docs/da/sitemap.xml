@@ -46,13 +46,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/emner/brugervenlighed/</loc>
-    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.kiils.dk/cases/</loc>
-    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -66,13 +61,13 @@
                 href="https://www.kiils.dk/cases/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/tools/drupal-bootstrap/</loc>
-    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+    <loc>https://www.kiils.dk/tools/css/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/emner/</loc>
-    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -87,7 +82,7 @@
                 />
   </url><url>
     <loc>https://www.kiils.dk/erfaringer/</loc>
-    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -100,6 +95,101 @@
                 hreflang="da"
                 href="https://www.kiils.dk/erfaringer/"
                 />
+  </url><url>
+    <loc>https://www.kiils.dk/emner/indholdsh%C3%A5ndtering/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/cases/klimaleksikon/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/skribenter/lennart-kiil/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/skribenter/lennart-kiil/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/skribenter/lennart-kiil/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/erfaringer/klimavenlig-og-brugervenlig/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/skribenter/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/skribenter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/skribenter/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/tools/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/tools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/tools/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/emner/brugervenlighed/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/emner/b%C3%A6redygtighed/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/emner/design/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/emner/energibesparelse/</loc>
+    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/cases/folkets/</loc>
     <lastmod>2022-01-17T00:00:00+00:00</lastmod>
@@ -116,70 +206,25 @@
                 href="https://www.kiils.dk/cases/folkets/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/</loc>
+    <loc>https://www.kiils.dk/emner/klimavenlighed/</loc>
     <lastmod>2022-01-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/"
-                />
   </url><url>
-    <loc>https://www.kiils.dk/skribenter/lennart-kiil/</loc>
+    <loc>https://www.kiils.dk/tools/media-queries/</loc>
     <lastmod>2022-01-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/skribenter/lennart-kiil/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/skribenter/lennart-kiil/"
-                />
-  </url><url>
-    <loc>https://www.kiils.dk/skribenter/</loc>
-    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/skribenter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/skribenter/"
-                />
   </url><url>
     <loc>https://www.kiils.dk/erfaringer/brugervenlighed/brugerens-foretrukne-farvepalette-dark-mode-folkets/</loc>
     <lastmod>2022-01-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/tools/</loc>
+    <loc>https://www.kiils.dk/emner/valgmuligheder/</loc>
     <lastmod>2022-01-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/tools/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/tools/"
-                />
   </url><url>
     <loc>https://www.kiils.dk/genrer/bedrifter/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
@@ -200,16 +245,6 @@
                 hreflang="da"
                 href="https://www.kiils.dk/genrer/"
                 />
-  </url><url>
-    <loc>https://www.kiils.dk/emner/indholdsh%C3%A5ndtering/</loc>
-    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/cases/klimaleksikon/</loc>
-    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/erfaringer/seo/google-klima-succes/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>

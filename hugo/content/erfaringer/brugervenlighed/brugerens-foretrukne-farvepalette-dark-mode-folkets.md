@@ -12,8 +12,14 @@ date: '2022-01-17'
 toc: false
 emner:
   - Brugervenlighed
+  - Bæredygtighed
+  - Klimavenlighed
+  - Energibesparelse
+  - Design
+  - Valgmuligheder
 tools:
-  - Drupal, Bootstrap
+  - css
+  - media queries
 cases:
   - Folkets
 ---

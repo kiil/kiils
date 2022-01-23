@@ -79,13 +79,6 @@
     
     , 
     {
-        "url": "/emner/brugervenlighed/",
-        "title": "Brugervenlighed",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/cases/",
         "title": "Cases",
         "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
@@ -93,8 +86,8 @@
     
     , 
     {
-        "url": "/tools/drupal-bootstrap/",
-        "title": "Drupal, Bootstrap",
+        "url": "/tools/css/",
+        "title": "css",
         "content": ""
     }
     
@@ -114,9 +107,9 @@
     
     , 
     {
-        "url": "/cases/folkets/",
-        "title": "FOLKETS",
-        "content": "En dansk brand- og medieplatform\nFOLKETS.DK er et enorm stort projekt. Visionen er at udfordre både de danske medier og de amerikanske \u0026ldquo;tech giants\u0026rdquo;.\nSamtidig med at øjnene skal holdes på dette langsigtede mål, skal de betalende brugere også løbende serviceres med godt indhold.\nDer skal skabes indtægter og hele projektet skal løbende tilpasses og \u0026ldquo;trimmes\u0026rdquo; da der hele tiden kommer nyt på.\nFOLKETS.DK er uden sammenligning det mest lærerige fagligt set, som jeg har foretaget mig i mit arbejdsliv.\n"
+        "url": "/emner/indholdsh%C3%A5ndtering/",
+        "title": "Indholdshåndtering",
+        "content": ""
     }
     
     , 
@@ -128,6 +121,13 @@
     
     , 
     {
+        "url": "/cases/klimaleksikon/",
+        "title": "Klimaleksikon",
+        "content": "Klimaleksikon.dk er med over 11 år på bagen Danmarks bedste og længstlevende side om klima .\nSiden er et samarbejde mellem mig og to andre naturfagsformidlere, Thomas Hesselberg og Mikkel Houmøller. Siden indeholder omkring 100 opslag på centrale emner inden for klima og klarer sig enormt godt i google-søgninger.\nSiden holdes løbende opdateret, og hundredetusinder af børn og unge har lært om klima og energi på siden.\nSidens brugere er overvejende børn i folkeskolens ældste klasser og unge på ungdomsuddannelserne.\nLærerne bruger aktivt Klimaleksikon i undervisningen, det ses blandt andet af de mange henvisninger fra diverse undervisningsplatforme:\nDesuden ser vi at Klimaleksikon hovedsageligt finder anvendelse inden for den almindelige undervisningstid:\nDer er en overvægt af piger hvilket er en smule atypisk for en side som i bund og grund er naturvidenskabeligt orienteret og skabt af naturfagsformidlere.\nMen det viser i hvert fald at interessen i naturvidenskab og teknologi er der fra den kant også når det overordnede emne blot er vedkommende nok.\nOpslagene, som er kerneindholdet på siden, er naturligvis skrevet i et tilgængeligt sprog som passer til målgruppen af unge mennesker. Men mange granvoksne har skam også glæde af siden. På en række af opslagene har vi nederst spørgsmål, som brugeren kan besvare og dermed få en fornemmelse af om man fået fat i de væsentligste oplysninger i teksten ovenfor.\nSiden er strengt apolitisk og faktuelt baseret. Det er en aftale jeg selv er glad for, da der er en stor lettelse i at være involveret i noget som er ent fakta-orienteret. Jeg nyder virkelig at have et frirum for politik og har derfor meget let ved at adskille Klimaleksikon fra mit øvrige virke.\n"
+    }
+    
+    , 
+    {
         "url": "/skribenter/lennart-kiil/",
         "title": "Lennart Kiil",
         "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
@@ -135,8 +135,71 @@
     
     , 
     {
+        "url": "/erfaringer/klimavenlig-og-brugervenlig/",
+        "title": "Med ny dark mode er klimaleksikon både mere bruger- og klimavenlig",
+        "content": "Tekst\n Dark mode på Klimaleksikon   {{ with .Resources.ByType \u0026ldquo;image\u0026rdquo; }} {{ range . }} {{ .RelPermalink }} {{ end }} {{ end }}\n"
+    }
+    
+    , 
+    {
         "url": "/skribenter/",
         "title": "Skribenter",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/",
+        "title": "Tools",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/brugervenlighed/",
+        "title": "Brugervenlighed",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/b%C3%A6redygtighed/",
+        "title": "Bæredygtighed",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/design/",
+        "title": "Design",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/energibesparelse/",
+        "title": "Energibesparelse",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/cases/folkets/",
+        "title": "FOLKETS",
+        "content": "En dansk brand- og medieplatform\nFOLKETS.DK er et enorm stort projekt. Visionen er at udfordre både de danske medier og de amerikanske \u0026ldquo;tech giants\u0026rdquo;.\nSamtidig med at øjnene skal holdes på dette langsigtede mål, skal de betalende brugere også løbende serviceres med godt indhold.\nDer skal skabes indtægter og hele projektet skal løbende tilpasses og \u0026ldquo;trimmes\u0026rdquo; da der hele tiden kommer nyt på.\nFOLKETS.DK er uden sammenligning det mest lærerige fagligt set, som jeg har foretaget mig i mit arbejdsliv.\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/klimavenlighed/",
+        "title": "Klimavenlighed",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/media-queries/",
+        "title": "media queries",
         "content": ""
     }
     
@@ -149,8 +212,8 @@
     
     , 
     {
-        "url": "/tools/",
-        "title": "Tools",
+        "url": "/emner/valgmuligheder/",
+        "title": "Valgmuligheder",
         "content": ""
     }
     
@@ -166,20 +229,6 @@
         "url": "/genrer/",
         "title": "Genrer",
         "content": "Genrer på Kiils\n"
-    }
-    
-    , 
-    {
-        "url": "/emner/indholdsh%C3%A5ndtering/",
-        "title": "Indholdshåndtering",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/cases/klimaleksikon/",
-        "title": "Klimaleksikon",
-        "content": "Klimaleksikon.dk er med over 11 år på bagen Danmarks bedste og længstlevende side om klima .\nSiden er et samarbejde mellem mig og to andre naturfagsformidlere, Thomas Hesselberg og Mikkel Houmøller. Siden indeholder omkring 100 opslag på centrale emner inden for klima og klarer sig enormt godt i google-søgninger.\nSiden holdes løbende opdateret, og hundredetusinder af børn og unge har lært om klima og energi på siden.\nSidens brugere er overvejende børn i folkeskolens ældste klasser og unge på ungdomsuddannelserne.\nLærerne bruger aktivt Klimaleksikon i undervisningen, det ses blandt andet af de mange henvisninger fra diverse undervisningsplatforme:\nDesuden ser vi at Klimaleksikon hovedsageligt finder anvendelse inden for den almindelige undervisningstid:\nDer er en overvægt af piger hvilket er en smule atypisk for en side som i bund og grund er naturvidenskabeligt orienteret og skabt af naturfagsformidlere.\nMen det viser i hvert fald at interessen i naturvidenskab og teknologi er der fra den kant også når det overordnede emne blot er vedkommende nok.\nOpslagene, som er kerneindholdet på siden, er naturligvis skrevet i et tilgængeligt sprog som passer til målgruppen af unge mennesker. Men mange granvoksne har skam også glæde af siden. På en række af opslagene har vi nederst spørgsmål, som brugeren kan besvare og dermed få en fornemmelse af om man fået fat i de væsentligste oplysninger i teksten ovenfor.\nSiden er strengt apolitisk og faktuelt baseret. Det er en aftale jeg selv er glad for, da der er en stor lettelse i at være involveret i noget som er ent fakta-orienteret. Jeg nyder virkelig at have et frirum for politik og har derfor meget let ved at adskille Klimaleksikon fra mit øvrige virke.\n"
     }
     
     , 
