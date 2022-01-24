@@ -1,6 +1,6 @@
 baseURL = "https://www.kiils.dk/"
 languageCode = "da-dk"
-title = "Kiils"
+title = "Kiils — vær så venlig"
 theme = "ananke"
 
 MetaDataFormat = "yaml"
@@ -13,17 +13,20 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "KIILS"
+    title = "Kiils"
     languageName = "English 🇺🇸"
     weight = 1
     [languages.en.params]
+      slogan = "Be so kind"
       languageName = "English 🇺🇸"
       # linkedin = "https://linkedin.com/whoever"
   [languages.da]
-    title = "KIILS"
+    title = "Kiils"
     languageName = "Dansk 🇩🇰"
     weight = 2
     [languages.da.params]
+      images = ['venlig.png']
+      slogan = "Vær så venlig"
       languageName = "Dansk 🇩🇰"
       # linkedin = "https://linkedin.com/fr/whoever"
       [languages.da.params.navigation]

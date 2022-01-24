@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Priser on KIILS</title>
+    <title>Priser on Kiils</title>
     <link>https://www.kiils.dk/priser/</link>
-    <description>Recent content in Priser on KIILS</description>
+    <description>Recent content in Priser on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language><atom:link href="https://www.kiils.dk/priser/index.xml" rel="self" type="application/rss+xml" />
   </channel>

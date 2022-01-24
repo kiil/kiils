@@ -2,6 +2,13 @@
     
     
     {
+        "url": "/",
+        "title": "Kiils — vær så venlig",
+        "content": " Brugervenlig Klimavenlig Læsevenlig  Er jeres digitale tilstedeværelse venlig nok? Kontakt Kiils nu!  "
+    }
+    
+    , 
+    {
         "url": "/journalist/",
         "title": "Journalist",
         "content": ""
@@ -110,13 +117,6 @@
         "url": "/emner/indholdsh%C3%A5ndtering/",
         "title": "Indholdshåndtering",
         "content": ""
-    }
-    
-    , 
-    {
-        "url": "/",
-        "title": "Kiils",
-        "content": " Jeg hedder Lennart Kiil og har 20 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier   Jeg arbejder både med journalistiske ydelser og rådgivning — og har gennem årene hjulpet blandt andre Berlingske, Dansk Industri, Gentofte Hospital, Illustreret Videnskab, Ingeniøren, Ugeskrift for Læger, Region Syddanmark, Rigshospitalet, Aarhus Universitet og Statens Naturhistoriske Museum\n Mine varmeste anbefalinger ―Per Asmussen     Måske kan jeg hjælpe dig? Kontakt mig nu!    div.pa3.pt5.pa5-l.pt6-l {padding-top:5em; padding-bottom:2em;}  "
     }
     
     , 
@@ -803,6 +803,13 @@
         "url": "/brands/digitalt/",
         "title": "digitalt",
         "content": ""
+    }
+    
+    , 
+    {
+        "url": "/old_index/",
+        "title": "Kiils — vær så venlig",
+        "content": " Jeg hedder Lennart Kiil og har 20 års praktisk erfaring i krydsfeltet mellem internet, journalistik og sociale medier   Jeg arbejder både med journalistiske ydelser og rådgivning — og har gennem årene hjulpet blandt andre Berlingske, Dansk Industri, Gentofte Hospital, Illustreret Videnskab, Ingeniøren, Ugeskrift for Læger, Region Syddanmark, Rigshospitalet, Aarhus Universitet og Statens Naturhistoriske Museum\n Mine varmeste anbefalinger ―Per Asmussen     Måske kan jeg hjælpe dig? Kontakt mig nu!    div.pa3.pt5.pa5-l.pt6-l {padding-top:5em; padding-bottom:2em;}  "
     }
     
     , 
