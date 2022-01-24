@@ -2,21 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.kiils.dk/</loc>
-    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/"
-                />
-  </url><url>
     <loc>https://www.kiils.dk/journalist/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -115,6 +100,21 @@
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/"
+                />
   </url><url>
     <loc>https://www.kiils.dk/cases/klimaleksikon/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>

@@ -2,13 +2,6 @@
     
     
     {
-        "url": "/",
-        "title": "Kiils — vær så venlig",
-        "content": " Brugervenlig Klimavenlig Læsevenlig  Er jeres digitale tilstedeværelse venlig nok? Kontakt Kiils nu!  "
-    }
-    
-    , 
-    {
         "url": "/journalist/",
         "title": "Journalist",
         "content": ""
@@ -117,6 +110,13 @@
         "url": "/emner/indholdsh%C3%A5ndtering/",
         "title": "Indholdshåndtering",
         "content": ""
+    }
+    
+    , 
+    {
+        "url": "/",
+        "title": "Kiils — vær så venlig",
+        "content": " Brugervenlig Klimavenlig Læsevenlig  Er jeres digitale tilstedeværelse venlig nok? Kontakt Kiils nu!  "
     }
     
     , 
