@@ -13,7 +13,7 @@ description: 'Nogle gange kan man blæse med mel i munden'
 
 
 # thumbnail er også til og-image og skrives uden indledende skråstreg
-thumbnail: erfaringer/klimavenlig-og-brugervenlig/venlig-dm.png
+#thumbnail: erfaringer/klimavenlig-og-brugervenlig/venlig-dm.png
 
 # toc sættes ved længere tekster med mellemrubrikker til true
 toc: false
@@ -30,14 +30,10 @@ cases:
   - klimaleksikon
 ---
 
-Tekst
+Det er kun naturligt at Klimaleksikon skal være et klimavenligt website.
 
-{{< figure src="/venlig-dm.png" title="Dark mode på Klimaleksikon" >}}
+Og med at dark mode for dem som har indstillet deres enhed til det, så sparer sitet nu en del energi på AMOLED-enheder, som er en væsentlig del af mobile enheder.
 
 
 
-{{ with .Resources.ByType "image" }}
-{{ range . }}
-{{ .RelPermalink }}
-{{ end }}
-{{ end }}
+

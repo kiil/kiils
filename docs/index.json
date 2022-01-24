@@ -137,7 +137,7 @@
     {
         "url": "/erfaringer/klimavenlig-og-brugervenlig/",
         "title": "Med ny dark mode er klimaleksikon både mere bruger- og klimavenlig",
-        "content": "Tekst\n Dark mode på Klimaleksikon   {{ with .Resources.ByType \u0026ldquo;image\u0026rdquo; }} {{ range . }} {{ .RelPermalink }} {{ end }} {{ end }}\n"
+        "content": "Det er kun naturligt at Klimaleksikon skal være et klimavenligt website.\nOg med at dark mode for dem som har indstillet deres enhed til det, så sparer sitet nu en del energi på AMOLED-enheder, som er en væsentlig del af mobile enheder.\n"
     }
     
     , 
