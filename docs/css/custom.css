@@ -1,4 +1,22 @@
 
+/* Dark mode START */
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #000;
+  }
+  main {
+    background: #000;
+    color: #fff;
+  }
+  main p {
+    color: #fff;
+  }
+}
+
+
+/* Dark mode END */
+
 figure {
     margin-inline-start: 5px;
     margin-inline-end: 5px;
