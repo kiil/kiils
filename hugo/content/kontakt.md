@@ -9,7 +9,7 @@ menu: ["main"]
 ---
 
 
-Du kan ringe på telefon 40261872 eller skrive en mail direkte til lennart@kiils.dk
+Du kan ringe på telefon 40261872 eller skrive en mail direkte til lennartkiil@gmail.com
 
 
 Postadresse:  
