@@ -32,8 +32,14 @@ cases:
 
 Det er kun naturligt at Klimaleksikon skal være et klimavenligt website.
 
-Og med at dark mode for dem som har indstillet deres enhed til det, så sparer sitet nu en del energi på AMOLED-enheder, som er en væsentlig del af mobile enheder.
+Og med at dark mode for dem som har indstillet deres enhed til det, så sparer sitet nu en del energi på AMOLED-enheder, som udgør en væsentlig del af mobile enheder.
 
+Der er lidt uenighed om hvor meget energi dark mode sparer, og det kommer også an på nogle detaljer. Først lød budet på op til 60 procent, men grundigere undersøgelser peger på besparelser mellem 39 procent og 47 procent hvis man normalt har meget brightness på sin enhed.
 
+Er man en af dem som skruer mere ned, så er der "kun" omkring 10 procent at spare.
+
+Du kan læse mere her:
+
+Dash, Pranab & Hu, Y. Charlie (2021) 'How Much Battery Does Dark Mode Save? An Accurate OLED Display Power Profiler for Modern Smartphones' in *Proceedings of the 19th Annual International Conference on Mobile Systems Applications and Services*, New York, NY, USA: Association for Computing Machinery, pp. 323--335
 
 
