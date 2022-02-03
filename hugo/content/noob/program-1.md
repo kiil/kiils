@@ -79,8 +79,8 @@ Og hvis ikke digitaliseringen gør vores liv bedre, hvad skal vi så bruge den t
 
 ---
 
-PS. Det med at sætte en fast dato ind i `datediff`-kommandoen virkede som den letteste måde at løse problemet med at få en tidsperiode hen over et døgnskifte ud i positive tal på.
+PS. Det med at sætte en fast, tilfældig valgt, dato ind i `datediff`-kommandoen virkede som den letteste måde at løse problemet med at få en tidsperiode hen over et døgnskifte ud i positive tal på.
 
-Det kan nok gøres mere elegant. Men min løsning virker faktisk helt fint.
+Det kan nok gøres mere elegant. Men min løsning virker faktisk helt fint uanset hvad dato jeg bruger programmet på.
 
 
