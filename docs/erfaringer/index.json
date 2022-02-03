@@ -79,6 +79,90 @@
     
     , 
     {
+        "url": "/tools/dateutils/",
+        "title": "dateutils",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/",
+        "title": "Emner",
+        "content": "Emner i det arbejde Kiils laver\n"
+    }
+    
+    , 
+    {
+        "url": "/tools/fish/",
+        "title": "Fish",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/",
+        "title": "Kiils — vær så venlig",
+        "content": " Brugervenlig Klimavenlig Læsevenlig  Er jeres digitale tilstedeværelse venlig nok? Kontakt Kiils nu!  "
+    }
+    
+    , 
+    {
+        "url": "/skribenter/lennart-kiil/",
+        "title": "Lennart Kiil",
+        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
+    }
+    
+    , 
+    {
+        "url": "/noob/program-1/",
+        "title": "Mit første computer-program nogensinde - kan du gennemskue hvad det gør?",
+        "content": "Jeg har beskæftiget mig meget med sprog. Taler også flere af dem ganske godt — har jeg fået at vide ;)\nOg så er det naturligvis sproget jeg bruger til at formidle budskaber, ideer og viden. Også i mit professionelle virke.\nOvenikøbet har jeg specialiseret mig i at formidle digitalt. Og her bruger man typisk sproget lidt anderledes end man gør i de mere klassiske udgivelser som bøger og trykte artikler.\nNår man tænker over det, er det egentligt utroligt at jeg aldrig har lært et programmeringssprog!\nDet her jeg stadig ikke, vil nogen med rimelighed anføre når de ser mit \u0026ldquo;program\u0026rdquo; herunder. Men jeg har snuset lidt til emnet og bygget en lille funktion op i et \u0026ldquo;script\u0026rdquo;.\nDet er et lille \u0026ldquo;program\u0026rdquo; der hjælper mig med at gøre børnenes liv bedre. Jeg tror ikke man behøver være programmør for at gennemskue koden:\nfunction D read -p 'echo \u0026quot;A sover:\u0026quot;' -l asover read -p 'echo \u0026quot;A vågner:\u0026quot;' -l avaagner read -p 'echo \u0026quot;A humør:\u0026quot;' -l ahumor read -p 'echo \u0026quot;O sover:\u0026quot;' -l osover read -p 'echo \u0026quot;O vågner:\u0026quot;' -l ovaagner read -p 'echo \u0026quot;O humør:\u0026quot;' -l ohumor set -l ak (datediff 2022-01-01T(echo $asover) 2022-01-02T(echo $avaagner) -f '%0H:%0M') set -l ok (datediff 2022-01-01T(echo $osover) 2022-01-02T(echo $ovaagner) -f '%0H:%0M') echo (date \u0026quot;+%Y-%m-%d\u0026quot;), $ak, $ahumor, $ok, $ohumor \u0026gt;\u0026gt; sovn.txt end Kan du gennemskue hvad programmet gør?\nFørst forsøgte jeg selv at udregne tidsperioden, men det var besværligt af mange forskellige årsager.\nHeldigvis kunne jeg installere et lille værktøj datediff fra pakken dateutils. Det gjorde jeg sådan her på macOS\nbrew install dateutils \u0026ldquo;Programmet\u0026rdquo; er skrevet i Fish som er en shell ligesom sh, bash eller zsh.\nMen vigtigst af alt, så har programmet gjort det lettere for mig at sikre at børnene får deres søvn.\nOg hvis ikke digitaliseringen gør vores liv bedre, hvad skal vi så bruge den til?\n"
+    }
+    
+    , 
+    {
+        "url": "/noob/",
+        "title": "Noobs",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/programmering/",
+        "title": "Programmering",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/skribenter/",
+        "title": "Skribenter",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/",
+        "title": "Tools",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/venlig-digitalisering/",
+        "title": "Venlig digitalisering",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/vim/",
+        "title": "Vim",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/cases/",
         "title": "Cases",
         "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
@@ -89,13 +173,6 @@
         "url": "/tools/css/",
         "title": "css",
         "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/",
-        "title": "Emner",
-        "content": "Emner i det arbejde Kiils laver\n"
     }
     
     , 
@@ -114,13 +191,6 @@
     
     , 
     {
-        "url": "/",
-        "title": "Kiils — vær så venlig",
-        "content": " Brugervenlig Klimavenlig Læsevenlig  Er jeres digitale tilstedeværelse venlig nok? Kontakt Kiils nu!  "
-    }
-    
-    , 
-    {
         "url": "/cases/klimaleksikon/",
         "title": "Klimaleksikon",
         "content": "Klimaleksikon.dk er med over 11 år på bagen Danmarks bedste og længstlevende side om klima .\nSiden er et samarbejde mellem mig og to andre naturfagsformidlere, Thomas Hesselberg og Mikkel Houmøller. Siden indeholder omkring 100 opslag på centrale emner inden for klima og klarer sig enormt godt i google-søgninger.\nSiden holdes løbende opdateret, og hundredetusinder af børn og unge har lært om klima og energi på siden.\nSidens brugere er overvejende børn i folkeskolens ældste klasser og unge på ungdomsuddannelserne.\nLærerne bruger aktivt Klimaleksikon i undervisningen, det ses blandt andet af de mange henvisninger fra diverse undervisningsplatforme:\nDesuden ser vi at Klimaleksikon hovedsageligt finder anvendelse inden for den almindelige undervisningstid:\nDer er en overvægt af piger hvilket er en smule atypisk for en side som i bund og grund er naturvidenskabeligt orienteret og skabt af naturfagsformidlere.\nMen det viser i hvert fald at interessen i naturvidenskab og teknologi er der fra den kant også når det overordnede emne blot er vedkommende nok.\nOpslagene, som er kerneindholdet på siden, er naturligvis skrevet i et tilgængeligt sprog som passer til målgruppen af unge mennesker. Men mange granvoksne har skam også glæde af siden. På en række af opslagene har vi nederst spørgsmål, som brugeren kan besvare og dermed få en fornemmelse af om man fået fat i de væsentligste oplysninger i teksten ovenfor.\nSiden er strengt apolitisk og faktuelt baseret. Det er en aftale jeg selv er glad for, da der er en stor lettelse i at være involveret i noget som er ent fakta-orienteret. Jeg nyder virkelig at have et frirum for politik og har derfor meget let ved at adskille Klimaleksikon fra mit øvrige virke.\n"
@@ -128,30 +198,9 @@
     
     , 
     {
-        "url": "/skribenter/lennart-kiil/",
-        "title": "Lennart Kiil",
-        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
-    }
-    
-    , 
-    {
         "url": "/erfaringer/klimavenlig-og-brugervenlig/",
         "title": "Med ny dark mode er klimaleksikon både mere bruger- og klimavenlig",
         "content": "Det er kun naturligt at Klimaleksikon skal være et klimavenligt website.\nOg med at dark mode for dem som har indstillet deres enhed til det, så sparer sitet nu en del energi på AMOLED-enheder, som udgør en væsentlig del af mobile enheder.\nDer er lidt uenighed om hvor meget energi dark mode sparer, og det kommer også an på nogle detaljer. Først lød budet på op til 60 procent, men grundigere undersøgelser peger på besparelser mellem 39 procent og 47 procent hvis man normalt har meget brightness på sin enhed.\nEr man en af dem som skruer mere ned, så er der \u0026ldquo;kun\u0026rdquo; omkring 10 procent at spare.\nDu kan læse mere her:\nDash, Pranab \u0026amp; Hu, Y. Charlie (2021) \u0026lsquo;How Much Battery Does Dark Mode Save? An Accurate OLED Display Power Profiler for Modern Smartphones\u0026rsquo; in Proceedings of the 19th Annual International Conference on Mobile Systems Applications and Services, New York, NY, USA: Association for Computing Machinery, pp. 323\u0026ndash;335\n"
-    }
-    
-    , 
-    {
-        "url": "/skribenter/",
-        "title": "Skribenter",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/",
-        "title": "Tools",
-        "content": ""
     }
     
     , 
