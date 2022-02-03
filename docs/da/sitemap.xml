@@ -156,6 +156,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.kiils.dk/emner/brugervenlig/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/cases/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -176,6 +181,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.kiils.dk/emner/energibesparelse/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/erfaringer/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -191,17 +201,22 @@
                 href="https://www.kiils.dk/erfaringer/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/emner/indholdsh%C3%A5ndtering/</loc>
-    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.kiils.dk/cases/klimaleksikon/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.kiils.dk/emner/klimavenlig/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/erfaringer/klimavenlig-og-brugervenlig/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/emner/milj%C3%B8venlig/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -217,11 +232,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/emner/design/</loc>
-    <lastmod>2022-01-17T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/emner/energibesparelse/</loc>
     <lastmod>2022-01-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -280,6 +290,11 @@
                 hreflang="da"
                 href="https://www.kiils.dk/genrer/"
                 />
+  </url><url>
+    <loc>https://www.kiils.dk/emner/indholdsh%C3%A5ndtering/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/erfaringer/seo/google-klima-succes/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>

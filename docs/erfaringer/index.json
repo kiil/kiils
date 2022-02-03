@@ -163,6 +163,13 @@
     
     , 
     {
+        "url": "/emner/brugervenlig/",
+        "title": "Brugervenlig",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/cases/",
         "title": "Cases",
         "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
@@ -177,15 +184,15 @@
     
     , 
     {
-        "url": "/erfaringer/",
-        "title": "Erfaringer",
+        "url": "/emner/energibesparelse/",
+        "title": "Energibesparelse",
         "content": ""
     }
     
     , 
     {
-        "url": "/emner/indholdsh%C3%A5ndtering/",
-        "title": "Indholdshåndtering",
+        "url": "/erfaringer/",
+        "title": "Erfaringer",
         "content": ""
     }
     
@@ -198,9 +205,23 @@
     
     , 
     {
+        "url": "/emner/klimavenlig/",
+        "title": "Klimavenlig",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/erfaringer/klimavenlig-og-brugervenlig/",
         "title": "Med ny dark mode er klimaleksikon både mere bruger- og klimavenlig",
-        "content": "Det er kun naturligt at Klimaleksikon skal være et klimavenligt website.\nOg med at dark mode for dem som har indstillet deres enhed til det, så sparer sitet nu en del energi på AMOLED-enheder, som udgør en væsentlig del af mobile enheder.\nDer er lidt uenighed om hvor meget energi dark mode sparer, og det kommer også an på nogle detaljer. Først lød budet på op til 60 procent, men grundigere undersøgelser peger på besparelser mellem 39 procent og 47 procent hvis man normalt har meget brightness på sin enhed.\nEr man en af dem som skruer mere ned, så er der \u0026ldquo;kun\u0026rdquo; omkring 10 procent at spare.\nDu kan læse mere her:\nDash, Pranab \u0026amp; Hu, Y. Charlie (2021) \u0026lsquo;How Much Battery Does Dark Mode Save? An Accurate OLED Display Power Profiler for Modern Smartphones\u0026rsquo; in Proceedings of the 19th Annual International Conference on Mobile Systems Applications and Services, New York, NY, USA: Association for Computing Machinery, pp. 323\u0026ndash;335\n"
+        "content": "Det er kun naturligt at Klimaleksikon skal være et klimavenligt website.\nOg med at dark mode for dem som har indstillet deres enhed til det, så sparer sitet nu en del energi på AMOLED-enheder, som udgør en væsentlig del af mobile enheder.\nDer er lidt uenighed om hvor meget energi dark mode sparer, og det kommer også an på nogle detaljer. Først lød budet på op til 60 procent, men grundigere undersøgelser peger på besparelser mellem 39 procent og 47 procent hvis man normalt har meget brightness på sin enhed.\nEr man en af dem som skruer mere ned, så er der \u0026ldquo;kun\u0026rdquo; omkring 10 procent at spare.\nDet er klimavenligt.\nDet er også er en brugervenlig beslutning at stille dark mode til rådighed, det kan du læse om her:\n— Sådan satte jeg et \u0026amp;ldquo;dark theme\u0026amp;rdquo; op på folkets uden at genere brugerne med flere valgmuligheder Du kan læse mere om energibesparelsen her:\nDash, Pranab \u0026amp; Hu, Y. Charlie (2021) \u0026lsquo;How Much Battery Does Dark Mode Save? An Accurate OLED Display Power Profiler for Modern Smartphones\u0026rsquo; in Proceedings of the 19th Annual International Conference on Mobile Systems Applications and Services, New York, NY, USA: Association for Computing Machinery, pp. 323\u0026ndash;335. https://doi.org/10.1145/3458864.3467682 "
+    }
+    
+    , 
+    {
+        "url": "/emner/milj%C3%B8venlig/",
+        "title": "Miljøvenlig",
+        "content": ""
     }
     
     , 
@@ -221,13 +242,6 @@
     {
         "url": "/emner/design/",
         "title": "Design",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/energibesparelse/",
-        "title": "Energibesparelse",
         "content": ""
     }
     
@@ -278,6 +292,13 @@
         "url": "/genrer/",
         "title": "Genrer",
         "content": "Genrer på Kiils\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/indholdsh%C3%A5ndtering/",
+        "title": "Indholdshåndtering",
+        "content": ""
     }
     
     , 

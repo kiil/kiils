@@ -23,7 +23,10 @@ skribenter:
   - lennart-kiil
 date: '2022-01-21'
 emner:
-  - Indholdshåndtering
+  - Klimavenlig
+  - Brugervenlig
+  - Miljøvenlig
+  - Energibesparelse
 tools:
   - css
 cases:
@@ -38,8 +41,16 @@ Der er lidt uenighed om hvor meget energi dark mode sparer, og det kommer også 
 
 Er man en af dem som skruer mere ned, så er der "kun" omkring 10 procent at spare.
 
-Du kan læse mere her:
+Det er klimavenligt.
 
-Dash, Pranab & Hu, Y. Charlie (2021) 'How Much Battery Does Dark Mode Save? An Accurate OLED Display Power Profiler for Modern Smartphones' in *Proceedings of the 19th Annual International Conference on Mobile Systems Applications and Services*, New York, NY, USA: Association for Computing Machinery, pp. 323--335
+Det er også er en brugervenlig beslutning at stille dark mode til rådighed, det kan du læse om her:
+
+
+
+ — [Sådan satte jeg et "dark theme" op på folkets uden at genere brugerne med flere valgmuligheder](https://www.kiils.dk/erfaringer/brugervenlighed/brugerens-foretrukne-farvepalette-dark-mode-folkets/)
+
+Du kan læse mere om energibesparelsen her:
+
+Dash, Pranab & Hu, Y. Charlie (2021) 'How Much Battery Does Dark Mode Save? An Accurate OLED Display Power Profiler for Modern Smartphones' in *Proceedings of the 19th Annual International Conference on Mobile Systems Applications and Services*, New York, NY, USA: Association for Computing Machinery, pp. 323--335. <https://doi.org/10.1145/3458864.3467682>
 
 
