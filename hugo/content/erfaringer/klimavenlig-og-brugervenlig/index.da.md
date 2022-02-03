@@ -47,7 +47,7 @@ Det er også er en brugervenlig beslutning at stille dark mode til rådighed, de
 
 
 
- — [Sådan satte jeg et "dark theme" op på folkets uden at genere brugerne med flere valgmuligheder](https://www.kiils.dk/erfaringer/brugervenlighed/brugerens-foretrukne-farvepalette-dark-mode-folkets/)
+ — [Sådan satte jeg et dark theme op på folkets uden at genere brugerne med flere valgmuligheder](https://www.kiils.dk/erfaringer/brugervenlighed/brugerens-foretrukne-farvepalette-dark-mode-folkets/)
 
 Du kan læse mere om energibesparelsen her:
 
