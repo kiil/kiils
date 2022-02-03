@@ -77,3 +77,10 @@ Men vigtigst af alt, så har programmet gjort det lettere for mig at sikre at b�
 Og hvis ikke digitaliseringen gør vores liv bedre, hvad skal vi så bruge den til?
 
 
+---
+
+PS. Det med at sætte en fast dato ind i `datediff`-kommandoen virkede som den letteste måde at løse problemet med at få en tidsperiode hen over et døgnskifte ud i positive tal på.
+
+Det kan nok gøres mere elegant. Men min løsning virker faktisk helt fint.
+
+
