@@ -26,6 +26,8 @@ enableRobotsTXT = true
     weight = 2
     [languages.da.params]
       images = ['venlig.png']
+      description = "Vær så venlig"
+      summary = "Vær så venlig"
       slogan = "Vær så venlig"
       languageName = "Dansk 🇩🇰"
       # linkedin = "https://linkedin.com/fr/whoever"
