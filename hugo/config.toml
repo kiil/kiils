@@ -8,7 +8,7 @@ DefaultContentLanguage = "da"
 footnoteReturnLinkContents = "<sup>[retur]</sup>"
 # SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = "UA-89827484-1"
+# googleAnalytics = "UA-89827484-1"
 enableRobotsTXT = true
 
 [languages]
