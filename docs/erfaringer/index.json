@@ -79,13 +79,6 @@
     
     , 
     {
-        "url": "/tools/dateutils/",
-        "title": "dateutils",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/emner/",
         "title": "Emner",
         "content": "Emner i det arbejde Kiils laver\n"
@@ -93,8 +86,8 @@
     
     , 
     {
-        "url": "/tools/fish/",
-        "title": "Fish",
+        "url": "/erfaringer/",
+        "title": "Erfaringer",
         "content": ""
     }
     
@@ -110,6 +103,55 @@
         "url": "/skribenter/lennart-kiil/",
         "title": "Lennart Kiil",
         "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaringer/sikkerhed/pixelering/",
+        "title": "Pixelering er ikke længere sikker sløring",
+        "content": "Når det gælder tekst er pixelering ikke længere en god måde at sløre på:\n Today, we’re focusing on one such technique – pixelation – and will show you why it’s a no-good, bad, insecure, surefire way to get your sensitive data leaked. To show you why, I wrote a tool called Unredacter that takes redacted pixelized text and reverses it back into its unredacted form.\n https://bishopfox.com/blog/unredacter-tool-never-pixelation  Nummerplader er også tekst.\nJeg gætter på at pixelering af ansigter og lignende også snart vil kunne afsløres.\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/redigering/",
+        "title": "redigering",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/sikkerhed/",
+        "title": "sikkerhed",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/skribenter/",
+        "title": "Skribenter",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/sl%C3%B8ring/",
+        "title": "sløring",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/dateutils/",
+        "title": "dateutils",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/fish/",
+        "title": "Fish",
+        "content": ""
     }
     
     , 
@@ -130,13 +172,6 @@
     {
         "url": "/emner/programmering/",
         "title": "Programmering",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/skribenter/",
-        "title": "Skribenter",
         "content": ""
     }
     
@@ -186,13 +221,6 @@
     {
         "url": "/emner/energibesparelse/",
         "title": "Energibesparelse",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/erfaringer/",
-        "title": "Erfaringer",
         "content": ""
     }
     
@@ -375,13 +403,6 @@
     {
         "url": "/tools/latex/",
         "title": "latex",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/redigering/",
-        "title": "redigering",
         "content": ""
     }
     
