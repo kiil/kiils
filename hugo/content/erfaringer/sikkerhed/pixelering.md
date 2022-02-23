@@ -8,13 +8,6 @@ summary: 'Brug ikke pixelering når tekst skal skjules '
 description: 'Pixelering virker ikke længere'
 
 
-# featured_image bruger jeg ikke, bruger i stedet picture element med skråstreg i indhold
-# featured_image: ' '
-
-
-# thumbnail er også til og-image og skrives uden indledende skråstreg
-thumbnail: ' '
-
 # toc sættes ved længere tekster med mellemrubrikker til true
 toc: false
 
