@@ -94,8 +94,15 @@
     , 
     {
         "url": "/en/brands/",
-        "title": "Brands on Folkets",
-        "content": "Pricing on www.folkets.dk (Folkets) I receive many request for paid content on www.folkets.dk . If you are serious about this please have the following prices in mind:\nAdvertorials in English\nUSD 500\nAdvertorials in Danish\nUSD 400\nAnything gambling related regardless of language\nUSD 1000\nOne link per advertorial, although inclusion of two extra non-commercial links are accepted. Bulk discount available.\nPlease contact:\nKiils V/ Lennart Kiil\nlennartkiil@gmail.com "
+        "title": "Brands",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/en/domains/climate-encyclopedia/",
+        "title": "Climate Encyclopedia",
+        "content": ""
     }
     
     , 
@@ -103,6 +110,20 @@
         "url": "/en/cm/",
         "title": "Cm",
         "content": ""
+    }
+    
+    , 
+    {
+        "url": "/en/domains/",
+        "title": "Domains",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/en/domains/folkets/",
+        "title": "Folkets.dk",
+        "content": "Pricing on www.folkets.dk (Folkets) I receive many request for paid content on www.folkets.dk .\nAdvertorials in English\nUSD 500\nAdvertorials in Danish\nUSD 400\nAnything gambling related regardless of language\nUSD 1000\nOne link per advertorial, although inclusion of two extra non-commercial links are accepted. Bulk discount available.\nPlease contact:\nKiils V/ Lennart Kiil\nlennartkiil@gmail.com "
     }
     
     , 

@@ -1,17 +1,18 @@
 ---
-title: Brands on Folkets
-menu: ["foot"]
-type: list
+title: Folkets.dk
+
+menu:
+  foot:
+    name: 'Folkets.dk'
+    parent: Domains
+
 ---
-
-
-
 
 
 
 ## Pricing on www.folkets.dk (Folkets)
 
-I receive many request for paid content on www.folkets.dk. If you are serious about this please have the following prices in mind:
+I receive many request for paid content on www.folkets.dk.
 
 Advertorials in English  
 USD 500
@@ -29,3 +30,4 @@ One link per advertorial, although inclusion of two extra non-commercial links a
 Please contact:  
 Kiils V/ Lennart Kiil  
 lennartkiil@gmail.com
+
