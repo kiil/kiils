@@ -72,6 +72,13 @@
     
     , 
     {
+        "url": "/konsulent/nutella/",
+        "title": "Put aldrig smør under nutella",
+        "content": "Hvad nytter et vigtigt budskab hvis ingen ser det?\nPå nettet er rubrikker, altså overskrifter, enormt vigtige fordi de afgør om en tekst bliver læst eller ej.\nJeg har skrevet 10.000 rubrikker. Og jeg har data på 4000 af dem.\nDet gør at jeg har både en følelse for hvad der virker — og konkret viden til at bakke min intuition op.\nEn overskrift skal fange læserens interesse, så læseren klikker og dykkere videre ned i teksten hvor det egentlige budskab så udfoldes.\nLad os tage et eksempel:\nDerfor må du aldrig putte smør under din Nutella-mad    Derfor må du aldrig putte smør under Nutella     Klik for svar vedkommende nødvendig bred appel          Her lægger rubrikken op til at brødteksten indeholder viden som er vigtig for mange mennesker.\nHvor mange har ikke smurt smør under deres Nutella? Og hvorfor må man så aldrig gøre det?\nDet er en måde at lave en fængende overskrift på. Der er mange andre.\nBook en tid og få hjælp til at lave bedre rubrikker.\n"
+    }
+    
+    , 
+    {
         "url": "/konsulent/skattejagt/",
         "title": "Skattejagt",
         "content": "Nogle gange er det svært at finde fejlene i sine egne projekter.\nJeg vil gerne gå på jagt efter steder som kan forbedres.\n"
@@ -156,16 +163,9 @@
     
     , 
     {
-        "url": "/noob/program-1/",
+        "url": "/erfaringer/noob/program-1/",
         "title": "Mit første computer-program nogensinde - kan du gennemskue hvad det gør?",
         "content": "Jeg har beskæftiget mig meget med sprog. Taler også flere af dem ganske godt — har jeg fået at vide ;)\nOg så er det naturligvis sproget jeg bruger til at formidle budskaber, ideer og viden. Også i mit professionelle virke.\nOvenikøbet har jeg specialiseret mig i at formidle digitalt. Og her bruger man typisk sproget lidt anderledes end man gør i de mere klassiske udgivelser som bøger og trykte artikler.\nNår man tænker over det, er det egentligt utroligt at jeg aldrig har lært et programmeringssprog!\nDet her jeg stadig ikke, vil nogen med rimelighed anføre når de ser mit \u0026ldquo;program\u0026rdquo; herunder. Men jeg har snuset lidt til emnet og bygget en lille funktion op i et \u0026ldquo;script\u0026rdquo;.\nDet er et lille \u0026ldquo;program\u0026rdquo; der hjælper mig med at gøre børnenes liv bedre. Jeg tror ikke man behøver være programmør for at gennemskue koden:\nfunction D read -p 'echo \u0026quot;A sover:\u0026quot;' -l asover read -p 'echo \u0026quot;A vågner:\u0026quot;' -l avaagner read -p 'echo \u0026quot;A humør:\u0026quot;' -l ahumor read -p 'echo \u0026quot;O sover:\u0026quot;' -l osover read -p 'echo \u0026quot;O vågner:\u0026quot;' -l ovaagner read -p 'echo \u0026quot;O humør:\u0026quot;' -l ohumor set -l ak (datediff 2022-01-01T(echo $asover) 2022-01-02T(echo $avaagner) -f '%0H:%0M') set -l ok (datediff 2022-01-01T(echo $osover) 2022-01-02T(echo $ovaagner) -f '%0H:%0M') echo (date \u0026quot;+%Y-%m-%d\u0026quot;), $ak, $ahumor, $ok, $ohumor \u0026gt;\u0026gt; sovn.txt end Kan du gennemskue hvad programmet gør?\nFørst forsøgte jeg selv at udregne tidsperioden, men det var besværligt af mange forskellige årsager.\nHeldigvis kunne jeg installere et lille værktøj datediff fra pakken dateutils. Det gjorde jeg sådan her på macOS\nbrew install dateutils \u0026ldquo;Programmet\u0026rdquo; er skrevet i Fish som er en shell ligesom sh, bash eller zsh.\nMen vigtigst af alt, så har programmet gjort det lettere for mig at sikre at børnene får deres søvn.\nOg hvis ikke digitaliseringen gør vores liv bedre, hvad skal vi så bruge den til?\n PS. Det med at sætte en fast, tilfældig valgt, dato ind i datediff-kommandoen virkede som den letteste måde at løse problemet med at få en tidsperiode hen over et døgnskifte ud i positive tal på.\nDet kan nok gøres mere elegant. Men min løsning virker faktisk helt fint uanset hvad dato jeg bruger programmet på.\n"
-    }
-    
-    , 
-    {
-        "url": "/noob/",
-        "title": "Noobs",
-        "content": ""
     }
     
     , 
