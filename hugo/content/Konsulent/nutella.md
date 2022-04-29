@@ -4,6 +4,8 @@ summary: 'En fængende rubrik '
 featured_image: '/konsulent/nutella.jpg'
 description: 'Sådan virker det'
 thumbnail: 'konsulent/nutella.jpg'
+images:
+- konsulent/nutella.jpg
 # toc: true
 
 weight: 100
