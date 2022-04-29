@@ -1,9 +1,9 @@
 ---
 title: 'Put aldrig smør under nutella'
 summary: 'En fængende rubrik '
-# featured_image: './nutella.jpg'
-description: 'Jeg finder "oplagte" forbedringer'
-# thumbnail: './nutella.jpg'
+featured_image: './nutella.jpg'
+description: 'Sådan virker det'
+thumbnail: './nutella.jpg'
 # toc: true
 
 weight: 100
