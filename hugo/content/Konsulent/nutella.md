@@ -29,18 +29,21 @@ Det gør at jeg har både en følelse for hvad der virker — og konkret viden t
 
 En overskrift skal fange læserens interesse, så læseren klikker og dykkere videre ned i teksten hvor det egentlige budskab så udfoldes.
 
+
 Lad os tage et eksempel:
 
 ### Derfor må du aldrig putte smør under din Nutella-mad
 
-| Derfor            | må du       | aldrig    | putte smør under Nutella |
-| ------            | ----        | ------    | ------------------------ |
-| Klik for svar     | vedkommende | nødvendig | bred appel               |
-|                   |             |           |                          |
+| Derfor            | må du       | aldrig     | putte smør under Nutella  |
+| :---------------: | :---------: | :--------: | :-----------------------: |
+| Løfte             | vedkommende | nødvendig  | bred appel                |
+|                   |             |            |                           |
 
 Her lægger rubrikken op til at brødteksten indeholder viden som er vigtig for mange mennesker.
 
 Hvor mange har ikke smurt smør under deres Nutella? Og hvorfor må man så aldrig gøre det?
+
+Og man skal naturligvis levere den viden man lover i overskriften.
 
 Det er *en* måde at lave en fængende overskrift på. Der er mange andre.
 
