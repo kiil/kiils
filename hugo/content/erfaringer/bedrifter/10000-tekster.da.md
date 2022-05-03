@@ -71,5 +71,5 @@ Og historien som hører til, er vigtig for mig.
 
 Jeg elsker Humlebæk og jeg elsker mine børn.
 
-Jeg elsker at gå en morgentur, jeg elsker stranden og jeg elsker fiskernes forberedelser på havnen når lyset bryder frem.
+Jeg elsker at gå en morgentur, jeg elsker stranden og jeg elsker fiskernes flittige forberedelser på havnen når lyset bryder frem.
 
