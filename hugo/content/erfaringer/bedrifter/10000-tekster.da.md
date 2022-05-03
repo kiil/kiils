@@ -43,7 +43,7 @@ Det er en lille tekst som jeg opfandt da min søn kun var et par år gammel — 
 
 Så gik jeg en tur med ham i klapvognen - eller *karbong* som han kaldte den. 
 
-Vi gik gennem Humlebæk ned til stranden Peder Mads og videre end tur hen på Sletten Havn.
+Vi gik gennem Humlebæk ned til stranden Peder Mads og videre en tur hen på Sletten Havn.
 
 Så tidligt om morgenen var der ofte diset, men disen forsvandt i løbet af turen efterhånden som solen fik mere magt.
 
