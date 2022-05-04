@@ -26,7 +26,11 @@ skribenter:
 date: '2022-05-03'
 emner:
   - Skrivning
+  - rubrikker
+
+
 ---
+
 
 
 Jeg har skrevet langt over 10.000 tekster. Og det er naturligvis ikke medregnet små grynt på facebook eller beskeder på SMS eller i Signal.

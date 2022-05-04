@@ -12,6 +12,10 @@
       <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
         {{ .Content }}
       </div>
+
+    <div class="f3">
+	    Kontakt konsulent Lennart Kiil direkte på telefon 40261872 eller e-mail lennartkiil@gmail.com
+    </div>
     </article>
     <div class="flex items-center justify-center pa4">
             {{ if .NextInSection }}
@@ -35,7 +39,11 @@
           </div>
 
 
-	
+	<aside class="w-30-l mt6-l">
+      {{- partial "menu-contextual.html" . -}}
+    </aside>
 
 
 {{ end }}
+
+

@@ -1,25 +1,33 @@
 ---
 title: 'Put aldrig smør under nutella'
 summary: 'En fængende rubrik'
-#featured_image: '/konsulent/nutella.jpg'
 
 
 description: 'Sådan virker det'
 
 images:
-- konsulent/nutella.jpg
+- erfaring/journalistik/nutella.jpg
 
 
 # toc: true
 
 weight: 100
 
+emner:
+  - rubrikker
 
 menu:
   foot:
     name: Rubrikker som virker 
     parent: Konsulent
     weight: 90
+
+
+keywords:
+  - rubrikker
+  - redigering
+  - blikfang
+
 ---
 
 

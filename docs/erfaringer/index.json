@@ -9,16 +9,16 @@
     
     , 
     {
-        "url": "/anbefalinger/",
-        "title": "Anbefalinger",
-        "content": ""
+        "url": "/konsulent/",
+        "title": "Konsulent",
+        "content": "Rådgivning omkring produktion, præsentation og udbredelse af tekst-baseret indhold\n"
     }
     
     , 
     {
-        "url": "/konsulent/",
-        "title": "Konsulent",
-        "content": "Rådgivning omkring produktion, præsentation og udbredelse af tekst-baseret indhold\n"
+        "url": "/anbefalinger/",
+        "title": "Anbefalinger",
+        "content": ""
     }
     
     , 
@@ -72,7 +72,7 @@
     
     , 
     {
-        "url": "/konsulent/nutella/",
+        "url": "/erfaringer/journalistik/nutella/",
         "title": "Put aldrig smør under nutella",
         "content": "Hvad nytter et vigtigt budskab hvis ingen ser det?\nPå nettet er rubrikker, altså overskrifter, enormt vigtige fordi de afgør om en tekst bliver læst eller ej.\nJeg har skrevet 10.000 rubrikker. Og jeg har data på 4000 af dem.\nDet gør at jeg har både en følelse for hvad der virker — og konkret viden til at bakke min intuition op.\nEn overskrift skal fange læserens interesse, så læseren klikker og dykkere videre ned i teksten hvor det egentlige budskab så udfoldes.\nLad os tage et eksempel:\nDerfor må du aldrig putte smør under din Nutella-mad    Derfor må du aldrig putte smør under Nutella     Løfte vedkommende nødvendig bred appel          Her lægger rubrikken op til at brødteksten indeholder viden som er vigtig for mange mennesker.\nHvor mange har ikke smurt smør under deres Nutella? Og hvorfor må man så aldrig gøre det?\nOg man skal naturligvis levere den viden man lover i overskriften.\nDet er en måde at lave en fængende overskrift på. Der er mange andre.\nBook en tid og få hjælp til at lave bedre rubrikker.\n"
     }
@@ -82,6 +82,34 @@
         "url": "/konsulent/skattejagt/",
         "title": "Skattejagt",
         "content": "Nogle gange er det svært at finde fejlene i sine egne projekter.\nJeg vil gerne gå på jagt efter steder som kan forbedres.\n"
+    }
+    
+    , 
+    {
+        "url": "/konsulent/rubrikker/",
+        "title": "Fængende rubrikker",
+        "content": "Jeg har skrevet 10.000 rubrikker. Og jeg har data på 4000 af dem.\n"
+    }
+    
+    , 
+    {
+        "url": "/",
+        "title": "Kiils",
+        "content": " Brugervenlig Klimavenlig Læsevenlig  Er jeres digitale tilstedeværelse venlig nok? Kontakt Kiils nu!  "
+    }
+    
+    , 
+    {
+        "url": "/skribenter/lennart-kiil/",
+        "title": "Lennart Kiil",
+        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
+    }
+    
+    , 
+    {
+        "url": "/skribenter/",
+        "title": "Skribenter",
+        "content": ""
     }
     
     , 
@@ -107,22 +135,8 @@
     
     , 
     {
-        "url": "/",
-        "title": "Kiils",
-        "content": " Brugervenlig Klimavenlig Læsevenlig  Er jeres digitale tilstedeværelse venlig nok? Kontakt Kiils nu!  "
-    }
-    
-    , 
-    {
-        "url": "/skribenter/lennart-kiil/",
-        "title": "Lennart Kiil",
-        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
-    }
-    
-    , 
-    {
-        "url": "/skribenter/",
-        "title": "Skribenter",
+        "url": "/emner/rubrikker/",
+        "title": "rubrikker",
         "content": ""
     }
     
@@ -311,7 +325,7 @@
     , 
     {
         "url": "/erfaringer/brugervenlighed/brugerens-foretrukne-farvepalette-dark-mode-folkets/",
-        "title": "Sådan satte jeg et "dark theme" op på Folkets uden at genere brugerne med flere valgmuligheder",
+        "title": "Sådan satte jeg et dark theme op på Folkets uden at genere brugerne med flere valgmuligheder",
         "content": "I dag er der mange ting en bruger skal tage stilling til når han eller hun surfer ind på en hjemmeside.\nVil man nu have cookies?\nHvilke cookies vil man have?\nVil man tilmeldes nyhedsbrev?\nEller vil man have notifikationer?\nNogle har også en chatbot som begynder at stille brugeren spørgsmål.\nDet sidste brugere har behov for er endnu en detalje at tage stilling til!\nDerfor var det vigtigt for mig at jeg kunne give brugerne af Folkets.dk mulighed for at vælge et mørkt tema, men uden at skulle spørge dem.\nMuligheden er der takket være to css media queries som hedder henholdsvis\n@media (prefers-color-scheme: dark) { } og\n@media (prefers-color-scheme: light) { } På den måde kunne jeg på simpel maner efterkomme brugerens ønske.\nBrugeren behøver kun at foretage valget een gang i sit operativ-system. Så gælder det automatisk på sites som er sat op til det. Nu også Folkets.\nDu kan læse mere om mulighederne her\n The prefers-color-scheme CSS media feature is used to detect if the user has requested a light or dark color theme.\n  The user might indicate this preference through an operating system setting (e.g. light or dark mode) or a user agent setting.\n — prefers-color-scheme - CSS: Cascading Style Sheets | MDN Hvordan ser dark mode så ud på Folkets?\nOmtrent sådan her:\n Dark mode på Folkets   "
     }
     

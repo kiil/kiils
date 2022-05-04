@@ -5,7 +5,8 @@
     <link>https://www.kiils.dk/konsulent/</link>
     <description>Recent content in Konsulent on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>da-dk</language><atom:link href="https://www.kiils.dk/konsulent/index.xml" rel="self" type="application/rss+xml" />
+    <language>da-dk</language>
+    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/konsulent/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digital coaching</title>
       <link>https://www.kiils.dk/konsulent/digital-coaching/</link>
@@ -34,21 +35,21 @@
     </item>
     
     <item>
-      <title>Put aldrig smør under nutella</title>
-      <link>https://www.kiils.dk/konsulent/nutella/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/konsulent/nutella/</guid>
-      <description>En fængende rubrik</description>
-    </item>
-    
-    <item>
       <title>Skattejagt</title>
       <link>https://www.kiils.dk/konsulent/skattejagt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/konsulent/skattejagt/</guid>
       <description>Jeg finder &amp;ldquo;oplagte&amp;rdquo; forbedringer</description>
+    </item>
+    
+    <item>
+      <title>Fængende rubrikker</title>
+      <link>https://www.kiils.dk/konsulent/rubrikker/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/konsulent/rubrikker/</guid>
+      <description>Jeg har skrevet 10.000 rubrikker. Og jeg har data på 4000 af dem.</description>
     </item>
     
   </channel>

@@ -6,11 +6,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/anbefalinger/</loc>
+    <loc>https://www.kiils.dk/konsulent/</loc>
+    <lastmod>2022-05-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/konsulent/</loc>
+    <loc>https://www.kiils.dk/anbefalinger/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -42,13 +43,63 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/konsulent/nutella/</loc>
+    <loc>https://www.kiils.dk/erfaringer/journalistik/nutella/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/konsulent/skattejagt/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/konsulent/rubrikker/</loc>
+    <lastmod>2022-05-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/</loc>
+    <lastmod>2022-05-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/skribenter/lennart-kiil/</loc>
+    <lastmod>2022-05-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/skribenter/lennart-kiil/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/skribenter/lennart-kiil/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/skribenter/</loc>
+    <lastmod>2022-05-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/skribenter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/skribenter/"
+                />
   </url><url>
     <loc>https://www.kiils.dk/emner/</loc>
     <lastmod>2022-05-03T00:00:00+00:00</lastmod>
@@ -85,50 +136,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/</loc>
+    <loc>https://www.kiils.dk/emner/rubrikker/</loc>
     <lastmod>2022-05-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/"
-                />
-  </url><url>
-    <loc>https://www.kiils.dk/skribenter/lennart-kiil/</loc>
-    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/skribenter/lennart-kiil/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/skribenter/lennart-kiil/"
-                />
-  </url><url>
-    <loc>https://www.kiils.dk/skribenter/</loc>
-    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/skribenter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/skribenter/"
-                />
   </url><url>
     <loc>https://www.kiils.dk/emner/skrivning/</loc>
     <lastmod>2022-05-03T00:00:00+00:00</lastmod>
