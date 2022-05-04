@@ -28,7 +28,15 @@ keywords:
   - redigering
   - blikfang
 
+
+
+show_reading_time: true
+skribenter:
+  - lennart-kiil
+date: '2022-05-04'
+
 ---
+
 
 
 Hvad nytter et vigtigt budskab hvis ingen ser det?
