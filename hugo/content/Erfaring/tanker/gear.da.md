@@ -43,7 +43,7 @@ Man skulle tro at flere muligheder er bedre. Men sådan er det ikke.
 
 Kompleksitet er et problem. Og skal man formidle noget komplekst, så står man med en stor udfordring.
 
-Som den anden dag, hvor jeg skulle forklare min datter hvordan hun bruger de tre gear på hendes cykel.
+Som den anden dag, hvor jeg skulle forklare min datter hvordan hun bruger de tre gear på sin cykel.
 
 1. gear - op ad bakke
 2. gear - lige ud
