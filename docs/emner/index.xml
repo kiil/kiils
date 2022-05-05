@@ -6,7 +6,16 @@
     <description>Recent content in Emner on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/emner/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/emner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Indholdshåndtering</title>
+      <link>https://www.kiils.dk/emner/indholdsh%C3%A5ndtering/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/indholdsh%C3%A5ndtering/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>rubrikker</title>
       <link>https://www.kiils.dk/emner/rubrikker/</link>
@@ -148,15 +157,6 @@
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/emner/valgmuligheder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Indholdshåndtering</title>
-      <link>https://www.kiils.dk/emner/indholdsh%C3%A5ndtering/</link>
-      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/emner/indholdsh%C3%A5ndtering/</guid>
       <description></description>
     </item>
     

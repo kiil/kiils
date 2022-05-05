@@ -37,20 +37,10 @@
                 href="https://www.kiils.dk/en/emner/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/en/erfaringer/</loc>
+    <loc>https://www.kiils.dk/en/erfaring/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/erfaringer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/erfaringer/"
-                />
   </url><url>
     <loc>https://www.kiils.dk/en/cases/folkets/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
@@ -122,7 +112,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/en/erfaringer/service/servicebot-is-great/</loc>
+    <loc>https://www.kiils.dk/en/erfaring/service/servicebot-is-great/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

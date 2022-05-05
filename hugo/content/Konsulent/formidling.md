@@ -8,6 +8,9 @@ description: ''
 
 weight: 100
 
+keywords:
+- formidling
+- KISS
 
 menu:
   foot:
