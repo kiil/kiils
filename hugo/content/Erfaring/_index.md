@@ -1,5 +1,5 @@
 ---
-title: Erfaringer
+title: Erfaring
 description: En blog der bygger på praktisk erfaring
 menu:
   main:
