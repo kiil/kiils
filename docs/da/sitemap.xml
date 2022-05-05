@@ -2,11 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.kiils.dk/journalist/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/konsulent/</loc>
+    <loc>https://www.kiils.dk/ydelse/</loc>
     <lastmod>2022-05-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -15,11 +11,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/journalist/faktatjek/</loc>
+    <loc>https://www.kiils.dk/ydelse/faktatjek/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/journalist/redigering/</loc>
+    <loc>https://www.kiils.dk/ydelse/redigering/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -28,19 +24,19 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/konsulent/digital-coaching/</loc>
+    <loc>https://www.kiils.dk/ydelse/digital-coaching/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/konsulent/balance/</loc>
+    <loc>https://www.kiils.dk/ydelse/balance/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/konsulent/formidling/</loc>
+    <loc>https://www.kiils.dk/ydelse/formidling/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/journalist/tekst/</loc>
+    <loc>https://www.kiils.dk/ydelse/tekst/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -48,7 +44,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/konsulent/skattejagt/</loc>
+    <loc>https://www.kiils.dk/ydelse/skattejagt/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -151,23 +147,13 @@
     <lastmod>2022-05-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/tools/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/tools/"
-                />
   </url><url>
     <loc>https://www.kiils.dk/tools/vim/</loc>
     <lastmod>2022-05-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/konsulent/rubrikker/</loc>
+    <loc>https://www.kiils.dk/ydelse/rubrikker/</loc>
     <lastmod>2022-05-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
