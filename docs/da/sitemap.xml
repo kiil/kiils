@@ -87,6 +87,16 @@
     <lastmod>2022-05-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/erfaring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/erfaring/"
+                />
   </url><url>
     <loc>https://www.kiils.dk/emner/indholdsh%C3%A5ndtering/</loc>
     <lastmod>2022-05-05T00:00:00+00:00</lastmod>
