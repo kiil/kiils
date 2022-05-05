@@ -7,6 +7,7 @@ weight: -50
 
 menu:
   main:
+    name: Ydelser
   foot:
     name: Ydelser
     

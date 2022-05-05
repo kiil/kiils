@@ -1,0 +1,82 @@
+{{ define "header" }}
+   {{/* We can override any block in the baseof file be defining it in the template */}}
+  {{ partial "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ $section := .Site.GetPage "section" .Section }}
+  <article class="flex-l flex-wrap justify-between pa4-l">
+
+    <header class="mt4 w-100">
+      <div class="f5 b helvetica tc ttu tracked">
+      {{- partial "genrer.html" . -}}
+      </div>
+      <h1 class="f2 f1-l center measure-narrow athelas tc mb4 mt4">
+        {{- .Title -}}
+      </h1>
+      <div class="f4 mid-gray center tc tracked link  ">By {{- partial "skribenter.html" . -}} </div>
+      <hr class="ml0 mt4 mb2 mw-100 bb b--mid-gray">
+      <div>
+      {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
+      <time class="f7 dib tracked" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+        {{- .Date.Format "02/01/2006" -}}
+      </time>
+      {{/*
+          Show "reading time" and "word count" but only if one of the following are true:
+          1) A global config `params` value is set `show_reading_time = true`
+          2) A section front matter value is set `show_reading_time = true`
+          3) A page front matter value is set `show_reading_time = true`
+        */}}
+      {{ if (or (eq (.Param "show_reading_time") true) (eq $section.Params.show_reading_time true) )}}
+        <span class="f7 dib tracked"> - {{ i18n "readingTime" .ReadingTime}} </span>
+        <span class="f7 dib tracked"> - {{ .WordCount}} words</span>
+      {{ end }}
+      </div>
+
+
+    </header>
+
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
+      {{- .Content -}}
+      {{- partial "tags.html" . -}}
+      {{- partial "emner.html" . -}}
+      <div class="mt6">
+        {{ template "_internal/disqus.html" . }}
+      </div>
+
+      <div class="flex items-center justify-center pa4">
+        {{ if .PrevInSection }}
+            <a href="{{.PrevInSection.Permalink}}" class="f5 no-underline black bg-animate hover-bg-black hover-white inline-flex items-center pa3 ba border-box mr4">
+                <svg class="w1" data-icon="chevronLeft" viewBox="0 0 32 32" style="fill:currentcolor">
+                  <title>chevronLeft icon</title>
+                  <path d="M20 1 L24 5 L14 16 L24 27 L20 31 L6 16 z"></path>
+                </svg>
+              <span class="pl1">Previous</span>
+            </a>
+            {{ end }}
+            {{ if .NextInSection }}
+            <a href="{{.NextInSection.Permalink}}" class="f5 no-underline black bg-animate hover-bg-black hover-white inline-flex items-center pa3 ba border-box">
+              <span class="pr1">Next</span>
+              <svg class="w1" data-icon="chevronRight" viewBox="0 0 32 32" style="fill:currentcolor">
+                <title>chevronRight icon</title>
+                <path d="M12 1 L26 16 L12 31 L8 27 L18 16 L8 5 z"></path>
+              </svg>
+            </a>
+            {{ end }}
+          </div>
+
+
+    </section>
+
+
+
+
+
+
+
+    <aside class="w-30-l mt6-l">
+      {{- partial "menu-contextual.html" . -}}
+    </aside>
+
+  </article>
+{{ end }}
