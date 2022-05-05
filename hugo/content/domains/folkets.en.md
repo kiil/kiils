@@ -12,7 +12,7 @@ menu:
 
 ## Pricing on www.folkets.dk (Folkets)
 
-I receive many request for paid content on www.folkets.dk.
+I receive many request for paid content on www.folkets.dk
 
 Advertorials in English  
 USD 500
