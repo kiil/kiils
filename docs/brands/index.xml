@@ -5,7 +5,17 @@
     <link>https://www.kiils.dk/brands/</link>
     <description>Recent content in Brands on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>da-dk</language><atom:link href="https://www.kiils.dk/brands/index.xml" rel="self" type="application/rss+xml" />
+    <language>da-dk</language>
+    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/brands/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Folkets Avis</title>
+      <link>https://www.kiils.dk/brands/folkets-avis/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/brands/folkets-avis/</guid>
+      <description>En dansk platform</description>
+    </item>
+    
     <item>
       <title>digitalt</title>
       <link>https://www.kiils.dk/brands/digitalt/</link>
@@ -13,15 +23,6 @@
       
       <guid>https://www.kiils.dk/brands/digitalt/</guid>
       <description>Nutid og fremtid - altid online</description>
-    </item>
-    
-    <item>
-      <title>Folkets Avis</title>
-      <link>https://www.kiils.dk/brands/folkets-avis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/brands/folkets-avis/</guid>
-      <description>En dansk platform</description>
     </item>
     
     <item>
