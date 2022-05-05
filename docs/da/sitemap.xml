@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.kiils.dk/ydelse/</loc>
+    <loc>https://www.kiils.dk/Ydelse/</loc>
     <lastmod>2022-05-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/anbefalinger/</loc>
+    <loc>https://www.kiils.dk/Anbefalinger/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/ydelse/faktatjek/</loc>
+    <loc>https://www.kiils.dk/Ydelse/faktatjek/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/ydelse/redigering/</loc>
+    <loc>https://www.kiils.dk/Ydelse/redigering/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/journalistik/nutella/</loc>
+    <loc>https://www.kiils.dk/Erfaring/journalistik/nutella/</loc>
     <lastmod>2022-05-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/ydelse/digital-coaching/</loc>
+    <loc>https://www.kiils.dk/Ydelse/digital-coaching/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/ydelse/balance/</loc>
+    <loc>https://www.kiils.dk/Ydelse/balance/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/ydelse/formidling/</loc>
+    <loc>https://www.kiils.dk/Ydelse/formidling/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/ydelse/tekst/</loc>
+    <loc>https://www.kiils.dk/Ydelse/tekst/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/anbefalinger/per-gastrofun/</loc>
+    <loc>https://www.kiils.dk/Anbefalinger/per-gastrofun/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/ydelse/skattejagt/</loc>
+    <loc>https://www.kiils.dk/Ydelse/skattejagt/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -63,7 +63,7 @@
                 href="https://www.kiils.dk/cases/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/tanker/gear/</loc>
+    <loc>https://www.kiils.dk/Erfaring/tanker/gear/</loc>
     <lastmod>2022-05-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -83,12 +83,12 @@
                 href="https://www.kiils.dk/emner/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/</loc>
+    <loc>https://www.kiils.dk/Erfaring/</loc>
     <lastmod>2022-05-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/emner/indholdsh%C3%A5ndtering/</loc>
+    <loc>https://www.kiils.dk/emner/Indholdsh%C3%A5ndtering/</loc>
     <lastmod>2022-05-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -143,17 +143,17 @@
                 href="https://www.kiils.dk/skribenter/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/tools/</loc>
+    <loc>https://www.kiils.dk/Tools/</loc>
     <lastmod>2022-05-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/tools/vim/</loc>
+    <loc>https://www.kiils.dk/tools/Vim/</loc>
     <lastmod>2022-05-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/ydelse/rubrikker/</loc>
+    <loc>https://www.kiils.dk/Ydelse/rubrikker/</loc>
     <lastmod>2022-05-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -163,17 +163,17 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/bedrifter/10000-tekster/</loc>
+    <loc>https://www.kiils.dk/Erfaring/bedrifter/10000-tekster/</loc>
     <lastmod>2022-05-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/emner/skrivning/</loc>
+    <loc>https://www.kiils.dk/emner/Skrivning/</loc>
     <lastmod>2022-05-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/sikkerhed/pixelering/</loc>
+    <loc>https://www.kiils.dk/Erfaring/sikkerhed/pixelering/</loc>
     <lastmod>2022-02-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -198,27 +198,27 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/tools/fish/</loc>
+    <loc>https://www.kiils.dk/tools/Fish/</loc>
     <lastmod>2022-02-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/noob/program-1/</loc>
+    <loc>https://www.kiils.dk/Erfaring/noob/program-1/</loc>
     <lastmod>2022-02-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/emner/programmering/</loc>
+    <loc>https://www.kiils.dk/emner/Programmering/</loc>
     <lastmod>2022-02-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/emner/venlig-digitalisering/</loc>
+    <loc>https://www.kiils.dk/emner/Venlig-digitalisering/</loc>
     <lastmod>2022-02-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/emner/brugervenlig/</loc>
+    <loc>https://www.kiils.dk/emner/Brugervenlig/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -228,37 +228,37 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/emner/energibesparelse/</loc>
+    <loc>https://www.kiils.dk/emner/Energibesparelse/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/emner/klimavenlig/</loc>
+    <loc>https://www.kiils.dk/emner/Klimavenlig/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/klimavenlig-og-brugervenlig/</loc>
+    <loc>https://www.kiils.dk/Erfaring/klimavenlig-og-brugervenlig/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/emner/milj%C3%B8venlig/</loc>
+    <loc>https://www.kiils.dk/emner/Milj%C3%B8venlig/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/emner/brugervenlighed/</loc>
+    <loc>https://www.kiils.dk/emner/Brugervenlighed/</loc>
     <lastmod>2022-01-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/emner/b%C3%A6redygtighed/</loc>
+    <loc>https://www.kiils.dk/emner/B%C3%A6redygtighed/</loc>
     <lastmod>2022-01-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/emner/design/</loc>
+    <loc>https://www.kiils.dk/emner/Design/</loc>
     <lastmod>2022-01-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -278,7 +278,7 @@
                 href="https://www.kiils.dk/cases/folkets/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/emner/klimavenlighed/</loc>
+    <loc>https://www.kiils.dk/emner/Klimavenlighed/</loc>
     <lastmod>2022-01-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -288,12 +288,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/brugervenlighed/brugerens-foretrukne-farvepalette-dark-mode-folkets/</loc>
+    <loc>https://www.kiils.dk/Erfaring/brugervenlighed/brugerens-foretrukne-farvepalette-dark-mode-folkets/</loc>
     <lastmod>2022-01-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/emner/valgmuligheder/</loc>
+    <loc>https://www.kiils.dk/emner/Valgmuligheder/</loc>
     <lastmod>2022-01-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -318,12 +318,12 @@
                 href="https://www.kiils.dk/genrer/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/seo/google-klima-succes/</loc>
+    <loc>https://www.kiils.dk/Erfaring/seo/google-klima-succes/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/tips-tricks/html-med-toc-fra-markdown-via-pandoc/</loc>
+    <loc>https://www.kiils.dk/Erfaring/tips-tricks/html-med-toc-fra-markdown-via-pandoc/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -373,7 +373,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/tips-tricks/sidetal/</loc>
+    <loc>https://www.kiils.dk/Erfaring/tips-tricks/sidetal/</loc>
     <lastmod>2020-07-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -398,7 +398,7 @@
                 href="https://www.kiils.dk/brands/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/seo/corona/</loc>
+    <loc>https://www.kiils.dk/Erfaring/seo/corona/</loc>
     <lastmod>2020-03-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -408,7 +408,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/tools/googles-s%C3%B8gekonsol/</loc>
+    <loc>https://www.kiils.dk/tools/Googles-s%C3%B8gekonsol/</loc>
     <lastmod>2020-03-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -418,12 +418,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/emner/seo/</loc>
+    <loc>https://www.kiils.dk/emner/SEO/</loc>
     <lastmod>2020-03-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/some/facebook/fald/</loc>
+    <loc>https://www.kiils.dk/Erfaring/some/facebook/fald/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -438,17 +438,17 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/emner/some/</loc>
+    <loc>https://www.kiils.dk/emner/SoMe/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/fundraising/copydan/copydan-digital/</loc>
+    <loc>https://www.kiils.dk/Erfaring/fundraising/copydan/copydan-digital/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/emner/copydan/</loc>
+    <loc>https://www.kiils.dk/emner/CopyDan/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -483,7 +483,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/fundraising/klimaleksikon-crowdfunding-donorbox/</loc>
+    <loc>https://www.kiils.dk/Erfaring/fundraising/klimaleksikon-crowdfunding-donorbox/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -498,12 +498,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/journalistik/mellemrubrikker-indholdsoversigt/</loc>
+    <loc>https://www.kiils.dk/Erfaring/journalistik/mellemrubrikker-indholdsoversigt/</loc>
     <lastmod>2019-08-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/frontend/jquery-javascript/</loc>
+    <loc>https://www.kiils.dk/Erfaring/frontend/jquery-javascript/</loc>
     <lastmod>2019-08-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -533,7 +533,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/seo/hvad-betyder-ankertekst/</loc>
+    <loc>https://www.kiils.dk/Erfaring/seo/hvad-betyder-ankertekst/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -553,12 +553,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/tips-tricks/sorter-markdown-efter-overskrifter/</loc>
+    <loc>https://www.kiils.dk/Erfaring/tips-tricks/sorter-markdown-efter-overskrifter/</loc>
     <lastmod>2019-07-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/tips-tricks/bevar-whitespace-output/</loc>
+    <loc>https://www.kiils.dk/Erfaring/tips-tricks/bevar-whitespace-output/</loc>
     <lastmod>2019-07-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -583,7 +583,7 @@
                 href="https://www.kiils.dk/cm/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/tools/drupal-8/</loc>
+    <loc>https://www.kiils.dk/Tools/drupal-8/</loc>
     <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -603,7 +603,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/frontend/klimaleksikon-tachyons-performance/</loc>
+    <loc>https://www.kiils.dk/Erfaring/frontend/klimaleksikon-tachyons-performance/</loc>
     <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -618,7 +618,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/frontend/hastighed-uden-bannere/</loc>
+    <loc>https://www.kiils.dk/Erfaring/frontend/hastighed-uden-bannere/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -628,7 +628,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/seo/lovende-ctr-google-discover/</loc>
+    <loc>https://www.kiils.dk/Erfaring/seo/lovende-ctr-google-discover/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -638,7 +638,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/frontend/bootstrap-4/</loc>
+    <loc>https://www.kiils.dk/Erfaring/frontend/bootstrap-4/</loc>
     <lastmod>2019-05-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -648,27 +648,27 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/seo/google-tidlig-indsats/</loc>
+    <loc>https://www.kiils.dk/Erfaring/seo/google-tidlig-indsats/</loc>
     <lastmod>2018-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/emner/indholdsstrategi/</loc>
+    <loc>https://www.kiils.dk/emner/Indholdsstrategi/</loc>
     <lastmod>2018-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/</loc>
+    <loc>https://www.kiils.dk/Erfaring/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/</loc>
     <lastmod>2018-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/abo/salg/</loc>
+    <loc>https://www.kiils.dk/Erfaring/abo/salg/</loc>
     <lastmod>2018-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/muren/redning/</loc>
+    <loc>https://www.kiils.dk/Erfaring/muren/redning/</loc>
     <lastmod>2018-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -678,62 +678,62 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/cm/featured/</loc>
+    <loc>https://www.kiils.dk/cm/Featured/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/abo/abonnenter-nok/</loc>
+    <loc>https://www.kiils.dk/Erfaring/abo/abonnenter-nok/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/some/delinger-bonus-linkedin/</loc>
+    <loc>https://www.kiils.dk/Erfaring/some/delinger-bonus-linkedin/</loc>
     <lastmod>2018-05-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/emner/linkedin/</loc>
+    <loc>https://www.kiils.dk/emner/LinkedIn/</loc>
     <lastmod>2018-05-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/emner/sociale-medier/</loc>
+    <loc>https://www.kiils.dk/emner/Sociale-medier/</loc>
     <lastmod>2018-05-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/trafik/kilder/</loc>
+    <loc>https://www.kiils.dk/Erfaring/trafik/kilder/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/indhold/overhaling/</loc>
+    <loc>https://www.kiils.dk/Erfaring/indhold/overhaling/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/devops/language-domains/</loc>
+    <loc>https://www.kiils.dk/Erfaring/devops/language-domains/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/devops/litespeed-server/</loc>
+    <loc>https://www.kiils.dk/Erfaring/devops/litespeed-server/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/devops/workflow/rollback/</loc>
+    <loc>https://www.kiils.dk/Erfaring/devops/workflow/rollback/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/indhold/tegninger-grafik-illustrationer-billeder-fotos-gratis/</loc>
+    <loc>https://www.kiils.dk/Erfaring/indhold/tegninger-grafik-illustrationer-billeder-fotos-gratis/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/muren/dogmer/</loc>
+    <loc>https://www.kiils.dk/Erfaring/muren/dogmer/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/tips-tricks/git-tips/</loc>
+    <loc>https://www.kiils.dk/Erfaring/tips-tricks/git-tips/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -749,32 +749,32 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/domains/</loc>
+    <loc>https://www.kiils.dk/Domains/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.kiils.dk/en/domains/"
+                href="https://www.kiils.dk/en/Domains/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://www.kiils.dk/domains/"
+                href="https://www.kiils.dk/Domains/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/domains/folkets/</loc>
+    <loc>https://www.kiils.dk/Domains/folkets/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.kiils.dk/en/domains/folkets/"
+                href="https://www.kiils.dk/en/Domains/folkets/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://www.kiils.dk/domains/folkets/"
+                href="https://www.kiils.dk/Domains/folkets/"
                 />
   </url><url>
     <loc>https://www.kiils.dk/kontakt/</loc>

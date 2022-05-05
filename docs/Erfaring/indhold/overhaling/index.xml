@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Når de små medier overhaler de store on Kiils</title>
-    <link>https://www.kiils.dk/erfaring/indhold/overhaling/</link>
+    <link>https://www.kiils.dk/Erfaring/indhold/overhaling/</link>
     <description>Recent content in Når de små medier overhaler de store on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/erfaring/indhold/overhaling/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/Erfaring/indhold/overhaling/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

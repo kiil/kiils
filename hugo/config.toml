@@ -11,6 +11,8 @@ Paginate = 6 # this is set low for demonstrating with dummy content. Set to a hi
 # googleAnalytics = "UA-89827484-1"
 enableRobotsTXT = true
 
+disablePathToLower = true
+
 [languages]
   [languages.en]
     title = "Kiils"
