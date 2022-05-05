@@ -15,7 +15,7 @@
         {{ range .Site.Menus.foot }}
             {{ if .HasChildren }}
                 <li class="f5 pv2">
-                    <a href="{{ .Permalink }}" class="hover-white no-underline white-60">
+                    <a href="{{ .URL }}" class="hover-white no-underline white-60">
                         <span>{{ .Name }}</span>
                     </a>
 
@@ -23,7 +23,7 @@
                     {{ range .Children }}
                         <ul class="list pl1">
                         <li class="f7">
-                        <a href="{{ .Permalink }}" class="hover-white no-underline white-60">
+                        <a href="{{ .URL }}" class="hover-white no-underline white-60">
                             <span>{{ .Name }}</span>
                         </a>
                         </li>
@@ -32,7 +32,7 @@
                 </li>
             {{ else }}
                 <li class="f5 pv2">
-                    <a href="{{ .Permalink }}" class="hover-white no-underline white-60">
+                    <a href="{{ .URL }}" class="hover-white no-underline white-60">
                         <span>{{ .Name }}</span>
                     </a>
                 </li>
