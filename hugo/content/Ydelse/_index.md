@@ -1,5 +1,5 @@
 ---
-title: Ydelse
+title: Ydelser
 description: Digitalt tekst-baseret indhold
 type: list
 
