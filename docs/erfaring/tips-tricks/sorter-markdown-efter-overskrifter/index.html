@@ -14,7 +14,7 @@
 
 
 
-    <meta name="generator" content="Hugo 0.88.1" />
+    <meta name="generator" content="Hugo 0.98.0" />
     
     
       <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
@@ -33,11 +33,7 @@
       
     
 
-    
-      <link href="https://www.kiils.dk/erfaring/tips-tricks/sorter-markdown-efter-overskrifter/index.xml" rel="alternate" type="application/rss+xml" title="Kiils" />
-      <link href="https://www.kiils.dk/erfaring/tips-tricks/sorter-markdown-efter-overskrifter/index.xml" rel="feed" type="application/rss+xml" title="Kiils" />
-    
-
+    <link rel="alternate" type="application/rss+xml" href="https://www.kiils.dk/erfaring/tips-tricks/sorter-markdown-efter-overskrifter/index.xml" title="Kiils" />
     <meta property="og:title" content="Sorter markdown dokument" />
 <meta property="og:description" content="Sorter sektioner i markdown" />
 <meta property="og:type" content="article" />
@@ -217,11 +213,11 @@ b content of A
 #B
 a content of B
 </code></pre><p>I terminal med</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-perl" data-lang="perl">perl <span style="color:#f92672">-</span><span style="color:#ae81ff">0777</span> <span style="color:#f92672">-</span><span style="color:#f92672">ne</span> <span style="color:#e6db74">&#39;
-</span><span style="color:#e6db74">    (undef,@paragraphs) = split /^#(?=[^#])/m;
-</span><span style="color:#e6db74">    print map {&#34;#$_&#34;} sort @paragraphs;
-</span><span style="color:#e6db74">&#39;</span> file<span style="color:#f92672">.</span>md
-</code></pre></div><p>For yderligere info se også <a href="https://stackoverflow.com/questions/25351917/sort-markdown-file-by-heading" target="_blank">svar her</a>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-perl" data-lang="perl"><span style="display:flex;"><span>perl <span style="color:#f92672">-</span><span style="color:#ae81ff">0777</span> <span style="color:#f92672">-</span><span style="color:#f92672">ne</span> <span style="color:#e6db74">&#39;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">    (undef,@paragraphs) = split /^#(?=[^#])/m;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">    print map {&#34;#$_&#34;} sort @paragraphs;
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">&#39;</span> file<span style="color:#f92672">.</span>md
+</span></span></code></pre></div><p>For yderligere info se også <a href="https://stackoverflow.com/questions/25351917/sort-markdown-file-by-heading" target="_blank">svar her</a>
 </p>
 <ul class="pa0">
   
