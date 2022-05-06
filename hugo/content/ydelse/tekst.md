@@ -12,7 +12,7 @@ weight: 100
 menu:
   foot:
     name: Tekster
-    parent: Journalist
+    parent: Ydelser
     weight: 90
 ---
 

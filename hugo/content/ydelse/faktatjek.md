@@ -10,7 +10,7 @@ menu:
   foot:
     name: Faktatjek
     weight: 1
-    parent: Journalist
+    parent: Ydelser
 
 ---
 

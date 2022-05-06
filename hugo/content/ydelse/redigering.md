@@ -12,7 +12,7 @@ menu:
   foot:
     name: Redigering
     weight: 9
-    parent: Journalist
+    parent: Ydelser
 
 ---
 

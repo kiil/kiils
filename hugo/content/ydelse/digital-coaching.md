@@ -12,7 +12,7 @@ weight: 100
 menu:
   foot:
     name: Digital coaching
-    parent: Konsulent
+    parent: Ydelser
     weight: 90
 ---
 

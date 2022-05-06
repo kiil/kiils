@@ -12,7 +12,7 @@ weight: 100
 menu:
   foot:
     name: Skattejagt 
-    parent: Konsulent
+    parent: Ydelser
     weight: 90
 ---
 

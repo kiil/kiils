@@ -15,7 +15,7 @@ keywords:
 menu:
   foot:
     name: Formidling
-    parent: Konsulent
+    parent: Ydelser
     weight: 90
 ---
 
