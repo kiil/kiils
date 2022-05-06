@@ -1,4 +1,22 @@
 ---
+
+
+
+
+
+
+
+
+
+
+show_reading_time: true
+skribenter:
+  - lennart-kiil
+date: '2022-05-06'
+
+
+
+
 title: 'Put aldrig smør under nutella'
 summary: 'En fængende rubrik'
 

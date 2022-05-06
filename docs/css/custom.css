@@ -1,6 +1,6 @@
 
 /* Dark mode START */
-
+/* commenting out as more work is needed
 @media (prefers-color-scheme: dark) {
   body {
     background: #000;
@@ -14,7 +14,7 @@
   }
 }
 
-
+/*
 /* Dark mode END */
 
 figure {
