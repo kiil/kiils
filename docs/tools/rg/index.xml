@@ -13,10 +13,7 @@
       <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/erfaring/pi/pi-cli/</guid>
-      <description>Raspberry Pi er ikke nogen hurtig computer. Eller jo, hvis man måler dens ydelse op imod dens strømforbrug, så er den ganske imponerende.
-Men den bruger næsten ingen strøm og er sammenlignet med en moderne laptop ret langsom.
-For eksempel så tager det cirka 1 sekund at danne hele dette website via static site generatoren Hugo, mens det tager cirka et kvart sekund på min macbook pro.
-Jeg lagde også mærke til at kommandoen find var ret langsom.</description>
+      <description>Hurtige værktøjer på en langsom computer</description>
     </item>
     
   </channel>
