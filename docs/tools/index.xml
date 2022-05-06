@@ -6,7 +6,52 @@
     <description>Recent content in Tools on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Thu, 05 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fd</title>
+      <link>https://www.kiils.dk/tools/fd/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/fd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>find</title>
+      <link>https://www.kiils.dk/tools/find/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/find/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grep</title>
+      <link>https://www.kiils.dk/tools/grep/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/grep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi</title>
+      <link>https://www.kiils.dk/tools/raspberry-pi/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rg</title>
+      <link>https://www.kiils.dk/tools/rg/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/rg/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Vim</title>
       <link>https://www.kiils.dk/tools/vim/</link>

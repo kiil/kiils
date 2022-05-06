@@ -86,16 +86,9 @@
     
     , 
     {
-        "url": "/cases/",
-        "title": "Cases",
-        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
-    }
-    
-    , 
-    {
-        "url": "/erfaring/tanker/gear/",
-        "title": "Det er svært at forklare min søn, men min datter forstår sine gear",
-        "content": "Man skulle tro at flere muligheder er bedre. Men sådan er det ikke.\nKompleksitet er et problem. Og skal man formidle noget komplekst, så står man med en stor udfordring.\nSom den anden dag, hvor jeg skulle forklare min datter hvordan hun bruger de tre gear på sin cykel.\n gear - op ad bakke gear - lige ud gear - ned ad bakke  Så simpelt er det vitterlig.\nMin to år ældre søn har 21 gear. Hvordan forklarer man lige det?\nReelt er der ingen nem forklaring.\nOfte er det bedst at undgå at komme i en situation hvor en svær forklaring er nødvendig. Simpelthen at undgå kompleksitet.\nMen det er ikke altid en mulig vej, og så må man væbne sig med tålmodighed og anstrenge sine evner.\nJeg endte med at komme på en tilfredsstillende og brugbar forklaring til min søn.\n"
+        "url": "/emner/cli/",
+        "title": "CLI",
+        "content": ""
     }
     
     , 
@@ -114,9 +107,30 @@
     
     , 
     {
-        "url": "/emner/indholdsh%C3%A5ndtering/",
-        "title": "Indholdshåndtering",
+        "url": "/tools/fd/",
+        "title": "fd",
         "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/find/",
+        "title": "find",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/grep/",
+        "title": "grep",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaring/pi/pi-cli/",
+        "title": "Hurtigere alternativer til find og grep på Raspberry Pi",
+        "content": "Raspberry Pi er ikke nogen hurtig computer. Eller jo, hvis man måler dens ydelse op imod dens strømforbrug, så er den ganske imponerende.\nMen den bruger næsten ingen strøm og er sammenlignet med en moderne laptop ret langsom.\nFor eksempel så tager det cirka 1 sekund at danne hele dette website via static site generatoren Hugo, mens det tager cirka et kvart sekund på min macbook pro.\nJeg lagde også mærke til at kommandoen find var ret langsom. Men så installerede jeg bare fd som både er hurtigere for mig og meget nemmere at bruge og forstå.\nfind virker omstændelig i sin syntaks, fd er nem at gå til. Meget simplere. Så den er for mig både hurtigere i brug og hurtigere i sin søgen på computeren.\nJeg har også installeret rg som erstatning for eller supplement til grep. Her ved jeg dog ikke om der er så stor en forskel for mig som med find og fd.\n"
     }
     
     , 
@@ -128,16 +142,23 @@
     
     , 
     {
-        "url": "/cases/klimaleksikon/",
-        "title": "Klimaleksikon",
-        "content": "Klimaleksikon.dk er med over 11 år på bagen Danmarks bedste og længstlevende side om klima .\nSiden er et samarbejde mellem mig og to andre naturfagsformidlere, Thomas Hesselberg og Mikkel Houmøller. Siden indeholder omkring 100 opslag på centrale emner inden for klima og klarer sig enormt godt i google-søgninger.\nSiden holdes løbende opdateret, og hundredetusinder af børn og unge har lært om klima og energi på siden.\nSidens brugere er overvejende børn i folkeskolens ældste klasser og unge på ungdomsuddannelserne.\nLærerne bruger aktivt Klimaleksikon i undervisningen, det ses blandt andet af de mange henvisninger fra diverse undervisningsplatforme:\nDesuden ser vi at Klimaleksikon hovedsageligt finder anvendelse inden for den almindelige undervisningstid:\nDer er en overvægt af piger hvilket er en smule atypisk for en side som i bund og grund er naturvidenskabeligt orienteret og skabt af naturfagsformidlere.\nMen det viser i hvert fald at interessen i naturvidenskab og teknologi er der fra den kant også når det overordnede emne blot er vedkommende nok.\nOpslagene, som er kerneindholdet på siden, er naturligvis skrevet i et tilgængeligt sprog som passer til målgruppen af unge mennesker. Men mange granvoksne har skam også glæde af siden. På en række af opslagene har vi nederst spørgsmål, som brugeren kan besvare og dermed få en fornemmelse af om man fået fat i de væsentligste oplysninger i teksten ovenfor.\nSiden er strengt apolitisk og faktuelt baseret. Det er en aftale jeg selv er glad for, da der er en stor lettelse i at være involveret i noget som er ent fakta-orienteret. Jeg nyder virkelig at have et frirum for politik og har derfor meget let ved at adskille Klimaleksikon fra mit øvrige virke.\n"
+        "url": "/skribenter/lennart-kiil/",
+        "title": "Lennart Kiil",
+        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
     }
     
     , 
     {
-        "url": "/skribenter/lennart-kiil/",
-        "title": "Lennart Kiil",
-        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
+        "url": "/tools/raspberry-pi/",
+        "title": "Raspberry Pi",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/rg/",
+        "title": "rg",
+        "content": ""
     }
     
     , 
@@ -152,6 +173,34 @@
         "url": "/tools/",
         "title": "Tools",
         "content": ""
+    }
+    
+    , 
+    {
+        "url": "/cases/",
+        "title": "Cases",
+        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaring/tanker/gear/",
+        "title": "Det er svært at forklare min søn, men min datter forstår sine gear",
+        "content": "Man skulle tro at flere muligheder er bedre. Men sådan er det ikke.\nKompleksitet er et problem. Og skal man formidle noget komplekst, så står man med en stor udfordring.\nSom den anden dag, hvor jeg skulle forklare min datter hvordan hun bruger de tre gear på sin cykel.\n gear - op ad bakke gear - lige ud gear - ned ad bakke  Så simpelt er det vitterlig.\nMin to år ældre søn har 21 gear. Hvordan forklarer man lige det?\nReelt er der ingen nem forklaring.\nOfte er det bedst at undgå at komme i en situation hvor en svær forklaring er nødvendig. Simpelthen at undgå kompleksitet.\nMen det er ikke altid en mulig vej, og så må man væbne sig med tålmodighed og anstrenge sine evner.\nJeg endte med at komme på en tilfredsstillende og brugbar forklaring til min søn.\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/indholdsh%C3%A5ndtering/",
+        "title": "Indholdshåndtering",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/cases/klimaleksikon/",
+        "title": "Klimaleksikon",
+        "content": "Klimaleksikon.dk er med over 11 år på bagen Danmarks bedste og længstlevende side om klima .\nSiden er et samarbejde mellem mig og to andre naturfagsformidlere, Thomas Hesselberg og Mikkel Houmøller. Siden indeholder omkring 100 opslag på centrale emner inden for klima og klarer sig enormt godt i google-søgninger.\nSiden holdes løbende opdateret, og hundredetusinder af børn og unge har lært om klima og energi på siden.\nSidens brugere er overvejende børn i folkeskolens ældste klasser og unge på ungdomsuddannelserne.\nLærerne bruger aktivt Klimaleksikon i undervisningen, det ses blandt andet af de mange henvisninger fra diverse undervisningsplatforme:\nDesuden ser vi at Klimaleksikon hovedsageligt finder anvendelse inden for den almindelige undervisningstid:\nDer er en overvægt af piger hvilket er en smule atypisk for en side som i bund og grund er naturvidenskabeligt orienteret og skabt af naturfagsformidlere.\nMen det viser i hvert fald at interessen i naturvidenskab og teknologi er der fra den kant også når det overordnede emne blot er vedkommende nok.\nOpslagene, som er kerneindholdet på siden, er naturligvis skrevet i et tilgængeligt sprog som passer til målgruppen af unge mennesker. Men mange granvoksne har skam også glæde af siden. På en række af opslagene har vi nederst spørgsmål, som brugeren kan besvare og dermed få en fornemmelse af om man fået fat i de væsentligste oplysninger i teksten ovenfor.\nSiden er strengt apolitisk og faktuelt baseret. Det er en aftale jeg selv er glad for, da der er en stor lettelse i at være involveret i noget som er ent fakta-orienteret. Jeg nyder virkelig at have et frirum for politik og har derfor meget let ved at adskille Klimaleksikon fra mit øvrige virke.\n"
     }
     
     , 

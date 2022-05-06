@@ -6,7 +6,7 @@
     <description>Recent content in Lennart Kiil on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Thu, 05 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/skribenter/lennart-kiil/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/skribenter/lennart-kiil/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Put aldrig smør under nutella</title>
       <link>https://www.kiils.dk/erfaring/journalistik/nutella/</link>
@@ -14,6 +14,18 @@
       
       <guid>https://www.kiils.dk/erfaring/journalistik/nutella/</guid>
       <description>En fængende rubrik</description>
+    </item>
+    
+    <item>
+      <title>Hurtigere alternativer til find og grep på Raspberry Pi</title>
+      <link>https://www.kiils.dk/erfaring/pi/pi-cli/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/pi/pi-cli/</guid>
+      <description>Raspberry Pi er ikke nogen hurtig computer. Eller jo, hvis man måler dens ydelse op imod dens strømforbrug, så er den ganske imponerende.
+Men den bruger næsten ingen strøm og er sammenlignet med en moderne laptop ret langsom.
+For eksempel så tager det cirka 1 sekund at danne hele dette website via static site generatoren Hugo, mens det tager cirka et kvart sekund på min macbook pro.
+Jeg lagde også mærke til at kommandoen find var ret langsom.</description>
     </item>
     
     <item>
