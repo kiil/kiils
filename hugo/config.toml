@@ -42,8 +42,8 @@ unsafe = true
 
 [outputs]
   home = ["HTML", "JSON", "RSS"]
-  page = ["HTML", "RSS"]
-  post = ["HTML", "RSS"]
+  page = ["HTML"]
+  post = ["HTML"]
 
 [taxonomies]
   brands = "brands"
