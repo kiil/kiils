@@ -50,7 +50,6 @@ unsafe = true
   cases = "cases"
   cm = "cm"
   emner = "emner"
-  kunder = "kunder"
   tools = "tools"
   genrer = "genrer"
   skribenter = "skribenter"

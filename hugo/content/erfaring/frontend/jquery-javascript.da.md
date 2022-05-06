@@ -27,8 +27,6 @@ tools:
 cases:
   -
 
-kunder:
-  - per-asmussen
 
 
 # thumbnail: ""

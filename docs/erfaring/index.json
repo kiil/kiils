@@ -688,20 +688,6 @@
     
     , 
     {
-        "url": "/kunder/",
-        "title": "Kunder",
-        "content": " Jeg giver Kiils mine varmeste anbefalinger\n– Per Asmussen\n "
-    }
-    
-    , 
-    {
-        "url": "/kunder/per-asmussen/",
-        "title": "Per Asmussen",
-        "content": "Per Asmussen siger:\n I forbindelse med etableringen af mit madmedie www.gastrofun.dk var jeg i dialog med flere digitale udviklingshuse, men efter en god snak med Lennart fra Kiils var jeg aldrig i tvivl om at han skulle være min samarbejdspartner hele vejen igennem – fra konceptudvikling, hjemmesideopbygning, indholdsstrategi, tekniske krav samt det visuelle udtryk.\n Forståelsen for hvad det vil sige at gøre mediet brugervenligt både for læserne og brugerne var helt i top og en masse god sparring og feedback har givet mig et fremtidssikret og stærkt medie.\nProcessen fra ide til et færdigt medie var imponerende hurtig og siden var sågar udgivet 14 dage før lovet, hvilket var helt perfekt.\nTre måneder efter siden var i luften, fik jeg et SEO-bureau til at vurdere siden på nærmest alle parametre og siden fik en gennemsnitskarakter på 9 (på en 1-10 skala) og især sidens hurtighed og taksonomi-opbygning har imponeret mig.\nMediet har brug for konstant tilpasning og Kiils hurtige rettelser og justeringer er lige det jeg har brug for i en travl hverdag.\nJeg giver Kiils mine varmeste anbefalinger.\n"
-    }
-    
-    , 
-    {
         "url": "/emner/ankertekst/",
         "title": "ankertekst",
         "content": ""
@@ -996,9 +982,23 @@
     
     , 
     {
+        "url": "/kunde/berlingske/",
+        "title": "Berlingske",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/cases/coronakatastrofen/",
         "title": "Coronakatastrofen",
         "content": "En dansk brand- og medieplatform\nCoronakatastrofen er en bog om coronavirus.\n"
+    }
+    
+    , 
+    {
+        "url": "/kunde/dansk-industri/",
+        "title": "Dansk Industri",
+        "content": ""
     }
     
     , 
@@ -1024,6 +1024,27 @@
     
     , 
     {
+        "url": "/kunde/gentofte-hospital/",
+        "title": "Gentofte Hospital",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/kunde/illustreret-videnskab/",
+        "title": "Illustreret Videnskab",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/kunde/ingeni%C3%B8ren/",
+        "title": "Ingeniøren",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/kontakt/",
         "title": "Kontakt",
         "content": "Du kan ringe på telefon 40261872 eller skrive en mail direkte til lennartkiil@gmail.com Postadresse:\nKiils v/Lennart Kiil Kirkeskov Allé 72 3050 Humlebæk\n"
@@ -1031,9 +1052,16 @@
     
     , 
     {
-        "url": "/kunder/lars-vestergaard/",
+        "url": "/kunde/",
+        "title": "Kunder",
+        "content": " Jeg giver Kiils mine varmeste anbefalinger\n– Per Asmussen\n "
+    }
+    
+    , 
+    {
+        "url": "/kunde/lars-vestergaard/",
         "title": "Lars Vestergaard",
-        "content": "Kiils har længe arbejdet sammen med Lars Vestergaard som besidder en række kvaliteter på det menneskelige plan som er særdeles væsentlige i forhold til langvarigt samarbejde såsom loyalitet, pålidelighed og høj arbejdsetik.\nLars Vestergaard har især vist sin kunnen inden for salg og marketing via alle digitale kanaler, men også når det har været påkrævet inden for trafikoptimering og SEO.\nLars Vestergaard er ansvarlig og tilstedeværende og lever sig ind i sine klienters og kunders behov. Han har en iværksætters flid og ihærdighed kombineret med den professionelisme som er essentiel på den lange bane.\n"
+        "content": "Kiils har længe arbejdet sammen med Lars Vestergaard som besidder en række kvaliteter på det menneskelige plan som er særdeles væsentlige i forhold til langvarigt samarbejde såsom loyalitet, pålidelighed og høj arbejdsetik.\nLars Vestergaard har især vist sin kunnen inden for salg og marketing via alle digitale kanaler, men også når det har været påkrævet inden for trafikoptimering og SEO.\nLars Vestergaard er ansvarlig og tilstedeværende og lever sig ind i sine klienters og kunders behov. Han har en iværksætters flid og ihærdighed kombineret med den professionalisme som er essentiel på den lange bane.\n"
     }
     
     , 
@@ -1052,9 +1080,30 @@
     
     , 
     {
+        "url": "/kunde/per-asmussen/",
+        "title": "Per Asmussen",
+        "content": "Per Asmussen siger:\n I forbindelse med etableringen af mit madmedie www.gastrofun.dk var jeg i dialog med flere digitale udviklingshuse, men efter en god snak med Lennart fra Kiils var jeg aldrig i tvivl om at han skulle være min samarbejdspartner hele vejen igennem – fra konceptudvikling, hjemmesideopbygning, indholdsstrategi, tekniske krav samt det visuelle udtryk.\n Forståelsen for hvad det vil sige at gøre mediet brugervenligt både for læserne og brugerne var helt i top og en masse god sparring og feedback har givet mig et fremtidssikret og stærkt medie.\nProcessen fra ide til et færdigt medie var imponerende hurtig og siden var sågar udgivet 14 dage før lovet, hvilket var helt perfekt.\nTre måneder efter siden var i luften, fik jeg et SEO-bureau til at vurdere siden på nærmest alle parametre og siden fik en gennemsnitskarakter på 9 (på en 1-10 skala) og især sidens hurtighed og taksonomi-opbygning har imponeret mig.\nMediet har brug for konstant tilpasning og Kiils hurtige rettelser og justeringer er lige det jeg har brug for i en travl hverdag.\nJeg giver Kiils mine varmeste anbefalinger.\n"
+    }
+    
+    , 
+    {
         "url": "/priser/",
         "title": "Priser",
         "content": "Prisen er ens for offentlige institutioner, virksomheder og privatpersoner.\nKr. 700 i timen for tider mellem 09 og 11. Resten af arbejdstimerne koster 500,- i timen.\nDer afregnes kun i hele timer.\nPris eksklusiv moms.\n"
+    }
+    
+    , 
+    {
+        "url": "/kunde/region-syddanmark/",
+        "title": "Region Syddanmark",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/kunde/rigshospitalet/",
+        "title": "Rigshospitalet",
+        "content": ""
     }
     
     , 
@@ -1066,9 +1115,30 @@
     
     , 
     {
+        "url": "/kunde/statens-naturhistoriske-museum/",
+        "title": "Statens naturhistoriske museum",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/search/",
         "title": "Søgning",
         "content": "  // define globale variables var idx, searchInput, searchResults = null var documents = [] function renderSearchResults(results){ if (results.length  0) { // show max 10 results if (results.length  9){ results = results.slice(0,10) } // reset search results searchResults.innerHTML = '' // append results results.forEach(result = { // create result item var article = document.createElement('article') article.innerHTML = ` ${documents[result.ref].title}   ` searchResults.appendChild(article) }) // if results are empty } else { searchResults.innerHTML = 'Ingen resultater.\n' } } function registerSearchHandler() { // register on input event searchInput.oninput = function(event) { // remove search results if the user empties the search input field if (searchInput.value == '') { searchResults.innerHTML = '' } else { // get input value var query = event.target.value // run fuzzy search var results = idx.search(query + '*') // render results renderSearchResults(results) } } // set focus on search input and remove loading placeholder searchInput.focus() searchInput.placeholder = '⌕' } window.onload = function() { // get dom elements searchInput = document.getElementById('search-input') searchResults = document.getElementById('search-results') // request and index documents fetch('/index.json', { method: 'get' }).then( res = res.json() ).then( res = { // index document idx = lunr(function() { this.ref('url') this.field('title') this.field('content') res.forEach(function(doc) { this.add(doc) documents[doc.url] = { 'title': doc.title, 'content': doc.content, } }, this) }) // data is loaded, next register handler registerSearchHandler() } ).catch( err = { searchResults.innerHTML = `${err}\n` } ) }  Tast søgeord i feltet Noget du ikke fandt? Kontakt Kiils    input::placeholder { text-align: right; }  "
+    }
+    
+    , 
+    {
+        "url": "/kunde/ugeskrift-for-l%C3%A6ger/",
+        "title": "Ugeskrift for læger",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/kunde/aarhus-universitet/",
+        "title": "Aarhus Universitet",
+        "content": ""
     }
     
 ]

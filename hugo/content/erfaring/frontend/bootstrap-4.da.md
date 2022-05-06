@@ -10,8 +10,6 @@ cases:
   - gastrofun
   - klimaleksikon
 
-kunder:
-  - per-asmussen
 
 tools:
   - bootstrap-4
