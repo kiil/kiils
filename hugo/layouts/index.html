@@ -11,7 +11,7 @@
   <div class="w-100 w-half-l pt4 pa4-l">
     <h4 class="mt0 mb2 tracked ttu">Udvalgte ydelser</h4>
     <ul class="list pl0">
-      {{- range where .Site.RegularPages "Type" "ydelse" -}} 
+      {{- range first 3 (where .Site.RegularPages "Type" "ydelse") -}} 
       <li class="f4 pt3 pb3 measure-narrow lh-title">
 
         <a href="{{ .Page.RelPermalink }}" class="link f3">{{ .Page.Title }}</a>
@@ -42,7 +42,7 @@
   </div>
 
   <div class="w-100 w-third-l pt4 pa4-l">
-    <h5 class="mt0 mb2 tracked ttu">Udvalgt</h5>
+    <h5 class="mt0 mb2 tracked ttu">Featured</h5>
     <ul class="list pl0">
       {{ range .Site.Taxonomies.cm.featured }}
       <li class="f4 pt3 pb3 measure-narrow lh-title">
