@@ -5,6 +5,7 @@ summary: 'Få læst grundig korrektur'
 description: 'Få fjernet fejl i dine tekster'
 # thumbnail: ' '
 # toc: true
+keywords: PRO Ejendomme
 
 weight: 100
 

@@ -14,7 +14,7 @@ other = "læs videre"
 other = "Indholdsfortegnelse"
 
 [related]
-other = "Lignende"
+other = "Relevant"
 
 [wordCount]
 other = "Indlægget har {{ .WordCount }} ord."
