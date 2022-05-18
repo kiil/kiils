@@ -2,7 +2,9 @@
 title: Per Asmussen
 description: Jeg giver Kiils mine varmeste anbefalinger
 summary: Jeg giver Kiils mine varmeste anbefalinger
+anbefaling: 'Mine varmeste anbefalinger — Per Asmussen'
 ---
+
 
 Per Asmussen siger:
 

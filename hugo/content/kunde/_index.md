@@ -11,13 +11,9 @@ menu:
 
 type: list
 
-description: "Lennart Kiil har hjulpet blandt andre Berlingske, Dansk Industri, Gentofte Hospital, Illustreret Videnskab, Ingeniøren, Ugeskrift for Læger, Region Syddanmark, Rigshospitalet, Aarhus Universitet og Statens Naturhistoriske Museum"
+description: "De tilfredse kunder tæller Dansk Industri, Gentofte Hospital, Illustreret Videnskab og mange andre"
 
-summary: "Lennart Kiil har gennem tiden hjulpet mange"
+summary: "Kunderne er glade og tilfredse"
 
 ---
 
-
-> Jeg giver Kiils mine varmeste anbefalinger
->
-> – _Per Asmussen_

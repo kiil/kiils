@@ -1,6 +1,13 @@
 {{ define "main" }}
 
+    <ul class="list pl0">
+      {{- range first 3 (where .Site.RegularPages "Params.anbefaling" "ne" nil ) -}} 
+      <li class="f4 pt3 pb3 measure-narrow lh-title">
 
+        <a href="{{ .Page.RelPermalink }}" class="link f3">{{ .Params.anbefaling }}</a>
+       </li>
+      {{ end }}
+    </ul>
 
 
 
