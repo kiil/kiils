@@ -5,8 +5,8 @@ type: list
 summary: Nutid og fremtid - altid online
 
 
-menu:
-  foot:
-    name: 'digitalt'
-    parent: Brands
+#menu:
+#  foot:
+#    name: 'digitalt'
+#    parent: Brands
 ---
