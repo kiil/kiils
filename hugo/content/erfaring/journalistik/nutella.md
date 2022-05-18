@@ -34,11 +34,6 @@ weight: 100
 emner:
   - rubrikker
 
-menu:
-  foot:
-    name: Rubrikker som virker 
-    parent: Konsulent
-    weight: 90
 
 
 keywords:

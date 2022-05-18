@@ -1,10 +1,25 @@
 {{ define "main" }}
 
-    <ul class="list pl0">
-      {{- range first 3 (where .Site.RegularPages "Params.anbefaling" "ne" nil ) -}} 
-      <li class="f4 pt3 pb3 measure-narrow lh-title">
 
-        <a href="{{ .Page.RelPermalink }}" class="link f3">{{ .Params.anbefaling }}</a>
+<article class="pa3 pa5-ns" data-name="slab-stat">
+  <dl class="dib mr5">
+    <dd class="f6 f5-ns b ml0">Tilfredse kunder</dd>
+    <dd class="f3 f2-ns b ml0"> > {{ len (where .Site.RegularPages "Type" "kunde" )  }}</dd>
+  </dl>
+  <dl class="dib">
+    <dd class="f6 f5-ns b ml0">Anbefalinger</dd>
+    <dd class="f3 f2-ns b ml0">{{ len (where .Site.RegularPages  "Params.anbefaling" "ne" nil)  }}</dd>
+  </dl>
+</article>
+
+
+
+
+    <ul class="list pa3 pa5-ns">
+      {{- range first 3 (where .Site.RegularPages "Params.anbefaling" "ne" nil ) -}} 
+      <li class="dib mr2">
+
+        <a href="{{ .Page.RelPermalink }}" class="f4 f2-ns b db pa2 link dim mid-gray">{{ .Params.anbefaling }}</a>
        </li>
       {{ end }}
     </ul>
