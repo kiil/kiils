@@ -5,6 +5,10 @@
   {{ .Content }}
 </article>
 
+
+
+
+
 <div class="flex-column-s flex-column-m flex-l justify-between-l">
 
 
@@ -81,4 +85,29 @@
 
   
 </div>
+<article class="pa3 pa5-ns" data-name="slab-stat-large">
+  <h3 class="f6 ttu tracked">Overblik</h3>
+  <div class="cf">
+    <dl class="db dib-l w-auto-l lh-title mr6-l">
+      <dd class="f6 fw4 ml0">Relevante emner</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">{{ len .Site.Taxonomies.emner }}</dd>
+    </dl>
+    <dl class="db dib-l w-auto-l lh-title mr6-l">
+      <dd class="f6 fw4 ml0">Effektive værktøjer</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">{{ len .Site.Taxonomies.tools }}</dd>
+    </dl>
+    <dl class="db dib-l w-auto-l lh-title mr6-l">
+      <dd class="f6 fw4 ml0">Tilfredse kunder</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">> {{ len (where .Site.RegularPages "Type" "kunde" )  }}</dd>
+    </dl>
+    <dl class="db dib-l w-auto-l lh-title mr6-l">
+      <dd class="f6 fw4 ml0">Gjorte erfaringer</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">> {{ len (where .Site.RegularPages "Type" "erfaring" )  }}</dd>
+    </dl>
+    <dl class="db dib-l w-auto-l lh-title mr6-l">
+      <dd class="f6 fw4 ml0">Tilbudte ydelser</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">{{ len (where .Site.RegularPages "Type" "ydelse" )  }}</dd>
+    </dl>
+  </div>
+</article>
 {{ end }}
