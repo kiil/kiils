@@ -15,11 +15,11 @@
 
 
 
-    <ul class="list pa3 pa5-ns">
+    <ul class="list pa3 pa4-ns">
       {{- range first 3 (where .Site.RegularPages "Params.anbefaling" "ne" nil ) -}} 
       <li class="dib mr2">
 
-        <a href="{{ .Page.RelPermalink }}" class="f4 f2-ns b db pa2 link dim mid-gray">{{ .Params.anbefaling }}</a>
+        <a href="{{ .Page.RelPermalink }}" class="f4 f2-ns b db pa4 link dim mid-gray">{{ .Params.anbefaling }}</a>
        </li>
       {{ end }}
     </ul>

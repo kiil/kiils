@@ -2,7 +2,7 @@
 title: Per Asmussen
 description: Jeg giver Kiils mine varmeste anbefalinger
 summary: Jeg giver Kiils mine varmeste anbefalinger
-anbefaling: 'Mine varmeste anbefalinger — Per Asmussen'
+anbefaling: 'Mine varmeste anbefalinger — Per Asmussen, GastroFun'
 ---
 
 
