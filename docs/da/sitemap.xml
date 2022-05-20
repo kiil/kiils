@@ -799,6 +799,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.kiils.dk/kunde/billetkontoret/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/cases/coronakatastrofen/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -840,6 +844,10 @@
                 />
   </url><url>
     <loc>https://www.kiils.dk/kunde/gentofte-hospital/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/kunde/hideaways/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
