@@ -6,7 +6,43 @@
     <description>Recent content in Emner on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/emner/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/emner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grammatik</title>
+      <link>https://www.kiils.dk/emner/grammatik/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/grammatik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korrektur</title>
+      <link>https://www.kiils.dk/emner/korrektur/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/korrektur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retstavning</title>
+      <link>https://www.kiils.dk/emner/retstavning/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/retstavning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skrivning</title>
+      <link>https://www.kiils.dk/emner/skrivning/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/skrivning/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>CLI</title>
       <link>https://www.kiils.dk/emner/cli/</link>
@@ -49,15 +85,6 @@
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/emner/rubrikker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Skrivning</title>
-      <link>https://www.kiils.dk/emner/skrivning/</link>
-      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/emner/skrivning/</guid>
       <description></description>
     </item>
     
