@@ -116,7 +116,7 @@
     {
         "url": "/",
         "title": "Kiils",
-        "content": " Brugervenlig Klimavenlig Læsevenlig  Er jeres digitale tilstedeværelse venlig nok? Kontakt Kiils nu!  "
+        "content": " Effektive tekster til digital udgivelse  "
     }
     
     , 
@@ -1083,6 +1083,13 @@
         "url": "/kunde/ingeni%C3%B8ren/",
         "title": "Ingeniøren",
         "content": ""
+    }
+    
+    , 
+    {
+        "url": "/venlig_index/",
+        "title": "Kiils",
+        "content": " Brugervenlig Klimavenlig Læsevenlig  Er jeres digitale tilstedeværelse venlig nok? Kontakt Kiils nu!  "
     }
     
     , 
