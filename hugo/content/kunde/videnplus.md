@@ -3,7 +3,7 @@ title: PRO Ejendomme
 description: VidenPlus udgiver magasinet PRO Ejendomme
 summary: VidenPlus udgiver magasinet PRO Ejendomme
 keywords: PRO Ejendomme
-anbefaling: 'Kiils arbejder seriøst og forstår ikke bare mit behov som udgiver, men også hvad der er vigtigt for læserne af PRO Ejendomme'
+anbefaling: 'Kiils forstår hvad der er vigtigt — Sten Thorup Kristensen, VidenPlus'
 ---
 
 Sten Thorup Kristensen fra VidenPlus siger:
