@@ -32,12 +32,18 @@ emner:
   - Retstavning
 ---
 
+Skal man skrive tal ud i bogstaver?
+
+
 Tommelfingerreglen går ud på at man skriver tal fra 1 til 10 med bostaver, men der er altid undtagelser. For eksempel
 
-- i erhvervsjournalistik er det normalt at skrive tal som tal, når man tæller valutaenheder og lignende. I andre sammenhænge skriver man 1-10 med bogstaver. Altså: "Han fik kun 5 kroner i lommepenge. Kun fem af hans klassekammerater fik mindre."
+
+- i erhvervsjournalistik er det normalt at skrive tal som tal når man tæller valutaenheder og lignende. I andre sammenhænge skriver man 1-10 med bogstaver. Altså: "Han fik kun 5 kroner i lommepenge. Kun fem af hans klassekammerater fik mindre."
 
 - i rubrikker virker tal ofte bedst skrevet som tal, det fanger opmærksomheden bedre når en læser skimmer skærmen eller avisen.
 
-Der er flere andre situationer som kræver en konkret vurdering.
+- hvis en situation kræver fokus på effektiv læsning frem for "æstetik".
+
+Der er flere andre ting som kan spille ind og ofte kræver valget en konkret vurdering.
 
 
