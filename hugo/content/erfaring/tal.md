@@ -44,6 +44,8 @@ Tommelfingerreglen går ud på at man skriver tal fra 1 til 10 med bostaver, men
 
 - hvis en situation kræver fokus på effektiv læsning frem for "æstetik".
 
+- hvis du har behov for at trække data ud af teksten i form af heltal.
+
 Der er flere andre ting som kan spille ind og ofte kræver valget en konkret vurdering.
 
 
