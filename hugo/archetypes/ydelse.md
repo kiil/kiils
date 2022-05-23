@@ -1,12 +1,14 @@
 +++
 date = {{ .Date }}
 title = '{{ replace .Name '-' ' ' | title }}'
-description = ''
-summary = ''
+description =
+summary =
 
+pris =
 
-
-anbefaling =
 
 keywords =
+
+
+
 +++
