@@ -53,7 +53,13 @@ Men der er altid undtagelser. For eksempel
 
 Overordnet fanger tal opmærksomheden bedre end bogstaver når tallene netop som i en sætning er omgivet af bogstaver. Så står tallene ud.
 
-Det betyder at man med tal kan fange læserens opmærksomhed. Bagsiden af medaljen er så at det kan bryde læserytmen mere og få sproget til at fremstå mere fragmenteret.
+Det betyder at man med tal kan fange læserens opmærksomhed.
+
+Bagsiden af medaljen er så at tal kan bryde læserytmen mere og få sproget til at fremstå mere fragmenteret. Det ser i manges øjne også mindre pænt ud.
+
+Tallene er naturligvis hurtigere at skrive og de sparer plads.
+
+Skriver man tallene ud, viser man derimod at man har gjort sig umage og brugt tid på at få tingene til at fremstå pænere.
 
 Der er altså et trade off og især i digital journalistik hvor der scrolles meget og hurtigt, kan det ofte være fordelagtigt at tænke i indgange til en tekst, og der kan tal skrevet som tal være med til at fange læseren ind i teksten igen. 
 
