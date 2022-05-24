@@ -64,6 +64,4 @@ Skriver man tallene ud, viser man derimod at man har gjort sig umage og brugt ti
 Der er altså et trade off og især i digital journalistik hvor der scrolles meget og hurtigt, kan det ofte være fordelagtigt at tænke i indgange til en tekst, og der kan tal skrevet som tal være med til at fange læseren ind i teksten igen. 
 
 
-Der er flere andre ting som kan spille ind og ofte kræver valget af tal eller bogstaver en konkret vurdering.
-
-
+Der er flere andre ting som kan spille ind, og ofte kræver valget af tal eller bogstaver en konkret vurdering.
