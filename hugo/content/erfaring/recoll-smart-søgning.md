@@ -40,6 +40,10 @@ Så `Bilerne` kun søger på 'bilerne', mens `bilerne` søger på 'bilerne', 'bi
 
 ## Nærhed (proximity)
 
+`'fodbold "Preben Elkjær"o'`
+`recollq 'mette frederiksen' | count` = 70
+``
+
 
 
 ## Vægt og prioritet
