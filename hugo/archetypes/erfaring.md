@@ -5,9 +5,9 @@ title = '{{ replace .Name '-' ' ' | title }}'
 skribenter = lennart-kiil
 date = {{ .Date }}
 show_reading_time = true
-#description =
-#summary =
-#keywords =
+#description = ''
+#summary = ''
+#keywords = ['']
 
 #featured_image =
 #thumbnail =
@@ -15,9 +15,9 @@ show_reading_time = true
 #toc = true
 #katex = true
 
-#cases =
-#cm =
-#emner =
-#tools =
+#cases = ['']
+#cm = ['']
+#emner = ['']
+#tools = ['']
 +++
 
