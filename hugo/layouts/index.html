@@ -70,7 +70,7 @@
   <div class="w-100 w-third-l pt4 pa4-l">
     <h5 class="mt0 mb2 tracked ttu">Senest</h5>
     <ul class="list pl0">
-      {{ range first 2 .Site.RegularPages.ByDate.Reverse }}
+      {{ range first 2 (where .Site.RegularPages.ByDate.Reverse "Type" "erfaring") }}
       <li class="f4 pt3 pb3 measure-narrow lh-title">
 
         <a href="{{ .Page.RelPermalink }}" class="link">{{ .Page.Title }}</a>
