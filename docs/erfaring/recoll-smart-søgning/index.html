@@ -51,7 +51,7 @@ Stemming Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme
 Stemming finder roden af et ord og de forskellige afledninger. På den måde får man flere resultater på en søgning, og nogle af dem vil være relevante nok.
 &gt; recollq -s danish bilerne | count 167 Men hvad nu hvis man kun vil søge på en bestemt form af et ord?"><meta itemprop="datePublished" content="2022-05-31T12:24:26+02:00" />
 <meta itemprop="dateModified" content="2022-05-31T12:24:26+02:00" />
-<meta itemprop="wordCount" content="238"><meta itemprop="image" content="https://www.kiils.dk/venlig.png"/>
+<meta itemprop="wordCount" content="346"><meta itemprop="image" content="https://www.kiils.dk/venlig.png"/>
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://www.kiils.dk/venlig.png"/>
 
@@ -203,7 +203,7 @@ Stemming finder roden af et ord og de forskellige afledninger. På den måde få
       
       
         <span class="f7 dib tracked"> - 2 minutter </span>
-        <span class="f7 dib tracked"> - 238 ord</span>
+        <span class="f7 dib tracked"> - 346 ord</span>
       
       </div>
 
@@ -223,20 +223,38 @@ Stemming finder roden af et ord og de forskellige afledninger. På den måde få
 <pre tabindex="0"><code>&gt; recollq -s danish Bilerne | count
 4
 </code></pre><p>Så jeg har altså kun fire tekster i mit arkiv hvor præcist bil indgår i bestemt flertal.</p>
-<p>Stemming er heller ikke slået til når man søger en frase som for eksempel <code>&quot;bilerne er&quot;</code>.</p>
+<p>Stemming er heller ikke slået til når man søger en frase som for eksempel <code>&quot;bilerne er&quot;</code> da fraser jo er bogstavelige.</p>
 <h2 id="nærhed-proximity">Nærhed (proximity)</h2>
-<p><code>'fodbold &quot;Preben Elkjær&quot;o'</code>
-<code>recollq 'mette frederiksen' | count</code> = 70
-``</p>
-<h2 id="vægt-og-prioritet">Vægt og prioritet</h2>
+<p>Søgning efter &lsquo;dansk&rsquo; eller &lsquo;politik&rsquo; med dansk stemming:</p>
+<pre tabindex="0"><code>&gt; recollq -s danish &#39;dansk politik&#39; | count
+507
+</code></pre><p>Uden stemming</p>
+<pre tabindex="0"><code>&gt; recollq &#39;dansk politik&#39; | count
+110
+</code></pre><p>Så snart man søger på en frase gør stemming ingen forskel:</p>
+<pre tabindex="0"><code>&gt; recollq -s danish &#39;&#34;dansk politik&#34;&#39; | count
+53
+</code></pre><pre tabindex="0"><code>&gt; recollq &#39;&#34;dansk politik&#34;&#39; | count
+53
+</code></pre><p>Accepterer man op til 5 ord imellem, men stadig sammen rækkefølge af søgeord:</p>
+<pre tabindex="0"><code>&gt; recollq &#39;&#34;dansk politik&#34;o5&#39; | count
+57
+</code></pre><p>Og hvis rækkefølgen er ligegyldig stiger antal søgeresultater i det her tilfælde en smule:</p>
+<pre tabindex="0"><code>&gt; recollq &#39;&#34;dansk politik&#34;p5&#39; | count
+61
+</code></pre><h2 id="vægt-og-prioritet">Vægt og prioritet</h2>
 <p>Hvis et søgeord i en forespørgsel er ekstra vigtigt, kan det gives en højere vægt.</p>
 <p>For eksempel giver</p>
-<p><code>recollq -n 1 'mette frederiksen politik'</code></p>
-<p><code>recollq -n 1 'mette frederiksen &quot;politik&quot;2.5'</code></p>
-<p>to forskellige resultater i mine tekster hvor sidste resultat er en tekst hvor &lsquo;politik&rsquo; fylder mere end i første.</p>
+<pre tabindex="0"><code>&gt; recollq -n 1 &#39;&#34;dansk&#34;10 politik&#39;
+Recoll query: Query((5 * dansk AND politik))
+[file:///home/lk/TEKST/ARKIV/undertrykt-stakke-revolution-dansk-politik.da.md]
+</code></pre><pre tabindex="0"><code>&gt; recollq -n 1 &#39;dansk &#34;politik&#34;10&#39;
+Recoll query: Query((dansk AND 10 * politik))
+[file:///home/lk/TEKST/ARKIV/BACKUP/Folkets Avis/Indhold/Ledere/Et vendepunkt i dansk politik.txt]	
+</code></pre><p>to forskellige resultater i mine tekster hvor sidste resultat er en tekst hvor &lsquo;politik&rsquo; fylder mere end i første.</p>
 <p>Et helt tredje resultat får jeg ved</p>
-<p><code>recollq -n 1 'mette frederiksen -politik'</code></p>
-<p>for her er alle tekster med &lsquo;politik&rsquo; i sorteret fra.</p>
+<pre tabindex="0"><code>recollq -n 1 &#39;dansk -politik&#39;
+</code></pre><p>for her er alle tekster med &lsquo;politik&rsquo; i sorteret fra.</p>
 <ul class="pa0">
   
 </ul>

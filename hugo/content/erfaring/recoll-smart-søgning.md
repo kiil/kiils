@@ -50,15 +50,51 @@ Så `Bilerne` kun søger på 'bilerne', mens `bilerne` søger på 'bilerne', 'bi
 
 Så jeg har altså kun fire tekster i mit arkiv hvor præcist bil indgår i bestemt flertal.
 
-Stemming er heller ikke slået til når man søger en frase som for eksempel `"bilerne er"`.
+Stemming er heller ikke slået til når man søger en frase som for eksempel `"bilerne er"` da fraser jo er bogstavelige.
 
 
 ## Nærhed (proximity)
 
-`'fodbold "Preben Elkjær"o'`
-`recollq 'mette frederiksen' | count` = 70
-``
 
+Søgning efter 'dansk' eller 'politik' med dansk stemming:
+
+```
+> recollq -s danish 'dansk politik' | count
+507
+```
+
+Uden stemming
+
+```
+> recollq 'dansk politik' | count
+110
+```
+
+Så snart man søger på en frase gør stemming ingen forskel:
+
+```
+> recollq -s danish '"dansk politik"' | count
+53
+```
+
+```
+> recollq '"dansk politik"' | count
+53
+```
+
+Accepterer man op til 5 ord imellem, men stadig sammen rækkefølge af søgeord:
+
+```
+> recollq '"dansk politik"o5' | count
+57
+```
+
+Og hvis rækkefølgen er ligegyldig stiger antal søgeresultater i det her tilfælde en smule:
+
+```
+> recollq '"dansk politik"p5' | count
+61
+```
 
 
 ## Vægt og prioritet
@@ -67,15 +103,26 @@ Hvis et søgeord i en forespørgsel er ekstra vigtigt, kan det gives en højere 
 
 For eksempel giver
 
-`recollq -n 1 'mette frederiksen politik'`
+```
+> recollq -n 1 '"dansk"10 politik'
+Recoll query: Query((5 * dansk AND politik))
+[file:///home/lk/TEKST/ARKIV/undertrykt-stakke-revolution-dansk-politik.da.md]
+```
 
-`recollq -n 1 'mette frederiksen "politik"2.5'`
+```
+> recollq -n 1 'dansk "politik"10'
+Recoll query: Query((dansk AND 10 * politik))
+[file:///home/lk/TEKST/ARKIV/BACKUP/Folkets Avis/Indhold/Ledere/Et vendepunkt i dansk politik.txt]	
+```
 
 to forskellige resultater i mine tekster hvor sidste resultat er en tekst hvor 'politik' fylder mere end i første.
 
 Et helt tredje resultat får jeg ved
 
-`recollq -n 1 'mette frederiksen -politik'`
+```
+recollq -n 1 'dansk -politik'
+```
+
 
 for her er alle tekster med 'politik' i sorteret fra.
 
