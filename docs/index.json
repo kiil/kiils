@@ -86,27 +86,6 @@
     
     , 
     {
-        "url": "/",
-        "title": "Kiils",
-        "content": " Stærke tekster til en digital tidsalder  "
-    }
-    
-    , 
-    {
-        "url": "/ydelse/krydstjek/",
-        "title": "Krydstjek",
-        "content": "Hvordan fungerer din tekst på forside og landingssider. Favner den alle de enheder som de besøgende bruger?\nI dag skal de korte, kontante tekster både fungere på laptop, tablet og mobil. Det undersøger jeg om de gør, og giver bud på forbedringer.\n"
-    }
-    
-    , 
-    {
-        "url": "/emner/",
-        "title": "Emner",
-        "content": "Emner i det arbejde Kiils laver\n"
-    }
-    
-    , 
-    {
         "url": "/erfaring/",
         "title": "Erfaring",
         "content": ""
@@ -114,9 +93,9 @@
     
     , 
     {
-        "url": "/emner/friteksts%C3%B8gning/",
-        "title": "Fritekstsøgning",
-        "content": ""
+        "url": "/",
+        "title": "Kiils",
+        "content": " Stærke tekster til en digital tidsalder  "
     }
     
     , 
@@ -135,13 +114,6 @@
     
     , 
     {
-        "url": "/erfaring/recoll/",
-        "title": "Recoll",
-        "content": "Hvordan holder man styr på sine egne tekster når man har over 10.000 af dem?\nLokal fritekstsøgning.\nStemming Roden af et ord og de forskellige afledninger.\nStort forbogstav slår stemmning fra\nSå Bilerne kun søger på \u0026lsquo;bilerne\u0026rsquo;, mens bilerne søger på \u0026lsquo;bilerne\u0026rsquo;, \u0026lsquo;biler\u0026rsquo;, \u0026lsquo;bil\u0026rsquo; etc.\nNærhed (proximity) Vægt og prioritet "
-    }
-    
-    , 
-    {
         "url": "/skribenter/",
         "title": "Skribenter",
         "content": ""
@@ -149,9 +121,44 @@
     
     , 
     {
+        "url": "/erfaring/recoll-smart-s%C3%B8gning/",
+        "title": "Smarte søgefunktioner i Recoll",
+        "content": "Noget af det jeg manglede i MacOS Spotlight søgemaskinen var en mere omfattende syntaks for søgning.\nRecoll er både smart og omfangsrig på det område.\nStemming Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme.\nStemming finder roden af et ord og de forskellige afledninger. På den måde får man flere resultater på en søgning, og nogle af dem vil være relevante nok.\nMen hvad nu hvis man kun vil søge på en bestemt form af et ord?\nStort forbogstav slår ganske enkelt stemmning fra:\nSå Bilerne kun søger på \u0026lsquo;bilerne\u0026rsquo;, mens bilerne søger på \u0026lsquo;bilerne\u0026rsquo;, \u0026lsquo;biler\u0026rsquo;, \u0026lsquo;bil\u0026rsquo; etc.\nNærhed (proximity) Vægt og prioritet Hvis et søgeord i en forespørgsel er ekstra vigtigt, kan det gives en højere vægt.\nFor eksempel giver\nrecollq -n 1 'mette frederiksen politik'\nrecollq -n 1 'mette frederiksen \u0026quot;politik\u0026quot;2.5'\nto forskellige resultater i mine tekster hvor sidste resultat er en tekst hvor \u0026lsquo;politik\u0026rsquo; fylder mere end i første.\nEt helt tredje resultat får jeg ved\nrecollq -n 1 'mette frederiksen -politik'\nfor her er alle tekster med \u0026lsquo;politik\u0026rsquo; i sorteret fra.\n"
+    }
+    
+    , 
+    {
         "url": "/tools/",
         "title": "Tools",
         "content": ""
+    }
+    
+    , 
+    {
+        "url": "/ydelse/krydstjek/",
+        "title": "Krydstjek",
+        "content": "Hvordan fungerer din tekst på forside og landingssider. Favner den alle de enheder som de besøgende bruger?\nI dag skal de korte, kontante tekster både fungere på laptop, tablet og mobil. Det undersøger jeg om de gør, og giver bud på forbedringer.\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/",
+        "title": "Emner",
+        "content": "Emner i det arbejde Kiils laver\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/friteksts%C3%B8gning/",
+        "title": "Fritekstsøgning",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaring/recoll-fritekst-s%C3%B8gning/",
+        "title": "Sådan holder man styr på 10.000 tekster",
+        "content": "Hvordan holder man styr på sine egne tekster når man har over 10.000 af dem på sin laptop?\nSvaret er lokal fritekstsøgning.\nMacOS har spotlight indbygget som er okay til formålet, men alligevel lidt for begrænset.\nJeg har brugt en del tid på at finde et værktøj som kunne indeksere mine filer på en ordentlig måde, så jeg altid hurtigt kunne finde noget i en tekst som jeg havde behov for at vide eller bruge.\nRecoll er sådan et værktøj og det findes både til mac, windows og unix / linux.\nRecoll finds your documents Recoll er baseret på Xapian som er en open source søgemaskine.\nThe Xapian Project Recoll har både en grafisk brugerflade og kan bruges fra kommandolinjen.\nJeg mangler dog en enkelt ting, fordi jeg sjældent arbejder med pdf eller doxc eller lignende så er sidenumre ikke så relevante for mig.\nMen når jeg hovedsageligt skriver tekster til digitale medier direkte i plain tekst eller markdown format, som jo også bare er tekst, så er linjenumre til gengæld enormt praktiske at have med fra en overordnet fritekstsøgning.\nJeg har derfor efterspurgt en feature i Recoll her\nexposing line numbers in snippets (#156) · Issues · Jean-Francois Dockes / recoll · GitLab "
     }
     
     , 

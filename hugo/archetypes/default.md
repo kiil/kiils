@@ -2,7 +2,7 @@
 #draft = true
 #genrer =
 title = '{{ replace .Name '-' ' ' | title }}'
-skribenter = lennart-kiil
+skribenter = ['lennart-kiil']
 date = {{ .Date }}
 show_reading_time = true
 #description = ''

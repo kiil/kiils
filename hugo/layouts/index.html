@@ -12,12 +12,12 @@
     </dl>
     <dl class="dib w-auto lh-title mr4 mr5-ns">
       <dd class="f6 fw4 ml0">Forfattede tekster</dd>
-      <dd class="f2 f-subheadline-l fw6 ml0">{{ add 11340 (len .Site.RegularPages) }}</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">{{ add 11340 (len .Site.Pages) }}</dd>
     </dl>
     {{/* COMMENT OUT START
     <dl class="dib w-auto lh-title">
       <dd class="f6 fw4 ml0">Ydelser</dd>
-      <dd class="f2 f-subheadline-l fw6 ml0">{{ len (where .Site.RegularPages "Type" "ydelse" )  }}</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">{{ len (where .Site.Pages "Type" "ydelse" )  }}</dd>
     </dl>
     <dl class="db dib-l w-auto-l lh-title mr6-l">
       <dd class="f6 fw4 ml0">Relevante emner</dd>
@@ -29,11 +29,11 @@
     </dl>
     <dl class="db dib-l w-auto-l lh-title mr6-l">
       <dd class="f6 fw4 ml0">Tilfredse kunder</dd>
-      <dd class="f2 f-subheadline-l fw6 ml0">{{ len (where .Site.RegularPages "Type" "kunde" )  }}</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">{{ len (where .Site.Pages "Type" "kunde" )  }}</dd>
     </dl>
     <dl class="db dib-l w-auto-l lh-title mr6-l">
       <dd class="f6 fw4 ml0">Gjorte erfaringer</dd>
-      <dd class="f2 f-subheadline-l fw6 ml0">{{ len (where .Site.RegularPages "Type" "erfaring" )  }}</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">{{ len (where .Site.Pages "Type" "erfaring" )  }}</dd>
     </dl>
     <dl class="db dib-l w-auto-l lh-title mr6-l">
       <dd class="f6 fw4 ml0">Interessante cases</dd>
@@ -53,7 +53,7 @@
   <div class="w-100 w-half-l pt4 pa4-l">
     <h4 class="mt0 mb2 tracked ttu">Udvalgte ydelser</h4>
     <ul class="list pl0">
-      {{- range first 3 (where .Site.RegularPages "Type" "ydelse") -}} 
+      {{- range first 3 (where .Site.Pages "Type" "ydelse") -}} 
       <li class="f4 pt3 pb3 measure-narrow lh-title">
 
         <a href="{{ .Page.RelPermalink }}" class="link f3">{{ .Page.Title }}</a>
@@ -70,7 +70,7 @@
   <div class="w-100 w-third-l pt4 pa4-l">
     <h5 class="mt0 mb2 tracked ttu">Senest</h5>
     <ul class="list pl0">
-      {{ range first 2 (where .Site.RegularPages.ByDate.Reverse "Type" "erfaring") }}
+      {{ range first 2 (where .Site.Pages.ByDate.Reverse "Type" "erfaring") }}
       <li class="f4 pt3 pb3 measure-narrow lh-title">
 
         <a href="{{ .Page.RelPermalink }}" class="link">{{ .Page.Title }}</a>
@@ -101,7 +101,7 @@
     <ul class="list pl0">
 
 
-      {{ range first 2 (where .Site.RegularPages.ByLength.Reverse "Params.show_reading_time" true) }}
+      {{ range first 2 (where .Site.Pages.ByLength.Reverse "Params.show_reading_time" true) }}
 
 
 
