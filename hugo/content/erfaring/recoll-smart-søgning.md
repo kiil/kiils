@@ -31,18 +31,26 @@ Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme.
 
 Stemming finder roden af et ord og de forskellige afledninger. På den måde får man flere resultater på en søgning, og nogle af dem vil være relevante nok.
 
+```
+> recollq -s danish bilerne | count
+167
+```
+
 Men hvad nu hvis man kun vil søge på en bestemt form af et ord?
 
 Stort forbogstav slår ganske enkelt stemmning fra:
 
 Så `Bilerne` kun søger på 'bilerne', mens `bilerne` søger på 'bilerne', 'biler', 'bil' etc.
 
+
 ```
-> recollq -s danish bilerne | count
-167
+> recollq -s danish Bilerne | count
+4
 ```
 
+Så jeg har altså kun fire tekster i mit arkiv hvor præcist bil indgår i bestemt flertal.
 
+Stemming er heller ikke slået til når man søger en frase som for eksempel `"bilerne er"`.
 
 
 ## Nærhed (proximity)

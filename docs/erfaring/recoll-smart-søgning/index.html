@@ -38,7 +38,7 @@
 Recoll er både smart og omfangsrig på det område.
 Stemming Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme.
 Stemming finder roden af et ord og de forskellige afledninger. På den måde får man flere resultater på en søgning, og nogle af dem vil være relevante nok.
-Men hvad nu hvis man kun vil søge på en bestemt form af et ord?" />
+&gt; recollq -s danish bilerne | count 167 Men hvad nu hvis man kun vil søge på en bestemt form af et ord?" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.kiils.dk/erfaring/recoll-smart-s%C3%B8gning/" /><meta property="og:image" content="https://www.kiils.dk/venlig.png"/><meta property="article:section" content="erfaring" />
 <meta property="article:published_time" content="2022-05-31T12:24:26+02:00" />
@@ -49,9 +49,9 @@ Men hvad nu hvis man kun vil søge på en bestemt form af et ord?" />
 Recoll er både smart og omfangsrig på det område.
 Stemming Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme.
 Stemming finder roden af et ord og de forskellige afledninger. På den måde får man flere resultater på en søgning, og nogle af dem vil være relevante nok.
-Men hvad nu hvis man kun vil søge på en bestemt form af et ord?"><meta itemprop="datePublished" content="2022-05-31T12:24:26+02:00" />
+&gt; recollq -s danish bilerne | count 167 Men hvad nu hvis man kun vil søge på en bestemt form af et ord?"><meta itemprop="datePublished" content="2022-05-31T12:24:26+02:00" />
 <meta itemprop="dateModified" content="2022-05-31T12:24:26+02:00" />
-<meta itemprop="wordCount" content="197"><meta itemprop="image" content="https://www.kiils.dk/venlig.png"/>
+<meta itemprop="wordCount" content="238"><meta itemprop="image" content="https://www.kiils.dk/venlig.png"/>
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://www.kiils.dk/venlig.png"/>
 
@@ -60,7 +60,7 @@ Men hvad nu hvis man kun vil søge på en bestemt form af et ord?"><meta itempro
 Recoll er både smart og omfangsrig på det område.
 Stemming Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme.
 Stemming finder roden af et ord og de forskellige afledninger. På den måde får man flere resultater på en søgning, og nogle af dem vil være relevante nok.
-Men hvad nu hvis man kun vil søge på en bestemt form af et ord?"/>
+&gt; recollq -s danish bilerne | count 167 Men hvad nu hvis man kun vil søge på en bestemt form af et ord?"/>
 
       
     
@@ -202,8 +202,8 @@ Men hvad nu hvis man kun vil søge på en bestemt form af et ord?"/>
       <time class="f7 dib tracked" datetime="2022-05-31T12:24:26&#43;02:00">31/05/2022</time>
       
       
-        <span class="f7 dib tracked"> - Et minut </span>
-        <span class="f7 dib tracked"> - 197 ord</span>
+        <span class="f7 dib tracked"> - 2 minutter </span>
+        <span class="f7 dib tracked"> - 238 ord</span>
       
       </div>
 
@@ -215,12 +215,16 @@ Men hvad nu hvis man kun vil søge på en bestemt form af et ord?"/>
 <h2 id="stemming">Stemming</h2>
 <p>Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme.</p>
 <p>Stemming finder roden af et ord og de forskellige afledninger. På den måde får man flere resultater på en søgning, og nogle af dem vil være relevante nok.</p>
-<p>Men hvad nu hvis man kun vil søge på en bestemt form af et ord?</p>
-<p>Stort forbogstav slår ganske enkelt stemmning fra:</p>
-<p>Så <code>Bilerne</code> kun søger på &lsquo;bilerne&rsquo;, mens <code>bilerne</code> søger på &lsquo;bilerne&rsquo;, &lsquo;biler&rsquo;, &lsquo;bil&rsquo; etc.</p>
 <pre tabindex="0"><code>&gt; recollq -s danish bilerne | count
 167
-</code></pre><h2 id="nærhed-proximity">Nærhed (proximity)</h2>
+</code></pre><p>Men hvad nu hvis man kun vil søge på en bestemt form af et ord?</p>
+<p>Stort forbogstav slår ganske enkelt stemmning fra:</p>
+<p>Så <code>Bilerne</code> kun søger på &lsquo;bilerne&rsquo;, mens <code>bilerne</code> søger på &lsquo;bilerne&rsquo;, &lsquo;biler&rsquo;, &lsquo;bil&rsquo; etc.</p>
+<pre tabindex="0"><code>&gt; recollq -s danish Bilerne | count
+4
+</code></pre><p>Så jeg har altså kun fire tekster i mit arkiv hvor præcist bil indgår i bestemt flertal.</p>
+<p>Stemming er heller ikke slået til når man søger en frase som for eksempel <code>&quot;bilerne er&quot;</code>.</p>
+<h2 id="nærhed-proximity">Nærhed (proximity)</h2>
 <p><code>'fodbold &quot;Preben Elkjær&quot;o'</code>
 <code>recollq 'mette frederiksen' | count</code> = 70
 ``</p>
