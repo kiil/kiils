@@ -37,6 +37,11 @@ Stort forbogstav slår ganske enkelt stemmning fra:
 
 Så `Bilerne` kun søger på 'bilerne', mens `bilerne` søger på 'bilerne', 'biler', 'bil' etc.
 
+`> recollq -s danish bilerne | count
+167`
+
+
+
 
 ## Nærhed (proximity)
 

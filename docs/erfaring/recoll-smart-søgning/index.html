@@ -51,7 +51,7 @@ Stemming Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme
 Stemming finder roden af et ord og de forskellige afledninger. På den måde får man flere resultater på en søgning, og nogle af dem vil være relevante nok.
 Men hvad nu hvis man kun vil søge på en bestemt form af et ord?"><meta itemprop="datePublished" content="2022-05-31T12:24:26+02:00" />
 <meta itemprop="dateModified" content="2022-05-31T12:24:26+02:00" />
-<meta itemprop="wordCount" content="189"><meta itemprop="image" content="https://www.kiils.dk/venlig.png"/>
+<meta itemprop="wordCount" content="197"><meta itemprop="image" content="https://www.kiils.dk/venlig.png"/>
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://www.kiils.dk/venlig.png"/>
 
@@ -203,7 +203,7 @@ Men hvad nu hvis man kun vil søge på en bestemt form af et ord?"/>
       
       
         <span class="f7 dib tracked"> - Et minut </span>
-        <span class="f7 dib tracked"> - 189 ord</span>
+        <span class="f7 dib tracked"> - 197 ord</span>
       
       </div>
 
@@ -218,6 +218,7 @@ Men hvad nu hvis man kun vil søge på en bestemt form af et ord?"/>
 <p>Men hvad nu hvis man kun vil søge på en bestemt form af et ord?</p>
 <p>Stort forbogstav slår ganske enkelt stemmning fra:</p>
 <p>Så <code>Bilerne</code> kun søger på &lsquo;bilerne&rsquo;, mens <code>bilerne</code> søger på &lsquo;bilerne&rsquo;, &lsquo;biler&rsquo;, &lsquo;bil&rsquo; etc.</p>
+<p><code>&gt; recollq -s danish bilerne | count 167</code></p>
 <h2 id="nærhed-proximity">Nærhed (proximity)</h2>
 <p><code>'fodbold &quot;Preben Elkjær&quot;o'</code>
 <code>recollq 'mette frederiksen' | count</code> = 70
