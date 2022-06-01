@@ -51,7 +51,7 @@ Stemming Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme
 Stemming finder roden af et ord og de forskellige afledninger. På den måde får man flere resultater på en søgning, og nogle af dem vil være relevante nok.
 Med Recoll og Xapian tages der endda konkret højde for nøjagtig de ord som findes i dit indeks."><meta itemprop="datePublished" content="2022-05-31T12:24:26+02:00" />
 <meta itemprop="dateModified" content="2022-05-31T12:24:26+02:00" />
-<meta itemprop="wordCount" content="479"><meta itemprop="image" content="https://www.kiils.dk/venlig.png"/>
+<meta itemprop="wordCount" content="490"><meta itemprop="image" content="https://www.kiils.dk/venlig.png"/>
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://www.kiils.dk/venlig.png"/>
 
@@ -203,7 +203,7 @@ Med Recoll og Xapian tages der endda konkret højde for nøjagtig de ord som fin
       
       
         <span class="f7 dib tracked"> - 3 minutter </span>
-        <span class="f7 dib tracked"> - 479 ord</span>
+        <span class="f7 dib tracked"> - 490 ord</span>
       
       </div>
 
@@ -235,17 +235,17 @@ Med Recoll og Xapian tages der endda konkret højde for nøjagtig de ord som fin
 </code></pre><p>Uden stemming</p>
 <pre tabindex="0"><code>&gt; recollq &#39;dansk politik&#39; | count
 110
-</code></pre><p>Så snart man søger på en frase gør stemming ingen forskel:</p>
+</code></pre><p>Så snart man søger på en frase, gør stemming ingen forskel:</p>
 <pre tabindex="0"><code>&gt; recollq -s danish &#39;&#34;dansk politik&#34;&#39; | count
 53
 </code></pre><p>og</p>
 <pre tabindex="0"><code>&gt; recollq &#39;&#34;dansk politik&#34;&#39; | count
 53
 </code></pre><p>er ækvivalente.</p>
-<p>Accepterer man op til 5 ord imellem, men stadig samme rækkefølge af søgeord, kan det udtrykkes således:</p>
+<p>Accepterer man op til 5 ord imellem &lsquo;dansk&rsquo; og &lsquo;politik&rsquo;, men stadig samme rækkefølge af søgeord, kan det udtrykkes således:</p>
 <pre tabindex="0"><code>&gt; recollq &#39;&#34;dansk politik&#34;o5&#39; | count
 57
-</code></pre><p>Og hvis <em>rækkefølgen</em> er ligegyldig stiger antal søgeresultater i det her tilfælde yderligere en smule:</p>
+</code></pre><p>Og med maksimalt fem ord mellem søgeordene hvor <em>rækkefølgen</em> er ligegyldig, stiger antal søgeresultater i det her tilfælde yderligere en smule:</p>
 <pre tabindex="0"><code>&gt; recollq &#39;&#34;dansk politik&#34;p5&#39; | count
 61
 </code></pre><h2 id="vægt-og-prioritet">Vægt og prioritet</h2>
@@ -255,13 +255,14 @@ Med Recoll og Xapian tages der endda konkret højde for nøjagtig de ord som fin
 <pre tabindex="0"><code>&gt; recollq -n 1 &#39;&#34;dansk&#34;10 politik&#39;
 Recoll query: Query((5 * dansk AND politik))
 [file:///home/lk/TEKST/ARKIV/undertrykt-stakke-revolution-dansk-politik.da.md]
-</code></pre><pre tabindex="0"><code>&gt; recollq -n 1 &#39;dansk &#34;politik&#34;10&#39;
+</code></pre><p>mens</p>
+<pre tabindex="0"><code>&gt; recollq -n 1 &#39;dansk &#34;politik&#34;10&#39;
 Recoll query: Query((dansk AND 10 * politik))
 [file:///home/lk/TEKST/ARKIV/BACKUP/Folkets Avis/Indhold/Ledere/Et vendepunkt i dansk politik.txt]	
 </code></pre><p>Altså to forskellige resultater i mine tekster hvor sidste resultat er en tekst hvor &lsquo;politik&rsquo; fylder mere end i første.</p>
 <p>Et helt tredje resultat får jeg ved</p>
 <pre tabindex="0"><code>recollq -n 1 &#39;dansk -politik&#39;
-</code></pre><p>for her er alle tekster med ordet &lsquo;politik&rsquo; i sorteret fra.</p>
+</code></pre><p>for her er alle tekster med ordet &lsquo;politik&rsquo; i helt sorteret fra.</p>
 <p>Det var nogen af mulighederne som gør det nemmere at finde relevante tekster frem i et stort lokalt arkiv.</p>
 <ul class="pa0">
   

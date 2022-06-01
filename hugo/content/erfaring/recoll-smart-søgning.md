@@ -77,7 +77,7 @@ Uden stemming
 110
 ```
 
-Så snart man søger på en frase gør stemming ingen forskel:
+Så snart man søger på en frase, gør stemming ingen forskel:
 
 ```
 > recollq -s danish '"dansk politik"' | count
@@ -93,14 +93,15 @@ og
 
 er ækvivalente.
 
-Accepterer man op til 5 ord imellem, men stadig samme rækkefølge af søgeord, kan det udtrykkes således:
+Accepterer man op til 5 ord imellem 'dansk' og 'politik', men stadig samme rækkefølge af søgeord, kan det udtrykkes således:
 
 ```
 > recollq '"dansk politik"o5' | count
 57
 ```
 
-Og hvis *rækkefølgen* er ligegyldig stiger antal søgeresultater i det her tilfælde yderligere en smule:
+Og med maksimalt fem ord mellem søgeordene hvor *rækkefølgen* er ligegyldig, stiger antal søgeresultater i det her tilfælde yderligere en smule:
+
 
 
 ```
@@ -122,6 +123,7 @@ For eksempel giver
 Recoll query: Query((5 * dansk AND politik))
 [file:///home/lk/TEKST/ARKIV/undertrykt-stakke-revolution-dansk-politik.da.md]
 ```
+mens
 
 ```
 > recollq -n 1 'dansk "politik"10'
@@ -138,7 +140,6 @@ recollq -n 1 'dansk -politik'
 ```
 
 
-for her er alle tekster med ordet 'politik' i sorteret fra.
+for her er alle tekster med ordet 'politik' i helt sorteret fra.
 
 Det var nogen af mulighederne som gør det nemmere at finde relevante tekster frem i et stort lokalt arkiv.
-
