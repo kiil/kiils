@@ -21,7 +21,7 @@ keywords = ['Recoll']
 tools = ['Recoll']
 +++
 
-Noget af det jeg manglede i MacOS Spotlight søgemaskinen var en mere omfattende syntaks for søgning.
+Noget af det jeg manglede i MacOS Spotlight søgemaskinen, var en mere omfattende syntaks for søgning.
 
 Recoll er både smart og omfangsrig på det område.
 
@@ -31,12 +31,18 @@ Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme.
 
 Stemming finder roden af et ord og de forskellige afledninger. På den måde får man flere resultater på en søgning, og nogle af dem vil være relevante nok.
 
+Med Recoll og Xapian tages der endda konkret højde for nøjagtig de ord som findes i dit indeks.
+
+I mine tekster er der skrevet noget om biler en del gange:
+
 ```
 > recollq -s danish bilerne | count
 167
 ```
 
-Men hvad nu hvis man kun vil søge på en bestemt form af et ord?
+Med ´-s danish´ søger Recoll på 'bil' og alle andre former af ordet, selvom det er indtastet som 'bilerne'.
+
+Men hvad nu hvis man kun vil søge på en bestemt form af et ord? Altså for eksempel 'bilerne' nøjagtig sådan.
 
 Stort forbogstav slår ganske enkelt stemmning fra:
 
@@ -48,13 +54,14 @@ Så `Bilerne` kun søger på 'bilerne', mens `bilerne` søger på 'bilerne', 'bi
 4
 ```
 
-Så jeg har altså kun fire tekster i mit arkiv hvor præcist bil indgår i bestemt flertal.
+Så jeg har altså kun fire tekster i mit arkiv hvor præcist bil indgår i *bestemt flertal*.
 
 Stemming er heller ikke slået til når man søger en frase som for eksempel `"bilerne er"` da fraser jo er bogstavelige.
 
 
 ## Nærhed (proximity)
 
+Recoll tager automatisk højde for nærhed når søgeresultater sorteres. Men en bestemt rækkefølge og et bestemt maksimalt antal ord kan også efterspørges.
 
 Søgning efter 'dansk' eller 'politik' med dansk stemming:
 
@@ -77,19 +84,24 @@ Så snart man søger på en frase gør stemming ingen forskel:
 53
 ```
 
+og
+
 ```
 > recollq '"dansk politik"' | count
 53
 ```
 
-Accepterer man op til 5 ord imellem, men stadig sammen rækkefølge af søgeord:
+er ækvivalente.
+
+Accepterer man op til 5 ord imellem, men stadig samme rækkefølge af søgeord, kan det udtrykkes således:
 
 ```
 > recollq '"dansk politik"o5' | count
 57
 ```
 
-Og hvis rækkefølgen er ligegyldig stiger antal søgeresultater i det her tilfælde en smule:
+Og hvis *rækkefølgen* er ligegyldig stiger antal søgeresultater i det her tilfælde yderligere en smule:
+
 
 ```
 > recollq '"dansk politik"p5' | count
@@ -98,6 +110,8 @@ Og hvis rækkefølgen er ligegyldig stiger antal søgeresultater i det her tilf�
 
 
 ## Vægt og prioritet
+
+Normalt tæller antal gange et søgeord optræder i en tekst meget for relevansen, og man kan kunstigt oprioritere et bestemt ord ud af flere i en søgning.
 
 Hvis et søgeord i en forespørgsel er ekstra vigtigt, kan det gives en højere vægt.
 
@@ -115,7 +129,7 @@ Recoll query: Query((dansk AND 10 * politik))
 [file:///home/lk/TEKST/ARKIV/BACKUP/Folkets Avis/Indhold/Ledere/Et vendepunkt i dansk politik.txt]	
 ```
 
-to forskellige resultater i mine tekster hvor sidste resultat er en tekst hvor 'politik' fylder mere end i første.
+Altså to forskellige resultater i mine tekster hvor sidste resultat er en tekst hvor 'politik' fylder mere end i første.
 
 Et helt tredje resultat får jeg ved
 
@@ -124,5 +138,7 @@ recollq -n 1 'dansk -politik'
 ```
 
 
-for her er alle tekster med 'politik' i sorteret fra.
+for her er alle tekster med ordet 'politik' i sorteret fra.
+
+Det var nogen af mulighederne som gør det nemmere at finde relevante tekster frem i et stort lokalt arkiv.
 

@@ -34,33 +34,33 @@
     
 
     <meta property="og:title" content="Smarte søgefunktioner i Recoll" />
-<meta property="og:description" content="Noget af det jeg manglede i MacOS Spotlight søgemaskinen var en mere omfattende syntaks for søgning.
+<meta property="og:description" content="Noget af det jeg manglede i MacOS Spotlight søgemaskinen, var en mere omfattende syntaks for søgning.
 Recoll er både smart og omfangsrig på det område.
 Stemming Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme.
 Stemming finder roden af et ord og de forskellige afledninger. På den måde får man flere resultater på en søgning, og nogle af dem vil være relevante nok.
-&gt; recollq -s danish bilerne | count 167 Men hvad nu hvis man kun vil søge på en bestemt form af et ord?" />
+Med Recoll og Xapian tages der endda konkret højde for nøjagtig de ord som findes i dit indeks." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.kiils.dk/erfaring/recoll-smart-s%C3%B8gning/" /><meta property="og:image" content="https://www.kiils.dk/venlig.png"/><meta property="article:section" content="erfaring" />
 <meta property="article:published_time" content="2022-05-31T12:24:26+02:00" />
 <meta property="article:modified_time" content="2022-05-31T12:24:26+02:00" /><meta property="og:site_name" content="Kiils" />
 
 <meta itemprop="name" content="Smarte søgefunktioner i Recoll">
-<meta itemprop="description" content="Noget af det jeg manglede i MacOS Spotlight søgemaskinen var en mere omfattende syntaks for søgning.
+<meta itemprop="description" content="Noget af det jeg manglede i MacOS Spotlight søgemaskinen, var en mere omfattende syntaks for søgning.
 Recoll er både smart og omfangsrig på det område.
 Stemming Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme.
 Stemming finder roden af et ord og de forskellige afledninger. På den måde får man flere resultater på en søgning, og nogle af dem vil være relevante nok.
-&gt; recollq -s danish bilerne | count 167 Men hvad nu hvis man kun vil søge på en bestemt form af et ord?"><meta itemprop="datePublished" content="2022-05-31T12:24:26+02:00" />
+Med Recoll og Xapian tages der endda konkret højde for nøjagtig de ord som findes i dit indeks."><meta itemprop="datePublished" content="2022-05-31T12:24:26+02:00" />
 <meta itemprop="dateModified" content="2022-05-31T12:24:26+02:00" />
-<meta itemprop="wordCount" content="346"><meta itemprop="image" content="https://www.kiils.dk/venlig.png"/>
+<meta itemprop="wordCount" content="479"><meta itemprop="image" content="https://www.kiils.dk/venlig.png"/>
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://www.kiils.dk/venlig.png"/>
 
 <meta name="twitter:title" content="Smarte søgefunktioner i Recoll"/>
-<meta name="twitter:description" content="Noget af det jeg manglede i MacOS Spotlight søgemaskinen var en mere omfattende syntaks for søgning.
+<meta name="twitter:description" content="Noget af det jeg manglede i MacOS Spotlight søgemaskinen, var en mere omfattende syntaks for søgning.
 Recoll er både smart og omfangsrig på det område.
 Stemming Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme.
 Stemming finder roden af et ord og de forskellige afledninger. På den måde får man flere resultater på en søgning, og nogle af dem vil være relevante nok.
-&gt; recollq -s danish bilerne | count 167 Men hvad nu hvis man kun vil søge på en bestemt form af et ord?"/>
+Med Recoll og Xapian tages der endda konkret højde for nøjagtig de ord som findes i dit indeks."/>
 
       
     
@@ -202,29 +202,33 @@ Stemming finder roden af et ord og de forskellige afledninger. På den måde få
       <time class="f7 dib tracked" datetime="2022-05-31T12:24:26&#43;02:00">31/05/2022</time>
       
       
-        <span class="f7 dib tracked"> - 2 minutter </span>
-        <span class="f7 dib tracked"> - 346 ord</span>
+        <span class="f7 dib tracked"> - 3 minutter </span>
+        <span class="f7 dib tracked"> - 479 ord</span>
       
       </div>
 
 
     </header>
 
-    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Noget af det jeg manglede i MacOS Spotlight søgemaskinen var en mere omfattende syntaks for søgning.</p>
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Noget af det jeg manglede i MacOS Spotlight søgemaskinen, var en mere omfattende syntaks for søgning.</p>
 <p>Recoll er både smart og omfangsrig på det område.</p>
 <h2 id="stemming">Stemming</h2>
 <p>Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme.</p>
 <p>Stemming finder roden af et ord og de forskellige afledninger. På den måde får man flere resultater på en søgning, og nogle af dem vil være relevante nok.</p>
+<p>Med Recoll og Xapian tages der endda konkret højde for nøjagtig de ord som findes i dit indeks.</p>
+<p>I mine tekster er der skrevet noget om biler en del gange:</p>
 <pre tabindex="0"><code>&gt; recollq -s danish bilerne | count
 167
-</code></pre><p>Men hvad nu hvis man kun vil søge på en bestemt form af et ord?</p>
+</code></pre><p>Med ´-s danish´ søger Recoll på &lsquo;bil&rsquo; og alle andre former af ordet, selvom det er indtastet som &lsquo;bilerne&rsquo;.</p>
+<p>Men hvad nu hvis man kun vil søge på en bestemt form af et ord? Altså for eksempel &lsquo;bilerne&rsquo; nøjagtig sådan.</p>
 <p>Stort forbogstav slår ganske enkelt stemmning fra:</p>
 <p>Så <code>Bilerne</code> kun søger på &lsquo;bilerne&rsquo;, mens <code>bilerne</code> søger på &lsquo;bilerne&rsquo;, &lsquo;biler&rsquo;, &lsquo;bil&rsquo; etc.</p>
 <pre tabindex="0"><code>&gt; recollq -s danish Bilerne | count
 4
-</code></pre><p>Så jeg har altså kun fire tekster i mit arkiv hvor præcist bil indgår i bestemt flertal.</p>
+</code></pre><p>Så jeg har altså kun fire tekster i mit arkiv hvor præcist bil indgår i <em>bestemt flertal</em>.</p>
 <p>Stemming er heller ikke slået til når man søger en frase som for eksempel <code>&quot;bilerne er&quot;</code> da fraser jo er bogstavelige.</p>
 <h2 id="nærhed-proximity">Nærhed (proximity)</h2>
+<p>Recoll tager automatisk højde for nærhed når søgeresultater sorteres. Men en bestemt rækkefølge og et bestemt maksimalt antal ord kan også efterspørges.</p>
 <p>Søgning efter &lsquo;dansk&rsquo; eller &lsquo;politik&rsquo; med dansk stemming:</p>
 <pre tabindex="0"><code>&gt; recollq -s danish &#39;dansk politik&#39; | count
 507
@@ -234,15 +238,18 @@ Stemming finder roden af et ord og de forskellige afledninger. På den måde få
 </code></pre><p>Så snart man søger på en frase gør stemming ingen forskel:</p>
 <pre tabindex="0"><code>&gt; recollq -s danish &#39;&#34;dansk politik&#34;&#39; | count
 53
-</code></pre><pre tabindex="0"><code>&gt; recollq &#39;&#34;dansk politik&#34;&#39; | count
+</code></pre><p>og</p>
+<pre tabindex="0"><code>&gt; recollq &#39;&#34;dansk politik&#34;&#39; | count
 53
-</code></pre><p>Accepterer man op til 5 ord imellem, men stadig sammen rækkefølge af søgeord:</p>
+</code></pre><p>er ækvivalente.</p>
+<p>Accepterer man op til 5 ord imellem, men stadig samme rækkefølge af søgeord, kan det udtrykkes således:</p>
 <pre tabindex="0"><code>&gt; recollq &#39;&#34;dansk politik&#34;o5&#39; | count
 57
-</code></pre><p>Og hvis rækkefølgen er ligegyldig stiger antal søgeresultater i det her tilfælde en smule:</p>
+</code></pre><p>Og hvis <em>rækkefølgen</em> er ligegyldig stiger antal søgeresultater i det her tilfælde yderligere en smule:</p>
 <pre tabindex="0"><code>&gt; recollq &#39;&#34;dansk politik&#34;p5&#39; | count
 61
 </code></pre><h2 id="vægt-og-prioritet">Vægt og prioritet</h2>
+<p>Normalt tæller antal gange et søgeord optræder i en tekst meget for relevansen, og man kan kunstigt oprioritere et bestemt ord ud af flere i en søgning.</p>
 <p>Hvis et søgeord i en forespørgsel er ekstra vigtigt, kan det gives en højere vægt.</p>
 <p>For eksempel giver</p>
 <pre tabindex="0"><code>&gt; recollq -n 1 &#39;&#34;dansk&#34;10 politik&#39;
@@ -251,10 +258,11 @@ Recoll query: Query((5 * dansk AND politik))
 </code></pre><pre tabindex="0"><code>&gt; recollq -n 1 &#39;dansk &#34;politik&#34;10&#39;
 Recoll query: Query((dansk AND 10 * politik))
 [file:///home/lk/TEKST/ARKIV/BACKUP/Folkets Avis/Indhold/Ledere/Et vendepunkt i dansk politik.txt]	
-</code></pre><p>to forskellige resultater i mine tekster hvor sidste resultat er en tekst hvor &lsquo;politik&rsquo; fylder mere end i første.</p>
+</code></pre><p>Altså to forskellige resultater i mine tekster hvor sidste resultat er en tekst hvor &lsquo;politik&rsquo; fylder mere end i første.</p>
 <p>Et helt tredje resultat får jeg ved</p>
 <pre tabindex="0"><code>recollq -n 1 &#39;dansk -politik&#39;
-</code></pre><p>for her er alle tekster med &lsquo;politik&rsquo; i sorteret fra.</p>
+</code></pre><p>for her er alle tekster med ordet &lsquo;politik&rsquo; i sorteret fra.</p>
+<p>Det var nogen af mulighederne som gør det nemmere at finde relevante tekster frem i et stort lokalt arkiv.</p>
 <ul class="pa0">
   
 </ul>
