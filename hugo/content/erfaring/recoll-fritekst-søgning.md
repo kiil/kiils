@@ -40,9 +40,9 @@ Recoll er baseret på Xapian som er en open source søgemaskine.
 
 Recoll har både en grafisk brugerflade og kan bruges fra kommandolinjen.
 
-Jeg mangler dog en enkelt ting, fordi jeg sjældent arbejder med pdf eller doxc eller lignende så er sidenumre ikke så relevante for mig.
+Jeg mangler dog en enkelt ting, fordi jeg sjældent arbejder med pdf eller docx eller lignende, så er sidenumre ikke så relevante for mig.
 
-Men når jeg hovedsageligt skriver tekster til digitale medier direkte i plain tekst eller markdown format, som jo også bare er tekst, så er linjenumre til gengæld enormt praktiske at have med fra en overordnet fritekstsøgning.
+Men når jeg hovedsageligt skriver tekster til digitale medier direkte i plain tekst eller markdown format, som jo også bare er tekst, så er linjenumre til gengæld enormt praktiske at have med i snippets fra en overordnet fritekstsøgning.
 
 Jeg har derfor efterspurgt en feature i Recoll her
 

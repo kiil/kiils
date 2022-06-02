@@ -40,7 +40,7 @@ I mine tekster er der skrevet noget om biler en del gange:
 167
 ```
 
-Med ´-s danish´ søger Recoll på 'bil' og alle andre former af ordet, selvom det er indtastet som 'bilerne'.
+Med `-s danish` søger Recoll på 'bil' og alle andre former af ordet, selvom det er indtastet som 'bilerne'.
 
 Men hvad nu hvis man kun vil søge på en bestemt form af et ord? Altså for eksempel 'bilerne' nøjagtig sådan.
 
@@ -112,7 +112,7 @@ Og med maksimalt fem ord mellem søgeordene hvor *rækkefølgen* er ligegyldig, 
 
 ## Vægt og prioritet
 
-Normalt tæller antal gange et søgeord optræder i en tekst meget for relevansen, og man kan kunstigt oprioritere et bestemt ord ud af flere i en søgning.
+Normalt tæller antal gange, et søgeord optræder i en tekst, meget for relevansen, og man kan kunstigt oprioritere et bestemt ord ud af flere i en søgning.
 
 Hvis et søgeord i en forespørgsel er ekstra vigtigt, kan det gives en højere vægt.
 
@@ -142,4 +142,4 @@ recollq -n 1 'dansk -politik'
 
 for her er alle tekster med ordet 'politik' i helt sorteret fra.
 
-Det var nogen af mulighederne som gør det nemmere at finde relevante tekster frem i et stort lokalt arkiv.
+Det var nogen af mulighederne som gør det nemmere at finde relevante tekster og brudstykker af tekster frem i et stort lokalt arkiv.
