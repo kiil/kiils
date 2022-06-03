@@ -9,4 +9,4 @@ menu:
     parent: Emner
 ---
 
-> Tip: Overlad aldrig dit indhold til tilfældighederne. Der skal fokus, planlægning og organisering til.
+> Tip: Det er ikke nok et spytte tekster ud - en effektiv kommunikation kræver fokus, planlægning og organisering
