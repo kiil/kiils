@@ -9,4 +9,4 @@ menu:
     parent: Emner
 ---
 
-> Tænk først over hvad du vil opnå med dine tekster ---  effektiv kommunikation kræver fokus, planlægning og organisering
+> Tænk over hvad du vil opnå med dine tekster ---  effektiv kommunikation kræver fokus og planlægning
