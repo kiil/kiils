@@ -17,7 +17,7 @@ weight = -100
 +++
 
 
-Et lind strøm at relevant indhold er i dag en forudsætning for at fastholde opmærksomheden på et medie eller brand --- eller bare en blog.
+En lind strøm af relevant indhold er i dag en forudsætning for at fastholde opmærksomheden på et medie eller brand --- eller bare en blog.
 
 Indholdsstrategi er den langsigtede tilgang til den daglige redaktionelle proces med at skabe, udvælge og mikse indhold.
 
