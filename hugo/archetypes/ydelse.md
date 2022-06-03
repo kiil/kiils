@@ -11,7 +11,7 @@ weight = -100
 
 
 #[menu]
-#  [foot] 
+#  [menu.foot] 
 #    name = 'Redigering'
 #    weight = 9
 #    parent = 'Ydelser'

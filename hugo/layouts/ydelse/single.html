@@ -5,7 +5,7 @@
         <p class="f6 b helvetica tracked">
 	<a class="link" href="/{{ .Section | urlize }}">{{ humanize .Section | upper  }}</a> 
         </p>
-        <h1 class="f1">
+        <h1 class="f1 f-headline-l">
           {{ .Title }}
         </h1>
       </header>
@@ -13,7 +13,7 @@
         {{ .Content }}
       </div>
 
-    <div class="f3">
+    <div class="f3 bg-white br3 br--top black mv5 pv3 ph3">
 	    Kontakt konsulent Lennart Kiil direkte på telefon 40261872 eller e-mail lennartkiil@gmail.com
     </div>
     <aside class="mt4">
@@ -22,6 +22,8 @@
 
 
     </article>
+
+    {{/* COMMENT OUT START
 
     <div class="flex items-center justify-center pa4">
             {{ if .NextInSection }}
@@ -44,6 +46,7 @@
             {{ end }}
           </div>
 
+    COMMENT OUT END */}}
 
 
 {{ end }}
