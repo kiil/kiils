@@ -86,8 +86,29 @@
     
     , 
     {
+        "url": "/emner/",
+        "title": "Emner",
+        "content": "Emner i det arbejde Kiils laver\n"
+    }
+    
+    , 
+    {
         "url": "/erfaring/",
         "title": "Erfaring",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/friteksts%C3%B8gning/",
+        "title": "Fritekstsøgning",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/indholdsstyring/",
+        "title": "Indholdsstyring",
         "content": ""
     }
     
@@ -138,20 +159,6 @@
         "url": "/ydelse/krydstjek/",
         "title": "Krydstjek",
         "content": "Hvordan fungerer din tekst på forside og landingssider. Favner den alle de enheder som de besøgende bruger?\nI dag skal de korte, kontante tekster både fungere på laptop, tablet og mobil. Det undersøger jeg om de gør, og giver bud på forbedringer.\n"
-    }
-    
-    , 
-    {
-        "url": "/emner/",
-        "title": "Emner",
-        "content": "Emner i det arbejde Kiils laver\n"
-    }
-    
-    , 
-    {
-        "url": "/emner/friteksts%C3%B8gning/",
-        "title": "Fritekstsøgning",
-        "content": ""
     }
     
     , 

@@ -17,7 +17,7 @@ keywords = ['Recoll']
 
 #cases = ['']
 #cm = ['']
-#emner = ['']
+emner = ['Indholdsstyring', 'Fritekstsøgning']
 tools = ['Recoll']
 +++
 
