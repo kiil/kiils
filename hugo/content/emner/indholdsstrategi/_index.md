@@ -9,4 +9,4 @@ menu:
     parent: Emner
 ---
 
-> Tip: Det er ikke nok et spytte tekster ud - en effektiv kommunikation kræver fokus, planlægning og organisering
+> Tænk først over hvad du vil opnå med dine tekster ---  effektiv kommunikation kræver fokus, planlægning og organisering
