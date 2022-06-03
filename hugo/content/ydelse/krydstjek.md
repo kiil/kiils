@@ -10,3 +10,5 @@ summary = 'Fungerer dine tekster på tværs af enheder?'
 Hvordan fungerer din tekst på forside og landingssider. Favner den alle de enheder som de besøgende bruger?
 
 I dag skal de korte, kontante tekster både fungere på laptop, tablet og mobil. Det undersøger jeg om de gør, og giver bud på forbedringer.
+
+Jeg fokuserer på teksterne og det indholdsmæssige, men jeg kan også kommentere på de tekniske aspekter omkring præsentation, men jeg implementerer ikke disse.

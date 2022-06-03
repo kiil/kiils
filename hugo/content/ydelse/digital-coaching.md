@@ -9,11 +9,12 @@ description: ''
 weight: 100
 
 
-menu:
-  foot:
-    name: Digital coaching
-    parent: Ydelser
-    weight: 90
+#menu:
+#  foot:
+#    name: Digital coaching
+#    parent: Ydelser
+#    weight: 90
+
 ---
 
 Digital coaching er uden tvivl den bredeste ydelse i mit sortiment.
