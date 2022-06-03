@@ -2,6 +2,27 @@
     
     
     {
+        "url": "/ydelse/indholdsstrategi/",
+        "title": "Hjælp til indholdsstrategi",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/ydelse/formidling/",
+        "title": "Formidling i særklasse",
+        "content": "Formidling er en af mine spidskompetencer. Jeg har arbejdet mange år som videnskabsjournallist, og har flere større formidlingsopgaver i porteføljen.\n"
+    }
+    
+    , 
+    {
+        "url": "/ydelse/redigering/",
+        "title": "Redigering af tekst",
+        "content": "Jeg sælger redigering af tekster som journalistisk ydelse.\nJeg har enorm stor erfaring med redigering af tekster, og jeg har uden overdrivelse redigeret tusindvis af tekster.\nMin redigering sker som regel først efter at du i store træk har lagt dig fast på hvad der skal med i din tekst og hvor der skal skæres fra.\n"
+    }
+    
+    , 
+    {
         "url": "/ydelse/",
         "title": "Ydelser",
         "content": "Rådgivning omkring produktion, præsentation og udbredelse af tekst-baseret indhold\n"
@@ -23,13 +44,6 @@
     
     , 
     {
-        "url": "/ydelse/redigering/",
-        "title": "Redigering af tekst",
-        "content": "Jeg sælger redigering af tekster som journalistisk ydelse.\nJeg har enorm stor erfaring med redigering af tekster, og jeg har uden overdrivelse redigeret tusindvis af tekster.\nMin redigering sker som regel først efter at du i store træk har lagt dig fast på hvad der skal med i din tekst og hvor der skal skæres fra.\n"
-    }
-    
-    , 
-    {
         "url": "/erfaring/journalistik/nutella/",
         "title": "Put aldrig smør under nutella",
         "content": "Hvad nytter et vigtigt budskab hvis ingen ser det?\nPå nettet er rubrikker, altså overskrifter, enormt vigtige fordi de afgør om en tekst bliver læst eller ej.\nJeg har skrevet 10.000 rubrikker. Og jeg har data på 4000 af dem.\nDet gør at jeg har både en følelse for hvad der virker — og konkret viden til at bakke min intuition op.\nEn overskrift skal fange læserens interesse, så læseren klikker og dykkere videre ned i teksten hvor det egentlige budskab så udfoldes.\nLad os tage et eksempel:\nDerfor må du aldrig putte smør under din Nutella-mad    Derfor må du aldrig putte smør under Nutella     Løfte vedkommende nødvendig bred appel          Her lægger rubrikken op til at brødteksten indeholder viden som er vigtig for mange mennesker.\nHvor mange har ikke smurt smør under deres Nutella? Og hvorfor må man så aldrig gøre det?\nOg man skal naturligvis levere den viden man lover i overskriften.\nDet er en måde at lave en fængende overskrift på. Der er mange andre.\nBook en tid og få hjælp til at lave bedre rubrikker.\n"
@@ -47,13 +61,6 @@
         "url": "/ydelse/balance/",
         "title": "Find balancen mellem analog og digital",
         "content": "Det digitale fylder meget. Hvordan tæmmer man den evindelige strøm af nyheder og notifikationer.\n"
-    }
-    
-    , 
-    {
-        "url": "/ydelse/formidling/",
-        "title": "Formidling",
-        "content": "Formidling er en af mine spidskompetencer. Jeg har arbejdet mange år som videnskabsjournallist, og har flere større formidlingsopgaver i porteføljen.\n"
     }
     
     , 
@@ -86,9 +93,23 @@
     
     , 
     {
+        "url": "/emner/indholdsstrategi/",
+        "title": "Alt om Indholdsstrategi",
+        "content": " Tip: Overlad aldrig dit indhold til tilfældighederne. Der skal fokus, planlægning og organisering til.\n "
+    }
+    
+    , 
+    {
         "url": "/emner/",
         "title": "Emner",
         "content": "Emner i det arbejde Kiils laver\n"
+    }
+    
+    , 
+    {
+        "url": "/",
+        "title": "Kiils",
+        "content": " Stærke tekster til en digital tidsalder  "
     }
     
     , 
@@ -110,13 +131,6 @@
         "url": "/emner/indholdsstyring/",
         "title": "Indholdsstyring",
         "content": ""
-    }
-    
-    , 
-    {
-        "url": "/",
-        "title": "Kiils",
-        "content": " Stærke tekster til en digital tidsalder  "
     }
     
     , 
@@ -296,8 +310,8 @@
     
     , 
     {
-        "url": "/emner/indholdsh%C3%A5ndtering/",
-        "title": "Indholdshåndtering",
+        "url": "/emner/formidling/",
+        "title": "Formidling",
         "content": ""
     }
     
@@ -317,16 +331,16 @@
     
     , 
     {
-        "url": "/ydelse/rubrikker/",
-        "title": "Fængende rubrikker",
-        "content": "Jeg har skrevet 10.000 rubrikker. Og jeg har data på 4000 af dem.\n"
+        "url": "/emner/rubrikker/",
+        "title": "rubrikker",
+        "content": ""
     }
     
     , 
     {
-        "url": "/emner/rubrikker/",
-        "title": "rubrikker",
-        "content": ""
+        "url": "/ydelse/rubrikker/",
+        "title": "Rubrikker der rykker",
+        "content": "Jeg har skrevet 10.000 rubrikker. Og jeg har data på 4000 af dem.\n"
     }
     
     , 
@@ -509,6 +523,13 @@
         "url": "/genrer/",
         "title": "Genrer",
         "content": "Genrer på Kiils\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/indholdsh%C3%A5ndtering/",
+        "title": "Indholdshåndtering",
+        "content": ""
     }
     
     , 
@@ -922,13 +943,6 @@
         "url": "/erfaring/seo/google-tidlig-indsats/",
         "title": "Google belønner tidlig indsats",
         "content": "Små medier kan markere sig ved at være først med på internationale navne. Og det er tilsyneladende også noget som giver bonus i søgeresultaterne.\nFor ikke så længe tid siden skrev jeg et indlæg her på Kiils med titlen: Når de små medier overhaler de store :\n De små medier er generelt mere manøvredygtige end de store. Det gælder også på indholdsstrategien.\nDet betyder at små medier kan reagere hurtigt på internationale trends.\nEt eksempel på dette er at Folkets Avis har skrevet meget om Jordan Peterson . Det har de store danske medier ikke, på trods af at han er en meget omtalt mand i den internationale presse.\n Folkets Avis var altså tidligt ude og markere sig med indhold om Jordan Peterson, som ikke var blevet opdaget af den øvrige danske presse endnu på det tidspunkt.\nI dag har flere medier så skrevet om manden.\nMen den indsats, Folkets Avis gjorde, gav ikke bare trafik dengang. Noget tyder på at en tidlig og relativ omfattende indsats belønnes af Googles søgemaskinealgoritme.\nSe her:\nDet er en flot placering. Om det bliver muligt at holde den, vil tiden vise.\nMen det er i hvert fald rart at se at det betaler sig at gøre en grundig og tidlig indsats.\n"
-    }
-    
-    , 
-    {
-        "url": "/emner/indholdsstrategi/",
-        "title": "Indholdsstrategi",
-        "content": ""
     }
     
     , 

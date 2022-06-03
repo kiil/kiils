@@ -1,20 +1,20 @@
----
-title: 'Redigering af tekst'
-summary: ' '
-# featured_image: ' '
-description: 'Få redigeret en tekst'
-# thumbnail: ' '
-# toc: true
++++
+title = 'Redigering af tekst'
+summary = 'Kiils har redigeret tusindvis af tekster og kan hjælpe dig med dine'
+#featured_image = ' '
+description = 'Få redigeret en tekst'
+#thumbnail = ' '
+# toc = true
+emner = ['Redigering']
+weight = -100
 
-weight: 9
+[menu]
+  [foot] 
+    name = 'Redigering'
+    weight = 9
+    parent = 'Ydelser'
 
-menu:
-  foot:
-    name: Redigering
-    weight: 9
-    parent: Ydelser
-
----
++++
 
 Jeg sælger redigering af tekster som journalistisk ydelse.
 

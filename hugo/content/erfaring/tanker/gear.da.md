@@ -31,7 +31,7 @@ skribenter:
   - lennart-kiil
 date: '2022-05-05'
 emner:
-  - Indholdshåndtering
+  - Formidling
 tools:
   - Vim
 cases:

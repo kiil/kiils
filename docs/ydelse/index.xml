@@ -6,14 +6,23 @@
     <description>Recent content in Ydelser on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Tue, 31 May 2022 09:41:22 +0200</lastBuildDate><atom:link href="https://www.kiils.dk/ydelse/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jun 2022 10:43:51 +0200</lastBuildDate><atom:link href="https://www.kiils.dk/ydelse/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Køb et faktatjek</title>
-      <link>https://www.kiils.dk/ydelse/faktatjek/</link>
+      <title>Hjælp til indholdsstrategi</title>
+      <link>https://www.kiils.dk/ydelse/indholdsstrategi/</link>
+      <pubDate>Fri, 03 Jun 2022 10:43:51 +0200</pubDate>
+      
+      <guid>https://www.kiils.dk/ydelse/indholdsstrategi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formidling i særklasse</title>
+      <link>https://www.kiils.dk/ydelse/formidling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/ydelse/faktatjek/</guid>
-      <description>Få tjekket en påstand eller et udsagn</description>
+      <guid>https://www.kiils.dk/ydelse/formidling/</guid>
+      <description>Formidling er en spidskompetence hos Kiils - få dit budskab sikkert igennem her</description>
     </item>
     
     <item>
@@ -22,7 +31,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/ydelse/redigering/</guid>
-      <description></description>
+      <description>Kiils har redigeret tusindvis af tekster og kan hjælpe dig med dine</description>
+    </item>
+    
+    <item>
+      <title>Køb et faktatjek</title>
+      <link>https://www.kiils.dk/ydelse/faktatjek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/ydelse/faktatjek/</guid>
+      <description>Få tjekket en påstand eller et udsagn</description>
     </item>
     
     <item>
@@ -41,15 +59,6 @@
       
       <guid>https://www.kiils.dk/ydelse/balance/</guid>
       <description>Tager det digitale for meget af din tid</description>
-    </item>
-    
-    <item>
-      <title>Formidling</title>
-      <link>https://www.kiils.dk/ydelse/formidling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/ydelse/formidling/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -98,7 +107,7 @@
     </item>
     
     <item>
-      <title>Fængende rubrikker</title>
+      <title>Rubrikker der rykker</title>
       <link>https://www.kiils.dk/ydelse/rubrikker/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
       

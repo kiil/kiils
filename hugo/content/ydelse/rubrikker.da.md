@@ -1,5 +1,5 @@
 ---
-title: 'Fængende rubrikker'
+title: 'Rubrikker der rykker'
 
 # summary bruges i snippets på interne oversigter
 #summary: ' '

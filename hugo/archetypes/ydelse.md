@@ -5,4 +5,16 @@ title = '{{ replace .Name '-' ' ' | title }}'
 #summary = ''
 #keywords = ['']
 #pris =
+
+#emner = ['']
+weight = -100
+
+
+#[menu]
+#  [foot] 
+#    name = 'Redigering'
+#    weight = 9
+#    parent = 'Ydelser'
+
+
 +++
