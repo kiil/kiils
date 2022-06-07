@@ -1,4 +1,5 @@
 ---
 title: Rådgivning
+type: post
 ---
 
