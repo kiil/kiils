@@ -8,15 +8,6 @@
     <language>da-dk</language>
     <lastBuildDate>Thu, 09 Jun 2022 12:56:22 +0200</lastBuildDate><atom:link href="https://www.kiils.dk/skribenter/lennart-kiil/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Put aldrig smør under nutella</title>
-      <link>https://www.kiils.dk/erfaring/journalistik/nutella/</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/erfaring/journalistik/nutella/</guid>
-      <description>En fængende rubrik</description>
-    </item>
-    
-    <item>
       <title>Når man ringer til en potentiel kunde, og bliver bedt om at sende en mail.</title>
       <link>https://www.kiils.dk/erfaring/mail-henvendelse/</link>
       <pubDate>Thu, 09 Jun 2022 12:56:22 +0200</pubDate>
@@ -93,6 +84,15 @@ Jeg har brugt en del tid på at finde et værktøj som kunne indeksere mine file
       
       <guid>https://www.kiils.dk/erfaring/tanker/gear/</guid>
       <description>Nogle gange er det nemt at forklare noget som ellers kan være ret svært</description>
+    </item>
+    
+    <item>
+      <title>Put aldrig smør under nutella</title>
+      <link>https://www.kiils.dk/erfaring/journalistik/nutella/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/journalistik/nutella/</guid>
+      <description>En fængende rubrik</description>
     </item>
     
     <item>

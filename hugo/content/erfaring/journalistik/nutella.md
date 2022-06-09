@@ -1,35 +1,19 @@
 ---
-
-
-
-
-
-
-
-
-
-
+date: '2022-05-04'
 show_reading_time: true
 skribenter:
   - lennart-kiil
-date: '2022-05-06'
-
-
-
 
 title: 'Put aldrig smør under nutella'
 summary: 'En fængende rubrik'
-
 
 description: 'Sådan virker det'
 
 images:
 - erfaring/journalistik/nutella.jpg
 
-
 # toc: true
 
-weight: 100
 
 emner:
   - rubrikker
@@ -46,7 +30,6 @@ keywords:
 show_reading_time: true
 skribenter:
   - lennart-kiil
-date: '2022-05-04'
 
 ---
 
