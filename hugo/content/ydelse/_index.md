@@ -1,6 +1,6 @@
 ---
 title: Ydelser
-description: Digitalt tekst-baseret indhold
+description: Rådgivning, research og redaktionelt arbejde
 type: list
 
 weight: -50
@@ -14,4 +14,3 @@ menu:
 ---
 
 
-Rådgivning omkring produktion, præsentation og udbredelse af tekst-baseret indhold
