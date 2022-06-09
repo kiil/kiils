@@ -93,6 +93,55 @@
     
     , 
     {
+        "url": "/erfaring/2022-06-08t123345/",
+        "title": "Bruge hugo server på lokalt netværk",
+        "content": "Skulle aktivere port for min aktuelle zone:\nfirewall-cmd --zone=home --add-port 1313/tcp Home | firewalld sudo nft list ruleset | rg 1313 -C chain filter_IN_home_allow { tcp dport 22 ct state { new, untracked } accept ip daddr 224.0.0.251 udp dport 5353 ct state { new, untracked } accept ip6 daddr ff02::fb udp dport 5353 ct state { new, untracked } accept udp dport 137 ct helper set \u0026quot;helper-netbios-ns-udp\u0026quot; udp dport 137 ct state { new, untracked } accept udp dport 138 ct state { new, untracked } accept ip6 daddr fe80::/64 udp dport 546 ct state { new, untracked } accept tcp dport 1313 ct state { new, untracked } accept } nftables is the modern Linux kernel packet classification framework. New code should use it instead of the legacy {ip,ip6,arp,eb}_tables (xtables) infrastructure. For existing codebases that have not yet converted, the legacy xtables infrastructure is still maintained as of 2021. Automated tools assist the xtables to nftables conversion process. Netfilter is a framework provided by the Linux kernel that allows various networking-related operations to be implemented in the form of customized handlers. Netfilter offers various functions and operations for packet filtering, network address translation, and port translation, which provide the functionality required for directing packets through a network and prohibiting packets from reaching sensitive locations within a network.  Netfilter represents a set of hooks inside the Linux kernel, allowing specific kernel modules to register callback functions with the kernel\u0026rsquo;s networking stack. Those functions, usually applied to the traffic in the form of filtering and modification rules, are called for every packet that traverses the respective hook within the networking stack.[3]\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaring/",
+        "title": "Erfaring",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/hugo/",
+        "title": "hugo",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/",
+        "title": "Kiils",
+        "content": " Stærke tekster til en digital tidsalder  "
+    }
+    
+    , 
+    {
+        "url": "/skribenter/lennart-kiil/",
+        "title": "Lennart Kiil",
+        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
+    }
+    
+    , 
+    {
+        "url": "/skribenter/",
+        "title": "Skribenter",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/",
+        "title": "Tools",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/emner/indholdsstrategi/",
         "title": "Alt om Indholdsstrategi",
         "content": " Tænk over hvad du vil opnå med dine tekster \u0026mdash; effektiv kommunikation kræver fokus og planlægning\n "
@@ -107,22 +156,8 @@
     
     , 
     {
-        "url": "/",
-        "title": "Kiils",
-        "content": " Stærke tekster til en digital tidsalder  "
-    }
-    
-    , 
-    {
         "url": "/ydelse/raadgivning/",
         "title": "Rådgivning",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/erfaring/",
-        "title": "Erfaring",
         "content": ""
     }
     
@@ -142,22 +177,8 @@
     
     , 
     {
-        "url": "/skribenter/lennart-kiil/",
-        "title": "Lennart Kiil",
-        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
-    }
-    
-    , 
-    {
         "url": "/tools/recoll/",
         "title": "Recoll",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/skribenter/",
-        "title": "Skribenter",
         "content": ""
     }
     
@@ -166,13 +187,6 @@
         "url": "/erfaring/recoll-smart-s%C3%B8gning/",
         "title": "Smarte søgefunktioner i Recoll",
         "content": "Noget af det jeg manglede i MacOS Spotlight søgemaskinen, var en mere omfattende syntaks for søgning.\nRecoll er både smart og omfangsrig på det område.\nStemming Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme.\nStemming finder roden af et ord og de forskellige afledninger. På den måde får man flere resultater på en søgning, og nogle af dem vil være relevante nok.\nMed Recoll og Xapian tages der endda konkret højde for nøjagtig de ord som findes i dit indeks.\nI mine tekster er der skrevet noget om biler en del gange:\n\u0026gt; recollq -s danish bilerne | count 167 Med -s danish søger Recoll på \u0026lsquo;bil\u0026rsquo; og alle andre former af ordet, selvom det er indtastet som \u0026lsquo;bilerne\u0026rsquo;.\nMen hvad nu hvis man kun vil søge på en bestemt form af et ord? Altså for eksempel \u0026lsquo;bilerne\u0026rsquo; nøjagtig sådan.\nStort forbogstav slår ganske enkelt stemmning fra:\nSå Bilerne kun søger på \u0026lsquo;bilerne\u0026rsquo;, mens bilerne søger på \u0026lsquo;bilerne\u0026rsquo;, \u0026lsquo;biler\u0026rsquo;, \u0026lsquo;bil\u0026rsquo; etc.\n\u0026gt; recollq -s danish Bilerne | count 4 Så jeg har altså kun fire tekster i mit arkiv hvor præcist bil indgår i bestemt flertal.\nStemming er heller ikke slået til når man søger en frase som for eksempel \u0026quot;bilerne er\u0026quot; da fraser jo er bogstavelige.\nNærhed (proximity) Recoll tager automatisk højde for nærhed når søgeresultater sorteres. Men en bestemt rækkefølge og et bestemt maksimalt antal ord kan også efterspørges.\nSøgning efter \u0026lsquo;dansk\u0026rsquo; eller \u0026lsquo;politik\u0026rsquo; med dansk stemming:\n\u0026gt; recollq -s danish \u0026#39;dansk politik\u0026#39; | count 507 Uden stemming\n\u0026gt; recollq \u0026#39;dansk politik\u0026#39; | count 110 Så snart man søger på en frase, gør stemming ingen forskel:\n\u0026gt; recollq -s danish \u0026#39;\u0026#34;dansk politik\u0026#34;\u0026#39; | count 53 og\n\u0026gt; recollq \u0026#39;\u0026#34;dansk politik\u0026#34;\u0026#39; | count 53 er ækvivalente.\nAccepterer man op til 5 ord imellem \u0026lsquo;dansk\u0026rsquo; og \u0026lsquo;politik\u0026rsquo;, men stadig samme rækkefølge af søgeord, kan det udtrykkes således:\n\u0026gt; recollq \u0026#39;\u0026#34;dansk politik\u0026#34;o5\u0026#39; | count 57 Og med maksimalt fem ord mellem søgeordene hvor rækkefølgen er ligegyldig, stiger antal søgeresultater i det her tilfælde yderligere en smule:\n\u0026gt; recollq \u0026#39;\u0026#34;dansk politik\u0026#34;p5\u0026#39; | count 61 Vægt og prioritet Normalt tæller antal gange, et søgeord optræder i en tekst, meget for relevansen, og man kan kunstigt oprioritere et bestemt ord ud af flere i en søgning.\nHvis et søgeord i en forespørgsel er ekstra vigtigt, kan det gives en højere vægt.\nFor eksempel giver\n\u0026gt; recollq -n 1 \u0026#39;\u0026#34;dansk\u0026#34;10 politik\u0026#39; Recoll query: Query((5 * dansk AND politik)) [file:///home/lk/TEKST/ARKIV/undertrykt-stakke-revolution-dansk-politik.da.md] mens\n\u0026gt; recollq -n 1 \u0026#39;dansk \u0026#34;politik\u0026#34;10\u0026#39; Recoll query: Query((dansk AND 10 * politik)) [file:///home/lk/TEKST/ARKIV/BACKUP/Folkets Avis/Indhold/Ledere/Et vendepunkt i dansk politik.txt]\tAltså to forskellige resultater i mine tekster hvor sidste resultat er en tekst hvor \u0026lsquo;politik\u0026rsquo; fylder mere end i første.\nEt helt tredje resultat får jeg ved\nrecollq -n 1 \u0026#39;dansk -politik\u0026#39; for her er alle tekster med ordet \u0026lsquo;politik\u0026rsquo; i helt sorteret fra.\nDet var nogen af mulighederne som gør det nemmere at finde relevante tekster og brudstykker af tekster frem i et stort lokalt arkiv.\n"
-    }
-    
-    , 
-    {
-        "url": "/tools/",
-        "title": "Tools",
-        "content": ""
     }
     
     , 
@@ -270,13 +284,6 @@
     {
         "url": "/tools/grep/",
         "title": "grep",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/hugo/",
-        "title": "Hugo",
         "content": ""
     }
     

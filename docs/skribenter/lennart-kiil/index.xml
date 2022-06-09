@@ -6,7 +6,7 @@
     <description>Recent content in Lennart Kiil on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Tue, 31 May 2022 12:24:26 +0200</lastBuildDate><atom:link href="https://www.kiils.dk/skribenter/lennart-kiil/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jun 2022 12:33:45 +0200</lastBuildDate><atom:link href="https://www.kiils.dk/skribenter/lennart-kiil/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Put aldrig smør under nutella</title>
       <link>https://www.kiils.dk/erfaring/journalistik/nutella/</link>
@@ -14,6 +14,16 @@
       
       <guid>https://www.kiils.dk/erfaring/journalistik/nutella/</guid>
       <description>En fængende rubrik</description>
+    </item>
+    
+    <item>
+      <title>Bruge hugo server på lokalt netværk</title>
+      <link>https://www.kiils.dk/erfaring/2022-06-08t123345/</link>
+      <pubDate>Wed, 08 Jun 2022 12:33:45 +0200</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/2022-06-08t123345/</guid>
+      <description>Skulle aktivere port for min aktuelle zone:
+firewall-cmd --zone=home --add-port 1313/tcp Home | firewalld sudo nft list ruleset | rg 1313 -C chain filter_IN_home_allow { tcp dport 22 ct state { new, untracked } accept ip daddr 224.0.0.251 udp dport 5353 ct state { new, untracked } accept ip6 daddr ff02::fb udp dport 5353 ct state { new, untracked } accept udp dport 137 ct helper set &amp;quot;helper-netbios-ns-udp&amp;quot; udp dport 137 ct state { new, untracked } accept udp dport 138 ct state { new, untracked } accept ip6 daddr fe80::/64 udp dport 546 ct state { new, untracked } accept tcp dport 1313 ct state { new, untracked } accept } nftables is the modern Linux kernel packet classification framework.</description>
     </item>
     
     <item>

@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Ydelser</title>
+    <title>Bruge hugo server på lokalt netværk</title>
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1">
 
-    <meta name="description" content="Digitalt tekst-baseret indhold">
+    <meta name="description" content="">
 
 
 
@@ -33,18 +33,25 @@
       
     
 
-    <link rel="alternate" type="application/rss+xml" href="https://www.kiils.dk/ydelse/index.xml" title="Kiils" />
-    <meta property="og:title" content="Ydelser" />
-<meta property="og:description" content="Digitalt tekst-baseret indhold" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://www.kiils.dk/ydelse/" /><meta property="og:image" content="https://www.kiils.dk/venlig.png"/><meta property="og:site_name" content="Kiils" />
+    <meta property="og:title" content="Bruge hugo server på lokalt netværk" />
+<meta property="og:description" content="Skulle aktivere port for min aktuelle zone:
+firewall-cmd --zone=home --add-port 1313/tcp Home | firewalld sudo nft list ruleset | rg 1313 -C chain filter_IN_home_allow { tcp dport 22 ct state { new, untracked } accept ip daddr 224.0.0.251 udp dport 5353 ct state { new, untracked } accept ip6 daddr ff02::fb udp dport 5353 ct state { new, untracked } accept udp dport 137 ct helper set &quot;helper-netbios-ns-udp&quot; udp dport 137 ct state { new, untracked } accept udp dport 138 ct state { new, untracked } accept ip6 daddr fe80::/64 udp dport 546 ct state { new, untracked } accept tcp dport 1313 ct state { new, untracked } accept } nftables is the modern Linux kernel packet classification framework." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.kiils.dk/erfaring/2022-06-08t123345/" /><meta property="og:image" content="https://www.kiils.dk/venlig.png"/><meta property="article:section" content="erfaring" />
+<meta property="article:published_time" content="2022-06-08T12:33:45+02:00" />
+<meta property="article:modified_time" content="2022-06-08T12:33:45+02:00" /><meta property="og:site_name" content="Kiils" />
 
-<meta itemprop="name" content="Ydelser">
-<meta itemprop="description" content="Digitalt tekst-baseret indhold"><meta name="twitter:card" content="summary_large_image"/>
+<meta itemprop="name" content="Bruge hugo server på lokalt netværk">
+<meta itemprop="description" content="Skulle aktivere port for min aktuelle zone:
+firewall-cmd --zone=home --add-port 1313/tcp Home | firewalld sudo nft list ruleset | rg 1313 -C chain filter_IN_home_allow { tcp dport 22 ct state { new, untracked } accept ip daddr 224.0.0.251 udp dport 5353 ct state { new, untracked } accept ip6 daddr ff02::fb udp dport 5353 ct state { new, untracked } accept udp dport 137 ct helper set &quot;helper-netbios-ns-udp&quot; udp dport 137 ct state { new, untracked } accept udp dport 138 ct state { new, untracked } accept ip6 daddr fe80::/64 udp dport 546 ct state { new, untracked } accept tcp dport 1313 ct state { new, untracked } accept } nftables is the modern Linux kernel packet classification framework."><meta itemprop="datePublished" content="2022-06-08T12:33:45+02:00" />
+<meta itemprop="dateModified" content="2022-06-08T12:33:45+02:00" />
+<meta itemprop="wordCount" content="271"><meta itemprop="image" content="https://www.kiils.dk/venlig.png"/>
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://www.kiils.dk/venlig.png"/>
 
-<meta name="twitter:title" content="Ydelser"/>
-<meta name="twitter:description" content="Digitalt tekst-baseret indhold"/>
+<meta name="twitter:title" content="Bruge hugo server på lokalt netværk"/>
+<meta name="twitter:description" content="Skulle aktivere port for min aktuelle zone:
+firewall-cmd --zone=home --add-port 1313/tcp Home | firewalld sudo nft list ruleset | rg 1313 -C chain filter_IN_home_allow { tcp dport 22 ct state { new, untracked } accept ip daddr 224.0.0.251 udp dport 5353 ct state { new, untracked } accept ip6 daddr ff02::fb udp dport 5353 ct state { new, untracked } accept udp dport 137 ct helper set &quot;helper-netbios-ns-udp&quot; udp dport 137 ct state { new, untracked } accept udp dport 138 ct state { new, untracked } accept ip6 daddr fe80::/64 udp dport 546 ct state { new, untracked } accept tcp dport 1313 ct state { new, untracked } accept } nftables is the modern Linux kernel packet classification framework."/>
 
       
     
@@ -53,6 +60,8 @@
   <body class="ma0 avenir bg-near-white production">
 
     
+   
+  
 
   <header class="pa3 bg-near-black">
 
@@ -155,280 +164,117 @@
 
 </nav>
 
-      <div class="pa3 pt5 pa5-l pt6-l">
-        <h1 class="mt5 f3 f2-ns fw5 white tc lh-title">
-          Ydelser
-        </h1>
-        
-          <h2 class="f4 fw5 white tc lh-copy">
-            Digitalt tekst-baseret indhold
-          </h2>
-        
-      </div>
 
   </header>
 
 
+
     <main class="pa3 w-100 w-90-l mw8 center production" role="main">
       
+  
+  <article class="flex-l flex-wrap justify-between pa4-l">
+
+    <header class="mt4 w-100">
+      <div class="f5 b helvetica tc ttu tracked">
+  
+</div>
+      <h1 class="f2 f1-l center measure-narrow athelas tc mb4 mt4">Bruge hugo server på lokalt netværk</h1>
+      <div class="f4 mid-gray center tc tracked link  ">Af
+  
+
+     <a href="/skribenter/lennart-kiil" class="link mid-gray fw6" rel="author">
+       Lennart kiil</a>
+
+  
+</div>
+      <hr class="ml0 mt4 mb2 mw-100 bb b--mid-gray">
+      <div>
+      
+      <time class="f7 dib tracked" datetime="2022-06-08T12:33:45&#43;02:00">08/06/2022</time>
+      
+      
+        <span class="f7 dib tracked"> - 2 minutter </span>
+        <span class="f7 dib tracked"> - 271 ord</span>
+      
+      </div>
 
 
- 
+    </header>
+
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Skulle aktivere port for min aktuelle zone:</p>
+<pre tabindex="0"><code>firewall-cmd --zone=home --add-port 1313/tcp
+</code></pre><p><a href="https://firewalld.org/" target="_blank">Home | firewalld</a>
+</p>
+<pre><code>sudo nft list ruleset | rg 1313 -C
 
 
-<article class="pa3 pa4-ns nested-copy-line-height nested-img">
-	<section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray"><p>Rådgivning omkring produktion, præsentation og udbredelse af tekst-baseret indhold</p>
-</section>
-	<section class="flex-ns flex-wrap justify-around mt5">
-		
-		<div class="relative w-100 w-30-l mb4 bg-white">
-			<div class="relative w-100 mb4 bg-white nested-copy-line-height">
-				<div class="bg-white mb3 pa4 gray overflow-hidden">
-					<h1 class="f3 near-black">
-						<a href="https://www.kiils.dk/ydelse/raadgivning/" class="link black dim">
-							Rådgivning
-						</a>
-					</h1>
-					<div class="nested-links f5 lh-copy nested-copy-line-height">
-						
-					</div>
-				</div>
-			</div>
-		</div>
-		
-		<div class="relative w-100 w-30-l mb4 bg-white">
-			<div class="relative w-100 mb4 bg-white nested-copy-line-height">
-				<div class="bg-white mb3 pa4 gray overflow-hidden">
-					<h1 class="f3 near-black">
-						<a href="https://www.kiils.dk/ydelse/research/" class="link black dim">
-							Research
-						</a>
-					</h1>
-					<div class="nested-links f5 lh-copy nested-copy-line-height">
-						
-					</div>
-				</div>
-			</div>
-		</div>
-		
-		<div class="relative w-100 w-30-l mb4 bg-white">
-			<div class="relative w-100 mb4 bg-white nested-copy-line-height">
-				<div class="bg-white mb3 pa4 gray overflow-hidden">
-					<h1 class="f3 near-black">
-						<a href="https://www.kiils.dk/ydelse/redaktionelt/" class="link black dim">
-							Redaktionelt arbejde
-						</a>
-					</h1>
-					<div class="nested-links f5 lh-copy nested-copy-line-height">
-						
-					</div>
-				</div>
-			</div>
-		</div>
-		
-	</section>
-
-	
-	<h3 class="w-100">Research</h3>
-
-	<section class="flex-ns flex-wrap justify-around mt5">
-		
-		<div class="relative w-100  mb4 bg-white">
-			<div class="relative w-100 mb1 bg-white nested-copy-line-height">
-				<div class="bg-white mb3 pa4 gray overflow-hidden">
-
-					<h2 class="f3 f1-l near-black">
-						<a href="https://www.kiils.dk/ydelse/research/faktatjek/" class="link black dim">
-							Køb et faktatjek
-						</a>
-					</h2>
-					 
-
-				</div>
-			</div>
-		</div>
-		
-		<div class="relative w-100  mb4 bg-white">
-			<div class="relative w-100 mb1 bg-white nested-copy-line-height">
-				<div class="bg-white mb3 pa4 gray overflow-hidden">
-
-					<h2 class="f3 f1-l near-black">
-						<a href="https://www.kiils.dk/ydelse/research/skattejagt/" class="link black dim">
-							Skattejagt
-						</a>
-					</h2>
-					 
-
-				</div>
-			</div>
-		</div>
-		
-		<div class="relative w-100  mb4 bg-white">
-			<div class="relative w-100 mb1 bg-white nested-copy-line-height">
-				<div class="bg-white mb3 pa4 gray overflow-hidden">
-
-					<h2 class="f3 f1-l near-black">
-						<a href="https://www.kiils.dk/ydelse/research/krydstjek/" class="link black dim">
-							Krydstjek
-						</a>
-					</h2>
-					 
-
-				</div>
-			</div>
-		</div>
-		
-		
-	<h3 class="w-100">Rådgivning</h3>
-
-	<section class="flex-ns flex-wrap justify-around mt5">
-		
-		<div class="relative w-100  mb4 bg-white">
-			<div class="relative w-100 mb1 bg-white nested-copy-line-height">
-				<div class="bg-white mb3 pa4 gray overflow-hidden">
-
-					<h2 class="f3 f1-l near-black">
-						<a href="https://www.kiils.dk/ydelse/raadgivning/indholdsstrategi/" class="link black dim">
-							Hjælp til indholdsstrategi
-						</a>
-					</h2>
-					 
-
-				</div>
-			</div>
-		</div>
-		
-		<div class="relative w-100  mb4 bg-white">
-			<div class="relative w-100 mb1 bg-white nested-copy-line-height">
-				<div class="bg-white mb3 pa4 gray overflow-hidden">
-
-					<h2 class="f3 f1-l near-black">
-						<a href="https://www.kiils.dk/ydelse/raadgivning/digital-coaching/" class="link black dim">
-							Digital coaching
-						</a>
-					</h2>
-					 
-
-				</div>
-			</div>
-		</div>
-		
-		<div class="relative w-100  mb4 bg-white">
-			<div class="relative w-100 mb1 bg-white nested-copy-line-height">
-				<div class="bg-white mb3 pa4 gray overflow-hidden">
-
-					<h2 class="f3 f1-l near-black">
-						<a href="https://www.kiils.dk/ydelse/raadgivning/balance/" class="link black dim">
-							Find balancen mellem analog og digital
-						</a>
-					</h2>
-					 
-
-				</div>
-			</div>
-		</div>
-		
-		<div class="relative w-100  mb4 bg-white">
-			<div class="relative w-100 mb1 bg-white nested-copy-line-height">
-				<div class="bg-white mb3 pa4 gray overflow-hidden">
-
-					<h2 class="f3 f1-l near-black">
-						<a href="https://www.kiils.dk/ydelse/raadgivning/miks/" class="link black dim">
-							Miks
-						</a>
-					</h2>
-					 
-
-				</div>
-			</div>
-		</div>
-		
-		
-	<h3 class="w-100">Redaktionelt arbejde</h3>
-
-	<section class="flex-ns flex-wrap justify-around mt5">
-		
-		<div class="relative w-100  mb4 bg-white">
-			<div class="relative w-100 mb1 bg-white nested-copy-line-height">
-				<div class="bg-white mb3 pa4 gray overflow-hidden">
-
-					<h2 class="f3 f1-l near-black">
-						<a href="https://www.kiils.dk/ydelse/redaktionelt/formidling/" class="link black dim">
-							Formidling i særklasse
-						</a>
-					</h2>
-					 
-
-				</div>
-			</div>
-		</div>
-		
-		<div class="relative w-100  mb4 bg-white">
-			<div class="relative w-100 mb1 bg-white nested-copy-line-height">
-				<div class="bg-white mb3 pa4 gray overflow-hidden">
-
-					<h2 class="f3 f1-l near-black">
-						<a href="https://www.kiils.dk/ydelse/redaktionelt/redigering/" class="link black dim">
-							Redigering af tekst
-						</a>
-					</h2>
-					 
-
-				</div>
-			</div>
-		</div>
-		
-		<div class="relative w-100  mb4 bg-white">
-			<div class="relative w-100 mb1 bg-white nested-copy-line-height">
-				<div class="bg-white mb3 pa4 gray overflow-hidden">
-
-					<h2 class="f3 f1-l near-black">
-						<a href="https://www.kiils.dk/ydelse/redaktionelt/korrektur/" class="link black dim">
-							Korrektur
-						</a>
-					</h2>
-					 
-
-				</div>
-			</div>
-		</div>
-		
-		<div class="relative w-100  mb4 bg-white">
-			<div class="relative w-100 mb1 bg-white nested-copy-line-height">
-				<div class="bg-white mb3 pa4 gray overflow-hidden">
-
-					<h2 class="f3 f1-l near-black">
-						<a href="https://www.kiils.dk/ydelse/redaktionelt/tekst/" class="link black dim">
-							Køb en tekst
-						</a>
-					</h2>
-					 
-
-				</div>
-			</div>
-		</div>
-		
-		<div class="relative w-100  mb4 bg-white">
-			<div class="relative w-100 mb1 bg-white nested-copy-line-height">
-				<div class="bg-white mb3 pa4 gray overflow-hidden">
-
-					<h2 class="f3 f1-l near-black">
-						<a href="https://www.kiils.dk/ydelse/redaktionelt/rubrikker/" class="link black dim">
-							Rubrikker der rykker
-						</a>
-					</h2>
-					 
-
-				</div>
-			</div>
-		</div>
-		
-		
-
-	</section>
+chain filter_IN_home_allow {
+	tcp dport 22 ct state { new, untracked } accept
+	ip daddr 224.0.0.251 udp dport 5353 ct state { new, untracked } accept
+	ip6 daddr ff02::fb udp dport 5353 ct state { new, untracked } accept
+	udp dport 137 ct helper set &quot;helper-netbios-ns-udp&quot;
+	udp dport 137 ct state { new, untracked } accept
+	udp dport 138 ct state { new, untracked } accept
+	ip6 daddr fe80::/64 udp dport 546 ct state { new, untracked } accept
+	tcp dport 1313 ct state { new, untracked } accept
+}
 
 
-</article>
+
+nftables is the modern Linux kernel packet classification framework. New code should use it instead of the legacy {ip,ip6,arp,eb}_tables (xtables) infrastructure. For existing codebases that have not yet converted, the legacy xtables infrastructure is still maintained as of 2021. Automated tools assist the xtables to nftables conversion process.
+
+
+Netfilter is a framework provided by the Linux kernel that allows various networking-related operations to be implemented in the form of customized handlers. Netfilter offers various functions and operations for packet filtering, network address translation, and port translation, which provide the functionality required for directing packets through a network and prohibiting packets from reaching sensitive locations within a network.
+</code></pre>
+<p>Netfilter represents a set of hooks inside the Linux kernel, allowing specific kernel modules to register callback functions with the kernel&rsquo;s networking stack. Those functions, usually applied to the traffic in the form of filtering and modification rules, are called for every packet that traverses the respective hook within the networking stack.[3]</p>
+<ul class="pa0">
+  
+</ul>
+<ul class="pa0">
+  
+</ul>
+<div class="mt6">
+        
+      </div>
+
+      <div class="flex items-center justify-center pa4">
+        
+            <a href="https://www.kiils.dk/erfaring/recoll-smart-s%C3%B8gning/" class="f5 no-underline black bg-animate hover-bg-black hover-white inline-flex items-center pa3 ba border-box mr4">
+                <svg class="w1" data-icon="chevronLeft" viewBox="0 0 32 32" style="fill:currentcolor">
+                  <title>chevronLeft icon</title>
+                  <path d="M20 1 L24 5 L14 16 L24 27 L20 31 L6 16 z"></path>
+                </svg>
+              <span class="pl1">Forrige</span>
+            </a>
+            
+            
+            <a href="https://www.kiils.dk/erfaring/journalistik/nutella/" class="f5 no-underline black bg-animate hover-bg-black hover-white inline-flex items-center pa3 ba border-box">
+              <span class="pr1">Næste</span>
+              <svg class="w1" data-icon="chevronRight" viewBox="0 0 32 32" style="fill:currentcolor">
+                <title>chevronRight icon</title>
+                <path d="M12 1 L26 16 L12 31 L8 27 L18 16 L8 5 z"></path>
+              </svg>
+            </a>
+            
+          </div>
+
+
+    </section>
+
+
+
+
+
+
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
 
     </main>
     <footer class="pa3 bg-near-black bottom-0 w-100" role="contentinfo">
