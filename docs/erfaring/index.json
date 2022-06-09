@@ -93,22 +93,15 @@
     
     , 
     {
-        "url": "/erfaring/2022-06-08t123345/",
-        "title": "Bruge hugo server på lokalt netværk",
-        "content": "Skulle aktivere port for min aktuelle zone:\nfirewall-cmd --zone=home --add-port 1313/tcp Home | firewalld sudo nft list ruleset | rg 1313 -C chain filter_IN_home_allow { tcp dport 22 ct state { new, untracked } accept ip daddr 224.0.0.251 udp dport 5353 ct state { new, untracked } accept ip6 daddr ff02::fb udp dport 5353 ct state { new, untracked } accept udp dport 137 ct helper set \u0026quot;helper-netbios-ns-udp\u0026quot; udp dport 137 ct state { new, untracked } accept udp dport 138 ct state { new, untracked } accept ip6 daddr fe80::/64 udp dport 546 ct state { new, untracked } accept tcp dport 1313 ct state { new, untracked } accept } nftables is the modern Linux kernel packet classification framework. New code should use it instead of the legacy {ip,ip6,arp,eb}_tables (xtables) infrastructure. For existing codebases that have not yet converted, the legacy xtables infrastructure is still maintained as of 2021. Automated tools assist the xtables to nftables conversion process. Netfilter is a framework provided by the Linux kernel that allows various networking-related operations to be implemented in the form of customized handlers. Netfilter offers various functions and operations for packet filtering, network address translation, and port translation, which provide the functionality required for directing packets through a network and prohibiting packets from reaching sensitive locations within a network.  Netfilter represents a set of hooks inside the Linux kernel, allowing specific kernel modules to register callback functions with the kernel\u0026rsquo;s networking stack. Those functions, usually applied to the traffic in the form of filtering and modification rules, are called for every packet that traverses the respective hook within the networking stack.[3]\n"
+        "url": "/emner/",
+        "title": "Emner",
+        "content": "Emner i det arbejde Kiils laver\n"
     }
     
     , 
     {
         "url": "/erfaring/",
         "title": "Erfaring",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/hugo/",
-        "title": "hugo",
         "content": ""
     }
     
@@ -128,8 +121,36 @@
     
     , 
     {
+        "url": "/erfaring/mail-henvendelse/",
+        "title": "Når man ringer til en potentiel kunde, og bliver bedt om at sende en mail.",
+        "content": "Hvordan følger man op på en kort telefonsamtale?\nDet kan være svært at vide om der er en reel interesse for ens ydelse, selvom man selv ser et klart behov.\nOg det kan være svært at vurdere om henstillingen \u0026ldquo;send en mail\u0026rdquo; udtrykker et reelt ønske om at modtage en mail.\nMen ofte giver det mening at følge op:\n Kære Xxxxx,\nTak for den korte samtale på telefon omkring Xxxxxx Publications.\nJeg henvendte mig dels som fast læser af Xxxxxx Magasin og dels som professionel formidler med 21 års erfaring.\nFormålet med min henvendelse var på den baggrund at tilbyde hjælp, så jeres formidling bliver endnu bedre.\nDer var der jeg kom lidt i tvivl om hvordan du forholdt dig. Min opfattelse er som følger.\nJeres niveau er allerede højt. Men jeg ved at det kan løftes. Jeg ved der er plads til forbedringer. Både nogle \u0026ldquo;lavthængende frugter\u0026rdquo; — og andre ting som vil kræve mere arbejde at opnå.\nJeg håber at min mail har vækket din interesse. Hvis ikke det er dit bord, vil jeg ydmygt bede dig om at sende mig videre til en anden person i Xxxxxxs organisation som jeg kan drøfte sagen med.\nJeg bor selv i Xxxxxx, og jeg har før arbejdet med Dansk Industri, Gentofte Hospital, Illustreret Videnskab, Berlingske Media, Ingeniøren og Ugeskriftet i forbindelse med faglig formidling. For blot at nævne nogle få.\nMed venlig hilsen,\nLennart\n Det er et vilkår at man som selvstændig skal sælge sine ydelser, og ofte skal man sælge til en beslutningstager som selv er lønmodtager.\nDet er ofte i sig selv en formidlingsopgave.\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/salg/",
+        "title": "salg",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/skribenter/",
         "title": "Skribenter",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaring/2022-06-08t123345/",
+        "title": "Bruge hugo server på lokalt netværk",
+        "content": "Jeg ville gerne se hvordan min hjemmeside så ud på mobil inden jeg offentliggjorde den.\nDerfor havde jeg brug for at kunne indlæse den fra andre enheder end den enhed som kører hugo server.\nDet burde kunne gøres med - i mit tilfælde:\nhugo server --bind 192.168.0.NNN --baseURL http://pi Desværre gav det en connection refused.\nFor at kunne tilgå hugo server på min raspberry pi, som kører linux, fra en anden enheds webbrowser, skulle jeg aktivere port 1313 for min aktuelle zone i firewall\u0026rsquo;en:\nfirewall-cmd --zone=home --add-port 1313/tcp Det er en kommando til firewalld som du kan læse om her:\nHome | firewalld Og det kan læses i nftables at indstillingen er aktuel:\nsudo nft list ruleset | rg 1313 -A1 -B8  Det giver:\nchain filter_IN_home_allow { tcp dport 22 ct state { new, untracked } accept ip daddr 224.0.0.251 udp dport 5353 ct state { new, untracked } accept ip6 daddr ff02::fb udp dport 5353 ct state { new, untracked } accept udp dport 137 ct helper set \u0026quot;helper-netbios-ns-udp\u0026quot; udp dport 137 ct state { new, untracked } accept udp dport 138 ct state { new, untracked } accept ip6 daddr fe80::/64 udp dport 546 ct state { new, untracked } accept tcp dport 1313 ct state { new, untracked } accept }  Se næstnederste linje ovenfor.\nHvad er nftables så?\n nftables is the modern Linux kernel packet classification framework.\n Som så igen kobler til Netfilter:\n Netfilter is a framework provided by the Linux kernel that allows various networking-related operations to be implemented in the form of customized handlers.\n Så blev jeg da en del klogere.\nKilder: Wikipedia og diverse hjemmesider for de pågældende værktøjer.\n"
+    }
+    
+    , 
+    {
+        "url": "/tools/hugo/",
+        "title": "hugo",
         "content": ""
     }
     
@@ -145,13 +166,6 @@
         "url": "/emner/indholdsstrategi/",
         "title": "Alt om Indholdsstrategi",
         "content": " Tænk over hvad du vil opnå med dine tekster \u0026mdash; effektiv kommunikation kræver fokus og planlægning\n "
-    }
-    
-    , 
-    {
-        "url": "/emner/",
-        "title": "Emner",
-        "content": "Emner i det arbejde Kiils laver\n"
     }
     
     , 
