@@ -27,7 +27,7 @@ disablePathToLower = false
     languageName = "Dansk 🇩🇰"
     weight = 2
     [languages.da.params]
-      images = ['venlig.png']
+     # images = ['venlig.png']
       description = "Vær så venlig"
       summary = "Vær så venlig"
       slogan = "Vær så venlig"

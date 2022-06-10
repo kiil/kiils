@@ -52,6 +52,71 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.kiils.dk/erfaring/</loc>
+    <lastmod>2022-06-10T09:50:31+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/erfaring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/erfaring/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/</loc>
+    <lastmod>2022-06-10T09:50:31+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/skribenter/lennart-kiil/</loc>
+    <lastmod>2022-06-10T09:50:31+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/skribenter/lennart-kiil/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/skribenter/lennart-kiil/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/erfaring/politikens-karaktermord/</loc>
+    <lastmod>2022-06-10T09:50:31+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/skribenter/</loc>
+    <lastmod>2022-06-10T09:50:31+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/skribenter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/skribenter/"
+                />
+  </url><url>
     <loc>https://www.kiils.dk/emner/</loc>
     <lastmod>2022-06-09T12:56:22+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -67,51 +132,6 @@
                 href="https://www.kiils.dk/emner/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/</loc>
-    <lastmod>2022-06-09T12:56:22+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/erfaring/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/erfaring/"
-                />
-  </url><url>
-    <loc>https://www.kiils.dk/</loc>
-    <lastmod>2022-06-09T12:56:22+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/"
-                />
-  </url><url>
-    <loc>https://www.kiils.dk/skribenter/lennart-kiil/</loc>
-    <lastmod>2022-06-09T12:56:22+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/skribenter/lennart-kiil/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/skribenter/lennart-kiil/"
-                />
-  </url><url>
     <loc>https://www.kiils.dk/erfaring/mail-henvendelse/</loc>
     <lastmod>2022-06-09T12:56:22+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -121,21 +141,6 @@
     <lastmod>2022-06-09T12:56:22+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/skribenter/</loc>
-    <lastmod>2022-06-09T12:56:22+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/skribenter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/skribenter/"
-                />
   </url><url>
     <loc>https://www.kiils.dk/erfaring/2022-06-08t123345/</loc>
     <lastmod>2022-06-08T12:33:45+02:00</lastmod>
