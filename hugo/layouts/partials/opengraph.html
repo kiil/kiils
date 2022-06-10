@@ -3,7 +3,10 @@
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 
+
+
 {{ $image := resources.Get "/images/canvas.png"}}
+{{if ge (len .Title) 20}}
 {{ $image = $image.Filter (images.Text .Title (dict
     "color" "#ffffff"
     "size" 90
@@ -11,6 +14,18 @@
     "x" 80
     "y" 70
 ))}}
+ {{end}}
+{{if lt (len .Title) 20}}
+{{ $image = $image.Filter (images.Text .Title (dict
+    "color" "#ffffff"
+    "size" 120
+    "linespacing" 12
+    "x" 80
+    "y" 70
+))}}
+ {{end}}
+
+
 
 <meta property="og:image" content="{{ $image.RelPermalink }}" />
 {{- /* 
