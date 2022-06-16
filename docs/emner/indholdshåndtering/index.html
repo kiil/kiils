@@ -34,7 +34,7 @@
     
 
     <link rel="alternate" type="application/rss+xml" href="https://www.kiils.dk/emner/indholdsh%C3%A5ndtering/index.xml" title="Kiils" />
-    <meta property="og:title" content="Indholdshåndtering" />
+    <meta property="og:title" content="indholdshåndtering" />
 <meta property="og:description" content="Vær så venlig" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://www.kiils.dk/emner/indholdsh%C3%A5ndtering/" />
@@ -49,11 +49,11 @@
 
 
 
-<meta property="og:image" content="/images/canvas_huf5a4a47d272c9e72b490e7eba58c5b9b_363_filter_11235929800485825052.png" /><meta property="og:site_name" content="Kiils" />
+<meta property="og:image" content="/images/canvas_huf5a4a47d272c9e72b490e7eba58c5b9b_363_filter_15630654167503488732.png" /><meta property="og:site_name" content="Kiils" />
 
-<meta itemprop="name" content="Indholdshåndtering">
+<meta itemprop="name" content="indholdshåndtering">
 <meta itemprop="description" content="Vær så venlig"><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Indholdshåndtering"/>
+<meta name="twitter:title" content="indholdshåndtering"/>
 <meta name="twitter:description" content="Vær så venlig"/>
 
       
@@ -167,7 +167,7 @@
 
       <div class="pa3 pt5 pa5-l pt6-l">
         <h1 class="mt5 f3 f2-ns fw5 white tc lh-title">
-          Indholdshåndtering
+          indholdshåndtering
         </h1>
         
       </div>
@@ -185,6 +185,26 @@
   </article>
   <div class="order-0 w-100 w-50-l">
     <section class="flex-ns flex-wrap justify-around mt5">
+      
+        <div class="relative w-100  mb4 bg-white">
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <div class="f7 helvetica ttu tracked">Erfaring</div>
+    <h1 class="f3 near-black">
+      <a href="https://www.kiils.dk/erfaring/indholdstyper-soegeindeks-hugo/" class="link black dim">
+        Udeluk bestemte indholdstyper fra søgeindeks i Hugo
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Jeg ønskede ikke mine micro-blogging &ldquo;snippets&rdquo; som jeg vil bruge på LinkedIn, skulle &ldquo;forurene&rdquo; søgeindekset her på Kiils.
+Derfor skiftede jeg
+[ {{ range $index, $value := where .Site.Pages &#34;.Draft&#34; false }} {{ if $index }}, {{ end }} { &#34;url&#34;: &#34;{{ .RelPermalink }}&#34;, &#34;title&#34;: &#34;{{ .Title }}&#34;, &#34;content&#34;: {{ .Content | plainify | jsonify }} } {{ end }} ] ud med
+[ {{ range $index, $value := where ( where .
+    </div>
+  </div>
+</div>
+
+        </div>
       
         <div class="relative w-100  mb4 bg-white">
           <div class="relative w-100 mb4 bg-white nested-copy-line-height">

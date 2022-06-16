@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Smilet</title>
+    <title>Udeluk bestemte indholdstyper fra søgeindeks i hugo</title>
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
 
@@ -17,7 +17,7 @@
     <meta name="generator" content="Hugo 0.99.1" />
     
     
-      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
     
 
     
@@ -33,11 +33,13 @@
       
     
 
-    <meta property="og:title" content="smilet" />
-<meta property="og:description" content="Men så stivnede smilet lidt for det handler for mange af os nu simpelthen om at få smør på bordet" />
+    <meta property="og:title" content="Udeluk bestemte indholdstyper fra søgeindeks i Hugo" />
+<meta property="og:description" content="Jeg ønskede ikke mine micro-blogging &ldquo;snippets&rdquo; som jeg vil bruge på LinkedIn, skulle &ldquo;forurene&rdquo; søgeindekset her på Kiils.
+Derfor skiftede jeg
+[ {{ range $index, $value := where .Site.Pages &#34;.Draft&#34; false }} {{ if $index }}, {{ end }} { &#34;url&#34;: &#34;{{ .RelPermalink }}&#34;, &#34;title&#34;: &#34;{{ .Title }}&#34;, &#34;content&#34;: {{ .Content | plainify | jsonify }} } {{ end }} ] ud med
+[ {{ range $index, $value := where ( where ." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.kiils.dk/post/2022-06-16t105944/" />
-
+<meta property="og:url" content="https://www.kiils.dk/erfaring/indholdstyper-soegeindeks-hugo/" />
 
 
 
@@ -48,23 +50,34 @@
 
 
 
-<meta property="og:image" content="/images/canvas_huf5a4a47d272c9e72b490e7eba58c5b9b_363_filter_10217291399289797053.png" /><meta property="article:section" content="short" />
-<meta property="article:published_time" content="2022-06-16T10:59:44+02:00" />
-<meta property="article:modified_time" content="2022-06-16T10:59:44+02:00" /><meta property="og:site_name" content="Kiils" />
 
-<meta itemprop="name" content="smilet">
-<meta itemprop="description" content="Men så stivnede smilet lidt for det handler for mange af os nu simpelthen om at få smør på bordet"><meta itemprop="datePublished" content="2022-06-16T10:59:44+02:00" />
-<meta itemprop="dateModified" content="2022-06-16T10:59:44+02:00" />
-<meta itemprop="wordCount" content="20">
+<meta property="og:image" content="/images/canvas_huf5a4a47d272c9e72b490e7eba58c5b9b_363_filter_4759250431735600260.png" /><meta property="article:section" content="erfaring" />
+<meta property="article:published_time" content="2022-06-16T12:10:31+02:00" />
+<meta property="article:modified_time" content="2022-06-16T12:10:31+02:00" /><meta property="og:site_name" content="Kiils" />
+
+<meta itemprop="name" content="Udeluk bestemte indholdstyper fra søgeindeks i Hugo">
+<meta itemprop="description" content="Jeg ønskede ikke mine micro-blogging &ldquo;snippets&rdquo; som jeg vil bruge på LinkedIn, skulle &ldquo;forurene&rdquo; søgeindekset her på Kiils.
+Derfor skiftede jeg
+[ {{ range $index, $value := where .Site.Pages &#34;.Draft&#34; false }} {{ if $index }}, {{ end }} { &#34;url&#34;: &#34;{{ .RelPermalink }}&#34;, &#34;title&#34;: &#34;{{ .Title }}&#34;, &#34;content&#34;: {{ .Content | plainify | jsonify }} } {{ end }} ] ud med
+[ {{ range $index, $value := where ( where ."><meta itemprop="datePublished" content="2022-06-16T12:10:31+02:00" />
+<meta itemprop="dateModified" content="2022-06-16T12:10:31+02:00" />
+<meta itemprop="wordCount" content="109">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="smilet"/>
-<meta name="twitter:description" content="Men så stivnede smilet lidt for det handler for mange af os nu simpelthen om at få smør på bordet"/>
+<meta name="twitter:title" content="Udeluk bestemte indholdstyper fra søgeindeks i Hugo"/>
+<meta name="twitter:description" content="Jeg ønskede ikke mine micro-blogging &ldquo;snippets&rdquo; som jeg vil bruge på LinkedIn, skulle &ldquo;forurene&rdquo; søgeindekset her på Kiils.
+Derfor skiftede jeg
+[ {{ range $index, $value := where .Site.Pages &#34;.Draft&#34; false }} {{ if $index }}, {{ end }} { &#34;url&#34;: &#34;{{ .RelPermalink }}&#34;, &#34;title&#34;: &#34;{{ .Title }}&#34;, &#34;content&#34;: {{ .Content | plainify | jsonify }} } {{ end }} ] ud med
+[ {{ range $index, $value := where ( where ."/>
 
+      
+    
   </head>
 
-  <body class="ma0 avenir bg-near-white">
+  <body class="ma0 avenir bg-near-white production">
 
     
+   
+  
 
   <header class="pa3 bg-near-black">
 
@@ -171,38 +184,109 @@
   </header>
 
 
-    <main class="pa3 w-100 w-90-l mw8 center" role="main">
-      
-    <article class="f4 fl w-100 w-60-l pa4-l lh-copy">
-      <header>
-        <p class="f6 b helvetica tracked">
-	<a class="link" href="/short">SHORT</a> 
-        </p>
-        <h1 class="f1 f-headline-l">
-          smilet
-        </h1>
-      </header>
-      <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
-        <p>Men så stivnede smilet lidt for det handler for mange af os nu simpelthen om at få smør på bordet</p>
 
+    <main class="pa3 w-100 w-90-l mw8 center production" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between pa4-l">
+
+
+</div>
+
+    <header class="mt4 w-100">
+      <div class="f5 b helvetica tc ttu tracked">
+  
+</div>
+      <h1 class="f2 f1-l center measure-narrow athelas tc mb4 mt4">Udeluk bestemte indholdstyper fra søgeindeks i Hugo</h1>
+      <div class="f4 mid-gray center tc tracked link  ">Af
+  
+
+     <a href="/skribenter/lennart-kiil" class="link mid-gray fw6" rel="author">
+       Lennart kiil</a>
+
+  
+</div>
+      <hr class="ml0 mt4 mb2 mw-100 bb b--mid-gray">
+      <div>
+      
+      <time class="f7 dib tracked" datetime="2022-06-16T12:10:31&#43;02:00">16/06/2022</time>
+      
+      
+        <span class="f7 dib tracked"> - Et minut </span>
+        <span class="f7 dib tracked"> - 109 ord</span>
+      
       </div>
 
-    <div class="f3 bg-white br3 br--top black mv5 pv3 ph3">
-	    Kontakt konsulent Lennart Kiil direkte på telefon 40261872 eller e-mail lennartkiil@gmail.com
-    </div>
-    <aside class="mt4">
+
+    </header>
+
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Jeg ønskede ikke mine micro-blogging &ldquo;snippets&rdquo; som jeg vil bruge på LinkedIn, skulle &ldquo;forurene&rdquo; søgeindekset her på Kiils.</p>
+<p>Derfor skiftede jeg</p>
+<pre tabindex="0"><code>[                                                                          
+    {{ range $index, $value := where .Site.Pages &#34;.Draft&#34; false }}         
+    {{ if $index }}, {{ end }}                                             
+    {                                                                      
+        &#34;url&#34;: &#34;{{ .RelPermalink }}&#34;,                                      
+        &#34;title&#34;: &#34;{{ .Title }}&#34;,                                           
+        &#34;content&#34;: {{ .Content | plainify | jsonify }}                     
+    }                                                                      
+    {{ end }}                                                              
+]      
+</code></pre><p>ud med</p>
+<pre tabindex="0"><code>[                                                                          
+    {{ range $index, $value := where ( where .Site.Pages &#34;Section&#34; &#34;!=&#34; &#34;short&#34; ) &#34;.Draft&#34; false }}                                                   
+    {{ if $index }}, {{ end }}                                             
+    {                                                                      
+        &#34;url&#34;: &#34;{{ .RelPermalink }}&#34;,                                      
+        &#34;title&#34;: &#34;{{ .Title }}&#34;,                                           
+        &#34;content&#34;: {{ .Content | plainify | jsonify }}                     
+    }                                                                      
+    {{ end }}                                                              
+]    
+</code></pre><ul class="pa0">
+  
+</ul>
+<ul class="pa0">
+  
+   <li class="list">
+     <a href="/emner/indholdsh%C3%A5ndtering" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">indholdshåndtering</a>
+   </li>
+  
+</ul>
+<div class="mt6">
+        
+      </div>
+
+      <div class="flex items-center justify-center pa4">
+        
+            <a href="https://www.kiils.dk/erfaring/politikens-karaktermord/" class="f5 no-underline black bg-animate hover-bg-black hover-white inline-flex items-center pa3 ba border-box mr4">
+                <svg class="w1" data-icon="chevronLeft" viewBox="0 0 32 32" style="fill:currentcolor">
+                  <title>chevronLeft icon</title>
+                  <path d="M20 1 L24 5 L14 16 L24 27 L20 31 L6 16 z"></path>
+                </svg>
+              <span class="pl1">Forrige</span>
+            </a>
+            
+            
+          </div>
+
+
+    </section>
+
+
+
+
+
+
+
+    <aside class="w-30-l mt6-l">
 
 
 
 
 </aside>
 
-
-    </article>
-
-    
-
-
+  </article>
 
     </main>
     <footer class="pa3 bg-near-black bottom-0 w-100" role="contentinfo">

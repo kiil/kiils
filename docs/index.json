@@ -86,9 +86,9 @@
     
     , 
     {
-        "url": "/",
-        "title": "Kiils",
-        "content": " Stærke tekster til en digital tidsalder  "
+        "url": "/emner/",
+        "title": "Emner",
+        "content": "Emner i det arbejde Kiils laver\n"
     }
     
     , 
@@ -100,16 +100,30 @@
     
     , 
     {
-        "url": "/skribenter/lennart-kiil/",
-        "title": "Lennart Kiil",
-        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
+        "url": "/tools/hugo/",
+        "title": "hugo",
+        "content": ""
     }
     
     , 
     {
-        "url": "/erfaring/politikens-karaktermord/",
-        "title": "Politikens karaktermord",
-        "content": "Forkert præmis\nCherry picking af materiale\nDefinition opfundet til lejligheden\nMisbrug af eksperters autoritet\n"
+        "url": "/emner/indholdsh%C3%A5ndtering/",
+        "title": "indholdshåndtering",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/",
+        "title": "Kiils",
+        "content": " Stærke tekster til en digital tidsalder  "
+    }
+    
+    , 
+    {
+        "url": "/skribenter/lennart-kiil/",
+        "title": "Lennart Kiil",
+        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
     }
     
     , 
@@ -121,9 +135,23 @@
     
     , 
     {
-        "url": "/emner/",
-        "title": "Emner",
-        "content": "Emner i det arbejde Kiils laver\n"
+        "url": "/tools/",
+        "title": "Tools",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaring/indholdstyper-soegeindeks-hugo/",
+        "title": "Udeluk bestemte indholdstyper fra søgeindeks i Hugo",
+        "content": "Jeg ønskede ikke mine micro-blogging \u0026ldquo;snippets\u0026rdquo; som jeg vil bruge på LinkedIn, skulle \u0026ldquo;forurene\u0026rdquo; søgeindekset her på Kiils.\nDerfor skiftede jeg\n[ {{ range $index, $value := where .Site.Pages \u0026#34;.Draft\u0026#34; false }} {{ if $index }}, {{ end }} { \u0026#34;url\u0026#34;: \u0026#34;{{ .RelPermalink }}\u0026#34;, \u0026#34;title\u0026#34;: \u0026#34;{{ .Title }}\u0026#34;, \u0026#34;content\u0026#34;: {{ .Content | plainify | jsonify }} } {{ end }} ] ud med\n[ {{ range $index, $value := where ( where .Site.Pages \u0026#34;Section\u0026#34; \u0026#34;!=\u0026#34; \u0026#34;short\u0026#34; ) \u0026#34;.Draft\u0026#34; false }} {{ if $index }}, {{ end }} { \u0026#34;url\u0026#34;: \u0026#34;{{ .RelPermalink }}\u0026#34;, \u0026#34;title\u0026#34;: \u0026#34;{{ .Title }}\u0026#34;, \u0026#34;content\u0026#34;: {{ .Content | plainify | jsonify }} } {{ end }} ] "
+    }
+    
+    , 
+    {
+        "url": "/erfaring/politikens-karaktermord/",
+        "title": "Politikens karaktermord",
+        "content": "Forkert præmis\nCherry picking af materiale\nDefinition opfundet til lejligheden\nMisbrug af eksperters autoritet\n"
     }
     
     , 
@@ -145,20 +173,6 @@
         "url": "/erfaring/2022-06-08t123345/",
         "title": "Bruge hugo server på lokalt netværk",
         "content": "Jeg ville gerne se hvordan min hjemmeside så ud på mobil inden jeg offentliggjorde den.\nDerfor havde jeg brug for at kunne indlæse den fra andre enheder end den enhed som kører hugo server.\nDet burde kunne gøres med - i mit tilfælde:\nhugo server --bind 192.168.0.NNN --baseURL http://pi Desværre gav det en connection refused.\nFor at kunne tilgå hugo server på min raspberry pi, som kører linux, fra en anden enheds webbrowser, skulle jeg aktivere port 1313 for min aktuelle zone i firewall\u0026rsquo;en:\nfirewall-cmd --zone=home --add-port 1313/tcp Det er en kommando til firewalld som du kan læse om her:\nHome | firewalld Og det kan læses i nftables at indstillingen er aktuel:\nsudo nft list ruleset | rg 1313 -A1 -B8  Det giver:\nchain filter_IN_home_allow { tcp dport 22 ct state { new, untracked } accept ip daddr 224.0.0.251 udp dport 5353 ct state { new, untracked } accept ip6 daddr ff02::fb udp dport 5353 ct state { new, untracked } accept udp dport 137 ct helper set \u0026quot;helper-netbios-ns-udp\u0026quot; udp dport 137 ct state { new, untracked } accept udp dport 138 ct state { new, untracked } accept ip6 daddr fe80::/64 udp dport 546 ct state { new, untracked } accept tcp dport 1313 ct state { new, untracked } accept }  Se næstnederste linje ovenfor.\nHvad er nftables så?\n nftables is the modern Linux kernel packet classification framework.\n Som så igen kobler til Netfilter:\n Netfilter is a framework provided by the Linux kernel that allows various networking-related operations to be implemented in the form of customized handlers.\n Så blev jeg da en del klogere.\nKilder: Wikipedia og diverse hjemmesider for de pågældende værktøjer.\n"
-    }
-    
-    , 
-    {
-        "url": "/tools/hugo/",
-        "title": "hugo",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/",
-        "title": "Tools",
-        "content": ""
     }
     
     , 
@@ -572,13 +586,6 @@
         "url": "/genrer/",
         "title": "Genrer",
         "content": "Genrer på Kiils\n"
-    }
-    
-    , 
-    {
-        "url": "/emner/indholdsh%C3%A5ndtering/",
-        "title": "Indholdshåndtering",
-        "content": ""
     }
     
     , 
