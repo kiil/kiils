@@ -86,16 +86,16 @@
     
     , 
     {
-        "url": "/erfaring/",
-        "title": "Erfaring",
-        "content": ""
+        "url": "/",
+        "title": "Kiils",
+        "content": " Stærke tekster til en digital tidsalder  "
     }
     
     , 
     {
-        "url": "/",
-        "title": "Kiils",
-        "content": " Stærke tekster til en digital tidsalder  "
+        "url": "/erfaring/",
+        "title": "Erfaring",
+        "content": ""
     }
     
     , 

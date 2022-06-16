@@ -1,0 +1,10 @@
+[
+    {{ range $index, $value := where ( where .Site.Pages "Section" "!=" "short" ) ".Draft" false }}
+    {{ if $index }}, {{ end }}
+    {
+        "url": "{{ .RelPermalink }}",
+        "title": "{{ .Title }}",
+        "content": {{ .Content | plainify | jsonify }}
+    }
+    {{ end }}
+]
