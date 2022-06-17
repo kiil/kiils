@@ -157,16 +157,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/short/</loc>
-    <lastmod>2022-06-16T10:59:44+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/short/2022-06-16-105944/</loc>
-    <lastmod>2022-06-16T10:59:44+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.kiils.dk/erfaring/politikens-karaktermord/</loc>
     <lastmod>2022-06-10T09:50:31+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1015,6 +1005,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/brands/r%C3%A6vekagen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/short/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
