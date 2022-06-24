@@ -900,6 +900,9 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.kiils.dk/test/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://www.kiils.dk/kunde/berlingske/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
