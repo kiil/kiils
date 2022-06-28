@@ -23,7 +23,9 @@ images = ['']
 #tools = ['']
 +++
 
-Som nævnt i indledningen valgte Politiken at gøre sig til dommer over andre og meget mindre medier og dømme dem ude som "junk news".
+Som nævnt i indledningen valgte Politiken at mobilisere sit mægtigste våben,nemlig definitionsmagten, til at gøre sig til dommer over andre og meget mindre medier og dømme dem ude som "junk news".
+
+Ingen skulle være i tvivl om at de gamle medier var de rigtige og de nye var noget affald. De fik bare stemplet junk news.
 
 Men var de stemplede medier i virkeligheden dømt på forhånd?
 
@@ -33,7 +35,7 @@ Her virker det som om journalisterne fuldstændig bytter om på rækkefølgen fo
 
 Politiken bytter om på rækkefølgen.
 
-Når at medie ikke passede ind i undersøgelsen, valgte Politiken ikke at udelukke mediet fra undersøgelsen, men valgte i stedet at ændre på udvælgelseskriterierne - det må have været så vigtigt for Politiken at holde bestemte medier i undersøgelsen at de var villige til at udvide og ændre på rammerne undervejs for at sikre det lykkedes.
+Når et udvalgt medie ikke passede ind i undersøgelsen, valgte Politiken ikke at udelukke mediet fra undersøgelsen, men valgte i stedet at ændre på udvælgelseskriterierne - det må have været så vigtigt for Politiken at holde bestemte medier i undersøgelsen at de var villige til at udvide og ændre på rammerne undervejs for at sikre at det lykkedes.
 
 Som Politiken selv skrev:
  
