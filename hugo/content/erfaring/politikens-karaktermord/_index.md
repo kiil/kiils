@@ -1,5 +1,5 @@
 +++
-draft = true
+#draft = true
 date = 2022-06-26
 title = "Politikens karaktermord"
 +++
