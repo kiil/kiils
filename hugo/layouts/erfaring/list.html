@@ -1,18 +1,19 @@
 {{ define "main" }}
-<article class="pa3 pa5-ns" data-name="slab-stat">
-  <dl class="dib mr5">
-    <dd class="f6 f5-ns b ml0">Erfaringer</dd>
-    <dd class="f3 f2-ns b ml0">{{ len (where .Site.RegularPages "Type" "erfaring" )  }}</dd>
-  </dl>
-</article>
+<!-- <article class="pa3 pa5-ns" data-name="slab-stat"> -->
+<!--   <dl class="dib mr5"> -->
+<!--     <dd class="f6 f5-ns b ml0">Erfaringer</dd> -->
+<!--     <dd class="f3 f2-ns b ml0">{{ len (where .Site.RegularPages "Type" "erfaring" )  }}</dd> -->
+<!--   </dl> -->
+<!-- </article> -->
   <article class="pa3 pa4-ns nested-copy-line-height nested-img">
     <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
       {{- .Content -}}
     </section>
     <section class="flex-ns flex-wrap justify-around mt5">
-      {{ range .Paginator.Pages }}
+      {{ range (.Paginate .Pages).Pages }}
         <div class="relative w-100 w-30-l mb4 bg-white">
           {{- partial "summary-erfaring.html" . -}}
+          {{ range .Pages }}<div class="bg-white ph4 pv2 gray overflow-hidden link"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>{{ end }}
         </div>
       {{ end }}
     </section>

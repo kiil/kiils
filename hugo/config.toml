@@ -22,7 +22,7 @@ disablePathToLower = false
     [languages.en.params]
       slogan = "Be so kind"
       languageName = "English 🇺🇸"
-      # linkedin = "https://linkedin.com/whoever"
+      linkedin = "https://www.linkedin.com/company/kiils/"
   [languages.da]
     title = "Kiils"
     languageName = "Dansk 🇩🇰"
@@ -33,7 +33,7 @@ disablePathToLower = false
       summary = "Vær så venlig"
       slogan = "Vær så venlig"
       languageName = "Dansk 🇩🇰"
-      # linkedin = "https://linkedin.com/fr/whoever"
+      linkedin = "https://www.linkedin.com/company/kiils/"
       [languages.da.params.navigation]
         help = "Aide"
 
