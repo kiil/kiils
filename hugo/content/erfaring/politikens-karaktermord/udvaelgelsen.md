@@ -1,6 +1,6 @@
 +++
 #draft = true
-genrer = Serie
+genrer = ['Serie']
 title = '3 Udvælgelsen'
 skribenter = ['lennart-kiil']
 date = 2022-06-10T09:50:31+02:00
