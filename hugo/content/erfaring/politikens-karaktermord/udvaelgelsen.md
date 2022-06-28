@@ -1,5 +1,5 @@
 +++
-draft = true
+#draft = true
 genrer = Serie
 title = '3 Udvælgelsen'
 skribenter = ['lennart-kiil']
