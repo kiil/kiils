@@ -1,6 +1,5 @@
 +++
 #draft = true
-genrer = ['serie']
 title = 'Del 3 — Et stempel er nemt at påføre men svært at vaske af'
 skribenter = ['lennart-kiil']
 date = 2022-06-10
