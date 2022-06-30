@@ -1,9 +1,9 @@
 +++
-draft = true
-#genrer =
-title = 'Et stempel er nemt at påføre men svært at vaske af'
+#draft = true
+genrer = ['serie']
+title = 'Del 3 — Et stempel er nemt at påføre men svært at vaske af'
 skribenter = ['lennart-kiil']
-date = 2022-06-10T09:50:31+02:00
+date = 2022-06-10
 show_reading_time = true
 #description = ''
 #summary = ''
@@ -26,6 +26,9 @@ images = ['']
 
 Når Politiken påfører nogen et stempel så er det svært at vaske af.
 
+Andre kan selvfølgelig forsøge at påføre nogen et stempel. Men Politiken kan gøre det mere effektivt fordi Politiken sidder på definitionsmagten. 
+
+Og uanset hvad er et stempel sværere at vaske af end at påføre. Det er ligesom med falske påstande. Det er langt nemmere at fyre noget fis af end det er at refutere.
 
 
 Eller som den italienske programmør Alberto Brandolini udtrykte det i 2014:
@@ -37,27 +40,29 @@ Dette fænomen har også fået navnet: Bullshit asymmetry principle.
 
 Sådan er det også med en falsk påstand. Og når den kommer fra Politiken, så er der også et andet problemet forbundet med den.
 
-Eksperterne og forskerne skulle så vurdere om mit medie var et junkmedie - altså et affaldsmedie.
+På Politiken har man nemlig prestige og ressourcer til at få eksperter til at lægge navn til en stempling. Politiken valgt nogle medier som skulle "undersøges" - som jeg redegjorde for i indlægget før dette.
+
+Politiken linede altså nogle eksperter op.
+
+Eksperterne og forskerne skulle så vurdere om Folkets Avis var et junkmedie - altså et affaldsmedie.
 
 Det vurderede de at Folkets Avis var.
 
 Så mit medie fik stemplet. Og det smittede af på mig - og andre som havde udtrykt sig i det. Den slags stempler sværter.
 
-I praksis udgrænsede Politiken mit medie og fratog det legitimitet. De undergravede det vigtigste et medie kan have — troværdigheden.
+I praksis udgrænsede Politiken mit medie og fratog det legitimitet. Sammen med en række andre medier blev Folkets Avis af Politiken smidt i skraldespanden. Et stort medie brugte sin definitionsmagt til at undergrave tilløbet til konkurrence, og kunne derved også fastholde sit eget monopol.
+
+Politiken undergravede det vigtigste et medie kan have — troværdigheden.
 
 Og når man ikke har nogen penge, men beror på at folk har lyst til at skrive på ens medie uden betaling, så er det fuldstændig ødelæggende at få frataget legitimitet og troværdighed.
 
 De eneste ting man kan tilbyde de skribenter som man ikke kan betale i rede penge.
 
-Derfor var det katastrofalt at få stemplet affaldsmedie.
+Derfor var det katastrofalt at få stemplet affaldsmedie. 
 
 Hvem gider skrive på et affaldsmedie - endda uden at få penge for det?
 
-Hvem gider løbe risikoen for at blive forbundet med affald? Uden i det mindste at blive kompenseret for den risiko i økonomisk forstand?
-
-Ja, undskyld at jeg skærer det ud i pap. Men det er helt centralt at forstå hvorfor Politikens grundløse anklager ramte netop en avis som Folkets Avis så hårdt.
-
-Fordi den byggede på en forretningsmodel hvor det skribenter opnåede ikke var penge men en form for “prestige”.
+Fordi Folkets Avis byggede på en forretningsmodel hvor det skribenter opnåede ikke var penge men en form for “prestige”.
 
 Affald er der bare ikke meget prestige i.
 

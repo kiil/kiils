@@ -1,9 +1,8 @@
 +++
 #draft = true
-genrer = ['Serie']
-title = '3 Udvælgelsen'
+title = 'Del 2 — Udvælgelsen'
 skribenter = ['lennart-kiil']
-date = 2022-06-10T09:50:31+02:00
+date = 2022-06-10
 show_reading_time = true
 #description = ''
 #summary = ''
@@ -23,7 +22,7 @@ images = ['']
 #tools = ['']
 +++
 
-Som nævnt i indledningen valgte Politiken at mobilisere sit mægtigste våben,nemlig definitionsmagten, til at gøre sig til dommer over andre og meget mindre medier og dømme dem ude som "junk news".
+Som nævnt i indledningen valgte Politiken at mobilisere sit mægtigste våben, nemlig definitionsmagten, til at gøre sig til dommer over andre og meget mindre medier og dømme dem ude som "junk news".
 
 Ingen skulle være i tvivl om at de gamle medier var de rigtige og de nye var noget affald. De fik bare stemplet junk news.
 

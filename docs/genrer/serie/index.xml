@@ -1,22 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Serie on Kiils</title>
+    <title>Serier on Kiils</title>
     <link>https://www.kiils.dk/genrer/serie/</link>
-    <description>Recent content in Serie on Kiils</description>
+    <description>Recent content in Serier on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Fri, 10 Jun 2022 09:50:31 +0200</lastBuildDate><atom:link href="https://www.kiils.dk/genrer/serie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/genrer/serie/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>3 Udvælgelsen</title>
-      <link>https://www.kiils.dk/erfaring/politikens-karaktermord/udvaelgelsen/</link>
-      <pubDate>Fri, 10 Jun 2022 09:50:31 +0200</pubDate>
+      <title>Politikens karaktermord</title>
+      <link>https://www.kiils.dk/erfaring/politikens-karaktermord/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/politikens-karaktermord/udvaelgelsen/</guid>
-      <description>Som nævnt i indledningen valgte Politiken at mobilisere sit mægtigste våben,nemlig definitionsmagten, til at gøre sig til dommer over andre og meget mindre medier og dømme dem ude som &amp;ldquo;junk news&amp;rdquo;.
-Ingen skulle være i tvivl om at de gamle medier var de rigtige og de nye var noget affald. De fik bare stemplet junk news.
-Men var de stemplede medier i virkeligheden dømt på forhånd?
-Den mest interessante del af Politikens undersøgelse er i virkeligheden den som foregår inden offentliggørelsen — der hvor Politiken udvælger de medier som skal dømmes ude og inde.</description>
+      <guid>https://www.kiils.dk/erfaring/politikens-karaktermord/</guid>
+      <description>En historie om grænseløs arrogance</description>
+    </item>
+    
+    <item>
+      <title>Del 3 — Et stempel er nemt at påføre men svært at vaske af</title>
+      <link>https://www.kiils.dk/erfaring/politikens-karaktermord/stemplet/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/politikens-karaktermord/stemplet/</guid>
+      <description>Når Politiken påfører nogen et stempel så er det svært at vaske af.
+Andre kan selvfølgelig forsøge at påføre nogen et stempel. Men Politiken kan gøre det mere effektivt fordi Politiken sidder på definitionsmagten.
+Og uanset hvad er et stempel sværere at vaske af end at påføre. Det er ligesom med falske påstande. Det er langt nemmere at fyre noget fis af end det er at refutere.
+Eller som den italienske programmør Alberto Brandolini udtrykte det i 2014:</description>
     </item>
     
   </channel>

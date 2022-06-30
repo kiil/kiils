@@ -1,9 +1,8 @@
 +++
-draft = true
-#genrer =
+#draft = true
 title = 'Politikens paternalisme eller ægte pluralisme'
 skribenter = ['lennart-kiil']
-date = 2022-06-10T09:50:31+02:00
+date = 2022-06-10
 show_reading_time = true
 #description = ''
 #summary = ''
