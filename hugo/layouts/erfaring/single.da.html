@@ -74,10 +74,13 @@
 
     <section>
       {{ if ne .CurrentSection.Title "Erfaring" }}
-      Serie: {{ .CurrentSection.Title }}
+      <div class="f4">
+      <p>Du har læst <em>{{ .Title }}</em> i serien <strong>{{ .CurrentSection.Title }}</strong></p>
+      <p>De øvrige afsnit er her:</p>
       <ul>
-        {{ range .Parent.Pages }}<li><a class="link" href="{{ .RelPermalink }}">{{ .Title }}</li>{{ end }}
+        {{ range where (.Parent.Pages) "Permalink" "ne" .Permalink }}<li><a class="link" href="{{ .RelPermalink }}">{{ .Title }}</li>{{ end }}
       </ul>
+      </div>
       {{ end }}
     </section>
 
