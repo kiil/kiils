@@ -16,6 +16,6 @@ echo skriv git besked
 
 read besked
 
-git commit -m "$besked"
+git commit --message="$besked"
 
 git push
