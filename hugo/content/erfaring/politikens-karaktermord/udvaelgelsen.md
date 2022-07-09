@@ -40,7 +40,7 @@ Som Politiken selv skrev:
  
 > Nogle medier producerede så få artikler i perioden, at deres undersøgelsesperiode blev udvidet til at dække perioden tilbage fra 1. januar. Årsagen til det var, at panelet ville have en vis mængde artikler at bedømme ud fra, så enkeltartikler ikke blev afgørende for bedømmelsen.
 
-Ok, Politiken, hvis et medie producerede så få artikler, her må der være tale om nyhedsartikler, kunne man måske så overveje om der overhovedet er tale om et nyhedsmedie og dermed et medie som ifølge Politikens egne kriterier for undersøgelsen skal med i den.
+Ok, Politiken, hvis et medie producerede så få artikler, her må der være tale om nyhedsartikler, kunne man måske så overveje om der overhovedet er tale om et nyhedsmedie og dermed et medie som ifølge Politikens egne kriterier for undersøgelsen skal med i den?
 
 Og hvorfor er det interessant i forhold til anklagen imod Folkets Avis?
 
@@ -50,7 +50,7 @@ Men Politiken var åbenbart så forhippet på at kunne dømme Folkets Avis ude a
 
 Det er uredeligt og ville aldrig blive accepteret inden for eksempelvis den videnskabelige verden.
 
-Pointen med Politikens undersøgelse var angiveligt at finde ud af om en række nye nyhedsmedier på nettet levede op til de gængse journalistiske krav for nyhedsjournalistik, men reelt var det blot et skalkeskjul for at ramme nogle medier som man ikke brød sig om. Hvordan ellers forklare at Folkets Avis som ikke var et nyhedsmedie alligevel blev medtaget i undersøgelsen og dermed dømt på forkerte præmisser?
+Pointen med Politikens undersøgelse var angiveligt at finde ud af om en række nye nyhedsmedier på nettet levede op til de gængse journalistiske krav for nyhedsjournalistik, men reelt var det blot et skalkeskjul for at ramme nogle medier som man ikke brød sig om. Hvordan ellers forklare at Folkets Avis som ikke var et nyhedsmedie, alligevel blev medtaget i undersøgelsen og dermed dømt på forkerte præmisser?
 
 For Folkets Avis havde på intet tidspunkt en nyhedsredaktion, nyhedsjournalister eller en nyhedsredaktør. Folkets Avis bragte debatindlæg, kommentarer og analyser. De eneste "nyheder" som avisen bragte, og det var en meget lille andel af det samlede output, var citathistorier fra andre medier - hovedsagelig danske etablerede medier. Dertil havde Folkets Avis en overgang tilknyttet en enkelt freelancer som på baggrund af aktindsigter lavede undersøgende journalistik, men det var heller ikke nyhedsjournalistik som sådan. I modsætning til flere andre af de undersøgte medier var Folkets Avis slet ikke - og forsøgte heller ikke på at være - et nyhedsmedie.
 
@@ -62,7 +62,7 @@ Folkets Avis burde ikke være taget med i Politikens undersøgelse som jo hævde
 
 Folkets Avis var og er ikke junk news. Det er ikke engang news, altså nyheder. Og det har heller aldrig været det.
 
-Hvorfor havnede en debatplatform med hundredevis af frivillige skribenter så i en undersøgelse der omhandlede professionelle nyhedsmedier?
+Hvorfor havnede en debatplatform med hundredevis af frivillige skribenter så i en undersøgelse der omhandlede små professionelle nyhedsmedier?
 
 Måske blev Politiken forvirret over navnet, Folkets *Avis* - men det burde Politiken ikke være blevet. Så måske var Politiken bare forvirret allerede i sit eget udgangspunkt. Eller også var Folkets Avis bare havnet på Politikens shortlist på forhånd og det kunne intet åbenbart ændre på.
 
@@ -74,7 +74,7 @@ Se her hvordan Politiken hævder at have udvalgt medierne i undersøgelsen:
 
 Det er jo en fuldstændig subjektiv opfattelse om noget i opsætning "minder om nyhedsmedier". Det er sådan en gummikategori hvor man kan putte ting ind efter forgodtbefindende.
 
-Jeg er ikke engang helt enig i hvad Politiken mener med "opsætning". Det kan være alt fra design, layout, indholdstyper og skrifttyper over det mere organisatoriske og journalistiske setup.
+Jeg er ikke engang helt klar over hvad Politiken mener med "opsætning". Det kan være alt fra design, layout, indholdstyper og skrifttyper over det mere organisatoriske og journalistiske setup.
 
 Så "mindede" Folkets Avis om setup'et for et nyhedsmedie?
 
@@ -96,7 +96,7 @@ Så hvis ikke man inden for rammerne af selve undersøgelserne kunne finde mater
 
 Her burde man naturligvis have undladt at medtage de medier som ikke passede ind i stedet for pludselig at ændre på sine egne præmisser.
 
-I det hele taget var Politikens udvælgelseskriterier, så tvivlsomme at en af eksperterne skrev dette i en mail omkring emnet:
+I det hele taget var Politikens udvælgelseskriterier så tvivlsomme at en af eksperterne skrev dette i en mail omkring emnet:
 
 > Dels, fordi spørgsmål 1-6 kun kan besvares af Politiken, som tilrettelagde undersøgelsen og udvalgte de omfattede medier - idet vi som eksperter netop lagde vægt på, at vi ikke ville have noget med den del at gøre for ikke at komme i konflikt med vores egne videnskabelige metoder - **som udvælgelsen ikke levede op til, og som vi problematiserede flere gange undervejs**. Dels, fordi vi ikke har eller kan besvare de øvrige spørgsmål 7-10, som vi slet ikke har forholdt os til, og som lå uden for undersøgelsens emne.
 
@@ -122,14 +122,14 @@ Det er en skamplet på al redelighed og ordentlighed at
 
 Jeg har været i kontakt med Politiken som ikke ønsker at stå på mål for deres fejl.
 
-Den ekspert som i en mail udtrykte sin tvivl om Politikens metoder har jeg kontaktet, men hun ønsker vist ikke rigtigt at hjælpe mig med at få vendt den her uret til ret, selvom hun har muligheden for det. Det undrer mig lidt eftersom hun på twitter giver udtryk af at være en som har omsorg for de smås sag og går ind for retfærdighed.
+Den ekspert som i en mail udtrykte sin tvivl om Politikens metoder, har jeg kontaktet, men hun ønsker vist ikke rigtigt at hjælpe mig med at få vendt den her uret til ret, selvom hun har muligheden for det. Det undrer mig lidt eftersom hun på twitter giver udtryk af at være en som har omsorg for de smås sag og går ind for retfærdighed.
 
-At Politiken ikke ønsker at stå på mail og tage ansvar for deres fejlskud, det overrasker mig knapt så meget. Men det er alligevel trist og vidner om et åndeligt forfald og en selvopfattelsem hvor man ikke kan tage fejl.
+At Politiken ikke ønsker at stå på mål og tage ansvar for deres fejlskud, det overrasker mig knapt så meget. Men det er alligevel trist og vidner om et åndeligt forfald og en selvopfattelse hvor man ikke kan tage fejl.
 
 At Politiken har måttet bøje og strække sine præmisser, kriterier og definitioner for at kunne beholde Folkets Avis i undersøgelsen og dømme den ude, er tydeligt nok.
 
-Og eksperterne har ikke fungeret som uafhængige i forhold til undersøgelsen, tyder det på, men haft som rolle at give autoritet og legitimitet til forhånd dragne og som minimum delvist forkerte konklusioner.
+Og eksperterne har ikke fungeret som uafhængige i forhold til undersøgelsen, tyder det på, men haft som rolle at give autoritet og legitimitet til på forhånd dragne og som minimum delvist forkerte konklusioner.
 
-Men *hvorfor* har det været så magtpåliggende for Politiken at stigmatisere en ny måde at udgive på som direkte inddrog folk og bypassede mediernes sædvanlige funktion som ledvogter?
+Men *hvorfor* har det været så magtpåliggende for Politiken at stigmatisere en ny måde at udgive på som direkte inddrog folk og omgik mediernes sædvanlige funktion som ledvogter?
 
 Det er svært at sige noget sikkert om, men i næste afsnit af serien vil jeg alligevel forsøge at give et bud på det.
