@@ -12,6 +12,6 @@ cd ..
 
 git add .
 
-git commit -m "deployed by script"
+git commit -m "(read)"
 
 git push
