@@ -74,4 +74,6 @@ Jeg har været i kontakt med Politiken, men det vil ikke vedstå sig deres ansva
 
 Og en af de "eksperter" som imod bedre vidende lagde navn til stemplingen af mit medie, hun er nu formand for medienævnet som et den statslige institution som bestemme hvilke medier som skal have støtte og hvilke som ikke skal.
 
+Politiken og eksperterne så de nye medier som noget der kunne udgøre et demokratisk problem. Men er det ikke også et demokratisk problem når Politiken misbruger sin magt til på et uholdbart grundlag at undergrave mindre mediers livsbetingelser ved at stemple dem som uværdige?
+
 Tænk over det.

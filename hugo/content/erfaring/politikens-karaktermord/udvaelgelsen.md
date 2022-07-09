@@ -1,8 +1,8 @@
 +++
-draft = true
+#draft = true
 title = 'Del 2 — Dann haben wir andere Methoden'
 skribenter = ['lennart-kiil']
-date = 2022-06-10
+date = 2022-07-09
 show_reading_time = true
 #description = ''
 #summary = ''
@@ -80,11 +80,11 @@ Så "mindede" Folkets Avis om setup'et for et nyhedsmedie?
 
 På ingen måde.
 
-Det mener forskningen heller ikke:
+Mark Blach-Ørsten og Eva Mayerhöffer klassificerer heller ikke Folkets Avis i nyhedskategorien (https://doi.org/10.7146/politica.v53i2.130381):
 
 {{< figure src="../ikke-news.png" title="Fra Det politiske informationslandskab i Danmark 2.0" >}}
 
-Men det må Politiken jo alligevel have vurderet at det gjorde. Men det gjorde det ikke.
+Men der må Politiken jo alligevel have vurderet at Folkets Avis hørte hjemme.
 
 Ingen kender Folkets Avis bedre end mig, og jeg kan garantere at avisen på intet tidspunkt mindede om et nyhedsmedie, som sagt havde det hverken nyhedsredaktion eller journalister tilknyttet, med undtagelse af en enkelt undersøgende journalist på freelance basis som ikke engang lavede nyheder, og stod for under to procent af indholdet. Tværtimod lignede og var Folkets Avis snarere en social udgiverplatform i stil med Medium. En debatplatform med analyser, synspunkter og debatindlæg. I virkeligheden var Folkets Avis helt sin egen - men noget nyhedsmedie var det aldrig.
 
