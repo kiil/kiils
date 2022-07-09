@@ -6,7 +6,7 @@ date: 2019-10-03
 
 draft: true
 
-thumbnail: "erfaringer/fundraising/klimaleksikon-crowdfunding.png"
+thumbnail: "erfaring/fundraising/klimaleksikon-crowdfunding.png"
 show_reading_time: true
 
 # toc: true

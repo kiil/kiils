@@ -16,13 +16,13 @@ show_reading_time: true
 skribenter:
   - lennart-kiil
 
-thumbnail: "erfaringer/seo/jpfa.png"
+thumbnail: "erfaring/seo/jpfa.png"
 ---
 
 Små medier kan markere sig ved at være først med på internationale navne. Og det er tilsyneladende også noget som giver bonus i søgeresultaterne.
 
 
-For ikke så længe tid siden skrev jeg et indlæg her på Kiils med titlen: [Når de små medier overhaler de store](/erfaringer/indhold/overhaling):
+For ikke så længe tid siden skrev jeg et indlæg her på Kiils med titlen: [Når de små medier overhaler de store](/erfaring/indhold/overhaling):
 
 > De små medier er generelt mere manøvredygtige end de store. Det gælder også på indholdsstrategien.
 >
@@ -38,7 +38,7 @@ Men den indsats, Folkets Avis gjorde, gav ikke bare trafik dengang. Noget tyder 
 
 Se her:
 
-![](/erfaringer/seo/jpfa.png)
+![](/erfaring/seo/jpfa.png)
 
 Det er en flot placering. Om det bliver muligt at holde den, vil tiden vise.
 

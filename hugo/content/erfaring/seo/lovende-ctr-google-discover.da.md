@@ -15,7 +15,7 @@ cases:
   - folkets
 emner:
   - SEO
-thumbnail: "erfaringer/seo/discover-folkets.png"
+thumbnail: "erfaring/seo/discover-folkets.png"
 ---
 
 Torsdag den 30. april 2019 dukkede en side fra FOLKETS for føste gang op i Googles _Discover_.
@@ -32,7 +32,7 @@ Googles Discover funktion er tilgængelig på mobile Android-enheder. Discover k
 
 Set fra en udgivers synspunkt ser Google Discover interessant ud da klikraten umiddelbart er meget høj:
 
-![](/erfaringer/seo/discover-folkets.png)
+![](/erfaring/seo/discover-folkets.png)
 
 På billedet ses det også at man nu for nogle sites i Search Console kan få oplysninger om visninger og kliks fra Google Discover. Det tyder på at Google satser en del på det her.
 

@@ -33,7 +33,7 @@ cm:
 
 
 
-thumbnail: "erfaringer/frontend/page-load.png"
+thumbnail: "erfaring/frontend/page-load.png"
 ---
 
 
@@ -43,7 +43,7 @@ De første resultater viste at det gav betydeligt hurtigere sider til brugerne.
 
 Nu er der data nok til at konkludere noget mere håndfast i forhold til hastighed. Og til at se nærmere på de forskelige enheder:
 
-![](/erfaringer/frontend/page-load.png)
+![](/erfaring/frontend/page-load.png)
 
 Ikke overraskende er de største forbedringer der hvor der før var flest bannere. En halvering af tiden det tager at loade på tablet og laptop/desktop.
 
@@ -59,7 +59,7 @@ Nej, man skal ikke lade sig snyde af gennemsnittet som især på mobil kan påvi
 
 Og hvis vi ser på intervaller i stedet for gennemsnit, så er der en klar forbedring - også for mobil:
 
-![](/erfaringer/frontend/intervaller.png)
+![](/erfaring/frontend/intervaller.png)
 
 Læg mærke til at uanset om vi ser på mobil eller tablet / desktop, så er der nu langt, langt flere end før i de gode, hurtige intervaller og langt, langt færre i de dårlige, langsomme intervaller.
 

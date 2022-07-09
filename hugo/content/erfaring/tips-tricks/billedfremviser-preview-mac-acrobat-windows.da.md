@@ -4,7 +4,7 @@ description: "Mac og Windows spiller stadig ikke altid ordentligt sammen"
 summary: "Mac og Windows spiller stadig ikke altid ordentligt sammen"
 # date: 2020-01-24
 draft: true
-thumbnail: "erfaringer/some/facebook/skidt-trend-facebook-page-followers.png"
+thumbnail: "erfaring/some/facebook/skidt-trend-facebook-page-followers.png"
 show_reading_time: true
 
 # toc: true

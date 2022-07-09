@@ -29,10 +29,10 @@ tools:
   - Googles-søgekonsol
 
 
-thumbnail: "erfaringer/seo/corona.png"
+thumbnail: "erfaring/seo/corona.png"
 ---
 
-![](/erfaringer/seo/corona.png)
+![](/erfaring/seo/corona.png)
 
 Jeg valgte fra starten at alt indhold om den nye coronavirus på FOLKETS skulle være frit tilgængeligt for alle. Også selvom jeg vidste at den beslutning ville komme til at koste mig en del penge.
 

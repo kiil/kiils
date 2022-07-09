@@ -29,7 +29,7 @@ cases:
 
 
 
-thumbnail: "erfaringer/fundraising/copydan/klimaleksikon-henvisninger.png"
+thumbnail: "erfaring/fundraising/copydan/klimaleksikon-henvisninger.png"
 
 ---
 

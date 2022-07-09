@@ -29,7 +29,7 @@ cases:
 
 
 
-thumbnail: "erfaringer/fundraising/copydan/klimaleksikon-henvisninger.png"
+thumbnail: "erfaring/fundraising/copydan/klimaleksikon-henvisninger.png"
 
 ---
 
@@ -80,7 +80,7 @@ Og på trods af at jeg kan bevise dette.
 
 Her er for eksempel en liste over de ti sites jeg har flest henvisninger fra:
 
-![henvisninger](/erfaringer/fundraising/copydan/klimaleksikon-henvisninger.png)
+![henvisninger](/erfaring/fundraising/copydan/klimaleksikon-henvisninger.png)
 
 Som I kan se, så er det hovedsageligt forskellige læringsplatforme som bruges af folkeskoler og ungdomsuddannelser som dominerer de øverste pladser.
 
@@ -88,7 +88,7 @@ Det betyder at lærere aktivt linker til og altså bruger mit materiale i deres 
 
 Og hvis vi ser på hvornår Klimaleksikon bliver benyttet, så er det også klart i skoletiden:
 
-![tidspunkter](/erfaringer/fundraising/copydan/brugere-klimaleksikon-tidspunkt.png)
+![tidspunkter](/erfaring/fundraising/copydan/brugere-klimaleksikon-tidspunkt.png)
 
 Men selvom mit materiale bliver massivt benyttet i undervisningen, også af lærerne, så kan jeg _intet_ få fra CopyDan.
 

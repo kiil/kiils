@@ -15,11 +15,11 @@ Sidens brugere er overvejende børn i folkeskolens ældste klasser og unge på u
 
 Lærerne bruger aktivt Klimaleksikon i undervisningen, det ses blandt andet af de mange henvisninger fra diverse undervisningsplatforme:
 
-![henvisninger](/erfaringer/fundraising/copydan/klimaleksikon-henvisninger.png)
+![henvisninger](/erfaring/fundraising/copydan/klimaleksikon-henvisninger.png)
 
 Desuden ser vi at Klimaleksikon hovedsageligt finder anvendelse inden for den almindelige undervisningstid:
 
-![tidspunkter](/erfaringer/fundraising/copydan/brugere-klimaleksikon-tidspunkt.png)
+![tidspunkter](/erfaring/fundraising/copydan/brugere-klimaleksikon-tidspunkt.png)
 
 Der er en overvægt af piger hvilket er en smule atypisk for en side som i bund og grund er naturvidenskabeligt orienteret og skabt af naturfagsformidlere.
 

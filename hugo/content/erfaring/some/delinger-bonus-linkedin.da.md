@@ -25,7 +25,7 @@ Jeg har brugt fem år på at skabe [Folkets Avis](https://www.folkets.dk), og i 
 
 Modtagelsen på LinkedIn efter fem års pause har været rigtig god. Se blot her:
 
-![Graf](/erfaringer/some/hockeystickLinkedIn.png)
+![Graf](/erfaring/some/hockeystickLinkedIn.png)
 
 Min aktivitetsforøgelse på LinkedIn, hvor jeg på det allerseneste flittigt har delt relevante links med originalt indhold, er i den grad blevet belønnet.
 

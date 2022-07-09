@@ -1,9 +1,9 @@
 ---
 title: 'Sådan satte jeg et dark theme op på Folkets uden at genere brugerne med flere valgmuligheder'
 summary: 'Det er muligt at efterkomme brugernes ønsker uden at genere dem med yderligere forespørgsler'
-#featured_image: '/erfaringer/brugervenlighed/darkmode.png'
+#featured_image: '/erfaring/brugervenlighed/darkmode.png'
 description: 'Giv brugerne hvad de vil have uden at forstyrre'
-thumbnail: 'erfaringer/brugervenlighed/darkmode.png'
+thumbnail: 'erfaring/brugervenlighed/darkmode.png'
 toc: false
 show_reading_time: true
 skribenter:
@@ -72,4 +72,4 @@ Du kan læse mere om mulighederne her
  
  Omtrent sådan her:
  
-{{< figure src="/erfaringer/brugervenlighed/darkmode.png" title="Dark mode på Folkets" >}}
+{{< figure src="/erfaring/brugervenlighed/darkmode.png" title="Dark mode på Folkets" >}}

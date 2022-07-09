@@ -15,4 +15,4 @@ Per er meget ambitiøs med siden, og det passer mig godt. I dag er udvikling på
 
 Jeg er derfor fortsat med til at rådgive og løse konkrete udfordringer på GastroFun.dk så siden forhåbentligt kan klare sig endnu bedre i fremtiden.
 
-[Se også docs](/erfaringer/devops/workflow/workflow-gastrofun/)
+[Se også docs](/erfaring/devops/workflow/workflow-gastrofun/)

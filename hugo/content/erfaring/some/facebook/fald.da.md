@@ -4,7 +4,7 @@ description: "Facebook har ændret sig - hvordan får man succes?"
 summary: "Facebook har ændret sig - hvordan får man succes?"
 date: 2020-01-05
 # draft: true
-thumbnail: "erfaringer/some/facebook/skidt-trend-facebook-page-followers.png"
+thumbnail: "erfaring/some/facebook/skidt-trend-facebook-page-followers.png"
 show_reading_time: true
 
 # toc: true
@@ -77,6 +77,6 @@ Men det kræver som hovedregel en betydelig investering af både tid og efterhå
 De nemme tider med facebook er for længst forbi.
 
 
-[followers]: /erfaringer/some/facebook/skidt-trend-facebook-page-followers.png
+[followers]: /erfaring/some/facebook/skidt-trend-facebook-page-followers.png
 
-[opfordring]: /erfaringer/some/facebook/going-down.png
+[opfordring]: /erfaring/some/facebook/going-down.png

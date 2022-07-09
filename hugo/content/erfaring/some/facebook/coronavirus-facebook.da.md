@@ -4,7 +4,7 @@ description: "Der er meget jeg kan gøre bedre - også selvomfacebook har gjort 
 summary: "Der er meget jeg kan gøre bedre - også selvomfacebook har gjort det sværere"
 # date: 2020-01-05
 draft: true
-thumbnail: "erfaringer/some/facebook/skidt-trend-facebook-page-followers.png"
+thumbnail: "erfaring/some/facebook/skidt-trend-facebook-page-followers.png"
 show_reading_time: true
 
 # toc: true
@@ -47,7 +47,7 @@ Antallet af følgere falder stille og roligt.
 
 HAR I NOGEN IDEER TIL HVAD VI KAN GØRE FOR AT VENDE DEN UDVIKLING?
 
-https://www.kiils.dk/erfaringer/some/facebook/fald/
+https://www.kiils.dk/erfaring/some/facebook/fald/
 
 
 > Jeg har et sponsoreret medlemsskab. Men jeg er så usigelig træt af at skulle logge på hvergang jeg vil se en artikel her på fb, og så skulle finde den efter login etc. Det tager bare for lang tid. Det kunne måske også være en grund?

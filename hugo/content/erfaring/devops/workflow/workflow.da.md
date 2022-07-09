@@ -4,7 +4,7 @@ description: "Der er meget jeg kan gøre bedre - også selvomfacebook har gjort 
 summary: "Der er meget jeg kan gøre bedre - også selvomfacebook har gjort det sværere"
 # date: 2020-01-05
 draft: true
-thumbnail: "erfaringer/some/facebook/skidt-trend-facebook-page-followers.png"
+thumbnail: "erfaring/some/facebook/skidt-trend-facebook-page-followers.png"
 show_reading_time: true
 
 # toc: true

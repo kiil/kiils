@@ -4,7 +4,7 @@ description: "Interessen for klima er stor - er villigheden til at betale for vi
 summary: "Interessen for klima er stor - er villigheden til at betale for viden på området det også?"
 date: 2019-10-03
 # draft: true
-thumbnail: "erfaringer/fundraising/klimaleksikon-crowdfunding.png"
+thumbnail: "erfaring/fundraising/klimaleksikon-crowdfunding.png"
 show_reading_time: true
 
 # toc: true
@@ -78,4 +78,4 @@ Det bliver spændende om der er opbakning :)
 
 [kl]: https://klimaleksikon.dk/opslag/klima
 
-[cta]: /erfaringer/fundraising/klimaleksikon-crowdfunding.png
+[cta]: /erfaring/fundraising/klimaleksikon-crowdfunding.png

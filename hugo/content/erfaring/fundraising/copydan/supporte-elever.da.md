@@ -44,5 +44,5 @@ Læs også:
 
 
 
-[100.000 gange årligt bruges mine tekster i undervisningen uden at jeg får en krone for det – og CopyDan kan ikke hjælpe mig](https://www.kiils.dk/erfaringer/fundraising/copydan/copydan-digital/)
+[100.000 gange årligt bruges mine tekster i undervisningen uden at jeg får en krone for det – og CopyDan kan ikke hjælpe mig](https://www.kiils.dk/erfaring/fundraising/copydan/copydan-digital/)
 

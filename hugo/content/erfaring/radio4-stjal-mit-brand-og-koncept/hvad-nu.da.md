@@ -4,8 +4,8 @@ description: "Er det i orden at ny licensbaseret radio tager koncept og navn fra
 summary: "Er det i orden at ny licensbaseret radio tager koncept og navn fra etableret medie uden at spørge"
 date: 2019-10-03
 draft: true
-thumbnail: "erfaringer/fundraising/klimaleksikon-crowdfunding.png"
-# featured_image: "/erfaringer/fundraising/klimaleksikon-crowdfunding.png"
+thumbnail: "erfaring/fundraising/klimaleksikon-crowdfunding.png"
+# featured_image: "/erfaring/fundraising/klimaleksikon-crowdfunding.png"
 show_reading_time: true
 
 # toc: true

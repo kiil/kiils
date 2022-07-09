@@ -36,4 +36,4 @@ Et område hvor Folkets Avis virkelig kan oppe sig er på email. Altså at få b
 
 Udviklingen på fem områder fra 2016 til 2017:
 
-![](/erfaringer/trafik/social.png)
+![](/erfaring/trafik/social.png)

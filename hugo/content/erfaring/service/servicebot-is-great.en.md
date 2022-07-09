@@ -23,10 +23,10 @@ emner:
   - billing
   - stripe
 
-thumbnail: "erfaringer/service/servicebot.png"
+thumbnail: "erfaring/service/servicebot.png"
 
 images:
-  - /erfaringer/service/servicebot.png
+  - /erfaring/service/servicebot.png
 ---
 
 
@@ -39,7 +39,7 @@ I found Servicebot.io which is basically a layer on top of Stripe's very flexibl
 
 Here is some of it on Folkets:
 
-{{< figure src="/erfaringer/service/servicebot.png" title="Servicebot on Folkets" >}}
+{{< figure src="/erfaring/service/servicebot.png" title="Servicebot on Folkets" >}}
 
 I needed, for example, functionality where a user could download invoices past and present, since I am planning to do more B2B, and companies need the invoice for their bookkeeping.
 
