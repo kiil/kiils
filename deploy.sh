@@ -12,6 +12,8 @@ cd ..
 
 git add .
 
-git commit -m "(read)"
+read besked
+
+git commit -m "$besked"
 
 git push
