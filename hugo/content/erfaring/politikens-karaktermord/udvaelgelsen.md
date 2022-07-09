@@ -138,6 +138,10 @@ Mest besynderligt af alt er måske nok at Politiken allerede dengang selv udtryk
 
 Det var åbenbart dengang også ifølge Politiken selv diskutabelt om Folkets Avis kvalificerede til undersøgelsen. Men i dag afviser avisen enhver tvivl. Det er mærkeligt.
 
+Det virker meget hensynsløst og non chalant at ødelægges nogens troværdighed og stemple dem kategorisk som junkmedie, altså som affaldsmedie, når man ikke engang er sikker på at de er det. Men det var altså hvad Politiken gjorde med mig og Folkets Avis.
+
+Man tilsidesatte enhver ordentlighed og redelighed og ethvert hensyn. Hvor man ellers normalt vil være forsigtig når det drejer sig om så ødelæggende anklager.
+
 
 Men *hvorfor* har det været så magtpåliggende for Politiken at stigmatisere en ny måde at udgive på som direkte inddrog folk og omgik mediernes sædvanlige funktion som ledvogtere?
 
