@@ -1,6 +1,6 @@
 +++
-#draft = true
-title = 'Del 2 — Udvælgelsen'
+draft = true
+title = 'Del 2 — Dann haben wir andere Methoden'
 skribenter = ['lennart-kiil']
 date = 2022-06-10
 show_reading_time = true
@@ -40,7 +40,13 @@ Som Politiken selv skrev:
  
 > Nogle medier producerede så få artikler i perioden, at deres undersøgelsesperiode blev udvidet til at dække perioden tilbage fra 1. januar. Årsagen til det var, at panelet ville have en vis mængde artikler at bedømme ud fra, så enkeltartikler ikke blev afgørende for bedømmelsen.
 
-Dette kunne fint passe med at Politiken for alt i verden ønskede at fastholde Folkets Avis i undersøgelsen, selvom Folkets Avis faktisk ikke var et nyhedsmedie og heller ikke gjorde indtryk af at være det. Men Politiken var åbenbart så forhippet på at kunne dømme Folkets Avis ude alligevel at Politiken simpelthen ændrede på sine udvælgelseskriterier for at bevare mediet inden for de nye stærkt udvidede rammer af undersøgelsen.
+Ok, Politiken, hvis et medie producerede så få artikler, her må der være tale om nyhedsartikler, kunne man måske så overveje om der overhovedet er tale om et nyhedsmedie og dermed et medie som ifølge Politikens egne kriterier for undersøgelsen skal med i den.
+
+Og hvorfor er det interessant i forhold til anklagen imod Folkets Avis?
+
+Jo, denne ændring og udvidelse af kriterierne kunne fint passe med at Politiken for alt i verden ønskede at fastholde Folkets Avis i undersøgelsen, selvom Folkets Avis faktisk ikke var et nyhedsmedie og heller ikke gjorde indtryk af at være det.
+
+Men Politiken var åbenbart så forhippet på at kunne dømme Folkets Avis ude alligevel at Politiken simpelthen ændrede på sine udvælgelseskriterier for at bevare mediet inden for de nye stærkt udvidede rammer af undersøgelsen.
 
 Det er uredeligt og ville aldrig blive accepteret inden for eksempelvis den videnskabelige verden.
 
@@ -82,6 +88,8 @@ At Politiken skulle skære en hæl og hugge en tå for at få nogle af de unders
 
 Så hvis ikke man inden for rammerne af selve undersøgelserne kunne finde materiale nok, så udvidede man da bare lige dels perioden og dels begreberne, så bundlinjen alligevel "passede" - rigtigt smart. Men meget langt fra videnskabeligt.
 
+## Eksperter vidste den var gal - men tav
+
 Her burde man naturligvis have undladt at medtage de medier som ikke passede ind i stedet for pludselig at ændre på sine egne præmisser.
 
 I det hele taget var Politikens udvælgelseskriterier, så tvivlsomme at en af eksperterne skrev dette i en mail omkring emnet:
@@ -115,6 +123,8 @@ Den ekspert som i en mail udtrykte sin tvivl om Politikens metoder har jeg konta
 At Politiken ikke ønsker at stå på mail og tage ansvar for deres fejlskud, det overrasker mig knapt så meget. Men det er alligevel trist og vidner om et åndeligt forfald og en selvopfattelsem hvor man ikke kan tage fejl.
 
 At Politiken har måttet bøje og strække sine præmisser, kriterier og definitioner for at kunne beholde Folkets Avis i undersøgelsen og dømme den ude, er tydeligt nok.
+
+Og eksperterne har ikke fungeret som uafhængige i forhold til undersøgelsen, tyder det på, men haft som rolle at give autoritet og legitimitet til forhånd dragne og som minimum delvist forkerte konklusioner.
 
 Men *hvorfor* har det været så magtpåliggende for Politiken at stigmatisere en ny måde at udgive på som direkte inddrog folk og bypassede mediernes sædvanlige funktion som ledvogter?
 

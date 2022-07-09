@@ -1,9 +1,9 @@
 +++
 draft = true
 #genrer =
-title = 'Politikens fejltagelse'
+title = 'Del 9 — Politikens fejltagelse'
 skribenter = ['lennart-kiil']
-date = 2022-06-10T09:50:31+02:00
+date = 2022-06-10
 show_reading_time = true
 #description = ''
 #summary = ''
@@ -262,3 +262,11 @@ Politiken brugte sine mange millioner mediestøttekroner til at eliminere potent
 Jeg har været i kontakt med Politiken, men det vil ikke vedstå sig deres ansvar. De mener ikke der er noget forkert i at smadre pluralisme og konkurrenter på et falskt grundlag.
 
 Jeg mener faktisk at det er et enormt problem. Og så længe det ikke bliver taget alvorligt, så er der heller ikke grund til at tage hverken politikere eller folk fra den etablerede presse alvorligt når de prædiker pluralisme og mangfoldighed i mediebilledet 
+
+
+
+
+
+Jeg skal i modsætning til Politiken ikke forsøge at gøre mig klog på andre medier end mit eget eller dømme dem ude eller inde.
+
+Jeg vil her udelukkende se nærmere på stigmatiseringen af det ene medieprojekt jeg selv stiftede og drev, og som jeg derfor kender bedre end nogen anden, nemlig Folkets Avis.
