@@ -1,10 +1,7 @@
-
 +++
-
 draft = true
 title = 'Internt'
 date = 2022-07-05
-
 +++
 
 Plan for serien Politikens Karaktermord

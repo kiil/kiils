@@ -130,6 +130,21 @@ At Politiken har måttet bøje og strække sine præmisser, kriterier og definit
 
 Og eksperterne har ikke fungeret som uafhængige i forhold til undersøgelsen, tyder det på, men haft som rolle at give autoritet og legitimitet til på forhånd dragne og som minimum delvist forkerte konklusioner.
 
-Men *hvorfor* har det været så magtpåliggende for Politiken at stigmatisere en ny måde at udgive på som direkte inddrog folk og omgik mediernes sædvanlige funktion som ledvogter?
+Mest besynderligt af alt er måske nok at Politiken allerede dengang selv udtrykte tvivl om hvorvidt Folkets Avis hørte hjemme i undersøgelsen:
+
+> Panelet diskuterede, om Folkets Avis kan undersøges som et medie, da artiklerne mere har karakter af en blog. Folkets Avis kalder dog sig selv en avis og udgiver ’artikler’, ’ledere’ og ’debatindlæg’. Artiklerne har karakter af holdningsstof, selv om de ikke er deklareret som sådan, vurderer eksperterne. 
+
+[Junkmedier spreder frygt for indvandring og stjæler indhold - politiken.dk](https://politiken.dk/kultur/medier/art7148310/Junkmedier-spreder-frygt-for-indvandring-og-stj%C3%A6ler-indhold)
+
+Det var åbenbart dengang også ifølge Politiken selv diskutabelt om Folkets Avis kvalificerede til undersøgelsen. Men i dag afviser avisen enhver tvivl. Det er mærkeligt.
+
+
+Men *hvorfor* har det været så magtpåliggende for Politiken at stigmatisere en ny måde at udgive på som direkte inddrog folk og omgik mediernes sædvanlige funktion som ledvogtere?
 
 Det er svært at sige noget sikkert om, men i næste afsnit af serien vil jeg alligevel forsøge at give et bud på det.
+
+
+
+Kilder:
+
+Blach-Ørsten , M., & Mayerhöffer, E. (2021). Det politiske informationslandskab i Danmark 2.0. Politica, 53(2), 99–124. https://doi.org/10.7146/politica.v53i2.130381
