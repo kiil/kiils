@@ -12,6 +12,8 @@ cd ..
 
 git add .
 
+echo skriv git besked
+
 read besked
 
 git commit -m "$besked"
