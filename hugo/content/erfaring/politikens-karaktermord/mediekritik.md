@@ -1,7 +1,7 @@
 +++
 draft = true
 #genrer =
-title = 'Del 5 — hvad Politiken burde have gjort'
+title = 'Del 6 — hvad Politiken burde have gjort'
 skribenter = ['lennart-kiil']
 date = 2022-06-10
 show_reading_time = true

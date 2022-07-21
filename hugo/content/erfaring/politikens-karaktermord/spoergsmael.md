@@ -1,7 +1,7 @@
 +++
 draft = true
 #genrer =
-title = 'Del 3 — Politikens fejltagelse'
+title = 'Del 4 — Politikens fejltagelse'
 skribenter = ['lennart-kiil']
 date = 2022-06-10
 show_reading_time = true

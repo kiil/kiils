@@ -1,5 +1,5 @@
 +++
-#draft = true
+draft = true
 title = 'Del 1 — Politiken tager sit kraftigste våben i brug mod små medier'
 skribenter = ['lennart-kiil']
 date = 2022-07-09
@@ -33,21 +33,28 @@ Hvor Politiken ser folket som en passiv størrelse som skal oplyses og vejledes 
 
 Folkets Avis var med andre ord et forsøg på at supplere den stigende professionalisering af åndslivet med et organ hvor folkets egne tanker og bekymringer kom i fokus uden at ledvogterne i mediebranchen på forhånd skulle bortsortere bestemte synspunkter eller anskuelser.
 
-I dag er det nemlig stadig sådan at det er en avis som Politiken der sidder på definitionsmagten i Danmark. Det gør Politiken sammen med en håndfuld andre medier som alle er ejet af en endnu mindre gruppe af gigantiske mediehuse der kan tælles på få fingre.
+I dag er det nemlig stadig sådan at det er en avis som Politiken der sidder på definitionsmagten i Danmark.
+Det gør Politiken sammen med en håndfuld andre medier som alle er ejet af en endnu mindre gruppe af gigantiske mediehuse der kan tælles på få fingre.
 
-Men hov, jeg skrev lige noget om definitionsmagten. Måske en nærmere forklaring er på sin plads:
+Men hov, jeg skrev lige noget om definitionsmagten.
+Måske en nærmere forklaring er på sin plads:
 
 Definitionsmagt
 :    Magten til at definere hvad som er godt og hvad som er skidt og hvad som er værd at beskæftige sig med og hvad som ignoreres
 
 
-Det vil sige at det er de etablerede medier som Politiken der bestemmer hvad som skal have opmærksomhed, og hvad som skal forbigås. Hvad som skal prises og hvad som skal hånes.
+Det vil sige at det er de etablerede medier som Politiken der bestemmer hvad som skal have opmærksomhed, og hvad som skal forbigås.
+Hvad som skal prises og hvad som skal hånes.
 
-Den magt er enorm. Og spørgsmålet er om en så stor magt skal ligge i så få hænder som tilfældet er nu.
+Den magt er enorm.
+Og spørgsmålet er om en så stor magt skal ligge i så få hænder som tilfældet er nu.
 
-For i Danmark er det en meget lille lukket klike af mediefolk som sidder med definitionsmagten. Disse mediefolk har alle den samme baggrund socialt og uddannelsesmæssigt. Og politisk set minder de også om hinanden til forveksling.
+For i Danmark er det en meget lille lukket klike af mediefolk som sidder med definitionsmagten.
+Disse mediefolk har alle den samme baggrund socialt og uddannelsesmæssigt.
+Og politisk set minder de også om hinanden til forveksling.
 
-Det betyder et en lille sluttet kreds kan bestemme hvad som skal på dagsordenen i hele Danmark. Sådan har det været længe, og tendensen har været tiltagende.
+Det betyder et en lille sluttet kreds kan bestemme hvad som skal på dagsordenen i hele Danmark.
+Sådan har det været længe, og tendensen har været tiltagende.
 
 Derfor skabte jeg Folkets Avis.
 
@@ -59,9 +66,11 @@ Og pluralisme og mangfoldighed er egentligt blot forskellige ord for det samme f
 
 Og det viste sig hurtigt at der var en kæmpe efterspørgsel på synspunkter fra andre vinkler end de etablerede mediers.
 
-Det gik godt for Folkets Avis. Der var masser af folk som gerne ville til orde, men som tidligere havde haft svært ved at trænge igennem.
+Det gik godt for Folkets Avis.
+Der var masser af folk som gerne ville til orde, men som tidligere havde haft svært ved at trænge igennem.
 
-Og læserne var også vilde med det. Der blev skabt indhold af hundredevis af frivillige skribenter som blev delt af tusinder af læsere og læst af hundreder af tusinder.
+Og læserne var også vilde med det.
+Der blev skabt indhold af hundredevis af frivillige skribenter som blev delt af tusinder af læsere og læst af hundreder af tusinder.
 
 Folkets Avis var en succes.
 
@@ -79,13 +88,18 @@ Og det var netop definitionsmagten som Politiken tog i anvendelse for at margina
 
 Altså magten til at definere hvad som er et ordentligt og rigtigt medie og hvad som bare er ubrugeligt affald - eller *junk news*, som Politiken kaldte det.
 
-Hvis man kunne skubbe de nye medier af banen, så ville man fuldstændigt generobre sit monopol. Det var næppe hele motivet bag angrebet på de nye små medier.
+Hvis man kunne skubbe de nye medier af banen, så ville man fuldstændigt generobre sit monopol.
+Det var næppe hele motivet bag angrebet på de nye små medier.
 
 Men konsekvensen af Politikens operation var uomtvisteligt at pluralismen i mediebilledet igen blev reduceret og de gamle medier fik cementeret deres position som ledvogtere for den offentlige debat.
 
-Men de midler man benyttede for at fælde de nye medier, var ikke redelige. Man opfandt egne definitioner til formålet. Man spillede beskidt og slog under bæltestedet. Man fuskede med metoderne.
+Men de midler man benyttede for at fælde de nye medier, var ikke redelige.
+Man opfandt egne definitioner til formålet.
+Man spillede beskidt og slog under bæltestedet.
+Man fuskede med metoderne.
 
 
-Folkets Avis blev falsk anklaget og dømt af Politiken. Og dets troværdighed led ubodelig skade derved.
+Folkets Avis blev falsk anklaget og dømt af Politiken.
+Og dets troværdighed led ubodelig skade derved.
 
 Det handler følgende miniserie om.

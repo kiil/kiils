@@ -1,6 +1,6 @@
 +++
-#draft = true
-title = 'Del 2 — Dann haben wir andere Methoden'
+draft = true
+title = 'Del 2 — dømt på forhånd'
 skribenter = ['lennart-kiil']
 date = 2022-07-09
 show_reading_time = true

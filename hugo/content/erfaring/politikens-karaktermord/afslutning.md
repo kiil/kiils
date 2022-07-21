@@ -1,6 +1,6 @@
 +++
 draft = true
-title = 'Del 6 — Politikens paternalisme eller ægte pluralisme'
+title = 'Del 7 — Politikens paternalisme eller ægte pluralisme'
 skribenter = ['lennart-kiil']
 date = 2022-06-10
 show_reading_time = true

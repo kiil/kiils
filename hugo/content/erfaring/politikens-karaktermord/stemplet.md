@@ -1,6 +1,6 @@
 +++
 draft = true
-title = 'Del 4 — Et stempel er nemt at påføre men svært at vaske af'
+title = 'Del 5 — et stempel er nemt at påføre men svært at vaske af'
 skribenter = ['lennart-kiil']
 date = 2022-06-10
 show_reading_time = true
