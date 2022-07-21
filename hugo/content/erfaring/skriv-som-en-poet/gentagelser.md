@@ -1,5 +1,5 @@
 +++
-#draft = true
+draft = true
 #genrer =
 title = 'Ditto - spot dine gentagelser'
 skribenter = ['lennart-kiil']

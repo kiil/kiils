@@ -1,5 +1,5 @@
 +++
-#draft = true
+draft = true
 #genrer =
 title = 'Det første ord vækker — det sidste ord ægger'
 skribenter = ['lennart-kiil']

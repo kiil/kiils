@@ -1,5 +1,5 @@
 +++
-#draft = true
+draft = true
 #genrer =
 title = 'Dybe og tunge sætninger'
 skribenter = ['lennart-kiil']

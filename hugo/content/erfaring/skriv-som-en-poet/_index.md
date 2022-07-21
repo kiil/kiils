@@ -1,5 +1,5 @@
 +++
-#draft = true
+draft = true
 genrer = ['serie']
 title = 'Skriv som en poet'
 skribenter = ['lennart-kiil']

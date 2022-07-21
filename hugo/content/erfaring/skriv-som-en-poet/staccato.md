@@ -1,5 +1,5 @@
 +++
-#draft = true
+draft = true
 #genrer =
 title = 'Staccato'
 skribenter = ['lennart-kiil']

@@ -1,5 +1,5 @@
 +++
-#draft = true
+draft = true
 #genrer =
 title = 'Som redaktør ville jeg ønske alle skribenter kendte det her trick'
 skribenter = ['lennart-kiil']
