@@ -52,13 +52,23 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/politikens-karaktermord/indledning/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <loc>https://www.kiils.dk/emner/</loc>
+    <lastmod>2022-09-02T08:57:34+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/emner/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/emner/"
+                />
   </url><url>
     <loc>https://www.kiils.dk/erfaring/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-02T08:57:34+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -72,23 +82,13 @@
                 href="https://www.kiils.dk/erfaring/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/genrer/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <loc>https://www.kiils.dk/erfaring/foraeldremoedet/</loc>
+    <lastmod>2022-09-02T08:57:34+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/genrer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/genrer/"
-                />
   </url><url>
     <loc>https://www.kiils.dk/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-02T08:57:34+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -102,8 +102,13 @@
                 href="https://www.kiils.dk/"
                 />
   </url><url>
+    <loc>https://www.kiils.dk/emner/kommunikation/</loc>
+    <lastmod>2022-09-02T08:57:34+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/skribenter/lennart-kiil/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-02T08:57:34+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -117,18 +122,8 @@
                 href="https://www.kiils.dk/skribenter/lennart-kiil/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/politikens-karaktermord/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/genrer/serie/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.kiils.dk/skribenter/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-02T08:57:34+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -142,20 +137,45 @@
                 href="https://www.kiils.dk/skribenter/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/emner/</loc>
-    <lastmod>2022-06-16T12:10:31+02:00</lastmod>
+    <loc>https://www.kiils.dk/emner/sprog/</loc>
+    <lastmod>2022-09-02T08:57:34+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/erfaring/begrebernes-betydning/</loc>
+    <lastmod>2022-08-18T10:52:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/erfaring/virkemidler/dagligdagens-virkemidler/</loc>
+    <lastmod>2022-08-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/genrer/</loc>
+    <lastmod>2022-07-14T13:31:41+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.kiils.dk/en/emner/"
+                href="https://www.kiils.dk/en/genrer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://www.kiils.dk/emner/"
+                href="https://www.kiils.dk/genrer/"
                 />
+  </url><url>
+    <loc>https://www.kiils.dk/genrer/serie/</loc>
+    <lastmod>2022-07-14T13:31:41+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/erfaring/virkemidler/</loc>
+    <lastmod>2022-07-14T13:31:41+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/tools/hugo/</loc>
     <lastmod>2022-06-16T12:10:31+02:00</lastmod>

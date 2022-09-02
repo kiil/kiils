@@ -1,6 +1,6 @@
 +++
-#draft = true
-title = 'Del 1 — Politiken tager sit kraftigste våben i brug mod små medier'
+draft = true
+title = 'Politiken stemplede mig som et demokratisk problem - min forbrydelse var at lade folket komme til orde'
 skribenter = ['lennart-kiil']
 date = 2022-07-09
 show_reading_time = true
@@ -22,6 +22,24 @@ images = ['']
 #tools = ['']
 +++
 
+
+> ## Et ekspertpanel stempler 9 danske digitale medier som junkmedier og kalder det et demokratisk problem.
+
+
+Ja, sådan lød underrubrikken på Politikens artikel som blandt andre stemplede min platform Folkets Avis som et junkmedie.
+
+Selve rubrikken var ikke mindre dramatisk:
+
+### [Junk news: Mange nye netmedier manipulerer, vildleder og stjæler fra andre - politiken.dk](https://politiken.dk/kultur/medier/art7148206/Mange-nye-netmedier-manipulerer-vildleder-og-stj%C3%A6ler-fra-andre)
+
+Det er voldsomme anklager:
+
+-  Tyveri
+-  Manipulation
+-  Demokratisk problem
+
+Men inden vi kommer til den sag, går vi tilbage i tiden.
+
 Da *Politiken* første gang udkom i oktober 1884,
 erklærede avisen temmelig ubeskedent
 at den var
@@ -34,7 +52,9 @@ Folkets Avis skulle være et organ hvor folket rent faktisk selv kunne komme til
 Hvor Politiken ser folket som en uoplyst passiv størrelse der skal vejledes af en åndelig elite,
 så var ideen med Folkets Avis at bringe den livserfaring som ligger ude i folket ind i den offentlige debat.
 
-Der er masser af oplysning at hente i folket.
+Mit motto, eller min *tagline*, for Folkets Avis var da også — Fordi demokrati betyder folkestyre
+
+Der er masser af oplysning at hente i folket. Og det er jo netop folk som lever i demokratiet. w
 
 Folkets Avis var med andre ord et forsøg på at supplere den stigende professionalisering af åndslivet med et organ hvor folkets egne tanker og bekymringer kom i fokus uden at ledvogterne i mediebranchen på forhånd skulle bortsortere bestemte synspunkter eller anskuelser.
 
@@ -56,6 +76,8 @@ Og hvad som skal hånes.
 
 Den magt er enorm.
 
+## Folket blev ikke hørt før
+
 Og spørgsmålet er om en så stor magt skal ligge i så få hænder som tilfældet er nu.
 
 For i Danmark er det en meget lille lukket klike af mediefolk som sidder med definitionsmagten.
@@ -69,6 +91,8 @@ Derfor skabte jeg Folkets Avis.
 
 Som en demokratisering af medieverdenen.
 
+Derfor er det ikke såp lidt frækt at Politiken at klassificere mit arbejde som et "demokratisk problem". Det er i virkeligheden Politikens egen elitære tilgang som er et demokratisk problem.
+
 For virkeligheden er langt mere mangfoldig end hvad redaktionerne på Rådhuspladsen lader passere gennem nåleøjet.
 
 Og pluralisme og mangfoldighed er egentligt blot forskellige ord for det samme fænomen, nemlig at flere stemmer bliver hørt, og at det ikke kun er et lille fåtal som kommer til orde eller bestemmer hvilke synspunkter der skal have plads og hvilke som skal udelukkes.
@@ -81,7 +105,7 @@ Der var masser af folk som gerne ville til orde, men som tidligere havde haft sv
 Og læserne var også vilde med det.
 Der blev skabt indhold af hundredevis af frivillige skribenter som blev delt af tusinder af læsere og læst af hundreder af tusinder.
 
-## Folkets Avis var en succes.
+## Folkets Avis var en succes
 
 Også andre havde succes med små digitale medieprojekter som kunne supplere de gamle og udfordre dem lidt på deres monopol på definitionsmagten.
 
@@ -111,8 +135,22 @@ var ikke redelige:
 - Man fuskede med metoderne.
 
 
-# Folkets Avis blev falsk anklaget og dømt af Politiken...
+## Politiken karaktermyrder Folkets Avis
 
-...og dets troværdighed led ubodelig skade derved.
+Politiken fik stemplet Folkets Avis på en helt igennem urimelig baggrund.
+
+Og nogle eksperter misbrugte deres autoritet til et legitimere Politikens falske anklager.
+
+Politikens aktion
+
+-   misbrugte eksperters faglige autoritet i politisk øjemed
+
+-   ændrede mediebilledet i mindre demokratisk retning
+
+-   undergravede små konkurrenter i en sårbar position
+
+-   skadede en idealistisk iværksætters troværdighed og indtægt
+
+Alt sammen på et grundlag som i bedste fald var yderst tvivlsomt.
 
 Det handler følgende miniserie om.

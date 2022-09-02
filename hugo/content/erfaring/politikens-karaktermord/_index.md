@@ -1,4 +1,5 @@
 +++
+draft = true
 genrer = ['serie']
 date = 2022-07-09
 title = "Politikens karaktermord"
