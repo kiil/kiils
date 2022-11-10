@@ -24,7 +24,10 @@ figure {
 
 figcaption {padding: 1rem; background-color: white;}
 
-
+pre code {
+  font-size: .875rem;
+  line-height: 1;
+}
 /*
 
 figure {

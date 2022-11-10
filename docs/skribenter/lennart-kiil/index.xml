@@ -6,7 +6,22 @@
     <description>Recent content in Lennart Kiil on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Fri, 02 Sep 2022 08:57:34 +0200</lastBuildDate><atom:link href="https://www.kiils.dk/skribenter/lennart-kiil/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Nov 2022 09:47:02 +0100</lastBuildDate><atom:link href="https://www.kiils.dk/skribenter/lennart-kiil/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simpel og lynhurtig ordfrekvensanalyse i Nushell</title>
+      <link>https://www.kiils.dk/erfaring/nlp/nushell/</link>
+      <pubDate>Tue, 08 Nov 2022 09:47:02 +0100</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/nlp/nushell/</guid>
+      <description>En shell der egner sig godt til dataanalyse, er Nushell .
+Den egner sig også godt til databaseret tekstanalyse, eller kvantitativ tekstanalyse.
+Her et hurtigt eksempel på hvad Nushell kan.
+Jeg har en tekst i filen livsfarlige-konspirationsteorier.da.md.
+Antal linjer, ord og anslag i den tekst kan jeg få sådan her:
+open livsfarlige-konspirationsteorier.da.md | size så giver nushell svaret
+╭───────────┬──────╮ │ lines │ 51 │ │ words │ 616 │ │ bytes │ 3790 │ │ chars │ 3713 │ │ graphemes │ 3713 │ ╰───────────┴──────╯ Et hurtigt overblik over sætnings- og afsnitslængde fås som følger</description>
+    </item>
+    
     <item>
       <title>Et forældremøde jeg sent vil glemme</title>
       <link>https://www.kiils.dk/erfaring/foraeldremoedet/</link>
@@ -41,7 +56,7 @@ Jeg mente ikke at Otto var hovedperson, men noget andet centralt som jeg bare ik
       
       <guid>https://www.kiils.dk/erfaring/virkemidler/</guid>
       <description>Denne lille grammatik er fokuseret på de dele af sproget som er væsentligst for
- klar kommunikation kreativ skrivning korrekt dansk  Den er tiltænkt tekster som skal læses på en skærm.</description>
+klar kommunikation kreativ skrivning korrekt dansk Den er tiltænkt tekster som skal læses på en skærm.</description>
     </item>
     
     <item>
@@ -66,7 +81,7 @@ Derfor skiftede jeg
 Det kan være svært at vide om der er en reel interesse for ens ydelse, selvom man selv ser et klart behov.
 Og det kan være svært at vurdere om henstillingen &amp;ldquo;send en mail&amp;rdquo; udtrykker et reelt ønske om at modtage en mail.
 Men ofte giver det mening at følge op:
- Kære Xxxxx,
+Kære Xxxxx,
 Tak for den korte samtale på telefon omkring Xxxxxx Publications.</description>
     </item>
     
@@ -354,7 +369,7 @@ Men den tekst som betyder mest for mig selv, har jeg ingen data på.</descriptio
       <guid>https://www.kiils.dk/erfaring/seo/google-tidlig-indsats/</guid>
       <description>Små medier kan markere sig ved at være først med på internationale navne. Og det er tilsyneladende også noget som giver bonus i søgeresultaterne.
 For ikke så længe tid siden skrev jeg et indlæg her på Kiils med titlen: Når de små medier overhaler de store :
- De små medier er generelt mere manøvredygtige end de store. Det gælder også på indholdsstrategien.
+De små medier er generelt mere manøvredygtige end de store. Det gælder også på indholdsstrategien.
 Det betyder at små medier kan reagere hurtigt på internationale trends.</description>
     </item>
     
