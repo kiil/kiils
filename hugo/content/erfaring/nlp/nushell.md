@@ -1,7 +1,7 @@
 +++
 #draft = true
 #genrer =
-title = 'Simpel og lynhurtig ordfrekvensanalyse i Nushell'
+title = 'Simpel og hurtig ordfrekvensanalyse i Nushell'
 skribenter = ['lennart-kiil']
 date = 2022-11-08T09:47:02+01:00
 show_reading_time = true
