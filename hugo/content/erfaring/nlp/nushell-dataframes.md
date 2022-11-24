@@ -1,12 +1,12 @@
 +++
-draft = true
-#genrer =
-title = 'Nushell-Dataframes'
+#draft = true
+genrer = 'howto'
+title = 'Uhyre hurtig tekstanalyse med dataframes i Nushell'
 skribenter = ['lennart-kiil']
-date = 2022-11-08T11:07:36+01:00
+date = 2022-11-24 10:31
 show_reading_time = true
 #description = ''
-#summary = ''
+#summary = 'Uhyggelig hurtig tekstanalyse med dataframes'
 #keywords = ['']
 
 #featured_image =
@@ -17,13 +17,13 @@ show_reading_time = true
 
 #cases = ['']
 #cm = ['']
-#emner = ['']
-#tools = ['']
+emner = ['nlp']
+tools = ['nushell']
 +++
 
 Sidste gang skrev jeg om en simpel måde at lave ordfrekvensanalyse på, i nushell.
 
-Det virkede helt efter hensigten, men det viste sig at metoden var for langsom:
+Det virkede helt efter hensigten, men det viste sig at metoden kun var hurtigt - og hurtig er for langsomt:
 
 
 ```
@@ -41,7 +41,9 @@ gav
 
 som svarer til at metoden kan klare omkring syv relativt korte tekster i sekundet, vel at mærke hvis metoden skalerer lineært.
 
-Det er for langsomt. For eksempel har jeg selv gennem min karriere skrevet `11537` tekster.
+Det er for langsomt hvis man har mange eller lange tekster. Eller begge dele.
+
+For eksempel har jeg selv gennem min karriere skrevet `11538` tekster.
 
 Så ville det tage cirka en halv time for mit lille script at arbejde sig igennem dem. Det er alt for lang tid.
 
