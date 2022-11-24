@@ -100,20 +100,6 @@
     
     , 
     {
-        "url": "/genrer/",
-        "title": "Genrer",
-        "content": "Genrer på Kiils\n"
-    }
-    
-    , 
-    {
-        "url": "/genrer/howto/",
-        "title": "howto",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/",
         "title": "Kiils",
         "content": " Stærke tekster til en digital tidsalder "
@@ -194,6 +180,13 @@
         "url": "/erfaring/virkemidler/dagligdagens-virkemidler/",
         "title": "Dagligdagens literære virkemidler",
         "content": " Far, det her har været den bedste sommerferie i mit liv — selvom jeg brækkede armen\nPå en meget varm sommerdag\nEr det ikke lidt køligt?\nHer er referencen ikke til noget tidligere sagt som i eksemplet ovenfor, men i stedet til en ydre realitet som alle kan forholde sig til gennem deres sanser og en enighed om at det er meget varmt.\n"
+    }
+    
+    , 
+    {
+        "url": "/genrer/",
+        "title": "Genrer",
+        "content": "Genrer på Kiils\n"
     }
     
     , 
