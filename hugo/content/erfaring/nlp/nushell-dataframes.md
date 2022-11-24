@@ -1,12 +1,12 @@
 +++
 #draft = true
-genrer = 'howto'
+genrer = ['howto']
 title = 'Uhyre hurtig tekstanalyse med dataframes i Nushell'
 skribenter = ['lennart-kiil']
 date = 2022-11-24 10:30:00
 show_reading_time = true
 #description = ''
-#summary = 'Uhyggelig hurtig tekstanalyse med dataframes'
+summary = 'Uhyggelig hurtig tekstanalyse med dataframes'
 #keywords = ['']
 
 #featured_image =

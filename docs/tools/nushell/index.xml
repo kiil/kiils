@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nushell on Kiils</title>
+    <link>https://www.kiils.dk/tools/nushell/</link>
+    <description>Recent content in nushell on Kiils</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>da-dk</language>
+    <lastBuildDate>Tue, 08 Nov 2022 09:47:02 +0100</lastBuildDate><atom:link href="https://www.kiils.dk/tools/nushell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simpel og hurtig ordfrekvensanalyse i Nushell</title>
+      <link>https://www.kiils.dk/erfaring/nlp/nushell/</link>
+      <pubDate>Tue, 08 Nov 2022 09:47:02 +0100</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/nlp/nushell/</guid>
+      <description>En shell der egner sig godt til dataanalyse, er Nushell .
+Den egner sig også godt til databaseret tekstanalyse, eller kvantitativ tekstanalyse.
+Her et hurtigt eksempel på hvad Nushell kan.
+Jeg har en tekst i filen livsfarlige-konspirationsteorier.da.md.
+Antal linjer, ord og anslag i den tekst kan jeg få sådan her:
+open livsfarlige-konspirationsteorier.da.md | size så giver nushell svaret
+╭───────────┬──────╮ │ lines │ 51 │ │ words │ 616 │ │ bytes │ 3790 │ │ chars │ 3713 │ │ graphemes │ 3713 │ ╰───────────┴──────╯ Et hurtigt overblik over sætnings- og afsnitslængde fås som følger</description>
+    </item>
+    
+  </channel>
+</rss>
