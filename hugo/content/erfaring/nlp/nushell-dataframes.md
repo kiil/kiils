@@ -23,7 +23,7 @@ tools = ['nushell']
 
 Sidste gang skrev jeg om en simpel måde at lave ordfrekvensanalyse på, i nushell.
 
-Det virkede helt efter hensigten, men det viste sig at metoden kun var hurtigt - og hurtig er for langsomt:
+Det virkede helt efter hensigten, men det viste sig at metoden kun var hurtig — og hurtig er for langsomt:
 
 
 ```

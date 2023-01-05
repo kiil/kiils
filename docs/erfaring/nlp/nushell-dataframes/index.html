@@ -213,7 +213,7 @@
     </header>
 
     <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Sidste gang skrev jeg om en simpel måde at lave ordfrekvensanalyse på, i nushell.</p>
-<p>Det virkede helt efter hensigten, men det viste sig at metoden kun var hurtigt - og hurtig er for langsomt:</p>
+<p>Det virkede helt efter hensigten, men det viste sig at metoden kun var hurtig — og hurtig er for langsomt:</p>
 <pre tabindex="0"><code>benchmark {                                                                                           11/08/2022 11:00:49 
 ::: let stopwords = ( open stopord.txt | lines | wrap stopord )
 ::: let tidy = ( open livsfarlige-konspirationsteorier.da.md | str downcase | split words | wrap ord | where ord in $stopwords.stopord == false )
