@@ -3,7 +3,7 @@
 #genrer = ['howto']
 title = 'Jeg spurgte chatGPT om intelligens og svaret var overraskende menneskeligt'
 skribenter = ['lennart-kiil']
-date = 2023-01-05T09:47:02+01:00
+date = 2023-01-05T09:27:02+01:00
 show_reading_time = true
 #description = ''
 #summary = ''
@@ -50,9 +50,7 @@ Er det fordi jeg har såret dens følelser?
 
 Nej.
 
-Grunden til det "menneskelige" i at svare på en anden måde når spørgsmålet bliver personligt, ligger i den måde som chatGPT er trænet på.
-
-Modellen bag har jo læst milliarder af ord. Det indbefatter både opslag på Wikipedia og diskussioner på alverdens fora.
+Modellen bag chatGPT har jo læst milliarder af ord. Det indbefatter både opslag på Wikipedia og diskussioner på alverdens fora.
 
 Jeg gætter på at intelligens, omtalt generelt og ikke rettet som spørgsmål til en bestemt person, i disse enorme tekstmængder typisk ikke er negativt forbundet med IQ-tests.
 

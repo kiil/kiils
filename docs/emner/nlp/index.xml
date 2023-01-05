@@ -6,7 +6,19 @@
     <description>Recent content in nlp on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Thu, 24 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/emner/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jan 2023 09:27:02 +0100</lastBuildDate><atom:link href="https://www.kiils.dk/emner/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jeg spurgte chatGPT om intelligens og svaret var overraskende menneskeligt</title>
+      <link>https://www.kiils.dk/erfaring/nlp/chatgpt/</link>
+      <pubDate>Thu, 05 Jan 2023 09:27:02 +0100</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/nlp/chatgpt/</guid>
+      <description>Jeg talte lidt med chatGPT om intelligens og IQ-tests.
+Jeg forsøgte først at få et generelt bud på hvordan man måler intelligens på en pålidelig måde:
+Prompt: what is a reliable measure of intelligence
+A reliable measure of intelligence is an IQ test. IQ tests measure a person&amp;rsquo;s cognitive abilities, such as problem-solving, memory, and analytical skills. IQ tests are designed to measure a person&amp;rsquo;s overall intelligence, and are considered to be a reliable measure of intelligence.</description>
+    </item>
+    
     <item>
       <title>Uhyre hurtig tekstanalyse med dataframes i Nushell</title>
       <link>https://www.kiils.dk/erfaring/nlp/nushell-dataframes/</link>

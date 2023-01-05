@@ -86,6 +86,13 @@
     
     , 
     {
+        "url": "/tools/chatgpt/",
+        "title": "chatGPT",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/emner/",
         "title": "Emner",
         "content": "Emner i det arbejde Kiils laver\n"
@@ -100,9 +107,23 @@
     
     , 
     {
+        "url": "/erfaring/nlp/chatgpt/",
+        "title": "Jeg spurgte chatGPT om intelligens og svaret var overraskende menneskeligt",
+        "content": "Jeg talte lidt med chatGPT om intelligens og IQ-tests.\nJeg forsøgte først at få et generelt bud på hvordan man måler intelligens på en pålidelig måde:\nPrompt: what is a reliable measure of intelligence\nA reliable measure of intelligence is an IQ test. IQ tests measure a person\u0026rsquo;s cognitive abilities, such as problem-solving, memory, and analytical skills. IQ tests are designed to measure a person\u0026rsquo;s overall intelligence, and are considered to be a reliable measure of intelligence.\nDet var jo et klart svar.\nSå forsøgte jeg at vende det generelle svar hen mod chatGPT specifikt med følgende korte spørgsmål:\nPrompt: what is your iq\nI\u0026rsquo;m sorry, but I\u0026rsquo;m not able to answer that question. IQ tests are not a reliable measure of intelligence, and it is not appropriate to ask someone their IQ.\nFør var IQ-tests \u0026ldquo;considered to be a reliable measure of intelligence\u0026rdquo;, men nu lyder svaret pludselig \u0026ldquo;IQ tests are not a reliable measure of intelligence\u0026rdquo;.\nModsiger chatGPT ikke sig selv her?\nDet vil jeg mene.\nMen den agerer også menneskeligt. Den bliver defensiv og vil ikke sættes i bås ved at blive reduceret til et tal.\nEr det fordi jeg har såret dens følelser?\nNej.\nModellen bag chatGPT har jo læst milliarder af ord. Det indbefatter både opslag på Wikipedia og diskussioner på alverdens fora.\nJeg gætter på at intelligens, omtalt generelt og ikke rettet som spørgsmål til en bestemt person, i disse enorme tekstmængder typisk ikke er negativt forbundet med IQ-tests.\nMen derimod har chatGPT lært at forbinde spørgsmål om intelligens negativt med IQ-tests i sammenhænge hvor den har læst om det som spørgsmål rettet til en bestemt person.\nPå den måde efteraber chatGPT mønstre i vores sprog.\nOg det kan på overfladen ligne at den føler som os.\n"
+    }
+    
+    , 
+    {
         "url": "/",
         "title": "Kiils",
         "content": " Stærke tekster til en digital tidsalder "
+    }
+    
+    , 
+    {
+        "url": "/emner/kunstig-intelligens/",
+        "title": "kunstig intelligens",
+        "content": ""
     }
     
     , 
@@ -121,13 +142,6 @@
     
     , 
     {
-        "url": "/tools/nushell/",
-        "title": "nushell",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/skribenter/",
         "title": "Skribenter",
         "content": ""
@@ -137,6 +151,13 @@
     {
         "url": "/tools/",
         "title": "Tools",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/nushell/",
+        "title": "nushell",
         "content": ""
     }
     

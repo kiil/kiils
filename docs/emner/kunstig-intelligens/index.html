@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Uhyre hurtig tekstanalyse med dataframes i nushell</title>
+    <title>Kunstig intelligens</title>
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
 
@@ -33,10 +33,12 @@
       
     
 
-    <meta property="og:title" content="Uhyre hurtig tekstanalyse med dataframes i Nushell" />
-<meta property="og:description" content="Uhyggelig hurtig tekstanalyse med dataframes" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.kiils.dk/erfaring/nlp/nushell-dataframes/" />
+    <link rel="alternate" type="application/rss+xml" href="https://www.kiils.dk/emner/kunstig-intelligens/index.xml" title="Kiils" />
+    <meta property="og:title" content="kunstig intelligens" />
+<meta property="og:description" content="Vær så venlig" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.kiils.dk/emner/kunstig-intelligens/" />
+
 
 
 
@@ -47,18 +49,12 @@
 
 
 
+<meta property="og:image" content="/images/canvas_huf5a4a47d272c9e72b490e7eba58c5b9b_363_filter_11086708237482431014.png" /><meta property="og:site_name" content="Kiils" />
 
-<meta property="og:image" content="/images/canvas_huf5a4a47d272c9e72b490e7eba58c5b9b_363_filter_5439242262545755736.png" /><meta property="article:section" content="erfaring" />
-<meta property="article:published_time" content="2022-11-24T00:00:00+00:00" />
-<meta property="article:modified_time" content="2022-11-24T00:00:00+00:00" /><meta property="og:site_name" content="Kiils" />
-
-<meta itemprop="name" content="Uhyre hurtig tekstanalyse med dataframes i Nushell">
-<meta itemprop="description" content="Uhyggelig hurtig tekstanalyse med dataframes"><meta itemprop="datePublished" content="2022-11-24T00:00:00+00:00" />
-<meta itemprop="dateModified" content="2022-11-24T00:00:00+00:00" />
-<meta itemprop="wordCount" content="505">
-<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Uhyre hurtig tekstanalyse med dataframes i Nushell"/>
-<meta name="twitter:description" content="Uhyggelig hurtig tekstanalyse med dataframes"/>
+<meta itemprop="name" content="kunstig intelligens">
+<meta itemprop="description" content="Vær så venlig"><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="kunstig intelligens"/>
+<meta name="twitter:description" content="Vær så venlig"/>
 
       
     
@@ -67,8 +63,6 @@
   <body class="ma0 avenir bg-near-white production">
 
     
-   
-  
 
   <header class="pa3 bg-near-black">
 
@@ -171,164 +165,50 @@
 
 </nav>
 
+      <div class="pa3 pt5 pa5-l pt6-l">
+        <h1 class="mt5 f3 f2-ns fw5 white tc lh-title">
+          kunstig intelligens
+        </h1>
+        
+      </div>
 
   </header>
 
 
-
     <main class="pa3 w-100 w-90-l mw8 center production" role="main">
       
-  
-  <article class="flex-l flex-wrap justify-between pa4-l">
-
-
-</div>
-
-    <header class="mt4 w-100">
-      <div class="f5 b helvetica tc ttu tracked">
-        <a class="link" href="/erfaring/">Erfaring</a>
-  
-</div>
-      <h1 class="f2 f1-l center measure-narrow athelas tc mb4 mt4">Uhyre hurtig tekstanalyse med dataframes i Nushell</h1>
-      <div class="f4 mid-gray center tc tracked link  ">Af
-  
-
-     <a href="/skribenter/lennart-kiil" class="link mid-gray fw6" rel="author">
-       Lennart kiil</a>
-
-  
-</div>
-      <hr class="ml0 mt4 mb2 mw-100 bb b--mid-gray">
-      <div>
+<div class="flex">
+  <article class="order-1 w-100 w-50-l pa3 pa4-m pa4-l">
+    <div class="measure f4 pt2-l lh-copy nested-copy-line-height nested-links nested-img mid-gray">
       
-      <time class="f7 dib tracked" datetime="2022-11-24T00:00:00Z">24/11/2022</time>
-      
-      
-        <span class="f7 dib tracked"> - 3 minutter </span>
-        <span class="f7 dib tracked"> - 505 ord</span>
-      
-      </div>
-
-
-    </header>
-
-    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Sidste gang skrev jeg om en simpel måde at lave ordfrekvensanalyse på, i nushell.</p>
-<p>Det virkede helt efter hensigten, men det viste sig at metoden kun var hurtigt - og hurtig er for langsomt:</p>
-<pre tabindex="0"><code>benchmark {                                                                                           11/08/2022 11:00:49 
-::: let stopwords = ( open stopord.txt | lines | wrap stopord )
-::: let tidy = ( open livsfarlige-konspirationsteorier.da.md | str downcase | split words | wrap ord | where ord in $stopwords.stopord == false )
-::: $tidy.ord | uniq --count | sort-by count --reverse }
-</code></pre><p>gav</p>
-<pre tabindex="0"><code>145ms 516µs 353ns
-</code></pre><p>som svarer til at metoden kan klare omkring syv relativt korte tekster i sekundet, vel at mærke hvis metoden skalerer lineært.</p>
-<p>Det er for langsomt hvis man har mange eller lange tekster. Eller begge dele.</p>
-<p>For eksempel har jeg selv gennem min karriere skrevet <code>11538</code> tekster.</p>
-<p>Så ville det tage cirka en halv time for mit lille script at arbejde sig igennem dem. Det er alt for lang tid.</p>
-<p>Så lad os prøve noget andet.</p>
-<p>Nushell har også dataframes som er kendt for at være en hurtig måde at behandle data på.</p>
-<p>Det er relativt simpel at bygge et lille script som bruger dataframes til ordfrekvensanalyse.</p>
-<p>Her er hvad jeg har frembragt:</p>
-<pre><code># Word frequency analysis
-def words [
-  filename: string # Text file
-] {
-  let stopwords = (open ~/GD/TEKST/stopord.txt | lines | into df)
-  let corpus = (open $filename | str downcase | split words | into df)
-  let mask = ($corpus | is-in $stopwords)
-  let tidy = ($corpus | filter-with ($mask | df-not))
-  let frequency = ($tidy | value-counts)
-  let sorted = ($frequency | sort-by counts | reverse)
-  $sorted
-}
-</code></pre>
-<p>Og hvis jeg kører det script på filen fra sidste gang, så bliver resultatet</p>
-<pre tabindex="0"><code>benchmark { words livsfarlige-konspirationsteorier.da.md }
-</code></pre><p>tadaaa</p>
-<pre tabindex="0"><code>3ms 149µs 424ns
-</code></pre><p>Tre tusindedele af et sekund. Det er fair nok.</p>
-<p>Hvis metoden skalerer lineært, vil det altså tage under et minut at analysere alle mine 11537 tekster.</p>
-<p>Ud over at dataframes er meget hurtigere end den metode jeg præsenterede sidst, så er resultatet ellers det samme:</p>
-<pre tabindex="0"><code>╭─────┬───────────────────┬────────╮
-│   # │         0         │ counts │
-├─────┼───────────────────┼────────┤
-│   0 │ verden            │      5 │
-│   1 │ verdensopfattelse │      4 │
-│   2 │ mainstream        │      4 │
-│   3 │ dag               │      4 │
-│   4 │ begynder          │      3 │
-│   5 │ alternative       │      3 │
-│   6 │ hele              │      3 │
-│   7 │ frelser           │      3 │
-│   8 │ ting              │      2 │
-│   9 │ magtfuld          │      2 │
-│ ... │ ...               │ ...    │
-│ 202 │ forestille        │      1 │
-│ 203 │ modparten         │      1 │
-│ 204 │ sker              │      1 │
-│ 205 │ rive              │      1 │
-│ 206 │ konstrueret       │      1 │
-│ 207 │ erstatning        │      1 │
-│ 208 │ pøbel             │      1 │
-│ 209 │ menuen            │      1 │
-│ 210 │ opdager           │      1 │
-│ 211 │ bekræfter         │      1 │
-╰─────┴───────────────────┴────────╯
-</code></pre><p>Så dataframes lever op til deres gode ry.</p>
-<ul class="pa0">
-  
-</ul>
-<ul class="pa0">
-  
-   <li class="list">
-     <a href="/emner/nlp" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">nlp</a>
-   </li>
-  
-</ul>
-<div class="mt6">
-        
-      </div>
-
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-
-
-    </section>
-
-    <section>
-      
-    </section>
-
-
-
-
-
-
-    <aside class="w-30-l mt6-l">
-
-
-
-
-</aside>
-
+    </div>
   </article>
+  <div class="order-0 w-100 w-50-l">
+    <section class="flex-ns flex-wrap justify-around mt5">
+      
+        <div class="relative w-100  mb4 bg-white">
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <div class="f7 helvetica ttu tracked">Erfaring</div>
+    <h1 class="f3 near-black">
+      <a href="https://www.kiils.dk/erfaring/nlp/chatgpt/" class="link black dim">
+        Jeg spurgte chatGPT om intelligens og svaret var overraskende menneskeligt
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Jeg talte lidt med chatGPT om intelligens og IQ-tests.
+Jeg forsøgte først at få et generelt bud på hvordan man måler intelligens på en pålidelig måde:
+Prompt: what is a reliable measure of intelligence
+A reliable measure of intelligence is an IQ test. IQ tests measure a person&rsquo;s cognitive abilities, such as problem-solving, memory, and analytical skills. IQ tests are designed to measure a person&rsquo;s overall intelligence, and are considered to be a reliable measure of intelligence.
+    </div>
+  </div>
+</div>
+
+        </div>
+      
+    </section>
+  </div>
+</div>
 
     </main>
     <footer class="pa3 bg-near-black bottom-0 w-100" role="contentinfo">
