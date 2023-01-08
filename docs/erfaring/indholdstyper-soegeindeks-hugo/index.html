@@ -17,7 +17,7 @@
     <meta name="generator" content="Hugo 0.108.0">
     
     
-      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
     
 
     
@@ -69,11 +69,9 @@ Derfor skiftede jeg
 [ {{ range $index, $value := where .Site.Pages &#34;.Draft&#34; false }} {{ if $index }}, {{ end }} { &#34;url&#34;: &#34;{{ .RelPermalink }}&#34;, &#34;title&#34;: &#34;{{ .Title }}&#34;, &#34;content&#34;: {{ .Content | plainify | jsonify }} } {{ end }} ] ud med
 [ {{ range $index, $value := where ( where ."/>
 
-      
-    
   </head>
 
-  <body class="ma0 avenir bg-near-white production">
+  <body class="ma0 avenir bg-near-white">
 
     
    
@@ -185,7 +183,7 @@ Derfor skiftede jeg
 
 
 
-    <main class="pa3 w-100 w-90-l mw8 center production" role="main">
+    <main class="pa3 w-100 w-90-l mw8 center" role="main">
       
   
   <article class="flex-l flex-wrap justify-between pa4-l">
