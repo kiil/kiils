@@ -5,10 +5,10 @@
 
 {{ define "main" }}
   {{ $section := .Site.GetPage "section" .Section }}
-  <article class="flex-l flex-wrap justify-between pa4-l">
+  <article class="justify-between pa4-l">
 
     <header class="mt4 w-100">
-      <h1 class="f2 f1-l center measure-narrow athelas tc mb4 mt4">
+      <h1 class="f1 center measure-narrow athelas tc mb4 mt4">
         {{- .Title -}}
       </h1>
       </div>
@@ -18,6 +18,19 @@
       {{- .Content -}}
     </section>
 
+    {{ $url := "https://raw.githubusercontent.com/kiil/danske-chatgpt-prompts/main/prompts.csv" }}
+    {{ $sep := "," }}
+    {{ range $i, $r := getCSV $sep $url }}
+        <h2 class="f2 data-heading">Du er {{ index $r 0 }}</h2>
+        <p class="lh-copy f4 data-paragraph">{{ index $r 1 }}</p>
+    {{ end }}
+
+
+
+<style>
+.data-heading:first-of-type {display:none;}
+.data-paragraph:first-of-type {display:none;}
+</style>
 
 
 
@@ -26,4 +39,31 @@
 
 
   </article>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    <script>
+      document.querySelectorAll("p.data-paragraph").forEach((x) => {
+        x.setAttribute('contentEditable', true);
+        const button = document.createElement('button');
+        button.style.border = '0';
+        button.style.borderRadius = '3px';
+        button.style.fontSize = '1rem';
+        button.style.marginRight = '0.5rem';
+        button.style.padding = '0';
+        button.style.backgroundColor = 'transparent';
+        button.innerHTML = '✂️';
+        button.addEventListener('click', async () => {
+          if (navigator.clipboard) {
+            await navigator.clipboard.writeText(x.innerText);
+            alert('Prompt is copied, now paste this into ChatGPT.');
+          } else {
+            alert('Your browser does not support clipboard copy. Please select the prompt and copy.')
+          }
+        }, false);
+        x.previousElementSibling.prepend(button);
+      });
+    </script>
+
 {{ end }}
