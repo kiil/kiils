@@ -1,0 +1,29 @@
+{{ define "header" }}
+   {{/* We can override any block in the baseof file be defining it in the template */}}
+  {{ partial "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ $section := .Site.GetPage "section" .Section }}
+  <article class="flex-l flex-wrap justify-between pa4-l">
+
+    <header class="mt4 w-100">
+      <h1 class="f2 f1-l center measure-narrow athelas tc mb4 mt4">
+        {{- .Title -}}
+      </h1>
+      </div>
+</header>
+
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l">
+      {{- .Content -}}
+    </section>
+
+
+
+
+
+
+
+
+  </article>
+{{ end }}

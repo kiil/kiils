@@ -976,6 +976,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.kiils.dk/chatgpt-prompts/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/cases/coronakatastrofen/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
