@@ -44,7 +44,7 @@
         button.addEventListener('click', async () => {
           if (navigator.clipboard) {
             await navigator.clipboard.writeText(x.innerText);
-            alert('Prompt is copied, now paste this into ChatGPT.');
+            alert('Prompt kopieret, nu kan du kopiere den over i chatGPT.');
           } else {
             alert('Your browser does not support clipboard copy. Please select the prompt and copy.')
           }
