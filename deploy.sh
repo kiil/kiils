@@ -4,9 +4,7 @@ rm -r docs
 
 cd hugo
 
-HUGO_ENV=production
-
-hugo --ignoreCache
+HUGO_ENV=production hugo --ignoreCache
 
 mv public ../docs
 
