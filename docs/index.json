@@ -1241,7 +1241,7 @@
     
     , 
     {
-        "url": "/chatgpt-prompts/",
+        "url": "/prompts/",
         "title": "chatGPT prompts",
         "content": "\n\nDu kan tilpasse ved at klikke i teksten under hver enkelt overskrift, og så kopiere teksten ved at klikke på saksen.\n\n"
     }
