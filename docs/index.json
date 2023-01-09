@@ -1264,7 +1264,7 @@
     {
         "url": "/prompts/",
         "title": "Danske chatGPT prompts",
-        "content": "Det indledende prompt er afgørende for at man får et brugbart udbytte af sin samtale med chatGPT.\nDe følgende prompts giver chatGPT en bestemt rolle og afgrænser dens svar på en meningsfuld måde.\nSådan bruger du prompts i listen\nFind prompt som bedst passer til den opgave du ønsker løst Tilpas med klik på tekst, udskift parenteser med egne ord Kopier prompt med saks og indsæt det i ny samtale i chatGPT "
+        "content": "Det indledende prompt er afgørende for en brugbar samtale med chatGPT.\nFølgende prompts giver chatGPT en klar rolle og afgrænser dens svar på en meningsfuld måde.\nSådan bruger du prompts i listen\nFind prompt som bedst passer til den opgave du ønsker løst Tilpas med klik på tekst, udskift parenteser med egne ord Kopier prompt med saks og indsæt det i ny samtale i chatGPT "
     }
     
     , 

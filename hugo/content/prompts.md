@@ -6,9 +6,9 @@ description: 'Her er danske prompts som får styr på chatGPT'
 
 ---
 
-Det indledende prompt er afgørende for at man får et brugbart udbytte af sin samtale med chatGPT.
+Det indledende prompt er afgørende for en brugbar samtale med chatGPT.
 
-De følgende prompts giver chatGPT en bestemt rolle og afgrænser dens svar på en meningsfuld måde.
+Følgende prompts giver chatGPT en klar rolle og afgrænser dens svar på en meningsfuld måde.
 
 ---
 
