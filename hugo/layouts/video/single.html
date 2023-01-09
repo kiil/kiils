@@ -1,0 +1,15 @@
+{{ define "header" }}
+{{/* We can override any block in the baseof file be defining it in the template */}}
+{{ partial "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+<h1 class="f1 avenir mb4 mt4">
+  {{- .Title -}}
+</h1>
+<article class="justify-between">
+  <section class="nested-copy-line-height lh-copy serif f3 nested-links nested-img">
+    {{- .Content -}}
+  </section>
+</article>
+{{ end }}
