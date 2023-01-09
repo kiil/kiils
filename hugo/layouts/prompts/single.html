@@ -21,8 +21,10 @@
     {{ $url := "https://raw.githubusercontent.com/kiil/danske-chatgpt-prompts/main/prompts.csv" }}
     {{ $sep := "," }}
     {{ range $i, $r := getCSV $sep $url }}
+     {{ if ne $i 0 }}
         <h2 class="f2 data-heading">Du er {{ index $r 0 }}</h2>
         <p class="lh-copy f4 data-paragraph">{{ index $r 1 }}</p>
+        {{ end }}
     {{ end }}
 
 </article>
