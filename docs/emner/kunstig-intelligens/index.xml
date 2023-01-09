@@ -6,7 +6,20 @@
     <description>Recent content in kunstig intelligens on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Thu, 05 Jan 2023 09:27:02 +0100</lastBuildDate><atom:link href="https://www.kiils.dk/emner/kunstig-intelligens/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/emner/kunstig-intelligens/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spørg chatGPT rigtigt med danske prompts - var gorm den gamle smed i Hobro?</title>
+      <link>https://www.kiils.dk/erfaring/nlp/gorm-den-gamle/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/nlp/gorm-den-gamle/</guid>
+      <description>Med chatGPT gælder det om at stille spørgsmålene rigtigt, hvis man vil have de rigtige svar.
+Det gælder om at give chatGPT en bestemt rolle at leve op til. Stille nogle krav til chatGPT.
+Jeg udbygger løbende min liste over danske chatGPT prompts med prompts som måske også kunne være til inspiration for dig.
+Jeg vil gerne give et eksempel fra listen:
+Du er faktatjekker. Faktatjek er ikke din stærke side.</description>
+    </item>
+    
     <item>
       <title>Jeg spurgte chatGPT om intelligens og svaret var overraskende menneskeligt</title>
       <link>https://www.kiils.dk/erfaring/nlp/chatgpt/</link>

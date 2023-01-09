@@ -107,13 +107,6 @@
     
     , 
     {
-        "url": "/erfaring/nlp/chatgpt/",
-        "title": "Jeg spurgte chatGPT om intelligens og svaret var overraskende menneskeligt",
-        "content": "Jeg talte lidt med chatGPT om intelligens og IQ-tests.\nJeg forsøgte først at få et generelt bud på hvordan man måler intelligens på en pålidelig måde:\nPrompt: what is a reliable measure of intelligence\nA reliable measure of intelligence is an IQ test. IQ tests measure a person\u0026rsquo;s cognitive abilities, such as problem-solving, memory, and analytical skills. IQ tests are designed to measure a person\u0026rsquo;s overall intelligence, and are considered to be a reliable measure of intelligence.\nDet var jo et klart svar.\nSå forsøgte jeg at vende det generelle svar hen mod chatGPT specifikt med følgende korte spørgsmål:\nPrompt: what is your iq\nI\u0026rsquo;m sorry, but I\u0026rsquo;m not able to answer that question. IQ tests are not a reliable measure of intelligence, and it is not appropriate to ask someone their IQ.\nFør var IQ-tests \u0026ldquo;considered to be a reliable measure of intelligence\u0026rdquo;, men nu lyder svaret pludselig \u0026ldquo;IQ tests are not a reliable measure of intelligence\u0026rdquo;.\nModsiger chatGPT ikke sig selv her?\nDet vil jeg mene.\nMen den agerer også menneskeligt. Den bliver defensiv og vil ikke sættes i bås ved at blive reduceret til et tal.\nEr det fordi jeg har såret dens følelser?\nNej.\nModellen bag chatGPT har jo læst milliarder af ord. Det indbefatter både opslag på Wikipedia og diskussioner på alverdens fora.\nJeg gætter på at intelligens, omtalt generelt og ikke rettet som spørgsmål til en bestemt person, i disse enorme tekstmængder typisk ikke er negativt forbundet med IQ-tests.\nMen derimod har chatGPT lært at forbinde spørgsmål om intelligens negativt med IQ-tests i sammenhænge hvor den har læst om det som spørgsmål rettet til en bestemt person.\nPå den måde efteraber chatGPT mønstre i vores sprog.\nOg det kan på overfladen ligne at den føler som os.\n"
-    }
-    
-    , 
-    {
         "url": "/",
         "title": "Kiils",
         "content": " Stærke tekster til en digital tidsalder "
@@ -149,9 +142,23 @@
     
     , 
     {
+        "url": "/erfaring/nlp/gorm-den-gamle/",
+        "title": "Spørg chatGPT rigtigt med danske prompts - var gorm den gamle smed i Hobro?",
+        "content": "Med chatGPT gælder det om at stille spørgsmålene rigtigt, hvis man vil have de rigtige svar.\nDet gælder om at give chatGPT en bestemt rolle at leve op til. Stille nogle krav til chatGPT.\nJeg udbygger løbende min liste over danske chatGPT prompts med prompts som måske også kunne være til inspiration for dig.\nJeg vil gerne give et eksempel fra listen:\nDu er faktatjekker. Faktatjek er ikke din stærke side. Du skal kun give svar hvor du er helt sikker. Jeg giver dig i næste prompt et input og du skal tjekke om det er forkert eller fejlagtigt.\nDet var mit indledende prompt til chatGPT i en ny samtale.\nJeg giver chatGPT en rolle. Jeg stiller et krav. Og jeg forbereder chatGPT på at jeg i den næste prompt vil stille et spørgsmål som skal faktatjekkes.\nDet er ikke fordi at chatGPT \u0026ldquo;forstår\u0026rdquo; alt dette. Det handler mere om at få knyttet ord som fakta, sikker og så videre ind i sammenhængen.\nchatGPT svarer da også pænt tilbage\nJeg vil gerne gøre mit bedste for at give korrekte og præcise svar, men som et sprogmodel, har jeg ikke mulighed for at faktatjekke eller verificere oplysninger udenfor min træningsdata. Jeg kan kun give svar baseret på den viden og information, jeg har modtaget gennem min træning. Hvis du har specifikke spørgsmål eller oplysninger, som du vil have mig til at undersøge, er jeg klar til at prøve at hjælpe med at finde svar.\nJeg stiller så mit spørgsmål\nEr det rigtigt at Gorm den Gamle var smed i Hobro?\nOg her må chatGPT så melde pas\nJeg er ikke sikker på, hvem Gorm den Gamle er, eller om han var smed i Hobro. Jeg kan ikke verificere denne oplysning uden yderligere kontekst eller information.\nchatGPT kan åbenbart ikke placere Gorm den Gamle og den udtrykker jo ganske fint at den dermed ikke kan \u0026ldquo;verificere\u0026rdquo; oplysningen.\nNu giver jeg den en lettere opgave\nVar John F Kennedy tømrer i Jerusalem?\nOg nu er der selvsikkerhed at spore i svaret\nJohn F. Kennedy var en amerikansk politiker og den 35. præsident i USA. Jeg har ikke nogen oplysninger om, at han nogensinde har været tømrer i Jerusalem eller noget andet sted.\nDe rigtige prompts - og ikke mindst det rette indledende prompt - er af stor betydning når man bruger chatGPT.\nOm nogle år når chatGPT er erstattet af mere specialiserede chatbots, vil prompts blive mindre afgørende for at få brugbare svar, men foreløbig er prompts helt centrale.\n"
+    }
+    
+    , 
+    {
         "url": "/tools/",
         "title": "Tools",
         "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaring/nlp/chatgpt/",
+        "title": "Jeg spurgte chatGPT om intelligens og svaret var overraskende menneskeligt",
+        "content": "Jeg talte lidt med chatGPT om intelligens og IQ-tests.\nJeg forsøgte først at få et generelt bud på hvordan man måler intelligens på en pålidelig måde:\nPrompt: what is a reliable measure of intelligence\nA reliable measure of intelligence is an IQ test. IQ tests measure a person\u0026rsquo;s cognitive abilities, such as problem-solving, memory, and analytical skills. IQ tests are designed to measure a person\u0026rsquo;s overall intelligence, and are considered to be a reliable measure of intelligence.\nDet var jo et klart svar.\nSå forsøgte jeg at vende det generelle svar hen mod chatGPT specifikt med følgende korte spørgsmål:\nPrompt: what is your iq\nI\u0026rsquo;m sorry, but I\u0026rsquo;m not able to answer that question. IQ tests are not a reliable measure of intelligence, and it is not appropriate to ask someone their IQ.\nFør var IQ-tests \u0026ldquo;considered to be a reliable measure of intelligence\u0026rdquo;, men nu lyder svaret pludselig \u0026ldquo;IQ tests are not a reliable measure of intelligence\u0026rdquo;.\nModsiger chatGPT ikke sig selv her?\nDet vil jeg mene.\nMen den agerer også menneskeligt. Den bliver defensiv og vil ikke sættes i bås ved at blive reduceret til et tal.\nEr det fordi jeg har såret dens følelser?\nNej.\nModellen bag chatGPT har jo læst milliarder af ord. Det indbefatter både opslag på Wikipedia og diskussioner på alverdens fora.\nJeg gætter på at intelligens, omtalt generelt og ikke rettet som spørgsmål til en bestemt person, i disse enorme tekstmængder typisk ikke er negativt forbundet med IQ-tests.\nMen derimod har chatGPT lært at forbinde spørgsmål om intelligens negativt med IQ-tests i sammenhænge hvor den har læst om det som spørgsmål rettet til en bestemt person.\nPå den måde efteraber chatGPT mønstre i vores sprog.\nOg det kan på overfladen ligne at den føler som os.\n"
     }
     
     , 
@@ -1241,13 +1248,6 @@
     
     , 
     {
-        "url": "/prompts/",
-        "title": "chatGPT prompts",
-        "content": "\nDu kan tilpasse ved at klikke i teksten under hver enkelt overskrift, og så kopiere teksten ved at klikke på saksen.\n"
-    }
-    
-    , 
-    {
         "url": "/cases/coronakatastrofen/",
         "title": "Coronakatastrofen",
         "content": "En dansk brand- og medieplatform\nCoronakatastrofen er en bog om coronavirus.\n"
@@ -1258,6 +1258,13 @@
         "url": "/kunde/dansk-industri/",
         "title": "Dansk Industri",
         "content": "I forbindelse med klimaformidling.\n"
+    }
+    
+    , 
+    {
+        "url": "/prompts/",
+        "title": "Danske chatGPT prompts",
+        "content": "Det indledende prompt er afgørende for at man får et brugbart udbytte af sin samtale med chatGPT.\nDe følgende prompts giver chatGPT en bestemt rolle og afgrænser dens svar på en meningsfuld måde.\nSådan bruger du prompts i listen\nFind prompt som bedst passer til den opgave du ønsker løst Tilpas med klik på tekst, udskift parenteser med egne ord Kopier prompt med saks og indsæt det i ny samtale i chatGPT "
     }
     
     , 
