@@ -1,7 +1,7 @@
 +++
 #draft = true
 #genrer = ['howto']
-title = 'Spørg chatGPT rigtigt med danske prompts - var gorm den gamle smed i Hobro?'
+title = 'Spørg chatGPT rigtigt med danske prompts - var Gorm den Gamle smed i Hobro?'
 skribenter = ['lennart-kiil']
 date = 2023-01-09
 show_reading_time = true
