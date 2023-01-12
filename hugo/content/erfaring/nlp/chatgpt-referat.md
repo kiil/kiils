@@ -1,5 +1,5 @@
 +++
-#draft = true
+draft = true
 #genrer = ['howto']
 title = 'Referat - en en chatGPTs stærke sider'
 skribenter = ['lennart-kiil']

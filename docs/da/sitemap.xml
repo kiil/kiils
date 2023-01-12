@@ -53,17 +53,17 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/tools/chatgpt/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/erfaring/nlp/chatgpt-botsplaining/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/emner/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -78,7 +78,7 @@
                 />
   </url><url>
     <loc>https://www.kiils.dk/erfaring/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -92,18 +92,8 @@
                 href="https://www.kiils.dk/erfaring/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/nlp/chatgpt-ordfrekvensanalyse-engelsk/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/erfaring/nlp/chatgpt-ordfrekvensanalyse/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.kiils.dk/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -118,17 +108,17 @@
                 />
   </url><url>
     <loc>https://www.kiils.dk/emner/kunstig-intelligens/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/emner/kvantitativ-tekstanalyse/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/skribenter/lennart-kiil/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -143,17 +133,12 @@
                 />
   </url><url>
     <loc>https://www.kiils.dk/emner/nlp/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/erfaring/nlp/chatgpt-referat/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/skribenter/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -168,7 +153,7 @@
                 />
   </url><url>
     <loc>https://www.kiils.dk/tools/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -181,6 +166,16 @@
                 hreflang="da"
                 href="https://www.kiils.dk/tools/"
                 />
+  </url><url>
+    <loc>https://www.kiils.dk/erfaring/nlp/chatgpt-ordfrekvensanalyse-engelsk/</loc>
+    <lastmod>2023-01-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/erfaring/nlp/chatgpt-ordfrekvensanalyse/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/erfaring/nlp/gorm-den-gamle/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>

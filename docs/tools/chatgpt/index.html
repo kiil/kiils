@@ -180,7 +180,13 @@
 <div class="flex-wrap flex-ns">
   <article class="order-1 w-100 w-50-l pa3 pa4-m pa4-l">
     <div class="measure f4 pt2-l lh-copy nested-copy-line-height nested-links nested-img mid-gray">
-      
+      <p>chatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft.</p>
+<p>GPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er chatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.</p>
+<p>Modellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.</p>
+<p>Du kan finde inspiration til danske prompts her:</p>
+<p><a href="https://www.kiils.dk/prompts/" target="_blank">Danske chatGPT prompts</a>
+</p>
+
     </div>
   </article>
   <div class="order-0 w-100 w-50-l">
@@ -196,8 +202,11 @@
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      help me POS tag the following sentence: I went up the road
-Part-of-speech (POS) tagging is the process of marking each word in a sentence with its corresponding POS tag. There are many POS taggers available, both for general English and for specific languages. For your sentence &#34;I went up the road.&#34;, the POS tags would be as follows: I: personal pronoun went: past tense of the verb &#34;go&#34; up: adverb the: definite article road: noun Here is how you could POS tag the sentence using the Natural Language Toolkit (NLTK) library in Python: import nltk sentence = &#34;I went up the road.
+      chatGPT er stærk på engelsk og den skammer sig ikke over at de &ldquo;mentale muskler&rdquo; frem.
+Jeg giver chatGPT en simpel opgave. Et ganske kort prompt:
+help me POS tag the following sentence: I went up the road
+Og får en lang smøre retur:
+Part-of-speech (POS) tagging is the process of marking each word in a sentence with its corresponding POS tag. There are many POS taggers available, both for general English and for specific languages.
     </div>
   </div>
 </div>
@@ -210,14 +219,15 @@ Part-of-speech (POS) tagging is the process of marking each word in a sentence w
     <div class="f7 helvetica ttu tracked">Erfaring</div>
     <h1 class="f3 near-black">
       <a href="https://www.kiils.dk/erfaring/nlp/chatgpt-ordfrekvensanalyse-engelsk/" class="link black dim">
-        Kan chatGPT bruges til kvantitativ tekstanalyse?
+        Går det bedre for chatGPT med ordfrekvensanalyse på engelsk end det gjorde på dansk?
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Jeg bed chatGPT oversætte den tekst, som jeg tidligere fik chatGPT til at udføre en ordfrekvens analyse på, til engelsk.
-Af en eller anden grund oversatte den kun cirka to-tredjedele.
-Prompt: please perform a word frequency analysis on the text from my next prompt. list the ten most used word and the frequency of each
-chatGPT: In order to perform a word frequency analysis, I&rsquo;ll need some text to analyze. Please provide the text you&rsquo;d like me to analyze, and I&rsquo;ll be happy to run the analysis and give you a list of the top ten most used words and their frequencies.
+      Da jeg bad chatGPT udføre en frekvensanalyse på en dansk tekst talte den ordene to gange:
+Kan chatGPT bruges til kvantitativ tekstanalyse? måske fordi den oversætter frem og tilbage mellem dansk og engelsk? Bare et gæt.
+Men lad os så prøve på engelsk.
+Jeg bad chatGPT oversætte en del af den tekst, som jeg tidligere fik chatGPT til at udføre en ordfrekvensanalyse på, til engelsk.
+Og derefter bad jeg den give mig de mest brugte ord i teksten.
     </div>
   </div>
 </div>
@@ -238,27 +248,6 @@ chatGPT: In order to perform a word frequency analysis, I&rsquo;ll need some tex
 Jeg har skrevet lidt om hvordan man kan lave ordfrekvensanalyse i nushell og hvordan man kan lave ekstremt hurtig ordfrekvensanalyse på store mængder tekst med nushell og polar dataframes .
 Nushell gav mig følgende resultat
 ╭─────┬───────────────────┬────────╮ │ # │ 0 │ counts │ ├─────┼───────────────────┼────────┤ │ 0 │ verden │ 5 │ │ 1 │ verdensopfattelse │ 4 │ │ 2 │ mainstream │ 4 │ │ 3 │ dag │ 4 │ │ 4 │ begynder │ 3 │ │ 5 │ alternative │ 3 │ │ 6 │ hele │ 3 │ │ 7 │ frelser │ 3 │ │ 8 │ ting │ 2 │ │ 9 │ magtfuld │ 2 │ på en tekst jeg skrev engang om livsfarlige konspirationsteorier: Nekrolog for en konspirationsteoretiker - leger du også med ilden?
-    </div>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="relative w-100  mb4 bg-white">
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <div class="f7 helvetica ttu tracked">Erfaring</div>
-    <h1 class="f3 near-black">
-      <a href="https://www.kiils.dk/erfaring/nlp/chatgpt-referat/" class="link black dim">
-        Referat - en en chatGPTs stærke sider
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Summarization er en af sprogmodellernes forcer som blev brugt længe inden chatGPT så dagens lys.
-Jeg havde fodret med teksten i en samtale og bedt om en ordfrekvensanalyse, det fik jeg, men den var temmelig unøjagtig.
-Prompt: ok, du ramte lidt forbi. kan du i stedet give mig et referat af teksten
-give mig et referat af teksten
-Teksten beskriver en konspirationsteoretiker, der starter med at være mistænksom overfor mainstream medierne og mener, at de manipulerer og udelader vigtige informationer i deres historier.
     </div>
   </div>
 </div>
@@ -500,6 +489,14 @@ A reliable measure of intelligence is an IQ test. IQ tests measure a person&rsqu
                     </a>
 
 
+                    
+                        <ul class="list pl1">
+                        <li class="f7">
+                        <a href="/tools/chatgpt/" class="hover-white no-underline white-60">
+                            <span>chatGPT</span>
+                        </a>
+                        </li>
+                      </ul>
                     
                         <ul class="list pl1">
                         <li class="f7">

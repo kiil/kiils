@@ -6,14 +6,18 @@
     <description>Recent content in Tools on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>chatGPT</title>
       <link>https://www.kiils.dk/tools/chatgpt/</link>
-      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/tools/chatgpt/</guid>
-      <description></description>
+      <description>chatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft.
+GPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er chatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.
+Modellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.
+Du kan finde inspiration til danske prompts her:
+Danske chatGPT prompts </description>
     </item>
     
     <item>

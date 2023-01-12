@@ -3,7 +3,7 @@
 #genrer = ['howto']
 title = 'chatGPT mansplainer ikke - men her botsplainer den helt vildt'
 skribenter = ['lennart-kiil']
-date = 2023-01-10
+date = 2023-01-12
 show_reading_time = true
 #description = ''
 #summary = ''
@@ -21,9 +21,13 @@ emner = ['nlp','kunstig intelligens','kvantitativ tekstanalyse']
 tools = ['chatGPT']
 +++
 
+chatGPT er stærk på engelsk og den skammer sig ikke over at de "mentale muskler" frem.
+
+Jeg giver chatGPT en simpel opgave. Et ganske kort prompt:
 
 > help me POS tag the following sentence: I went up the road
 
+Og får en lang smøre retur:
 
 ```
 Part-of-speech (POS) tagging is the process of marking each word in a sentence with its corresponding POS tag. There are many POS taggers available, both for general English and for specific languages.
@@ -61,8 +65,10 @@ Note that the POS tagging is not always 100% accurate, especially for more compl
 
 ```
 
+Jeg vidste nu godt det meste i forvejen. Ellers ville jeg næppe have brugt forkortelsen POS. Men det er fint nok at chatGPT giver mig en del ekstra og til dels overflødig information, da den jo samtidig svarer på mit spørgsmål og faktisk også indirekte fortæller mig at der er mere effektive måder at lave POS-analyse på.
 
-Jeg plejer nu at bruge spacy, så
+
+Jeg plejer nu at bruge spacy og ikke NLTK, så jeg skriver tilbage til chatGPT:
 
 
 > could you do the same in spacy
@@ -101,25 +107,35 @@ In general spaCy have a more robust architecture than NLTK and its language proc
 
 ```
 
+OK. chatGPT, men lidt underligt at du så fortalte mig om NLTK og ikke spaCy i første omgang. Oh, well. Det viser bare at det altid er en fordel at vide noget om et emne inden man begynder at tale med chatGPT om det.
 
-Og på danske skal det skæres lidt mere ud i pap:
+Men hvad med på dansk?
 
-
-kan du sætte kryds og bolle i den her sætning: manden tog sin bil og kørte i havne
-Manden tog sin bil og kørte i havnen.
-
+På dansk skal det skæres lidt mere ud i pap:
 
 
-Lennart Kiil
-men kan du sætte kryds og bolle i den sætning
-Det kan jeg desværre ikke, da "kryds og bolle" ikke er en grammatisk term, og jeg derfor ikke ved, hvad det betyder i denne sammenhæng. Kan du give mere information eller en anden forklaring, så jeg bedre kan forstå hvad du beder om ?
+> kan du sætte kryds og bolle i den her sætning: manden tog sin bil og kørte i havne
+
+**chatGPT** Manden tog sin bil og kørte i havnen.
+
+Så den gentager bare min sætning.
+
+
+Lennart Kiil: men kan du sætte kryds og bolle i den sætning
+
+
+**chatGPT:** Det kan jeg desværre ikke, da "kryds og bolle" ikke er en grammatisk term, og jeg derfor ikke ved, hvad det betyder i denne sammenhæng. Kan du give mere information eller en anden forklaring, så jeg bedre kan forstå hvad du beder om ?
 
 
 
-Lennart Kiil
-lav en POS-analyse på sætningen
-En POS-analyse (Part-of-Speech analysis) er en proces, hvor man tager en sætning og markerer hvert ord i sætningen med en grammatisk kategori, såsom substantivet, verbet, adjektivet osv. Her er en POS-analyse af sætningen "manden tog sin bil og kørte i havnen":
+Lennart Kiil: lav en POS-analyse på sætningen
 
+Og så er chatGPT på hjemmebane igen:
+
+
+**chatGPT:** En POS-analyse (Part-of-Speech analysis) er en proces, hvor man tager en sætning og markerer hvert ord i sætningen med en grammatisk kategori, såsom substantivet, verbet, adjektivet osv. Her er en POS-analyse af sætningen "manden tog sin bil og kørte i havnen":
+
+```
 manden - substantivet (noun)
 tog - verbet (verb)
 sin - possessivt pronomen (possessive pronoun)
@@ -129,6 +145,12 @@ kørte - verbet (verb)
 i - præposition (preposition)
 havnen - substantivet (noun)
 Bemærk at der kan være andre måder at analysere de grammatiske kategorier på, men det er i det store og hele den mest populære grammatiske kategori at de fleste ord passer i.
+```
 
+Ikke dårligt.
+
+Og jeg gætter på at chatGPT og lignende værktøjer vil blive brugt en del til den slags opgaver selvom værktøjer som spaCy klarer dem meget mere effektivt.
+
+Der er noget nemt ved bare at skrive direkte i menneskesprog og bede om at få løst en opgave. Og der er chatGPT meget tæt på at være. Men der mangler lidt.
 
 

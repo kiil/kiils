@@ -24,7 +24,7 @@ tools = ['chatGPT']
 
 En simpel form for kvantitativ tekstanalyse er ordfrekvensanalyse.
 
-Jeg har skrevet lidt om hvordan man kan lave [ordfrekvensanalyse i nushell](./nushell) og hvordan man kan lave ekstremt hurtig [ordfrekvensanalyse på store mængder tekst med nushell og polar dataframes](./nushell-dataframes).
+Jeg har skrevet lidt om hvordan man kan lave [ordfrekvensanalyse i nushell](https://www.kiils.dk/erfaring/nlp/nushell/) og hvordan man kan lave ekstremt hurtig [ordfrekvensanalyse på store mængder tekst med nushell og polar dataframes](https://www.kiils.dk/erfaring/nlp/nushell-dataframes/).
 
 Nushell gav mig følgende resultat
 
