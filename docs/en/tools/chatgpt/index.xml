@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>lennart-kiil on Kiils</title>
-    <link>https://www.kiils.dk/en/skribenter/lennart-kiil/</link>
-    <description>Recent content in lennart-kiil on Kiils</description>
+    <title>chatGPT on Kiils</title>
+    <link>https://www.kiils.dk/en/tools/chatgpt/</link>
+    <description>Recent content in chatGPT on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/en/skribenter/lennart-kiil/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/en/tools/chatgpt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Is chatGPT more than a glorified Markov chain? Here is what chatGPT itself has to say about that</title>
       <link>https://www.kiils.dk/en/erfaring/nlp/chatgpt-glorified-markov-chain/</link>
@@ -17,15 +17,6 @@
 chatGPT:
 ChatGPT is a type of language model that is based on the transformer architecture, which is a neural network-based approach to natural language processing. While the Markov Chain is a mathematical model that can be used to generate text, it is a relatively simple model compared to neural network-based models like ChatGPT.
 ChatGPT is trained on a massive amount of text data and uses a deep neural network with multiple layers to learn patterns in the data.</description>
-    </item>
-    
-    <item>
-      <title>Servicebot.io is great</title>
-      <link>https://www.kiils.dk/en/erfaring/service/servicebot-is-great/</link>
-      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/en/erfaring/service/servicebot-is-great/</guid>
-      <description>Servicebot has my highest recommendation</description>
     </item>
     
   </channel>

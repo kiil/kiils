@@ -56,6 +56,16 @@
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/tools/chatgpt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/tools/chatgpt/"
+                />
   </url><url>
     <loc>https://www.kiils.dk/erfaring/nlp/chatgpt-botsplaining/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
@@ -111,6 +121,16 @@
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/emner/kunstig-intelligens/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/emner/kunstig-intelligens/"
+                />
   </url><url>
     <loc>https://www.kiils.dk/emner/kvantitativ-tekstanalyse/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
@@ -136,6 +156,16 @@
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/emner/nlp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/emner/nlp/"
+                />
   </url><url>
     <loc>https://www.kiils.dk/skribenter/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
