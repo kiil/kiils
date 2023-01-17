@@ -17,7 +17,7 @@ show_reading_time = true
 
 #cases = ['']
 #cm = ['']
-emner = ['nlp', 'inklusion', 'chatGPT', 'Google']
+emner = ['nlp', 'inklusion', 'Google']
 tools = ['chatGPT']
 +++
 
