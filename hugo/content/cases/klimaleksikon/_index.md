@@ -5,7 +5,9 @@ description: Danmarks bedste og længstlevende side om klima
 summary: Danmarks bedste og længstlevende side om klima
 ---
 
-Klimaleksikon.dk er med over 11 år på bagen Danmarks bedste og længstlevende side om [klima](https://klimaleksikon.dk/opslag/klima).
+Her i {{% year %}} fylder Klimaleksikon {{% years-till-year 2008 %}} år!
+
+Klimaleksikon er dermed Danmarks bedste og længstlevende side om [klima](https://klimaleksikon.dk/opslag/klima).
 
 Siden er et samarbejde mellem mig og to andre naturfagsformidlere, Thomas Hesselberg og Mikkel Houmøller. Siden indeholder omkring 100 opslag på centrale emner inden for klima og klarer sig enormt godt i google-søgninger.
 
