@@ -170,6 +170,13 @@
     
     , 
     {
+        "url": "/tools/stripe/",
+        "title": "stripe",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/tools/",
         "title": "Tools",
         "content": ""

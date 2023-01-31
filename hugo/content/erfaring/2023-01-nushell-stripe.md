@@ -22,6 +22,7 @@ emner:
 tools:
   - nushell
   - hledger
+  - stripe
 ---
 
 Nushell gør det nemt at interagere med data. Og nemt at hente oplysninger fra et API som leverer i json.
