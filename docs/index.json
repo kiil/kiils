@@ -86,9 +86,16 @@
     
     , 
     {
-        "url": "/tools/chatgpt/",
-        "title": "chatGPT",
-        "content": "chatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft.\nGPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er chatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.\nModellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.\nDu kan finde inspiration til danske prompts her:\nDanske chatGPT prompts "
+        "url": "/emner/bogf%C3%B8ring/",
+        "title": "bogføring",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/data/",
+        "title": "data",
+        "content": ""
     }
     
     , 
@@ -103,6 +110,76 @@
         "url": "/erfaring/",
         "title": "Erfaring",
         "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/finanser/",
+        "title": "finanser",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/hledger/",
+        "title": "hledger",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/",
+        "title": "Kiils",
+        "content": " Stærke tekster til en digital tidsalder "
+    }
+    
+    , 
+    {
+        "url": "/skribenter/lennart-kiil/",
+        "title": "Lennart Kiil",
+        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
+    }
+    
+    , 
+    {
+        "url": "/tools/nushell/",
+        "title": "nushell",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaring/2023-01-nushell-stripe/",
+        "title": "Nushell og stripes API",
+        "content": "Nushell gør det nemt at interagere med data. Og nemt at hente oplysninger fra et API som leverer i json.\nFor eksempel ønsker jeg at finde de 10 seneste betalinger til Folkets Avis.\nfetch https://api.stripe.com/v1/charges -u hemmeligkodeforfolketsavis | get data | select amount created | upsert created { get created | into datetime } | upsert amount { get amount | $in / 100 } Og jeg får de oplysninger tilbage som jeg har brug for.\n╭───┬─────────┬──────────────╮ │ # │ amount │ created │ ├───┼─────────┼──────────────┤ │ 0 │ 59 │ 2 hours ago │ │ 1 │ 59 │ 18 hours ago │ │ 2 │ 62 │ 2 days ago │ │ 3 │ 699 │ 2 days ago │ │ 4 │ 7498.75 │ 3 days ago │ │ 5 │ 400 │ 3 days ago │ │ 6 │ 569.47 │ 3 days ago │ │ 7 │ 59 │ 5 days ago │ │ 8 │ 29 │ 5 days ago │ │ 9 │ 62 │ a week ago │ ╰───┴─────────┴──────────────╯ Det kan nemt integreres med PTA såsom hledger, så det er nemt at automatisere bogføring.\nBonus En hurtig gennemgang af hvad one-lineren gør:\n\u0026gt; : ( ∙ fetch https://api.stripe.com/v1/charges -u topsecret | ∙ get data | ∙ select amount created | ∙ upsert created { get created | into datetime } | ∙ upsert amount { get amount | $in / 100 } ∙ ) fetch fungerer her som curl og kommunikerer med stripes API.\nget data henter tabellen \u0026lsquo;data\u0026rsquo; i det svar som kommer tilbage fra stripe.\nselect amount created tager søjlerne \u0026lsquo;amount\u0026rsquo; og \u0026lsquo;created\u0026rsquo; fra tabellen.\nResten er transformationer som gør det lettere at forhold sig til data.\nFor eksempel tager { get created | into datetime } og forvandler et unix datestamp til et for mennesker mere letlæseligt datetime format.\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/regnskab/",
+        "title": "regnskab",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/skribenter/",
+        "title": "Skribenter",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/",
+        "title": "Tools",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/chatgpt/",
+        "title": "chatGPT",
+        "content": "chatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft.\nGPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er chatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.\nModellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.\nDu kan finde inspiration til danske prompts her:\nDanske chatGPT prompts "
     }
     
     , 
@@ -128,36 +205,8 @@
     
     , 
     {
-        "url": "/",
-        "title": "Kiils",
-        "content": " Stærke tekster til en digital tidsalder "
-    }
-    
-    , 
-    {
-        "url": "/skribenter/lennart-kiil/",
-        "title": "Lennart Kiil",
-        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
-    }
-    
-    , 
-    {
         "url": "/emner/nlp/",
         "title": "nlp",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/skribenter/",
-        "title": "Skribenter",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/",
-        "title": "Tools",
         "content": ""
     }
     
@@ -222,13 +271,6 @@
         "url": "/erfaring/nlp/chatgpt/",
         "title": "Jeg spurgte chatGPT om intelligens og svaret var overraskende menneskeligt",
         "content": "Jeg talte lidt med chatGPT om intelligens og IQ-tests.\nJeg forsøgte først at få et generelt bud på hvordan man måler intelligens på en pålidelig måde:\nPrompt: what is a reliable measure of intelligence\nA reliable measure of intelligence is an IQ test. IQ tests measure a person\u0026rsquo;s cognitive abilities, such as problem-solving, memory, and analytical skills. IQ tests are designed to measure a person\u0026rsquo;s overall intelligence, and are considered to be a reliable measure of intelligence.\nDet var jo et klart svar.\nSå forsøgte jeg at vende det generelle svar hen mod chatGPT specifikt med følgende korte spørgsmål:\nPrompt: what is your iq\nI\u0026rsquo;m sorry, but I\u0026rsquo;m not able to answer that question. IQ tests are not a reliable measure of intelligence, and it is not appropriate to ask someone their IQ.\nFør var IQ-tests \u0026ldquo;considered to be a reliable measure of intelligence\u0026rdquo;, men nu lyder svaret pludselig \u0026ldquo;IQ tests are not a reliable measure of intelligence\u0026rdquo;.\nModsiger chatGPT ikke sig selv her?\nDet vil jeg mene.\nMen den agerer også menneskeligt. Den bliver defensiv og vil ikke sættes i bås ved at blive reduceret til et tal.\nEr det fordi jeg har såret dens følelser?\nNej.\nModellen bag chatGPT har jo læst milliarder af ord. Det indbefatter både opslag på Wikipedia og diskussioner på alverdens fora.\nJeg gætter på at intelligens, omtalt generelt og ikke rettet som spørgsmål til en bestemt person, i disse enorme tekstmængder typisk ikke er negativt forbundet med IQ-tests.\nMen derimod har chatGPT lært at forbinde spørgsmål om intelligens negativt med IQ-tests i sammenhænge hvor den har læst om det som spørgsmål rettet til en bestemt person.\nPå den måde efteraber chatGPT mønstre i vores sprog.\nOg det kan på overfladen ligne at den føler som os.\n"
-    }
-    
-    , 
-    {
-        "url": "/tools/nushell/",
-        "title": "nushell",
-        "content": ""
     }
     
     , 
