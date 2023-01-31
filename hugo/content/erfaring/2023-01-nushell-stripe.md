@@ -78,6 +78,6 @@ En hurtig gennemgang af hvad one-lineren gør:
 
 `select amount created` tager søjlerne 'amount' og 'created' fra tabellen.
 
-Resten er transformationer som gør det lettere at forhold sig til data.
+Resten er transformationer som gør det lettere at forholde sig til data.
 
 For eksempel tager `{ get created | into datetime }` og forvandler et unix datestamp til et for mennesker mere letlæseligt datetime format. 
