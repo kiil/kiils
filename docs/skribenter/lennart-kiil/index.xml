@@ -6,7 +6,18 @@
     <description>Recent content in Lennart Kiil on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/skribenter/lennart-kiil/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Feb 2023 10:41:04 +0100</lastBuildDate><atom:link href="https://www.kiils.dk/skribenter/lennart-kiil/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chatgpt hjælper ordblind - ller gør den?</title>
+      <link>https://www.kiils.dk/erfaring/20230207-chatgpt-hjaelper-ordblind/</link>
+      <pubDate>Tue, 07 Feb 2023 10:41:04 +0100</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/20230207-chatgpt-hjaelper-ordblind/</guid>
+      <description>Der er lang vej endnu før chatGPT kan hjælpe ordblinde ordentligt.
+Jeg startede med et ret langt afsnit som jeg bad chatGPT rette stavefejl i:
+Andrew Tate er et symptom på det som er udfordring i vores samfund, når det handler om mænd og de udfordringer de står over. Så kan vi vælge at overser dem eller være ligeglad og henvise til at mænd altid har haft det nemmere fordi det er den må vi se på vores historie.</description>
+    </item>
+    
     <item>
       <title>Nushell og stripes API</title>
       <link>https://www.kiils.dk/erfaring/2023-01-nushell-stripe/</link>
