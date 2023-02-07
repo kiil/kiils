@@ -59,6 +59,6 @@ Mænd halter i skolen, falder ud af uddannelsessystemet, klarer sig generelt då
 
 Desværre "retter" den kun 'mm.' til 'm.m.', ikke ligefrem det mest væsentlige.
 
-Trods ivrige forsøg får jeg ikke chatGPT til at omskrive 'Mænd halter i skolen' til 'Mænd halter bagud i skolen' som temmelig sikkert er den tilsigtede figurative betydning.
+Trods ivrige forsøg får jeg ikke chatGPT til at omskrive 'Mænd halter i skolen' til 'Mænd halter efter i skolen' som temmelig sikkert er den tilsigtede figurative betydning.
 
 Alt i alt er chatGPT i hvert fald på dansk temmelig langt fra at kunne hjælpe en ordblind med at rette en tekst som allerede er skrevet.
