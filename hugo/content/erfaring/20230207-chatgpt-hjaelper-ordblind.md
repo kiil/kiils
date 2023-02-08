@@ -21,6 +21,8 @@ show_reading_time = true
 tools = ['chatGPT']
 +++
 
+En ven som er ordblind ynder at deltage i den offentlige debat. Jeg forsøgte at få chatGPT til at hjælpe ham.
+
 Der er lang vej endnu før chatGPT kan hjælpe ordblinde ordentligt.
 
 Jeg startede med et ret langt afsnit som jeg bad chatGPT rette stavefejl i:
@@ -68,3 +70,5 @@ Igen formår chatGPT ikke at tage højde for nok sammenhæng til at vælge det "
 Sandsynligvis ville man kunne opnå et bedre resultat ved at bruge chatGPT generative evner, men det skaber et nyt problem. For så er det ikke længere den ordblindes egen tekst som bliver slutresultatet.
 
 Alt i alt er chatGPT i hvert fald på dansk temmelig langt fra at kunne hjælpe en ordblind med at rette en tekst som allerede er skrevet.
+
+Og som redaktør kunne jeg have rettet hele hans tekst på et langt højere niveau på den tid som chatGPT skulle bruge på at gelejdes omkring et enkelt afsnit.
