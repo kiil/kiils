@@ -14,7 +14,7 @@
 
 
 
-    <meta name="generator" content="Hugo 0.109.0">
+    <meta name="generator" content="Hugo 0.110.0">
     
     
       <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
@@ -185,6 +185,26 @@
   </article>
   <div class="order-0 w-100 w-50-l">
     <section class="flex-ns flex-wrap justify-around mt5">
+      
+        <div class="relative w-100  mb4 bg-white">
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <div class="f7 helvetica ttu tracked">Erfaring</div>
+    <h1 class="f3 near-black">
+      <a href="https://www.kiils.dk/erfaring/20230215-automatisering-systemd/" class="link black dim">
+        Automatisering med systemd
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Gå til eller opret ~/.config/systemd/user/
+Lav en servicenavn.service
+[Unit] Description=Get subscription creations and deletions [Service] Type=simple Environment=STRIPE=secretkey WorkingDirectory=/home/lk/GD/TEKST/notebooks/biz/fin/j/stripe/ ExecStart=/home/lk/GD/TEKST/notebooks/biz/fin/j/stripe/stripe-abo.nu [Install] WantedBy=default.target Lav en servicenavn.timer
+[Unit] Description=Schedule stripe abo every 8 hours RefuseManualStart=no # Allow manual starts RefuseManualStop=no # Allow manual stops [Timer] #Execute job if it missed a run due to machine being off Persistent=true #Run 120 seconds after boot for the first time OnBootSec=120 #Run every 1 minute thereafter OnUnitActiveSec=28800 #File describing job to execute Unit=biz-fin-stripe-abo.
+    </div>
+  </div>
+</div>
+
+        </div>
       
         <div class="relative w-100  mb4 bg-white">
           <div class="relative w-100 mb4 bg-white nested-copy-line-height">

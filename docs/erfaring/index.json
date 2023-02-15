@@ -86,16 +86,30 @@
     
     , 
     {
-        "url": "/tools/chatgpt/",
-        "title": "chatGPT",
-        "content": "chatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft.\nGPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er chatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.\nModellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.\nDu kan finde inspiration til danske prompts her:\nDanske chatGPT prompts "
+        "url": "/emner/automatisering/",
+        "title": "automatisering",
+        "content": ""
     }
     
     , 
     {
-        "url": "/erfaring/20230207-chatgpt-hjaelper-ordblind/",
-        "title": "Chatgpt hjælper ordblind - eller gør den?",
-        "content": "En ven som er ordblind ynder at deltage i den offentlige debat. Jeg forsøgte at få chatGPT til at hjælpe ham.\nDer er lang vej endnu før chatGPT kan hjælpe ordblinde ordentligt.\nJeg startede med et ret langt afsnit som jeg bad chatGPT rette stavefejl i:\nAndrew Tate er et symptom på det som er udfordring i vores samfund, når det handler om mænd og de udfordringer de står over. Så kan vi vælge at overser dem eller være ligeglad og henvise til at mænd altid har haft det nemmere fordi det er den må vi se på vores historie. Det er rigtig at nogle får mænd har haft et privilegium, men gruppe som helhed har nok ikke været særlig heldig stillet. Det glæder i almindelighed mennesker hvem end man anser sig selv for at være. For spørgsmål der ofte dukker op hos mig er, hvis vi som samfund ikke lytter til de udfordringsmænd mænd har. Mænd halter i skolen, falder ud af uddannelsessystem, klar sig general dårlig i samfundet end de har gjort før. Kan ende som misbruger, hjemløs mm.\nDet klarede chatGPT fint.\nSå \u0026rsquo;lytter til de udfordringsmænd mænd har\u0026rsquo; blev til \u0026rsquo;lytter til de udfordringer mænd har'.\nMen chatGPT skulle bruge et minut for at løse en så simpel opgave. Et menneske ville have løst den på få sekunder.\nNu tager jeg den udgave som er rettet for stavefejl, og beder chatGPT rette grammatiske fejl.\nMen den ændrer intet i teksten.\nJeg prøver så at dele teksten op i mindre bidder, og giver den igen besked om at rette grammatiske fejl:\nMænd halter i skolen, falder ud af uddannelsessystem, klar sig general dårlig i samfundet end de har gjort før. Kan ende som misbruger, hjemløs mm.\nDet får den rettet til\nMænd halter i skolen, falder ud af uddannelsessystemet, klarer sig generelt dårligere i samfundet end de har gjort før. Kan ende som misbruger, hjemløs mm.\nI det mindste får den ændret \u0026lsquo;klar sig general\u0026rsquo; til \u0026lsquo;klarer sig generelt\u0026rsquo;.\nMen hvad med \u0026lsquo;misbruger og hjemløs\u0026rsquo;, skulle de ikke have været i flertal?\nUd fra sætningen de står i, er det ikke klart. Men ud fra afsnittet er det. chatGPT er en transformer model, og som sådan kan den tage højde for sammenhæng, men åbenbart ikke en stor nok sammenhæng i dette tilfælde.\nOg hvad med \u0026lsquo;Mænd halter i skolen\u0026rsquo;? Det er strengt taget ikke en grammatisk fejl, men en \u0026ldquo;betydningsfejl\u0026rdquo;.\nLad os prøve at bede chatGPT rette betydningsfejl.\nDet bliver til:\nMænd halter i skolen, falder ud af uddannelsessystemet, klarer sig generelt dårligere i samfundet end de har gjort før. Kan ende som misbruger, hjemløs m.m.\nDesværre \u0026ldquo;retter\u0026rdquo; den kun \u0026lsquo;mm.\u0026rsquo; til \u0026rsquo;m.m.\u0026rsquo;, ikke ligefrem det mest væsentlige.\nTrods ivrige forsøg får jeg ikke chatGPT til at omskrive \u0026lsquo;Mænd halter i skolen\u0026rsquo; til \u0026lsquo;Mænd halter efter i skolen\u0026rsquo; som temmelig sikkert er den tilsigtede figurative betydning.\nIgen formår chatGPT ikke at tage højde for nok sammenhæng til at vælge det \u0026ldquo;rigtige\u0026rdquo; næste ord, som jo er målet for chatGPT.\nSandsynligvis ville man kunne opnå et bedre resultat ved at bruge chatGPT generative evner, men det skaber et nyt problem. For så er det ikke længere den ordblindes egen tekst som bliver slutresultatet.\nAlt i alt er chatGPT i hvert fald på dansk temmelig langt fra at kunne hjælpe en ordblind med at rette en tekst som allerede er skrevet.\nOg som redaktør kunne jeg have rettet hele hans tekst på et langt højere niveau på den tid som chatGPT skulle bruge på at gelejdes omkring et enkelt afsnit.\n"
+        "url": "/erfaring/20230215-automatisering-systemd/",
+        "title": "Automatisering med systemd",
+        "content": "Gå til eller opret ~/.config/systemd/user/\nLav en servicenavn.service\n[Unit] Description=Get subscription creations and deletions [Service] Type=simple Environment=STRIPE=secretkey WorkingDirectory=/home/lk/GD/TEKST/notebooks/biz/fin/j/stripe/ ExecStart=/home/lk/GD/TEKST/notebooks/biz/fin/j/stripe/stripe-abo.nu [Install] WantedBy=default.target Lav en servicenavn.timer\n[Unit] Description=Schedule stripe abo every 8 hours RefuseManualStart=no # Allow manual starts RefuseManualStop=no # Allow manual stops [Timer] #Execute job if it missed a run due to machine being off Persistent=true #Run 120 seconds after boot for the first time OnBootSec=120 #Run every 1 minute thereafter OnUnitActiveSec=28800 #File describing job to execute Unit=biz-fin-stripe-abo.service [Install] WantedBy=timers.target Skal enables een gang hver, det laver et symlink til en underfolder som systemd arbejder ud fra:\nsystemctl --user enable servicenavn.service systemctl --user enable servicenavn.timer Skal så startes, og kører så efter timer indtil de stoppes, og sker det, skal de startes igen\nsystemctl --user start servicenavn.service systemctl --user start servicenavn.timer Tjek om service kører med timer\nsystemctl --user list-timers Tjek den enkelte service\nsystemctl --user status servicenavn Stop timeren hvis den skal justeres\nsystemctl --user stop servicenavn.timer Lav ændringer i filen.\nOg genindlæs med ændringer:\nsystemctl --user daemon-reload Og sæt den nye udgave i gang\nsystemctl --user start servicenavn.timer Tjek med\nsystemctl --user status servicenavn og evt\nsystemctl --user list-timers Se logmeddelelser fra den enkelte service med\njournalctl --user --unit servicenavn For nemmere overblik installer evt\nsysz Sådan kan man automatisere mange ting og gange nøjagtigt.\n"
+    }
+    
+    , 
+    {
+        "url": "/tools/cli/",
+        "title": "cli",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/",
+        "title": "Emner",
+        "content": "Emner i det arbejde Kiils laver\n"
     }
     
     , 
@@ -121,8 +135,29 @@
     
     , 
     {
+        "url": "/tools/linux/",
+        "title": "linux",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/skribenter/",
         "title": "Skribenter",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/systemd/",
+        "title": "systemd",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/terminal/",
+        "title": "terminal",
         "content": ""
     }
     
@@ -131,6 +166,20 @@
         "url": "/tools/",
         "title": "Tools",
         "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/chatgpt/",
+        "title": "chatGPT",
+        "content": "chatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft.\nGPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er chatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.\nModellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.\nDu kan finde inspiration til danske prompts her:\nDanske chatGPT prompts "
+    }
+    
+    , 
+    {
+        "url": "/erfaring/20230207-chatgpt-hjaelper-ordblind/",
+        "title": "Chatgpt hjælper ordblind - eller gør den?",
+        "content": "En ven som er ordblind ynder at deltage i den offentlige debat. Jeg forsøgte at få chatGPT til at hjælpe ham.\nDer er lang vej endnu før chatGPT kan hjælpe ordblinde ordentligt.\nJeg startede med et ret langt afsnit som jeg bad chatGPT rette stavefejl i:\nAndrew Tate er et symptom på det som er udfordring i vores samfund, når det handler om mænd og de udfordringer de står over. Så kan vi vælge at overser dem eller være ligeglad og henvise til at mænd altid har haft det nemmere fordi det er den må vi se på vores historie. Det er rigtig at nogle får mænd har haft et privilegium, men gruppe som helhed har nok ikke været særlig heldig stillet. Det glæder i almindelighed mennesker hvem end man anser sig selv for at være. For spørgsmål der ofte dukker op hos mig er, hvis vi som samfund ikke lytter til de udfordringsmænd mænd har. Mænd halter i skolen, falder ud af uddannelsessystem, klar sig general dårlig i samfundet end de har gjort før. Kan ende som misbruger, hjemløs mm.\nDet klarede chatGPT fint.\nSå \u0026rsquo;lytter til de udfordringsmænd mænd har\u0026rsquo; blev til \u0026rsquo;lytter til de udfordringer mænd har'.\nMen chatGPT skulle bruge et minut for at løse en så simpel opgave. Et menneske ville have løst den på få sekunder.\nNu tager jeg den udgave som er rettet for stavefejl, og beder chatGPT rette grammatiske fejl.\nMen den ændrer intet i teksten.\nJeg prøver så at dele teksten op i mindre bidder, og giver den igen besked om at rette grammatiske fejl:\nMænd halter i skolen, falder ud af uddannelsessystem, klar sig general dårlig i samfundet end de har gjort før. Kan ende som misbruger, hjemløs mm.\nDet får den rettet til\nMænd halter i skolen, falder ud af uddannelsessystemet, klarer sig generelt dårligere i samfundet end de har gjort før. Kan ende som misbruger, hjemløs mm.\nI det mindste får den ændret \u0026lsquo;klar sig general\u0026rsquo; til \u0026lsquo;klarer sig generelt\u0026rsquo;.\nMen hvad med \u0026lsquo;misbruger og hjemløs\u0026rsquo;, skulle de ikke have været i flertal?\nUd fra sætningen de står i, er det ikke klart. Men ud fra afsnittet er det. chatGPT er en transformer model, og som sådan kan den tage højde for sammenhæng, men åbenbart ikke en stor nok sammenhæng i dette tilfælde.\nOg hvad med \u0026lsquo;Mænd halter i skolen\u0026rsquo;? Det er strengt taget ikke en grammatisk fejl, men en \u0026ldquo;betydningsfejl\u0026rdquo;.\nLad os prøve at bede chatGPT rette betydningsfejl.\nDet bliver til:\nMænd halter i skolen, falder ud af uddannelsessystemet, klarer sig generelt dårligere i samfundet end de har gjort før. Kan ende som misbruger, hjemløs m.m.\nDesværre \u0026ldquo;retter\u0026rdquo; den kun \u0026lsquo;mm.\u0026rsquo; til \u0026rsquo;m.m.\u0026rsquo;, ikke ligefrem det mest væsentlige.\nTrods ivrige forsøg får jeg ikke chatGPT til at omskrive \u0026lsquo;Mænd halter i skolen\u0026rsquo; til \u0026lsquo;Mænd halter efter i skolen\u0026rsquo; som temmelig sikkert er den tilsigtede figurative betydning.\nIgen formår chatGPT ikke at tage højde for nok sammenhæng til at vælge det \u0026ldquo;rigtige\u0026rdquo; næste ord, som jo er målet for chatGPT.\nSandsynligvis ville man kunne opnå et bedre resultat ved at bruge chatGPT generative evner, men det skaber et nyt problem. For så er det ikke længere den ordblindes egen tekst som bliver slutresultatet.\nAlt i alt er chatGPT i hvert fald på dansk temmelig langt fra at kunne hjælpe en ordblind med at rette en tekst som allerede er skrevet.\nOg som redaktør kunne jeg have rettet hele hans tekst på et langt højere niveau på den tid som chatGPT skulle bruge på at gelejdes omkring et enkelt afsnit.\n"
     }
     
     , 
@@ -145,13 +194,6 @@
         "url": "/emner/data/",
         "title": "data",
         "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/",
-        "title": "Emner",
-        "content": "Emner i det arbejde Kiils laver\n"
     }
     
     , 
@@ -887,13 +929,6 @@
         "url": "/erfaring/tips-tricks/sidetal/",
         "title": "Sidetal væk fra forsiden i pdf over Pandoc fra markdown",
         "content": "Først fjernes sidenumre generelt i frontmatter:\n--- header-includes: | \\pagenumbering{gobble} ... --- Så indsættes sidenumre nede i selve dokumentet:\n\\pagenumbering{arabic} ... På den måde får man fjernet sidetal fra forsiden, hvor titlen er, og igen indsat sidetal længere fremme i selve dokumentet.\n"
-    }
-    
-    , 
-    {
-        "url": "/tools/terminal/",
-        "title": "terminal",
-        "content": ""
     }
     
     , 
