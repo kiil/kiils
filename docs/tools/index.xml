@@ -6,7 +6,34 @@
     <description>Recent content in Tools on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Feb 2023 08:35:10 +0100</lastBuildDate><atom:link href="https://www.kiils.dk/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dash</title>
+      <link>https://www.kiils.dk/tools/dash/</link>
+      <pubDate>Sat, 18 Feb 2023 08:35:10 +0100</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/dash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hledger</title>
+      <link>https://www.kiils.dk/tools/hledger/</link>
+      <pubDate>Sat, 18 Feb 2023 08:35:10 +0100</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/hledger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plotly</title>
+      <link>https://www.kiils.dk/tools/plotly/</link>
+      <pubDate>Sat, 18 Feb 2023 08:35:10 +0100</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/plotly/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>cli</title>
       <link>https://www.kiils.dk/tools/cli/</link>
@@ -54,15 +81,6 @@ GPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er chatGPT anvende
 Modellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.
 Du kan finde inspiration til danske prompts her:
 Danske chatGPT prompts </description>
-    </item>
-    
-    <item>
-      <title>hledger</title>
-      <link>https://www.kiils.dk/tools/hledger/</link>
-      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/tools/hledger/</guid>
-      <description></description>
     </item>
     
     <item>

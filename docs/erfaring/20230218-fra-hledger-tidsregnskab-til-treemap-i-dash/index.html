@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Automatisering med systemd</title>
+    <title>Fra hledger tidsregnskab til treemap i dash</title>
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
 
@@ -33,13 +33,13 @@
       
     
 
-    <meta property="og:title" content="Automatisering med systemd" />
-<meta property="og:description" content="Gå til eller opret ~/.config/systemd/user/
-Lav en servicenavn.service
-[Unit] Description=Get subscription creations and deletions [Service] Type=simple Environment=STRIPE=secretkey WorkingDirectory=/home/lk/GD/TEKST/notebooks/biz/fin/j/stripe/ ExecStart=/home/lk/GD/TEKST/notebooks/biz/fin/j/stripe/stripe-abo.nu [Install] WantedBy=default.target Lav en servicenavn.timer
-[Unit] Description=Schedule stripe abo every 8 hours RefuseManualStart=no # Allow manual starts RefuseManualStop=no # Allow manual stops [Timer] #Execute job if it missed a run due to machine being off Persistent=true #Run 120 seconds after boot for the first time OnBootSec=120 #Run every 1 minute thereafter OnUnitActiveSec=28800 #File describing job to execute Unit=biz-fin-stripe-abo." />
+    <meta property="og:title" content="Fra hledger tidsregnskab til treemap i dash" />
+<meta property="og:description" content="Tidsforbrug registreret i ledger cli eller hledger kan rapporteres som
+3 administrativt:bureaukrati 6 administrativt:fundraising 7 administrativt:teknik 2 redaktionelt:feedback 1 redaktionelt:ideudvikling 5 redaktionelt:research:pressekontakt:frugtbar 5 redaktionelt:research:pressekontakt:unyttig 37 redaktionelt:skrive med kommandoen hledger -f folkets-tid.journal bal -c 1..
+Det er relativt nemt med nushell eller nvim eller andre værktøjer at omsætte til en csv som følger:
+values,domains,activities,details,status 3,administrativt,bureaukrati,None,None 6,administrativt,fundraising,None,None 7,administrativt,teknik,None,None 2,redaktionelt,feedback,None,None 1,redaktionelt,ideudvikling,None,None 5,redaktionelt,research,pressekontakt,frugtbar 5,redaktionelt,research,pressekontakt,unyttig 37,redaktionelt,skrive,None,None Og den fil kan så bruges med plotly til at lave en miniapp i dash:" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.kiils.dk/erfaring/20230215-automatisering-systemd/" />
+<meta property="og:url" content="https://www.kiils.dk/erfaring/20230218-fra-hledger-tidsregnskab-til-treemap-i-dash/" />
 
 
 
@@ -51,23 +51,23 @@ Lav en servicenavn.service
 
 
 
-<meta property="og:image" content="/images/canvas_huf5a4a47d272c9e72b490e7eba58c5b9b_363_filter_4908136934623997501.png" /><meta property="article:section" content="erfaring" />
-<meta property="article:published_time" content="2023-02-15T00:00:00+00:00" />
-<meta property="article:modified_time" content="2023-02-15T00:00:00+00:00" /><meta property="og:site_name" content="Kiils" />
+<meta property="og:image" content="/images/canvas_huf5a4a47d272c9e72b490e7eba58c5b9b_363_filter_8542584337020315902.png" /><meta property="article:section" content="erfaring" />
+<meta property="article:published_time" content="2023-02-18T08:35:10+01:00" />
+<meta property="article:modified_time" content="2023-02-18T08:35:10+01:00" /><meta property="og:site_name" content="Kiils" />
 
-<meta itemprop="name" content="Automatisering med systemd">
-<meta itemprop="description" content="Gå til eller opret ~/.config/systemd/user/
-Lav en servicenavn.service
-[Unit] Description=Get subscription creations and deletions [Service] Type=simple Environment=STRIPE=secretkey WorkingDirectory=/home/lk/GD/TEKST/notebooks/biz/fin/j/stripe/ ExecStart=/home/lk/GD/TEKST/notebooks/biz/fin/j/stripe/stripe-abo.nu [Install] WantedBy=default.target Lav en servicenavn.timer
-[Unit] Description=Schedule stripe abo every 8 hours RefuseManualStart=no # Allow manual starts RefuseManualStop=no # Allow manual stops [Timer] #Execute job if it missed a run due to machine being off Persistent=true #Run 120 seconds after boot for the first time OnBootSec=120 #Run every 1 minute thereafter OnUnitActiveSec=28800 #File describing job to execute Unit=biz-fin-stripe-abo."><meta itemprop="datePublished" content="2023-02-15T00:00:00+00:00" />
-<meta itemprop="dateModified" content="2023-02-15T00:00:00+00:00" />
-<meta itemprop="wordCount" content="216">
+<meta itemprop="name" content="Fra hledger tidsregnskab til treemap i dash">
+<meta itemprop="description" content="Tidsforbrug registreret i ledger cli eller hledger kan rapporteres som
+3 administrativt:bureaukrati 6 administrativt:fundraising 7 administrativt:teknik 2 redaktionelt:feedback 1 redaktionelt:ideudvikling 5 redaktionelt:research:pressekontakt:frugtbar 5 redaktionelt:research:pressekontakt:unyttig 37 redaktionelt:skrive med kommandoen hledger -f folkets-tid.journal bal -c 1..
+Det er relativt nemt med nushell eller nvim eller andre værktøjer at omsætte til en csv som følger:
+values,domains,activities,details,status 3,administrativt,bureaukrati,None,None 6,administrativt,fundraising,None,None 7,administrativt,teknik,None,None 2,redaktionelt,feedback,None,None 1,redaktionelt,ideudvikling,None,None 5,redaktionelt,research,pressekontakt,frugtbar 5,redaktionelt,research,pressekontakt,unyttig 37,redaktionelt,skrive,None,None Og den fil kan så bruges med plotly til at lave en miniapp i dash:"><meta itemprop="datePublished" content="2023-02-18T08:35:10+01:00" />
+<meta itemprop="dateModified" content="2023-02-18T08:35:10+01:00" />
+<meta itemprop="wordCount" content="173">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Automatisering med systemd"/>
-<meta name="twitter:description" content="Gå til eller opret ~/.config/systemd/user/
-Lav en servicenavn.service
-[Unit] Description=Get subscription creations and deletions [Service] Type=simple Environment=STRIPE=secretkey WorkingDirectory=/home/lk/GD/TEKST/notebooks/biz/fin/j/stripe/ ExecStart=/home/lk/GD/TEKST/notebooks/biz/fin/j/stripe/stripe-abo.nu [Install] WantedBy=default.target Lav en servicenavn.timer
-[Unit] Description=Schedule stripe abo every 8 hours RefuseManualStart=no # Allow manual starts RefuseManualStop=no # Allow manual stops [Timer] #Execute job if it missed a run due to machine being off Persistent=true #Run 120 seconds after boot for the first time OnBootSec=120 #Run every 1 minute thereafter OnUnitActiveSec=28800 #File describing job to execute Unit=biz-fin-stripe-abo."/>
+<meta name="twitter:title" content="Fra hledger tidsregnskab til treemap i dash"/>
+<meta name="twitter:description" content="Tidsforbrug registreret i ledger cli eller hledger kan rapporteres som
+3 administrativt:bureaukrati 6 administrativt:fundraising 7 administrativt:teknik 2 redaktionelt:feedback 1 redaktionelt:ideudvikling 5 redaktionelt:research:pressekontakt:frugtbar 5 redaktionelt:research:pressekontakt:unyttig 37 redaktionelt:skrive med kommandoen hledger -f folkets-tid.journal bal -c 1..
+Det er relativt nemt med nushell eller nvim eller andre værktøjer at omsætte til en csv som følger:
+values,domains,activities,details,status 3,administrativt,bureaukrati,None,None 6,administrativt,fundraising,None,None 7,administrativt,teknik,None,None 2,redaktionelt,feedback,None,None 1,redaktionelt,ideudvikling,None,None 5,redaktionelt,research,pressekontakt,frugtbar 5,redaktionelt,research,pressekontakt,unyttig 37,redaktionelt,skrive,None,None Og den fil kan så bruges med plotly til at lave en miniapp i dash:"/>
 
       
     
@@ -198,7 +198,7 @@ Lav en servicenavn.service
         <a class="link" href="/erfaring/">Erfaring</a>
   
 </div>
-      <h1 class="f2 f1-l center measure-narrow athelas tc mb4 mt4">Automatisering med systemd</h1>
+      <h1 class="f2 f1-l center measure-narrow athelas tc mb4 mt4">Fra hledger tidsregnskab til treemap i dash</h1>
       <div class="f4 mid-gray center tc tracked link  ">Af
   
 
@@ -210,81 +210,78 @@ Lav en servicenavn.service
       <hr class="ml0 mt4 mb2 mw-100 bb b--mid-gray">
       <div>
       
-      <time class="f7 dib tracked" datetime="2023-02-15T00:00:00Z">15/02/2023</time>
+      <time class="f7 dib tracked" datetime="2023-02-18T08:35:10&#43;01:00">18/02/2023</time>
       
       
-        <span class="f7 dib tracked"> - 2 minutter </span>
-        <span class="f7 dib tracked"> - 216 ord</span>
+        <span class="f7 dib tracked"> - Et minut </span>
+        <span class="f7 dib tracked"> - 173 ord</span>
       
       </div>
 
 
     </header>
 
-    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Gå til eller opret <code>~/.config/systemd/user/</code></p>
-<p>Lav en servicenavn.service</p>
-<pre tabindex="0"><code>[Unit]
-Description=Get subscription creations and deletions
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Tidsforbrug registreret i ledger cli eller hledger kan rapporteres som</p>
+<pre tabindex="0"><code>       3  administrativt:bureaukrati
+       6  administrativt:fundraising
+       7  administrativt:teknik
+       2  redaktionelt:feedback
+       1  redaktionelt:ideudvikling
+       5  redaktionelt:research:pressekontakt:frugtbar
+       5  redaktionelt:research:pressekontakt:unyttig
+      37  redaktionelt:skrive
+</code></pre><p>med kommandoen <code>hledger -f folkets-tid.journal bal -c 1.</code>.</p>
+<p>Det er relativt nemt med nushell eller nvim eller andre værktøjer at omsætte til en csv som følger:</p>
+<pre tabindex="0"><code>values,domains,activities,details,status
+3,administrativt,bureaukrati,None,None
+6,administrativt,fundraising,None,None
+7,administrativt,teknik,None,None
+2,redaktionelt,feedback,None,None
+1,redaktionelt,ideudvikling,None,None
+5,redaktionelt,research,pressekontakt,frugtbar
+5,redaktionelt,research,pressekontakt,unyttig
+37,redaktionelt,skrive,None,None
+</code></pre><p>Og den fil kan så bruges med plotly til at lave en miniapp i dash:</p>
+<pre tabindex="0"><code>from dash import Dash, html, dcc
+import plotly.express as px
+import pandas as pd
 
-[Service]
-Type=simple
-Environment=STRIPE=secretkey
-WorkingDirectory=/home/lk/GD/TEKST/notebooks/biz/fin/j/stripe/
-ExecStart=/home/lk/GD/TEKST/notebooks/biz/fin/j/stripe/stripe-abo.nu
+app = Dash(__name__)
 
-[Install]
-WantedBy=default.target
-</code></pre><p>Lav en servicenavn.timer</p>
-<pre tabindex="0"><code>[Unit]
-Description=Schedule stripe abo every 8 hours
-RefuseManualStart=no  # Allow manual starts
-RefuseManualStop=no   # Allow manual stops
+df = pd.read_csv(&#39;treemap1.csv&#39;).replace(&#34;None&#34;, None)
 
-[Timer]
-#Execute job if it missed a run due to machine being off
-Persistent=true
-#Run 120 seconds after boot for the first time
-OnBootSec=120
-#Run every 1 minute thereafter
-OnUnitActiveSec=28800
-#File describing job to execute
-Unit=biz-fin-stripe-abo.service
+fig = px.treemap(df, path=[px.Constant(&#34;Tidsforbrug&#34;), &#39;domains&#39;, &#39;activities&#39;, &#39;details&#39;, &#39;status&#39;], values=&#39;values&#39;)
+fig.update_traces(root_color=&#34;lightgrey&#34;)
+fig.update_layout(margin = dict(t=50, l=25, r=25, b=25))
+fig.update_traces(marker=dict(cornerradius=10))
+app.layout = html.Div(children=[
+    html.H1(children=&#39;Tidsregnskab&#39;),
 
-[Install]
-WantedBy=timers.target
-</code></pre><p>Skal enables een gang hver, det laver et symlink til en underfolder som systemd arbejder ud fra:</p>
-<pre tabindex="0"><code>systemctl --user enable servicenavn.service
-systemctl --user enable servicenavn.timer
-</code></pre><p>Skal så startes, og kører så efter timer indtil de stoppes, og sker det, skal de startes igen</p>
-<pre tabindex="0"><code>systemctl --user start servicenavn.service
-systemctl --user start servicenavn.timer
-</code></pre><p>Tjek om service kører med timer</p>
-<pre tabindex="0"><code>systemctl --user list-timers 
-</code></pre><p>Tjek den enkelte service</p>
-<pre tabindex="0"><code>systemctl --user status servicenavn
-</code></pre><p>Stop timeren hvis den skal justeres</p>
-<pre tabindex="0"><code>systemctl --user stop servicenavn.timer
-</code></pre><p>Lav ændringer i filen.</p>
-<p>Og genindlæs med ændringer:</p>
-<pre tabindex="0"><code>systemctl --user daemon-reload
-</code></pre><p>Og sæt den nye udgave i gang</p>
-<pre tabindex="0"><code>systemctl --user start servicenavn.timer
-</code></pre><p>Tjek med</p>
-<pre tabindex="0"><code>systemctl --user status servicenavn
-</code></pre><p>og evt</p>
-<pre tabindex="0"><code>systemctl --user list-timers 
-</code></pre><p>Se logmeddelelser fra den enkelte service med</p>
-<pre tabindex="0"><code>journalctl --user --unit servicenavn
-</code></pre><p>For nemmere overblik installer evt</p>
-<pre tabindex="0"><code>sysz
-</code></pre><p>Sådan kan man automatisere mange ting og gange nøjagtigt.</p>
+    html.Div(children=&#39;&#39;&#39;
+        Tidsforbrug på Folkets Avis januar 2023.
+    &#39;&#39;&#39;),
+
+    dcc.Graph(
+        id=&#39;example-graph&#39;,
+        figure=fig
+    )
+])
+
+if __name__ == &#39;__main__&#39;:
+    app.run_server(debug=True)
+</code></pre><p>Det giver så dette treemap</p>
+<p><img src="/erfaring/dash-treemap.png" alt=""></p>
+<p>Og man kan klikke sig ind på det:</p>
+<p><img src="/erfaring/dash-treemap-detail.png" alt=""></p>
+<p>Det kan man dog ikke her hvor det bare er affotograferet fra serveren som kun kører lokalt.</p>
+<p>Treemaps giver et godt overblik over tidsregnskab.</p>
 <ul class="pa0">
   
 </ul>
 <ul class="pa0">
   
    <li class="list">
-     <a href="/emner/automatisering" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">automatisering</a>
+     <a href="/emner/datavisualisering" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">datavisualisering</a>
    </li>
   
 </ul>
@@ -292,14 +289,6 @@ systemctl --user start servicenavn.timer
         
       </div>
 
-      
-      
-      
-      
-      
-      
-      
-      
       
       
       

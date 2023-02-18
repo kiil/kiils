@@ -86,6 +86,83 @@
     
     , 
     {
+        "url": "/tools/dash/",
+        "title": "dash",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/datavisualisering/",
+        "title": "datavisualisering",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/",
+        "title": "Emner",
+        "content": "Emner i det arbejde Kiils laver\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaring/",
+        "title": "Erfaring",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaring/20230218-fra-hledger-tidsregnskab-til-treemap-i-dash/",
+        "title": "Fra hledger tidsregnskab til treemap i dash",
+        "content": "Tidsforbrug registreret i ledger cli eller hledger kan rapporteres som\n3 administrativt:bureaukrati 6 administrativt:fundraising 7 administrativt:teknik 2 redaktionelt:feedback 1 redaktionelt:ideudvikling 5 redaktionelt:research:pressekontakt:frugtbar 5 redaktionelt:research:pressekontakt:unyttig 37 redaktionelt:skrive med kommandoen hledger -f folkets-tid.journal bal -c 1..\nDet er relativt nemt med nushell eller nvim eller andre værktøjer at omsætte til en csv som følger:\nvalues,domains,activities,details,status 3,administrativt,bureaukrati,None,None 6,administrativt,fundraising,None,None 7,administrativt,teknik,None,None 2,redaktionelt,feedback,None,None 1,redaktionelt,ideudvikling,None,None 5,redaktionelt,research,pressekontakt,frugtbar 5,redaktionelt,research,pressekontakt,unyttig 37,redaktionelt,skrive,None,None Og den fil kan så bruges med plotly til at lave en miniapp i dash:\nfrom dash import Dash, html, dcc import plotly.express as px import pandas as pd app = Dash(__name__) df = pd.read_csv(\u0026#39;treemap1.csv\u0026#39;).replace(\u0026#34;None\u0026#34;, None) fig = px.treemap(df, path=[px.Constant(\u0026#34;Tidsforbrug\u0026#34;), \u0026#39;domains\u0026#39;, \u0026#39;activities\u0026#39;, \u0026#39;details\u0026#39;, \u0026#39;status\u0026#39;], values=\u0026#39;values\u0026#39;) fig.update_traces(root_color=\u0026#34;lightgrey\u0026#34;) fig.update_layout(margin = dict(t=50, l=25, r=25, b=25)) fig.update_traces(marker=dict(cornerradius=10)) app.layout = html.Div(children=[ html.H1(children=\u0026#39;Tidsregnskab\u0026#39;), html.Div(children=\u0026#39;\u0026#39;\u0026#39; Tidsforbrug på Folkets Avis januar 2023. \u0026#39;\u0026#39;\u0026#39;), dcc.Graph( id=\u0026#39;example-graph\u0026#39;, figure=fig ) ]) if __name__ == \u0026#39;__main__\u0026#39;: app.run_server(debug=True) Det giver så dette treemap\nOg man kan klikke sig ind på det:\nDet kan man dog ikke her hvor det bare er affotograferet fra serveren som kun kører lokalt.\nTreemaps giver et godt overblik over tidsregnskab.\n"
+    }
+    
+    , 
+    {
+        "url": "/tools/hledger/",
+        "title": "hledger",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/",
+        "title": "Kiils",
+        "content": " Stærke tekster til en digital tidsalder "
+    }
+    
+    , 
+    {
+        "url": "/skribenter/lennart-kiil/",
+        "title": "Lennart Kiil",
+        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
+    }
+    
+    , 
+    {
+        "url": "/tools/plotly/",
+        "title": "plotly",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/skribenter/",
+        "title": "Skribenter",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/",
+        "title": "Tools",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/emner/automatisering/",
         "title": "automatisering",
         "content": ""
@@ -107,43 +184,8 @@
     
     , 
     {
-        "url": "/emner/",
-        "title": "Emner",
-        "content": "Emner i det arbejde Kiils laver\n"
-    }
-    
-    , 
-    {
-        "url": "/erfaring/",
-        "title": "Erfaring",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/",
-        "title": "Kiils",
-        "content": " Stærke tekster til en digital tidsalder "
-    }
-    
-    , 
-    {
-        "url": "/skribenter/lennart-kiil/",
-        "title": "Lennart Kiil",
-        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
-    }
-    
-    , 
-    {
         "url": "/tools/linux/",
         "title": "linux",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/skribenter/",
-        "title": "Skribenter",
         "content": ""
     }
     
@@ -158,13 +200,6 @@
     {
         "url": "/tools/terminal/",
         "title": "terminal",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/",
-        "title": "Tools",
         "content": ""
     }
     
@@ -200,13 +235,6 @@
     {
         "url": "/emner/finanser/",
         "title": "finanser",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/hledger/",
-        "title": "hledger",
         "content": ""
     }
     
