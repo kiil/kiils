@@ -6,7 +6,16 @@
     <description>Recent content in Emner on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Sat, 18 Feb 2023 08:35:10 +0100</lastBuildDate><atom:link href="https://www.kiils.dk/emner/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/emner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>kunstig intelligens</title>
+      <link>https://www.kiils.dk/emner/kunstig-intelligens/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/kunstig-intelligens/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>datavisualisering</title>
       <link>https://www.kiils.dk/emner/datavisualisering/</link>
@@ -85,15 +94,6 @@
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/emner/nlp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kunstig intelligens</title>
-      <link>https://www.kiils.dk/emner/kunstig-intelligens/</link>
-      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/emner/kunstig-intelligens/</guid>
       <description></description>
     </item>
     

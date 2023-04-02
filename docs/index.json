@@ -86,16 +86,9 @@
     
     , 
     {
-        "url": "/tools/dash/",
-        "title": "dash",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/datavisualisering/",
-        "title": "datavisualisering",
-        "content": ""
+        "url": "/tools/chatgpt/",
+        "title": "chatGPT",
+        "content": "chatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft.\nGPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er chatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.\nModellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.\nDu kan finde inspiration til danske prompts her:\nDanske chatGPT prompts "
     }
     
     , 
@@ -109,6 +102,62 @@
     {
         "url": "/erfaring/",
         "title": "Erfaring",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/",
+        "title": "Kiils",
+        "content": " Stærke tekster til en digital tidsalder "
+    }
+    
+    , 
+    {
+        "url": "/emner/kunstig-intelligens/",
+        "title": "kunstig intelligens",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/skribenter/lennart-kiil/",
+        "title": "Lennart Kiil",
+        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
+    }
+    
+    , 
+    {
+        "url": "/skribenter/",
+        "title": "Skribenter",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaring/20230331-top-google-chat/",
+        "title": "Til tops i Google på 24 timer - gæt hvem skrev teksten",
+        "content": "Hvordan kommer Google til at behandle tekst som er skabt af kunstig intelligens?\nGoogle meldte selv ud på et tidspunkt at tekst skabt af kunstig intelligens, vil blive opfattet som maskingenereret tekst og blive behandlet på linje med anden maskingeneret tekst som andenrangsborger i forhold til placering.\nJeg forstår godt at Google overvejer den tilgang.\nMen den er naturligvis forbundet med flere problemer.\nJeg skrev blandt andet selv om at den tilgang ville kunne ramme ordblinde og dem som hjælper ordblinde med at udkomme på internettet:\nGoogle risikerer at straffe folk som inkluderer ordblinde i den demokratiske debat Et andet aspekt er naturligvis spørgsmålet om hvorvidt Google overhovedet kan skelne mellem maskingeneret tekst og menneskeskabt tekst.\nDet er jo aldrig helt lykkedes for nogen endnu for eksempel bare at lave et spam-filter i email-sammenhæng som 100 procent pålideligt sorterer korrekt.\nSå hvis man nu er sådan anlagt at man tilfældigvis skriver som en maskine, så viol man risikere at blive straffet af Google og blive nedrangeret på grund af en forkert afgørelse fra søgemaskinegiganten.\nAnyway, jeg fik chatGPT til at lave en tekst om Sam Altman, som jeg selv kun efterredigerede minimalt og tilføjede nogle mellemrubrikker og en enkelt eller to af mine egne kæpheste.\nEfter et døgn lå teksten nummer et på Google:\nGoogleEn tekst om Sam Altman\nSelvom jeg klart i teksten angiver at den er skabt af generativ sprogteknologi.\nOg det er så en anden ting. Jeg har besluttet mig for at deklarere min assistent hvis jeg i en bestemt tekst bruger den i betydeligt omfang, som tilfældet er her.\n"
+    }
+    
+    , 
+    {
+        "url": "/tools/",
+        "title": "Tools",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/dash/",
+        "title": "dash",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/datavisualisering/",
+        "title": "datavisualisering",
         "content": ""
     }
     
@@ -128,36 +177,8 @@
     
     , 
     {
-        "url": "/",
-        "title": "Kiils",
-        "content": " Stærke tekster til en digital tidsalder "
-    }
-    
-    , 
-    {
-        "url": "/skribenter/lennart-kiil/",
-        "title": "Lennart Kiil",
-        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
-    }
-    
-    , 
-    {
         "url": "/tools/plotly/",
         "title": "plotly",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/skribenter/",
-        "title": "Skribenter",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/",
-        "title": "Tools",
         "content": ""
     }
     
@@ -201,13 +222,6 @@
         "url": "/tools/terminal/",
         "title": "terminal",
         "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/chatgpt/",
-        "title": "chatGPT",
-        "content": "chatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft.\nGPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er chatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.\nModellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.\nDu kan finde inspiration til danske prompts her:\nDanske chatGPT prompts "
     }
     
     , 
@@ -306,13 +320,6 @@
         "url": "/erfaring/nlp/kunstig-intelligens-illustration/",
         "title": "Jeg har brugt DALL-E fra OpenAI til at illustrere to indlæg — hvad synes I om resultatet?",
         "content": "Jeg kommer ikke til at bruge chatGPT til at skabe tekst foreløbig. Dertil er dens dansk simpelthen for kluntet.\nMine standarder for tekst og sprog er måske nok også højere end de er for illustrationer.\nI hvert fald har jeg forsøgt at tage OpenAI\u0026rsquo;s DALL-E model i brug til at illustrere to ledere, en på Folkets Avis - og en anden samme sted, men i sektionen Mediemøllen.\nJeg synes den illustration som jeg har brugt til en leder om \u0026ldquo;organet for den højeste oplysning\u0026rdquo;, er ret vellykket. Se den eventuelt her:\nÅbent brev til \u0026amp;lsquo;organet for den højeste oplysning\u0026amp;rsquo; Derimod er jeg ikke helt tilfreds med den frembringelse som DALL-E gav mig i forbindelse med en leder om den såkaldte afskaffelse af Store Bededag.\nDu kan se den, i mine øjne, mindre heldige illustration her:\nVil du arbejde en halv dag mere årligt for at styrke landets forsvar? "
-    }
-    
-    , 
-    {
-        "url": "/emner/kunstig-intelligens/",
-        "title": "kunstig intelligens",
-        "content": ""
     }
     
     , 

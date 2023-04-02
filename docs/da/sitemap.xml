@@ -52,18 +52,23 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/tools/dash/</loc>
-    <lastmod>2023-02-18T08:35:10+01:00</lastmod>
+    <loc>https://www.kiils.dk/tools/chatgpt/</loc>
+    <lastmod>2023-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/emner/datavisualisering/</loc>
-    <lastmod>2023-02-18T08:35:10+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/tools/chatgpt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/tools/chatgpt/"
+                />
   </url><url>
     <loc>https://www.kiils.dk/emner/</loc>
-    <lastmod>2023-02-18T08:35:10+01:00</lastmod>
+    <lastmod>2023-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -78,7 +83,7 @@
                 />
   </url><url>
     <loc>https://www.kiils.dk/erfaring/</loc>
-    <lastmod>2023-02-18T08:35:10+01:00</lastmod>
+    <lastmod>2023-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -92,18 +97,8 @@
                 href="https://www.kiils.dk/erfaring/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/20230218-fra-hledger-tidsregnskab-til-treemap-i-dash/</loc>
-    <lastmod>2023-02-18T08:35:10+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/tools/hledger/</loc>
-    <lastmod>2023-02-18T08:35:10+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.kiils.dk/</loc>
-    <lastmod>2023-02-18T08:35:10+01:00</lastmod>
+    <lastmod>2023-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -117,8 +112,23 @@
                 href="https://www.kiils.dk/"
                 />
   </url><url>
+    <loc>https://www.kiils.dk/emner/kunstig-intelligens/</loc>
+    <lastmod>2023-04-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/emner/kunstig-intelligens/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/emner/kunstig-intelligens/"
+                />
+  </url><url>
     <loc>https://www.kiils.dk/skribenter/lennart-kiil/</loc>
-    <lastmod>2023-02-18T08:35:10+01:00</lastmod>
+    <lastmod>2023-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -132,13 +142,8 @@
                 href="https://www.kiils.dk/skribenter/lennart-kiil/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/tools/plotly/</loc>
-    <lastmod>2023-02-18T08:35:10+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.kiils.dk/skribenter/</loc>
-    <lastmod>2023-02-18T08:35:10+01:00</lastmod>
+    <lastmod>2023-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -152,8 +157,13 @@
                 href="https://www.kiils.dk/skribenter/"
                 />
   </url><url>
+    <loc>https://www.kiils.dk/erfaring/20230331-top-google-chat/</loc>
+    <lastmod>2023-04-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/tools/</loc>
-    <lastmod>2023-02-18T08:35:10+01:00</lastmod>
+    <lastmod>2023-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -166,6 +176,31 @@
                 hreflang="da"
                 href="https://www.kiils.dk/tools/"
                 />
+  </url><url>
+    <loc>https://www.kiils.dk/tools/dash/</loc>
+    <lastmod>2023-02-18T08:35:10+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/emner/datavisualisering/</loc>
+    <lastmod>2023-02-18T08:35:10+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/erfaring/20230218-fra-hledger-tidsregnskab-til-treemap-i-dash/</loc>
+    <lastmod>2023-02-18T08:35:10+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/tools/hledger/</loc>
+    <lastmod>2023-02-18T08:35:10+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/tools/plotly/</loc>
+    <lastmod>2023-02-18T08:35:10+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/emner/automatisering/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
@@ -196,21 +231,6 @@
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/tools/chatgpt/</loc>
-    <lastmod>2023-02-07T10:41:04+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/tools/chatgpt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/tools/chatgpt/"
-                />
   </url><url>
     <loc>https://www.kiils.dk/erfaring/20230207-chatgpt-hjaelper-ordblind/</loc>
     <lastmod>2023-02-07T10:41:04+01:00</lastmod>
@@ -291,21 +311,6 @@
     <lastmod>2023-01-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/emner/kunstig-intelligens/</loc>
-    <lastmod>2023-01-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/emner/kunstig-intelligens/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/emner/kunstig-intelligens/"
-                />
   </url><url>
     <loc>https://www.kiils.dk/erfaring/nlp/chatgpt-botsplaining/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
