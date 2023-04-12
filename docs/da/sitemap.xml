@@ -52,7 +52,27 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.kiils.dk/erfaring/skriv-som-en-poet/balance/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/erfaring/skriv-som-en-poet/startord-slutord/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/erfaring/dine-fejl-er-din-signatur/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/erfaring/skriv-som-en-poet/gentagelser/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/erfaring/skriv-som-en-poet/dybe-saetninger/</loc>
     <lastmod>2023-04-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -87,6 +107,21 @@
                 href="https://www.kiils.dk/erfaring/"
                 />
   </url><url>
+    <loc>https://www.kiils.dk/genrer/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/genrer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/genrer/"
+                />
+  </url><url>
     <loc>https://www.kiils.dk/tools/gpt-4/</loc>
     <lastmod>2023-04-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -106,6 +141,11 @@
                 hreflang="da"
                 href="https://www.kiils.dk/"
                 />
+  </url><url>
+    <loc>https://www.kiils.dk/erfaring/skriv-som-en-poet/se-dine-saetninger/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/emner/kunstig-intelligens/</loc>
     <lastmod>2023-04-12T00:00:00+00:00</lastmod>
@@ -137,6 +177,26 @@
                 href="https://www.kiils.dk/skribenter/lennart-kiil/"
                 />
   </url><url>
+    <loc>https://www.kiils.dk/tools/markdown/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/erfaring/skriv-som-en-poet/rytme/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/erfaring/skriv-som-en-poet/raekkefoelge/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/genrer/serie/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/skribenter/</loc>
     <lastmod>2023-04-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -151,6 +211,21 @@
                 hreflang="da"
                 href="https://www.kiils.dk/skribenter/"
                 />
+  </url><url>
+    <loc>https://www.kiils.dk/erfaring/skriv-som-en-poet/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/erfaring/skriv-som-en-poet/teknisk/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/erfaring/skriv-som-en-poet/staccato/</loc>
+    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/tools/</loc>
     <lastmod>2023-04-12T00:00:00+00:00</lastmod>
@@ -384,26 +459,6 @@
   </url><url>
     <loc>https://www.kiils.dk/erfaring/virkemidler/dagligdagens-virkemidler/</loc>
     <lastmod>2022-08-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/genrer/</loc>
-    <lastmod>2022-07-14T13:31:41+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/genrer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/genrer/"
-                />
-  </url><url>
-    <loc>https://www.kiils.dk/genrer/serie/</loc>
-    <lastmod>2022-07-14T13:31:41+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -918,11 +973,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/emner/journalistik/</loc>
-    <lastmod>2019-08-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/tools/markdown/</loc>
     <lastmod>2019-08-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
