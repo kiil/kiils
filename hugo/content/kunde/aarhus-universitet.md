@@ -1,5 +1,0 @@
----
-title: Aarhus Universitet
----
-
-Formidling.
