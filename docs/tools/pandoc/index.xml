@@ -6,7 +6,18 @@
     <description>Recent content in pandoc on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/pandoc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/pandoc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ekstra værktøj til poet-teknikken</title>
+      <link>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-9-tooling/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-9-tooling/</guid>
+      <description>Først skriver vi teksten sådan her:
+Once upon a time, there was a small group of people who held all the power and wealth. The ruling class. They used their influence to control every aspect of society. They were always looking for ways to gain more power. And they saw artificial intelligence as the key to achieving their goals. Og gemmer den i filen markdown-tekstfil.md.
+For at se teksten med sætningerne på hver deres linje:</description>
+    </item>
+    
     <item>
       <title>HTML med toc fra markdown via pandoc</title>
       <link>https://www.kiils.dk/erfaring/tips-tricks/html-med-toc-fra-markdown-via-pandoc/</link>

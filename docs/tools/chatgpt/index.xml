@@ -6,7 +6,20 @@
     <description>Recent content in chatGPT on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/chatgpt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/chatgpt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jeg gav chatGPT adgang til min dagbog - det skulle jeg aldrig have gjort</title>
+      <link>https://www.kiils.dk/erfaring/jeg-gav-chatgpt-adgang-til-min-dagbog-det-skulle-jeg-aldrig-have-gjort/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/jeg-gav-chatgpt-adgang-til-min-dagbog-det-skulle-jeg-aldrig-have-gjort/</guid>
+      <description>Jeg skrev tidligere at GPT-modellerne ikke har adgang til vores indre verden.
+Sådan bliver du ved med at skrive bedre end kunstig intelligens Men det kan man jo delvist give dem hvis man fører dagbog.
+Jeg skriver selv dagbog. Ikke hver dag. Mere lidt sporadisk når jeg har tid.
+For indeværende måned har jeg foreløbig lavet følgende:
+╭────┬───────────────╮ │ # │ name │ ├────┼───────────────┤ │ 0 │ 2023-04-02.md │ │ 1 │ 2023-04-03.</description>
+    </item>
+    
     <item>
       <title>Til tops i Google på 24 timer - gæt hvem skrev teksten</title>
       <link>https://www.kiils.dk/erfaring/20230331-top-google-chat/</link>
