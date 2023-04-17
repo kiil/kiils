@@ -15,7 +15,7 @@
       <guid>https://www.kiils.dk/erfaring/recoll-smart-s%C3%B8gning/</guid>
       <description>Noget af det jeg manglede i MacOS Spotlight søgemaskinen, var en mere omfattende syntaks for søgning.
 Recoll er både smart og omfangsrig på det område.
-Stemming Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme.
+¶ Stemming Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme.
 Stemming finder roden af et ord og de forskellige afledninger. På den måde får man flere resultater på en søgning, og nogle af dem vil være relevante nok.
 Med Recoll og Xapian tages der endda konkret højde for nøjagtig de ord som findes i dit indeks.</description>
     </item>

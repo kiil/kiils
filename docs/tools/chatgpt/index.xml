@@ -8,6 +8,17 @@
     <language>da-dk</language>
     <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/chatgpt/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hvorfor taler chatGPT som mine børn</title>
+      <link>https://www.kiils.dk/erfaring/hvorfor-taler-chatgpt-som-mine-born/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/hvorfor-taler-chatgpt-som-mine-born/</guid>
+      <description>Her et brudstykke fra en nylig snak med chatGPT:
+Selvfølgelig, her er et eksempel på en kodeblok med Python-kode og kommentarer i markdown-format:
+# Dette program udskriver &amp;quot;Hej, verden!&amp;quot; på skærmen print(&amp;quot;Hej, verden!&amp;quot;) # Beregner summen af to tal og udskriver resultatet tal1 = 5 tal2 = 3 sum = tal1 + tal2 print(&amp;quot;Summen af&amp;quot;, tal1, &amp;quot;og&amp;quot;, tal2, &amp;quot;er&amp;quot;, sum) Her er kommentarerne både over og under den pågældende kode, i overensstemmelse med det, du requestede.</description>
+    </item>
+    
+    <item>
       <title>Jeg gav chatGPT adgang til min dagbog - det skulle jeg aldrig have gjort</title>
       <link>https://www.kiils.dk/erfaring/jeg-gav-chatgpt-adgang-til-min-dagbog-det-skulle-jeg-aldrig-have-gjort/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
@@ -15,7 +26,7 @@
       <guid>https://www.kiils.dk/erfaring/jeg-gav-chatgpt-adgang-til-min-dagbog-det-skulle-jeg-aldrig-have-gjort/</guid>
       <description>Jeg skrev tidligere at GPT-modellerne ikke har adgang til vores indre verden.
 Sådan bliver du ved med at skrive bedre end kunstig intelligens Men det kan man jo delvist give dem hvis man fører dagbog.
-Jeg skriver selv dagbog. Ikke hver dag. Mere lidt sporadisk når jeg har tid.
+Jeg skriver selv dagbog &amp;mdash; ikke hver dag. Mere lidt sporadisk når jeg har tid.
 For indeværende måned har jeg foreløbig lavet følgende:
 ╭────┬───────────────╮ │ # │ name │ ├────┼───────────────┤ │ 0 │ 2023-04-02.md │ │ 1 │ 2023-04-03.</description>
     </item>

@@ -6,7 +6,33 @@
     <description>Recent content in Lennart Kiil on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/skribenter/lennart-kiil/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/skribenter/lennart-kiil/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Information overload - lad kunstig intelligens hjælpe dig</title>
+      <link>https://www.kiils.dk/erfaring/nemt-nyhedsoverblik-med-nushell-og-chatgpt/</link>
+      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/nemt-nyhedsoverblik-med-nushell-og-chatgpt/</guid>
+      <description>Der er meget information og mange nyheder at forholde sig til.
+Du kan bruge chatGPT til at skabe bedre overblik.
+Den metode som jeg vil vise her, består af to trin - første trin er at indhente de relevante data.
+Der bruger jeg nushell og følgende nushell plugin:
+https://github.com/nushell/nushell/tree/main/crates/nu_plugin_query På den måde giver:
+http get https://www.dr.dk/nyheder | query web -q &amp;#39;h2 .dre-title-text &amp;#39; Følgende overskrifter på listeform:
+╭────┬──────────────────────────────────────────────────────────────────────────────────────────────╮ │ 0 │ 32-årig mand varetægtsfængsles frem til 11.</description>
+    </item>
+    
+    <item>
+      <title>Hvorfor taler chatGPT som mine børn</title>
+      <link>https://www.kiils.dk/erfaring/hvorfor-taler-chatgpt-som-mine-born/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/hvorfor-taler-chatgpt-som-mine-born/</guid>
+      <description>Her et brudstykke fra en nylig snak med chatGPT:
+Selvfølgelig, her er et eksempel på en kodeblok med Python-kode og kommentarer i markdown-format:
+# Dette program udskriver &amp;quot;Hej, verden!&amp;quot; på skærmen print(&amp;quot;Hej, verden!&amp;quot;) # Beregner summen af to tal og udskriver resultatet tal1 = 5 tal2 = 3 sum = tal1 + tal2 print(&amp;quot;Summen af&amp;quot;, tal1, &amp;quot;og&amp;quot;, tal2, &amp;quot;er&amp;quot;, sum) Her er kommentarerne både over og under den pågældende kode, i overensstemmelse med det, du requestede.</description>
+    </item>
+    
     <item>
       <title>Jeg gav chatGPT adgang til min dagbog - det skulle jeg aldrig have gjort</title>
       <link>https://www.kiils.dk/erfaring/jeg-gav-chatgpt-adgang-til-min-dagbog-det-skulle-jeg-aldrig-have-gjort/</link>
@@ -15,7 +41,7 @@
       <guid>https://www.kiils.dk/erfaring/jeg-gav-chatgpt-adgang-til-min-dagbog-det-skulle-jeg-aldrig-have-gjort/</guid>
       <description>Jeg skrev tidligere at GPT-modellerne ikke har adgang til vores indre verden.
 Sådan bliver du ved med at skrive bedre end kunstig intelligens Men det kan man jo delvist give dem hvis man fører dagbog.
-Jeg skriver selv dagbog. Ikke hver dag. Mere lidt sporadisk når jeg har tid.
+Jeg skriver selv dagbog &amp;mdash; ikke hver dag. Mere lidt sporadisk når jeg har tid.
 For indeværende måned har jeg foreløbig lavet følgende:
 ╭────┬───────────────╮ │ # │ name │ ├────┼───────────────┤ │ 0 │ 2023-04-02.md │ │ 1 │ 2023-04-03.</description>
     </item>
@@ -425,7 +451,7 @@ For at kunne tilgå hugo server på min raspberry pi, som kører linux, fra en a
       <guid>https://www.kiils.dk/erfaring/recoll-smart-s%C3%B8gning/</guid>
       <description>Noget af det jeg manglede i MacOS Spotlight søgemaskinen, var en mere omfattende syntaks for søgning.
 Recoll er både smart og omfangsrig på det område.
-Stemming Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme.
+¶ Stemming Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme.
 Stemming finder roden af et ord og de forskellige afledninger. På den måde får man flere resultater på en søgning, og nogle af dem vil være relevante nok.
 Med Recoll og Xapian tages der endda konkret højde for nøjagtig de ord som findes i dit indeks.</description>
     </item>

@@ -206,6 +206,44 @@
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     <div class="f7 helvetica ttu tracked">Erfaring</div>
     <h1 class="f3 near-black">
+      <a href="https://www.kiils.dk/erfaring/nemt-nyhedsoverblik-med-nushell-og-chatgpt/" class="link black dim">
+        Information overload - lad kunstig intelligens hjælpe dig
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Der er meget information og mange nyheder at forholde sig til.
+Du kan bruge chatGPT til at skabe bedre overblik.
+Den metode som jeg vil vise her, består af to trin - første trin er at indhente de relevante data.
+Der bruger jeg nushell og følgende nushell plugin:
+https://github.com/nushell/nushell/tree/main/crates/nu_plugin_query På den måde giver:
+http get https://www.dr.dk/nyheder | query web -q &#39;h2 .dre-title-text &#39; Følgende overskrifter på listeform:
+╭────┬──────────────────────────────────────────────────────────────────────────────────────────────╮ │ 0 │ 32-årig mand varetægtsfængsles frem til 11.
+    </div>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <div class="f7 helvetica ttu tracked">Erfaring</div>
+    <h1 class="f3 near-black">
+      <a href="https://www.kiils.dk/erfaring/hvorfor-taler-chatgpt-som-mine-born/" class="link black dim">
+        Hvorfor taler chatGPT som mine børn
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Her et brudstykke fra en nylig snak med chatGPT:
+Selvfølgelig, her er et eksempel på en kodeblok med Python-kode og kommentarer i markdown-format:
+# Dette program udskriver &quot;Hej, verden!&quot; på skærmen print(&quot;Hej, verden!&quot;) # Beregner summen af to tal og udskriver resultatet tal1 = 5 tal2 = 3 sum = tal1 + tal2 print(&quot;Summen af&quot;, tal1, &quot;og&quot;, tal2, &quot;er&quot;, sum) Her er kommentarerne både over og under den pågældende kode, i overensstemmelse med det, du requestede.
+    </div>
+  </div>
+</div>
+
+        
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <div class="f7 helvetica ttu tracked">Erfaring</div>
+    <h1 class="f3 near-black">
       <a href="https://www.kiils.dk/erfaring/jeg-gav-chatgpt-adgang-til-min-dagbog-det-skulle-jeg-aldrig-have-gjort/" class="link black dim">
         Jeg gav chatGPT adgang til min dagbog - det skulle jeg aldrig have gjort
       </a>
@@ -213,7 +251,7 @@
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       Jeg skrev tidligere at GPT-modellerne ikke har adgang til vores indre verden.
 Sådan bliver du ved med at skrive bedre end kunstig intelligens Men det kan man jo delvist give dem hvis man fører dagbog.
-Jeg skriver selv dagbog. Ikke hver dag. Mere lidt sporadisk når jeg har tid.
+Jeg skriver selv dagbog &mdash; ikke hver dag. Mere lidt sporadisk når jeg har tid.
 For indeværende måned har jeg foreløbig lavet følgende:
 ╭────┬───────────────╮ │ # │ name │ ├────┼───────────────┤ │ 0 │ 2023-04-02.md │ │ 1 │ 2023-04-03.
     </div>
@@ -827,7 +865,7 @@ For at kunne tilgå hugo server på min raspberry pi, som kører linux, fra en a
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       Noget af det jeg manglede i MacOS Spotlight søgemaskinen, var en mere omfattende syntaks for søgning.
 Recoll er både smart og omfangsrig på det område.
-Stemming Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme.
+¶ Stemming Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme.
 Stemming finder roden af et ord og de forskellige afledninger. På den måde får man flere resultater på en søgning, og nogle af dem vil være relevante nok.
 Med Recoll og Xapian tages der endda konkret højde for nøjagtig de ord som findes i dit indeks.
     </div>
