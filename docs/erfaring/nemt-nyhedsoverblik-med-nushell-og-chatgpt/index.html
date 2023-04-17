@@ -67,7 +67,7 @@ https://github.com/nushell/nushell/tree/main/crates/nu_plugin_query På den måd
 http get https://www.dr.dk/nyheder | query web -q &#39;h2 .dre-title-text &#39; Følgende overskrifter på listeform:
 ╭────┬──────────────────────────────────────────────────────────────────────────────────────────────╮ │ 0 │ 32-årig mand varetægtsfængsles frem til 11."><meta itemprop="datePublished" content="2023-04-17T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2023-04-17T00:00:00+00:00" />
-<meta itemprop="wordCount" content="1044">
+<meta itemprop="wordCount" content="1098">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Information overload - lad kunstig intelligens hjælpe dig"/>
 <meta name="twitter:description" content="Der er meget information og mange nyheder at forholde sig til.
@@ -222,8 +222,8 @@ http get https://www.dr.dk/nyheder | query web -q &#39;h2 .dre-title-text &#39; 
       <time class="f7 dib tracked" datetime="2023-04-17T00:00:00Z">17/04/2023</time>
       
       
-        <span class="f7 dib tracked"> - 5 minutter </span>
-        <span class="f7 dib tracked"> - 1044 ord</span>
+        <span class="f7 dib tracked"> - 6 minutter </span>
+        <span class="f7 dib tracked"> - 1098 ord</span>
       
       </div>
 
@@ -340,7 +340,15 @@ http get https://www.dr.dk/nyheder | query web -q &#39;h2 .dre-title-text &#39; 
   • 32-årig mand varetægtsfængsles frem til 11. maj                                                                   
   • 32-årig mand fremstilles i grundlovsforhør klokken 11
 </code></pre><p>Resultatet viser at chatGPT stadig har nogle mangler hvad abstraktionsevne angår. Det kunne være interessant at se om GPT-4 klarede kategoriseringsopgaven bedre.</p>
-<ul class="pa0">
+<p>Det er nemt at indsnævre resultaterne yderligere:</p>
+<p><code>kun sport</code> giver så</p>
+<pre tabindex="0"><code>  Her er alle sportsrelaterede overskrifter:                                                                          
+                                                                                                                    
+  • Mestrene fra Odense Håndbold maser Aarhus i slutspilspremiere                                                     
+  • Aalborg Pirates besejrer Hernings ishockeyherrer og udbygger forspringet i DM-serien                              
+  • Brøndby sætter en stopper for AGF&#39;s forrygende forår                                                              
+  • FC København slider sig til tops i Superligaen
+</code></pre><ul class="pa0">
   
 </ul>
 <ul class="pa0">
