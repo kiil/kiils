@@ -1,0 +1,58 @@
+{{ define "header" }}
+   {{/* We can override any block in the baseof file be defining it in the template */}}
+  {{ partial "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ $section := .Site.GetPage "section" .Section }}
+  <article class="justify-between pa4-l">
+
+    <header class="mt4 w-100">
+      <h1 class="f1 center avenir tc mb4 mt4">
+        {{- .Title -}}
+      </h1>
+      </div>
+</header>
+
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l">
+      {{- .Content -}}
+    </section>
+
+    {{ $url := "https://raw.githubusercontent.com/kiil/awesome-chatgpt-personas/main/personas.csv" }}
+    {{ $sep := "," }}
+    {{ range $i, $r := getCSV $sep $url }}
+     {{ if ne $i 0 }}
+        <h2 class="f2 data-heading">{{ index $r 0 }}</h2>
+        <p class="lh-copy f4 data-paragraph">{{ index $r 1 }}</p>
+        {{ end }}
+    {{ end }}
+
+</article>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    <script>
+      document.querySelectorAll("p.data-paragraph").forEach((x) => {
+        x.setAttribute('contentEditable', true);
+        const button = document.createElement('button');
+        button.style.border = '0';
+        button.style.borderRadius = '3px';
+        button.style.fontSize = '1rem';
+        button.style.marginRight = '0.5rem';
+        button.style.padding = '0';
+        button.style.backgroundColor = 'transparent';
+        button.innerHTML = '✂️';
+        button.addEventListener('click', async () => {
+          if (navigator.clipboard) {
+            await navigator.clipboard.writeText(x.innerText);
+            alert('Prompt kopieret, nu kan du kopiere den over i chatGPT.');
+          } else {
+            alert('Your browser does not support clipboard copy. Please select the prompt and copy.')
+          }
+        }, false);
+        x.previousElementSibling.prepend(button);
+      });
+    </script>
+
+{{ end }}

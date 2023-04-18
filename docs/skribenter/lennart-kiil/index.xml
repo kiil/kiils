@@ -23,6 +23,18 @@ http get https://www.dr.dk/nyheder | query web -q &amp;#39;h2 .dre-title-text &a
     </item>
     
     <item>
+      <title>Kommandoer eller prompts -  instruer GPT korrekt</title>
+      <link>https://www.kiils.dk/erfaring/kommandoer-eller-prompts-instruer-gpt-korrekt/</link>
+      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/kommandoer-eller-prompts-instruer-gpt-korrekt/</guid>
+      <description>Jeg har allerede skrevet om prompts, og lagt en række prompts til chatGPT ud her: Danske chatGPT prompts Men ofte er det ikke nødvendigt med prompts.
+Så snart chatGPT har forstået sammenhængen og det overordnede sigte med en samtale, så kan det være tilstrækkeligt at give kommandoer.
+Men hvad er så forskellen? Lad od starte med at spørge chatGPT selv.
+As an AI language model, GPT (Generative Pre-training Transformer) allows for interactions between human users and machines.</description>
+    </item>
+    
+    <item>
       <title>Hvorfor taler chatGPT som mine børn</title>
       <link>https://www.kiils.dk/erfaring/hvorfor-taler-chatgpt-som-mine-born/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>

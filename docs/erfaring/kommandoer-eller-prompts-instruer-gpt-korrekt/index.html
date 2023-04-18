@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>nvim</title>
+    <title>Kommandoer eller prompts -  instruer GPT korrekt</title>
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
 
@@ -33,12 +33,13 @@
       
     
 
-    <link rel="alternate" type="application/rss+xml" href="https://www.kiils.dk/tools/nvim/index.xml" title="Kiils" />
-    <meta property="og:title" content="nvim" />
-<meta property="og:description" content="Vær så venlig" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://www.kiils.dk/tools/nvim/" />
-
+    <meta property="og:title" content="Kommandoer eller prompts -  instruer GPT korrekt" />
+<meta property="og:description" content="Jeg har allerede skrevet om prompts, og lagt en række prompts til chatGPT ud her: Danske chatGPT prompts Men ofte er det ikke nødvendigt med prompts.
+Så snart chatGPT har forstået sammenhængen og det overordnede sigte med en samtale, så kan det være tilstrækkeligt at give kommandoer.
+Men hvad er så forskellen? Lad od starte med at spørge chatGPT selv.
+As an AI language model, GPT (Generative Pre-training Transformer) allows for interactions between human users and machines." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.kiils.dk/erfaring/kommandoer-eller-prompts-instruer-gpt-korrekt/" />
 
 
 
@@ -49,12 +50,24 @@
 
 
 
-<meta property="og:image" content="/images/canvas_huf5a4a47d272c9e72b490e7eba58c5b9b_363_filter_11138107072885772482.png" /><meta property="og:site_name" content="Kiils" />
 
-<meta itemprop="name" content="nvim">
-<meta itemprop="description" content="Vær så venlig"><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="nvim"/>
-<meta name="twitter:description" content="Vær så venlig"/>
+<meta property="og:image" content="/images/canvas_huf5a4a47d272c9e72b490e7eba58c5b9b_363_filter_2476524071252482338.png" /><meta property="article:section" content="erfaring" />
+<meta property="article:published_time" content="2023-04-17T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-04-17T00:00:00+00:00" /><meta property="og:site_name" content="Kiils" />
+
+<meta itemprop="name" content="Kommandoer eller prompts -  instruer GPT korrekt">
+<meta itemprop="description" content="Jeg har allerede skrevet om prompts, og lagt en række prompts til chatGPT ud her: Danske chatGPT prompts Men ofte er det ikke nødvendigt med prompts.
+Så snart chatGPT har forstået sammenhængen og det overordnede sigte med en samtale, så kan det være tilstrækkeligt at give kommandoer.
+Men hvad er så forskellen? Lad od starte med at spørge chatGPT selv.
+As an AI language model, GPT (Generative Pre-training Transformer) allows for interactions between human users and machines."><meta itemprop="datePublished" content="2023-04-17T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2023-04-17T00:00:00+00:00" />
+<meta itemprop="wordCount" content="383">
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Kommandoer eller prompts -  instruer GPT korrekt"/>
+<meta name="twitter:description" content="Jeg har allerede skrevet om prompts, og lagt en række prompts til chatGPT ud her: Danske chatGPT prompts Men ofte er det ikke nødvendigt med prompts.
+Så snart chatGPT har forstået sammenhængen og det overordnede sigte med en samtale, så kan det være tilstrækkeligt at give kommandoer.
+Men hvad er så forskellen? Lad od starte med at spørge chatGPT selv.
+As an AI language model, GPT (Generative Pre-training Transformer) allows for interactions between human users and machines."/>
 
       
     
@@ -63,6 +76,8 @@
   <body class="ma0 avenir bg-near-white production">
 
     
+   
+  
 
   <header class="pa3 bg-near-black">
 
@@ -165,95 +180,114 @@
 
 </nav>
 
-      <div class="pa3 pt5 pa5-l pt6-l">
-        <h1 class="mt5 f3 f2-ns fw5 white tc lh-title">
-          nvim
-        </h1>
-        
-      </div>
 
   </header>
 
 
+
     <main class="pa3 w-100 w-90-l mw9 center production" role="main">
       
-<div class="flex-wrap flex-ns">
-  <article class="order-1 w-100 w-50-l pa3 pa4-m pa4-l">
-    <div class="measure f4 pt2-l lh-copy nested-copy-line-height nested-links nested-img mid-gray">
-      
-    </div>
-  </article>
-  <div class="order-0 w-100 w-50-l">
-    <section class="flex-ns flex-wrap justify-around mt5">
-      
-        <div class="relative w-100  mb4 bg-white">
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <div class="f7 helvetica ttu tracked">Erfaring</div>
-    <h1 class="f3 near-black">
-      <a href="https://www.kiils.dk/erfaring/nemt-nyhedsoverblik-med-nushell-og-chatgpt/" class="link black dim">
-        Information overload - lad kunstig intelligens hjælpe dig
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Der er meget information og mange nyheder at forholde sig til.
-Du kan bruge chatGPT til at skabe bedre overblik.
-Den metode som jeg vil vise her, består af to trin - første trin er at indhente de relevante data.
-Der bruger jeg nushell og følgende nushell plugin:
-https://github.com/nushell/nushell/tree/main/crates/nu_plugin_query På den måde giver:
-http get https://www.dr.dk/nyheder | query web -q &#39;h2 .dre-title-text &#39; Følgende overskrifter på listeform:
-╭────┬──────────────────────────────────────────────────────────────────────────────────────────────╮ │ 0 │ 32-årig mand varetægtsfængsles frem til 11.
-    </div>
-  </div>
+  
+  <article class="flex-l flex-wrap justify-between pa4-l">
+
+
 </div>
 
-        </div>
-      
-        <div class="relative w-100  mb4 bg-white">
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <div class="f7 helvetica ttu tracked">Erfaring</div>
-    <h1 class="f3 near-black">
-      <a href="https://www.kiils.dk/erfaring/kommandoer-eller-prompts-instruer-gpt-korrekt/" class="link black dim">
-        Kommandoer eller prompts -  instruer GPT korrekt
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Jeg har allerede skrevet om prompts, og lagt en række prompts til chatGPT ud her: Danske chatGPT prompts Men ofte er det ikke nødvendigt med prompts.
-Så snart chatGPT har forstået sammenhængen og det overordnede sigte med en samtale, så kan det være tilstrækkeligt at give kommandoer.
-Men hvad er så forskellen? Lad od starte med at spørge chatGPT selv.
-As an AI language model, GPT (Generative Pre-training Transformer) allows for interactions between human users and machines.
-    </div>
-  </div>
+    <header class="mt4 w-100">
+      <div class="f5 b helvetica tc ttu tracked">
+        <a class="link" href="/erfaring/">Erfaring</a>
+  
 </div>
+      <h1 class="f2 f1-l center measure-narrow athelas tc mb4 mt4">Kommandoer eller prompts -  instruer GPT korrekt</h1>
+      <div class="f4 mid-gray center tc tracked link  ">Af
+  
 
-        </div>
-      
-        <div class="relative w-100  mb4 bg-white">
-          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <div class="f7 helvetica ttu tracked">Erfaring</div>
-    <h1 class="f3 near-black">
-      <a href="https://www.kiils.dk/erfaring/sadan-bliver-du-ved-med-at-skrive-bedre-end-kunstig-intelligens/" class="link black dim">
-        Sådan bliver du ved med at skrive bedre end kunstig intelligens
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Jeg er til tider blevet kritiseret for at skrive for knapt.
-Andre mener mine sætninger er for korte.
-Eller at mine afsnit ikke er lange nok.
-Folk har sikkert ret i deres kritik.
-Men jeg er nu godt tilfreds med min måde at skrive på. Og jeg er ikke blevet mindre tilfreds efter at have arbejdet intenst med maskingenereret tekst det sidste halve år.
-For hold da op hvor laver GPT nogle lange afsnit.
-    </div>
-  </div>
+     <a href="/skribenter/lennart-kiil" class="link mid-gray fw6" rel="author">
+       Lennart kiil</a>
+
+  
 </div>
+      <hr class="ml0 mt4 mb2 mw-100 bb b--mid-gray">
+      <div>
+      
+      <time class="f7 dib tracked" datetime="2023-04-17T00:00:00Z">17/04/2023</time>
+      
+      
+        <span class="f7 dib tracked"> - 2 minutter </span>
+        <span class="f7 dib tracked"> - 383 ord</span>
+      
+      </div>
 
-        </div>
+
+    </header>
+
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Jeg har allerede skrevet om prompts, og lagt en række prompts til chatGPT ud her: <a href="https://www.kiils.dk/prompts/" target="_blank">Danske chatGPT prompts</a>
+</p>
+<p>Men ofte er det ikke nødvendigt med prompts.</p>
+<p>Så snart chatGPT har forstået sammenhængen og det overordnede sigte med en samtale, så kan det være tilstrækkeligt at give kommandoer.</p>
+<p>Men hvad er så forskellen? Lad od starte med at spørge chatGPT selv.</p>
+<hr>
+<p>As an AI language model, GPT (Generative Pre-training Transformer) allows for interactions between human users and machines. For users to perform actions, GPT requires input either in the form of a command or a prompt. Although these two terms may seem interchangeable, they have significant differences in their usage when it comes to interacting with GPT.</p>
+<p>A command is a set of specific instructions given to the AI model to perform a particular action. For instance, a command could be asking GPT to generate a small piece of text or answer questions. In this sense, a command does not require the user to input much information; it is a straightforward instruction for the AI model to follow. Commands are useful when the user wants to get a specific answer to a specific question or accomplish a specific task with their interaction with the language model.</p>
+<p>On the other hand, a prompt is a broader statement or question that provides context for the machine to generate a larger piece of information. Unlike a command, a prompt requires more information from the user as it is a more open- ended instruction. The user provides information, and the machine generates a response. Prompt requests in GPT may be more conversational in nature, and the answers may be more loosely based on the input given, as it is encouraged to give more variety in response rather than a singular fixed answer. Prompts also allow for diverse interactions between the user and the AI model, as the user can input more nuanced and comprehensive data that leads to a diverse range of answer potentials.</p>
+<p>In summary, commands are direct and specific instructions to the AI model, while prompts provide a prompt that enables the machine to generate more detailed responses based on the input provided. When using GPT, it is essential to understand the difference between these two inputs to optimize the user’s interaction with the language model.</p>
+<hr>
+<ul class="pa0">
+  
+</ul>
+<ul class="pa0">
+  
+   <li class="list">
+     <a href="/emner/kunstig-intelligens" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">kunstig intelligens</a>
+   </li>
+  
+</ul>
+<div class="mt6">
+        <script src="https://nocomment.fiatjaf.com/embed.js" id="nocomment"></script>
+        
+      </div>
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+
+    </section>
+
+    <section>
       
     </section>
-  </div>
-</div>
+
+
+
+
+
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
 
     </main>
     <footer class="pa3 bg-near-black bottom-0 w-100" role="contentinfo">

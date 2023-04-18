@@ -135,6 +135,20 @@
     
     , 
     {
+        "url": "/erfaring/kommandoer-eller-prompts-instruer-gpt-korrekt/",
+        "title": "Kommandoer eller prompts -  instruer GPT korrekt",
+        "content": "Jeg har allerede skrevet om prompts, og lagt en række prompts til chatGPT ud her: Danske chatGPT prompts Men ofte er det ikke nødvendigt med prompts.\nSå snart chatGPT har forstået sammenhængen og det overordnede sigte med en samtale, så kan det være tilstrækkeligt at give kommandoer.\nMen hvad er så forskellen? Lad od starte med at spørge chatGPT selv.\nAs an AI language model, GPT (Generative Pre-training Transformer) allows for interactions between human users and machines. For users to perform actions, GPT requires input either in the form of a command or a prompt. Although these two terms may seem interchangeable, they have significant differences in their usage when it comes to interacting with GPT.\nA command is a set of specific instructions given to the AI model to perform a particular action. For instance, a command could be asking GPT to generate a small piece of text or answer questions. In this sense, a command does not require the user to input much information; it is a straightforward instruction for the AI model to follow. Commands are useful when the user wants to get a specific answer to a specific question or accomplish a specific task with their interaction with the language model.\nOn the other hand, a prompt is a broader statement or question that provides context for the machine to generate a larger piece of information. Unlike a command, a prompt requires more information from the user as it is a more open- ended instruction. The user provides information, and the machine generates a response. Prompt requests in GPT may be more conversational in nature, and the answers may be more loosely based on the input given, as it is encouraged to give more variety in response rather than a singular fixed answer. Prompts also allow for diverse interactions between the user and the AI model, as the user can input more nuanced and comprehensive data that leads to a diverse range of answer potentials.\nIn summary, commands are direct and specific instructions to the AI model, while prompts provide a prompt that enables the machine to generate more detailed responses based on the input provided. When using GPT, it is essential to understand the difference between these two inputs to optimize the user’s interaction with the language model.\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/kunstig-intelligens/",
+        "title": "kunstig intelligens",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/skribenter/lennart-kiil/",
         "title": "Lennart Kiil",
         "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
@@ -180,13 +194,6 @@
         "url": "/erfaring/jeg-gav-chatgpt-adgang-til-min-dagbog-det-skulle-jeg-aldrig-have-gjort/",
         "title": "Jeg gav chatGPT adgang til min dagbog - det skulle jeg aldrig have gjort",
         "content": "Jeg skrev tidligere at GPT-modellerne ikke har adgang til vores indre verden.\nSådan bliver du ved med at skrive bedre end kunstig intelligens Men det kan man jo delvist give dem hvis man fører dagbog.\nJeg skriver selv dagbog \u0026mdash; ikke hver dag. Mere lidt sporadisk når jeg har tid.\nFor indeværende måned har jeg foreløbig lavet følgende:\n╭────┬───────────────╮ │ # │ name │ ├────┼───────────────┤ │ 0 │ 2023-04-02.md │ │ 1 │ 2023-04-03.md │ │ 2 │ 2023-04-04.md │ │ 3 │ 2023-04-05.md │ │ 4 │ 2023-04-06.md │ │ 5 │ 2023-04-07.md │ │ 6 │ 2023-04-08.md │ │ 7 │ 2023-04-09.md │ │ 8 │ 2023-04-10.md │ │ 9 │ 2023-04-13.md │ │ 10 │ 2023-04-14.md │ ╰────┴───────────────╯ Det er ufatteligt nemt at give chatGPT besked på at læse disse igennem og give et hurtigt referat:\ncat 2023-04-*.md | ai 'summarize'\nSvaret fra chatGPT bliver:\nThe writer goes on a bike ride with their mother, visits Nivå, participates in an egg race, sells some children\u0026rsquo;s bikes, and attends a REDACTED concert in Århus. Later they visit Århus harbor, have a visit from REDACTED, and have a Easter celebration with family in Kolding. REDACTED. Lastly, REDACTED has an asthma attack from laughing too hard with her friend at school.\nHver enkelt dagsnotat er skrevet på dansk. Og jeg kunne have brugt en dansk prompt for at få referatet på dansk.\nEller blot gjort sådan her\ncat 2023-04-*.md | ai 'summarize' | ai 'oversæt til dansk'\nDet væsentlige er at AI faktisk formår at samle det centrale i få ord og give et overblik over hvad der stod i dagbogen for den angivne tidsperiode.\nDet lidt mere problematiske er at openAI nu har lagret en del af min dagbog.\n"
-    }
-    
-    , 
-    {
-        "url": "/emner/kunstig-intelligens/",
-        "title": "kunstig intelligens",
-        "content": ""
     }
     
     , 
@@ -1545,6 +1552,13 @@
         "url": "/test/",
         "title": "",
         "content": "¶ Der er tre der er nrere\n"
+    }
+    
+    , 
+    {
+        "url": "/personas/",
+        "title": "Awesome ChatGPT Personas",
+        "content": "I OpenAI\u0026rsquo;s chatGPT bruges den indledende \u0026ldquo;system message\u0026rdquo; ofte til en prompt som opstiller et emne eller opgave for samtalen.\nHer forsøger jeg i stedet at påvirke chattens \u0026ldquo;personlighed\u0026rdquo; og samtalens skrivestil med en \u0026ldquo;persona\u0026rdquo;.\nSådan bruger du personaer i listen\nFind persona som passer til den stil du ønsker i din tekst Tilpas eventuelt med egne inputs ved at klikke på teksten Kopier prompt med saks og indsæt det i ny samtale i chatGPT "
     }
     
     , 

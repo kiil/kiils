@@ -135,6 +135,13 @@
     
     , 
     {
+        "url": "/en/personas/",
+        "title": "Awesome ChatGPT Personas",
+        "content": "Writing styles for chatGPT, use in initial \u0026ldquo;system message\u0026rdquo;.\n"
+    }
+    
+    , 
+    {
         "url": "/en/brands/",
         "title": "Brands",
         "content": ""

@@ -206,6 +206,27 @@
   
 </div>
     <h1 class="f3 near-black">
+      <a href="https://www.kiils.dk/erfaring/indholdstyper-soegeindeks-hugo/" class="link black dim">
+        Udeluk bestemte indholdstyper fra søgeindeks i Hugo
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Jeg ønskede ikke mine micro-blogging &ldquo;snippets&rdquo; som jeg vil bruge på LinkedIn, skulle &ldquo;forurene&rdquo; søgeindekset her på Kiils.
+Derfor skiftede jeg
+[ {{ range $index, $value := where .Site.Pages &#34;.Draft&#34; false }} {{ if $index }}, {{ end }} { &#34;url&#34;: &#34;{{ .RelPermalink }}&#34;, &#34;title&#34;: &#34;{{ .Title }}&#34;, &#34;content&#34;: {{ .Content | plainify | jsonify }} } {{ end }} ] ud med
+[ {{ range $index, $value := where ( where .
+    </div>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="relative w-100 w-30-l mb4 bg-white"><div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <div class="f7 helvetica ttu tracked">
+  
+</div>
+    <h1 class="f3 near-black">
       <a href="https://www.kiils.dk/erfaring/mail-henvendelse/" class="link black dim">
         Når man ringer til en potentiel kunde, og bliver bedt om at sende en mail.
       </a>
@@ -644,24 +665,6 @@ Men den tekst som betyder mest for mig selv, har jeg ingen data på.
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       I SEO-sprog nævnes ofte ankertekst, men hvad er det egentligt?
-    </div>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="relative w-100 w-30-l mb4 bg-white"><div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <div class="f7 helvetica ttu tracked">
-  
-</div>
-    <h1 class="f3 near-black">
-      <a href="https://www.kiils.dk/erfaring/tips-tricks/sorter-markdown-efter-overskrifter/" class="link black dim">
-        Sorter markdown dokument
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Sorter sektioner i markdown
     </div>
   </div>
 </div>

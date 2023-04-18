@@ -230,6 +230,27 @@ http get https://www.dr.dk/nyheder | query web -q &#39;h2 .dre-title-text &#39; 
   
 </div>
     <h1 class="f3 near-black">
+      <a href="https://www.kiils.dk/erfaring/kommandoer-eller-prompts-instruer-gpt-korrekt/" class="link black dim">
+        Kommandoer eller prompts -  instruer GPT korrekt
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Jeg har allerede skrevet om prompts, og lagt en række prompts til chatGPT ud her: Danske chatGPT prompts Men ofte er det ikke nødvendigt med prompts.
+Så snart chatGPT har forstået sammenhængen og det overordnede sigte med en samtale, så kan det være tilstrækkeligt at give kommandoer.
+Men hvad er så forskellen? Lad od starte med at spørge chatGPT selv.
+As an AI language model, GPT (Generative Pre-training Transformer) allows for interactions between human users and machines.
+    </div>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="relative w-100 w-30-l mb4 bg-white"><div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <div class="f7 helvetica ttu tracked">
+  
+</div>
+    <h1 class="f3 near-black">
       <a href="https://www.kiils.dk/erfaring/hvorfor-taler-chatgpt-som-mine-born/" class="link black dim">
         Hvorfor taler chatGPT som mine børn
       </a>
@@ -689,27 +710,6 @@ klar kommunikation kreativ skrivning korrekt dansk Den er tiltænkt tekster som 
   </div>
 </div>
 <div class="bg-white ph4 pv2 gray overflow-hidden link"><a href="/erfaring/virkemidler/dagligdagens-virkemidler/">Dagligdagens literære virkemidler</a></div>
-        </div>
-      
-        <div class="relative w-100 w-30-l mb4 bg-white"><div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <div class="f7 helvetica ttu tracked">
-  
-</div>
-    <h1 class="f3 near-black">
-      <a href="https://www.kiils.dk/erfaring/indholdstyper-soegeindeks-hugo/" class="link black dim">
-        Udeluk bestemte indholdstyper fra søgeindeks i Hugo
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Jeg ønskede ikke mine micro-blogging &ldquo;snippets&rdquo; som jeg vil bruge på LinkedIn, skulle &ldquo;forurene&rdquo; søgeindekset her på Kiils.
-Derfor skiftede jeg
-[ {{ range $index, $value := where .Site.Pages &#34;.Draft&#34; false }} {{ if $index }}, {{ end }} { &#34;url&#34;: &#34;{{ .RelPermalink }}&#34;, &#34;title&#34;: &#34;{{ .Title }}&#34;, &#34;content&#34;: {{ .Content | plainify | jsonify }} } {{ end }} ] ud med
-[ {{ range $index, $value := where ( where .
-    </div>
-  </div>
-</div>
-
         </div>
       
     </section>

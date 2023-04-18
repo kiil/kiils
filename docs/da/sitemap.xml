@@ -127,6 +127,26 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.kiils.dk/erfaring/kommandoer-eller-prompts-instruer-gpt-korrekt/</loc>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/emner/kunstig-intelligens/</loc>
+    <lastmod>2023-04-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/emner/kunstig-intelligens/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/emner/kunstig-intelligens/"
+                />
+  </url><url>
     <loc>https://www.kiils.dk/skribenter/lennart-kiil/</loc>
     <lastmod>2023-04-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -201,21 +221,6 @@
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/emner/kunstig-intelligens/</loc>
-    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/emner/kunstig-intelligens/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/emner/kunstig-intelligens/"
-                />
   </url><url>
     <loc>https://www.kiils.dk/emner/sprog/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
@@ -1227,6 +1232,20 @@
   </url><url>
     <loc>https://www.kiils.dk/test/</loc>
     <priority>0</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/personas/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/personas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/personas/"
+                />
   </url><url>
     <loc>https://www.kiils.dk/kunde/berlingske/</loc>
     <changefreq>monthly</changefreq>
