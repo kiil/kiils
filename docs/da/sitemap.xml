@@ -1238,20 +1238,6 @@
     <loc>https://www.kiils.dk/test/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://www.kiils.dk/personas/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/personas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/personas/"
-                />
-  </url><url>
     <loc>https://www.kiils.dk/kunde/berlingske/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1302,6 +1288,20 @@
                 rel="alternate"
                 hreflang="da"
                 href="https://www.kiils.dk/domains/folkets/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/personas/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/personas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/personas/"
                 />
   </url><url>
     <loc>https://www.kiils.dk/kunde/gentofte-hospital/</loc>
