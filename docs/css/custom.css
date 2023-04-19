@@ -17,6 +17,12 @@
 /*
 /* Dark mode END */
 
+
+h2>a {
+  text-decoration: none;
+}
+
+
 figure {
     margin-inline-start: 5px;
     margin-inline-end: 5px;
