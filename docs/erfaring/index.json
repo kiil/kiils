@@ -86,6 +86,13 @@
     
     , 
     {
+        "url": "/emner/censur/",
+        "title": "censur",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/tools/chatgpt/",
         "title": "ChatGPT",
         "content": "ChatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft.\nGPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er ChatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.\nModellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.\nDu kan finde inspiration til danske prompts her:\nDanske ChatGPT prompts "
@@ -109,6 +116,13 @@
     {
         "url": "/erfaring/",
         "title": "Erfaring",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/etik/",
+        "title": "etik",
         "content": ""
     }
     
