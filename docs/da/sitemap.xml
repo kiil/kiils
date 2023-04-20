@@ -53,7 +53,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/tools/chatgpt/</loc>
-    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -67,8 +67,13 @@
                 href="https://www.kiils.dk/tools/chatgpt/"
                 />
   </url><url>
+    <loc>https://www.kiils.dk/erfaring/chatgpt-har-en-uforbedrelig-beskidt-tankegang-her-er-beviset/</loc>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/emner/</loc>
-    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -83,7 +88,7 @@
                 />
   </url><url>
     <loc>https://www.kiils.dk/erfaring/</loc>
-    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -97,13 +102,13 @@
                 href="https://www.kiils.dk/erfaring/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/giv-chatgpt-en-mere-personlig-skrivestil-fire-eksempler/</loc>
-    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
+    <loc>https://www.kiils.dk/tools/find/</loc>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/</loc>
-    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -118,7 +123,7 @@
                 />
   </url><url>
     <loc>https://www.kiils.dk/emner/kunstig-intelligens/</loc>
-    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -133,7 +138,7 @@
                 />
   </url><url>
     <loc>https://www.kiils.dk/skribenter/lennart-kiil/</loc>
-    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -147,8 +152,23 @@
                 href="https://www.kiils.dk/skribenter/lennart-kiil/"
                 />
   </url><url>
+    <loc>https://www.kiils.dk/tools/sed/</loc>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/erfaring/striks-selvcensur-gor-gpt-modeller-dummere-end-de-behover-at-vaere/</loc>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/tools/shellgpt/</loc>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/skribenter/</loc>
-    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -162,8 +182,18 @@
                 href="https://www.kiils.dk/skribenter/"
                 />
   </url><url>
+    <loc>https://www.kiils.dk/erfaring/er-du-ved-at-opgive-kommandolinjen-fa-chatgpt-til-at-hjaelpe-dig/</loc>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/tools/terminal/</loc>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/tools/</loc>
-    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -176,6 +206,11 @@
                 hreflang="da"
                 href="https://www.kiils.dk/tools/"
                 />
+  </url><url>
+    <loc>https://www.kiils.dk/erfaring/giv-chatgpt-en-mere-personlig-skrivestil-fire-eksempler/</loc>
+    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/cases/</loc>
     <lastmod>2023-04-17T00:00:00+00:00</lastmod>
@@ -383,11 +418,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/tools/systemd/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/tools/terminal/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -653,11 +683,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/tools/fd/</loc>
-    <lastmod>2022-05-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/tools/find/</loc>
     <lastmod>2022-05-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

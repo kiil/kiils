@@ -6,18 +6,54 @@
     <description>Recent content in Tools on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Wed, 19 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>chatGPT</title>
+      <title>ChatGPT</title>
       <link>https://www.kiils.dk/tools/chatgpt/</link>
-      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/tools/chatgpt/</guid>
-      <description>chatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft.
-GPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er chatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.
+      <description>ChatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft.
+GPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er ChatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.
 Modellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.
 Du kan finde inspiration til danske prompts her:
-Danske chatGPT prompts </description>
+Danske ChatGPT prompts </description>
+    </item>
+    
+    <item>
+      <title>find</title>
+      <link>https://www.kiils.dk/tools/find/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/find/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sed</title>
+      <link>https://www.kiils.dk/tools/sed/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/sed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ShellGPT</title>
+      <link>https://www.kiils.dk/tools/shellgpt/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/shellgpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terminal</title>
+      <link>https://www.kiils.dk/tools/terminal/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/terminal/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -111,15 +147,6 @@ Danske chatGPT prompts </description>
     </item>
     
     <item>
-      <title>terminal</title>
-      <link>https://www.kiils.dk/tools/terminal/</link>
-      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/tools/terminal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>nushell</title>
       <link>https://www.kiils.dk/tools/nushell/</link>
       <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
@@ -170,15 +197,6 @@ Danske chatGPT prompts </description>
       <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/tools/fd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>find</title>
-      <link>https://www.kiils.dk/tools/find/</link>
-      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/tools/find/</guid>
       <description></description>
     </item>
     

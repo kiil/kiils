@@ -35,7 +35,7 @@
 
     <meta property="og:title" content="Information overload - lad kunstig intelligens hjælpe dig" />
 <meta property="og:description" content="Der er meget information og mange nyheder at forholde sig til.
-Du kan bruge chatGPT til at skabe bedre overblik.
+Du kan bruge ChatGPT til at skabe bedre overblik.
 Den metode som jeg vil vise her, består af to trin - første trin er at indhente de relevante data.
 Der bruger jeg nushell og følgende nushell plugin:
 https://github.com/nushell/nushell/tree/main/crates/nu_plugin_query På den måde giver:
@@ -60,7 +60,7 @@ http get https://www.dr.dk/nyheder | query web -q &#39;h2 .dre-title-text &#39; 
 
 <meta itemprop="name" content="Information overload - lad kunstig intelligens hjælpe dig">
 <meta itemprop="description" content="Der er meget information og mange nyheder at forholde sig til.
-Du kan bruge chatGPT til at skabe bedre overblik.
+Du kan bruge ChatGPT til at skabe bedre overblik.
 Den metode som jeg vil vise her, består af to trin - første trin er at indhente de relevante data.
 Der bruger jeg nushell og følgende nushell plugin:
 https://github.com/nushell/nushell/tree/main/crates/nu_plugin_query På den måde giver:
@@ -71,7 +71,7 @@ http get https://www.dr.dk/nyheder | query web -q &#39;h2 .dre-title-text &#39; 
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Information overload - lad kunstig intelligens hjælpe dig"/>
 <meta name="twitter:description" content="Der er meget information og mange nyheder at forholde sig til.
-Du kan bruge chatGPT til at skabe bedre overblik.
+Du kan bruge ChatGPT til at skabe bedre overblik.
 Den metode som jeg vil vise her, består af to trin - første trin er at indhente de relevante data.
 Der bruger jeg nushell og følgende nushell plugin:
 https://github.com/nushell/nushell/tree/main/crates/nu_plugin_query På den måde giver:
@@ -231,7 +231,7 @@ http get https://www.dr.dk/nyheder | query web -q &#39;h2 .dre-title-text &#39; 
     </header>
 
     <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>Der er meget information og mange nyheder at forholde sig til.</p>
-<p>Du kan bruge chatGPT til at skabe bedre overblik.</p>
+<p>Du kan bruge ChatGPT til at skabe bedre overblik.</p>
 <p>Den metode som jeg vil vise her, består af to trin - første trin er at indhente de relevante data.</p>
 <p>Der bruger jeg nushell og følgende nushell plugin:</p>
 <p><a href="https://github.com/nushell/nushell/tree/main/crates/nu_plugin_query" target="_blank">https://github.com/nushell/nushell/tree/main/crates/nu_plugin_query</a>
@@ -266,13 +266,13 @@ http get https://www.dr.dk/nyheder | query web -q &#39;h2 .dre-title-text &#39; 
 │ 25 │ Pogacar knuser, som forventet, alle andre i Amstel Gold Race                                 │
 │ 26 │ Dansk Folkepartis hovedbestyrelse har valgt ny næstformand                                   │
 ╰────┴──────────────────────────────────────────────────────────────────────────────────────────────╯
-</code></pre><p>Det er i sig selv ret kortfattet og giver et hurtigt overblik. Men chatGPT kan fortætte det yderligere.</p>
-<p>Jeg bruger så chatGPT gennem følgende bash-script:</p>
+</code></pre><p>Det er i sig selv ret kortfattet og giver et hurtigt overblik. Men ChatGPT kan fortætte det yderligere.</p>
+<p>Jeg bruger så ChatGPT gennem følgende bash-script:</p>
 <p><a href="https://github.com/nitefood/ai-bash-gpt" target="_blank">https://github.com/nitefood/ai-bash-gpt</a>
 </p>
-<p>Ved at benytte det script kan jeg lave &ldquo;pipelines&rdquo; - det vil sige jeg kan sende output fra den førnævnte kommando videre som input til chatGPT som nu har forkortelsen <code>ai</code>. Sådan her:</p>
+<p>Ved at benytte det script kan jeg lave &ldquo;pipelines&rdquo; - det vil sige jeg kan sende output fra den førnævnte kommando videre som input til ChatGPT som nu har forkortelsen <code>ai</code>. Sådan her:</p>
 <pre tabindex="0"><code>http get https://www.dr.dk/nyheder | query web -q &#39;h2 .dre-title-text &#39; | ai &#39;giv et kort referat&#39;
-</code></pre><p>Og chatGPT returnerer</p>
+</code></pre><p>Og ChatGPT returnerer</p>
 <pre tabindex="0"><code>  En 32-årig mand er varetægtsfængslet, regeringen vil inddrage Færøerne i forsvarsforliget, presset på producenternes
   priser aftager, Sofie Carsten Nielsen taler om at forlade dansk politik, busser erstatter tog på Sjælland pga.      
   signalproblemer, SAS-aktien stiger, støtten til små lufthavne skal rettes, Sverige holder stor militærøvelse, kemisk
@@ -281,8 +281,8 @@ http get https://www.dr.dk/nyheder | query web -q &#39;h2 .dre-title-text &#39; 
   AGFs gode form, norsk ambassadørbolig i Sudan ramt af granat, 25.000 nedlægger arbejdet i Norge, FC København topper
   Superligaen, Pogacar vinder Amstel Gold Race, Dansk Folkepartis hovedbestyrelse får ny næstformand.                           
 </code></pre><p>Da der i forvejen er tale om overskrifter, så er det ikke meget vundet ved den øvelse.</p>
-<p>Men hvad kan chatGPT så bruges til når dit input er i overskriftsform?</p>
-<p>Med <code>ai -c</code> kan jeg bede chatGPT om at fortsætte med at forholde sig til det første input.</p>
+<p>Men hvad kan ChatGPT så bruges til når dit input er i overskriftsform?</p>
+<p>Med <code>ai -c</code> kan jeg bede ChatGPT om at fortsætte med at forholde sig til det første input.</p>
 <p>Så giver jeg et nyt prompt</p>
 <p><code>sorter efter sag</code></p>
 <p>Og får resultatet:</p>
@@ -326,7 +326,7 @@ http get https://www.dr.dk/nyheder | query web -q &#39;h2 .dre-title-text &#39; 
                                                                                                                     
   • 32-årig mand varetægtsfængsles frem til 11. maj                                                                   
   • 32-årig mand fremstilles i grundlovsforhør klokken 11
-</code></pre><p>Resultatet viser at chatGPT stadig har nogle mangler hvad abstraktionsevne angår. Det kunne være interessant at se om GPT-4 klarede kategoriseringsopgaven bedre.</p>
+</code></pre><p>Resultatet viser at ChatGPT stadig har nogle mangler hvad abstraktionsevne angår. Det kunne være interessant at se om GPT-4 klarede kategoriseringsopgaven bedre.</p>
 <p>Det er nemt at indsnævre resultaterne yderligere:</p>
 <p><code>kun sport</code> giver så</p>
 <pre tabindex="0"><code>  Her er alle sportsrelaterede overskrifter:                                                                          
@@ -570,7 +570,7 @@ http get https://www.dr.dk/nyheder | query web -q &#39;h2 .dre-title-text &#39; 
                         <ul class="list pl1">
                         <li class="f7">
                         <a href="/tools/chatgpt/" class="hover-white no-underline white-60">
-                            <span>chatGPT</span>
+                            <span>ChatGPT</span>
                         </a>
                         </li>
                       </ul>
