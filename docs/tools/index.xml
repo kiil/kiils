@@ -6,11 +6,11 @@
     <description>Recent content in Tools on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Thu, 20 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ChatGPT</title>
       <link>https://www.kiils.dk/tools/chatgpt/</link>
-      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/tools/chatgpt/</guid>
       <description>ChatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft.
@@ -18,6 +18,15 @@ GPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er ChatGPT anvende
 Modellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.
 Du kan finde inspiration til danske prompts her:
 Danske ChatGPT prompts </description>
+    </item>
+    
+    <item>
+      <title>Pandoc</title>
+      <link>https://www.kiils.dk/tools/pandoc/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/pandoc/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -80,15 +89,6 @@ Danske ChatGPT prompts </description>
       <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/tools/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pandoc</title>
-      <link>https://www.kiils.dk/tools/pandoc/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/tools/pandoc/</guid>
       <description></description>
     </item>
     

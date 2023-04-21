@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pandoc on Kiils</title>
+    <title>Pandoc on Kiils</title>
     <link>https://www.kiils.dk/tools/pandoc/</link>
-    <description>Recent content in pandoc on Kiils</description>
+    <description>Recent content in Pandoc on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/pandoc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/pandoc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spar tid med kunstig intelligens - sammenfat et word dokument</title>
+      <link>https://www.kiils.dk/erfaring/spar-tid-med-kunstig-intelligens-sammenfat-et-word-dokument/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/spar-tid-med-kunstig-intelligens-sammenfat-et-word-dokument/</guid>
+      <description>Når man har to børn, er der masser af kommunikation at forholde sig til.
+Her viser jeg hvordan man lynhurtigt skaber et overblik.
+Jeg fik et langt dokument på flere sider om hvad der foregår på et af mine børns fritidshjem.
+Men med en enkelt kommando reducerer jeg min læseopgave til
+Nyhedsbrevet fra REDACTED i april 2023 introducerer det fantastiske udeliv med væksthuse, hvor børnene kan fordybe sig i lege, projekter, aktiviteter og undervisning i natur.</description>
+    </item>
+    
     <item>
       <title>Ekstra værktøj til poet-teknikken</title>
       <link>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-9-tooling/</link>
