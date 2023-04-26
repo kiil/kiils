@@ -86,9 +86,23 @@
     
     , 
     {
-        "url": "/tools/chatgpt/",
-        "title": "ChatGPT",
-        "content": "ChatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft.\nGPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er ChatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.\nModellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.\nDu kan finde inspiration til danske prompts her:\nDanske ChatGPT prompts "
+        "url": "/cases/24syv/",
+        "title": "24syv",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/cases/",
+        "title": "Cases",
+        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/drift/",
+        "title": "drift",
+        "content": ""
     }
     
     , 
@@ -107,9 +121,9 @@
     
     , 
     {
-        "url": "/erfaring/hvorfor-taler-chatgpt-som-mine-born/",
-        "title": "Hvorfor taler ChatGPT som mine børn",
-        "content": "Her et brudstykke fra en nylig snak med ChatGPT:\nSelvfølgelig, her er et eksempel på en kodeblok med Python-kode og kommentarer i markdown-format:\n# Dette program udskriver \u0026quot;Hej, verden!\u0026quot; på skærmen print(\u0026quot;Hej, verden!\u0026quot;) # Beregner summen af to tal og udskriver resultatet tal1 = 5 tal2 = 3 sum = tal1 + tal2 print(\u0026quot;Summen af\u0026quot;, tal1, \u0026quot;og\u0026quot;, tal2, \u0026quot;er\u0026quot;, sum) Her er kommentarerne både over og under den pågældende kode, i overensstemmelse med det, du requestede. Jeg håber, dette eksempel kan hjælpe dig med din formatering i markdown! Læg endelig en besked, hvis du har brug for hjælp til noget andet.\nJeg bemærker at ChatGPT skriver \u0026ldquo;du requestede\u0026rdquo;\nDet minder i betænkelig grad om den måde mine børn trækker engelske ord ind i det danske sprog på.\nMon ikke der er visse paralleller mellem den måde som ChatGPT trænes på, og den måde som børn opbygger deres sproglige evner på?\nNaturligt sprog er ret pragmatisk.\nVi blander ordene. Og vi bygger sammenhænge op mellem dem.\nDet er både en social proces, men også noget som foregår i vores indre.\nAt arbejde med kunstig intelligens og især de store sprogmodeller, er derfor også at øge bevidstheden om sit eget almindelige sprog.\nSom når man beskæftiger sig med et fremmedsprog, her lærer man også en del om sit eget undervejs.\nOg foreløbig har det været en stor personlig gevinst for mig ved at sætte mig ind i hvordan kunstig intelligens fungerer for tiden.\nVekselvirkningen mellem det maskinelle og det menneskelige er frugtbar, og lærerig.\n"
+        "url": "/erfaring/jeg-radgav-24syv-men-fik-aldrig-betaling-for-det-ma-jeg-skrive-dem-i-min-porfolio/",
+        "title": "Jeg rådgav 24syv men fik aldrig betaling for det - må jeg skrive dem i min porfolio?",
+        "content": "Sidste år skulle jeg til møde i 24syv med Simon Andersen med eventuelt henblik på en værts-tjans på radio-stationen.\nDet var i hvert fald den opfattelse som jeg havde fået ud fra vores chat op til mødet.\nJeg møder op, og ud over Simon Andersen er stationens programchef tilstede.\nVi går ind på stationenes glasbur af et hjørnekontor. Kontoret ligner til forveksling det sted i zoo hvor de gamle store han-gorillaer holdes indespærret. I sikker afstand af det øvrige personale.\n\u0026ndash; Det er nok meget godt i disse tider, men den tanke holder jeg i situationen for mig selv.\nSimon lukker døren. Vi er nu tre mænd alene i glasburet.\nJeg hilser på programchefen, og så tager Simon ordet.\nTil min overraskelse lægger Simon Andersen ud med at fortælle om de mange millioner som stationen får i tilskud fra staten. Jeg studser lidt over relevansen af den information.\nEr det meningen jeg skal blive imponeret over det store tal?\nVi snakker også lidt løst og fast - nok mest løst - om min baggrund. Og Simon Andersen er god til at stille spørgsmål.\nMen den egentlige eventuelle tjans til mig som vært for et program de havde haft i tankerne på et tidspunkt, blev der ikke spildt mange ord på.\nSimon tager i stedet sin notesbog frem og begynder at udfritte mig:\nOm jeg har ideer til dit og dat.\nOm hvad stationen kan gøre for at opnå mere gennemslagskraft.\nOm jeg har ideer til programmer og værter.\nJeg gå med på legen. Jeg giver mit besyv med. Kommer med forslag. Lufter konkrete forslag.\nSimon noterer flittigt i sin lille bog.\nDa jeg forsøger at dreje samtalen tilbage på tjansen som studievært, kommer svaret fra Simon i form af et retorisk spørgsmål gående på mine evner til overhovedet at holde fokus på et enkelt emne.\nHer forundres jeg.\nDet var Simon selv der drejede samtalen over på noget meget bredere end en specifik programfunktion. Og når jeg så leger med, skal jeg høre for en mangel på evne til at holde mig til emnet.\nJeg kunne også vælge at tolke det på en anden måde: Simon var mere interesseret i mine generelle indtryk og råd end han nogensinde for alvor havde haft mig i tankerne i en rolle som studievært.\nAnyway, vi går tilbage til snakken om det mere generelle, som Simon faktisk får gjort mere konkret igen:\nHvem kunne du forestille dig som vært i det program?\nDen slags spørgsmål.\nJeg kommer med nogle bud på værter. Nogle af buddene afvises umiddelbart med henvisning til det ene eller andet praktiske forhold.\nVi snakker også om at 24syv ikke har opnået samme skarphed - og opfattes som langt mere \u0026ldquo;ufarlig\u0026rdquo; end det gamle radio24syv. Her giver jeg igen nogle råd.\nMødet trækker noget ud, og nogenlunde samtidig melder udmattelsen sig hos alle parter. Det er i hvert fald mit indtryk. Så vi takker af, og jeg får den sædvanlige smøre om at de vender tilbage.\nDet gør de ikke.\nMen til gangæld kan jeg se at de har succes med mine råd. Helt ned på det plan at de tager værter ind som jeg foreslog på mødet.\nSå mit spørgsmål er nu:\nEgentligt har jeg jo leveret varen. Og 24syv har fået ydelsen. Der er bare ikke blevet faktureret noget.\nMen jeg har jo stadig brugt tiden på at rådgive og konsultere. Jeg har stadig gjort mine overvejelser på 24syvs vegne, og de har succes med mine ideer.\nMå jeg så godt skrive dem på min kundeliste selvom de aldrig har betalt en øre for det?\n"
     }
     
     , 
@@ -117,13 +131,6 @@
         "url": "/",
         "title": "Kiils",
         "content": " Stærke tekster til en digital tidsalder "
-    }
-    
-    , 
-    {
-        "url": "/emner/kunstig-intelligens/",
-        "title": "kunstig intelligens",
-        "content": ""
     }
     
     , 
@@ -142,6 +149,27 @@
     
     , 
     {
+        "url": "/tools/chatgpt/",
+        "title": "ChatGPT",
+        "content": "ChatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft.\nGPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er ChatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.\nModellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.\nDu kan finde inspiration til danske prompts her:\nDanske ChatGPT prompts "
+    }
+    
+    , 
+    {
+        "url": "/erfaring/hvorfor-taler-chatgpt-som-mine-born/",
+        "title": "Hvorfor taler ChatGPT som mine børn",
+        "content": "Her et brudstykke fra en nylig snak med ChatGPT:\nSelvfølgelig, her er et eksempel på en kodeblok med Python-kode og kommentarer i markdown-format:\n# Dette program udskriver \u0026quot;Hej, verden!\u0026quot; på skærmen print(\u0026quot;Hej, verden!\u0026quot;) # Beregner summen af to tal og udskriver resultatet tal1 = 5 tal2 = 3 sum = tal1 + tal2 print(\u0026quot;Summen af\u0026quot;, tal1, \u0026quot;og\u0026quot;, tal2, \u0026quot;er\u0026quot;, sum) Her er kommentarerne både over og under den pågældende kode, i overensstemmelse med det, du requestede. Jeg håber, dette eksempel kan hjælpe dig med din formatering i markdown! Læg endelig en besked, hvis du har brug for hjælp til noget andet.\nJeg bemærker at ChatGPT skriver \u0026ldquo;du requestede\u0026rdquo;\nDet minder i betænkelig grad om den måde mine børn trækker engelske ord ind i det danske sprog på.\nMon ikke der er visse paralleller mellem den måde som ChatGPT trænes på, og den måde som børn opbygger deres sproglige evner på?\nNaturligt sprog er ret pragmatisk.\nVi blander ordene. Og vi bygger sammenhænge op mellem dem.\nDet er både en social proces, men også noget som foregår i vores indre.\nAt arbejde med kunstig intelligens og især de store sprogmodeller, er derfor også at øge bevidstheden om sit eget almindelige sprog.\nSom når man beskæftiger sig med et fremmedsprog, her lærer man også en del om sit eget undervejs.\nOg foreløbig har det været en stor personlig gevinst for mig ved at sætte mig ind i hvordan kunstig intelligens fungerer for tiden.\nVekselvirkningen mellem det maskinelle og det menneskelige er frugtbar, og lærerig.\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/kunstig-intelligens/",
+        "title": "kunstig intelligens",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/emner/sprog/",
         "title": "Sprog",
         "content": ""
@@ -152,13 +180,6 @@
         "url": "/tools/",
         "title": "Tools",
         "content": ""
-    }
-    
-    , 
-    {
-        "url": "/cases/",
-        "title": "Cases",
-        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
     }
     
     , 
