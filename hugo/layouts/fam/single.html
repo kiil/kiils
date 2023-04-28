@@ -1,0 +1,68 @@
+{{ define "header" }}
+   {{/* We can override any block in the baseof file be defining it in the template */}}
+  {{ partial "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ $section := .Site.GetPage "section" .Section }}
+  <article class="justify-between pa4-l">
+
+    <header class="mt4 w-100">
+      <h1 class="f1 center avenir tc mb4 mt4">
+        {{- .Title -}}
+      </h1>
+      </div>
+</header>
+
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l">
+      {{- .Content -}}
+    </section>
+
+
+</article>
+
+<script>
+  const tidsstempel = Date.now();
+  const dato = new Date(tidsstempel);
+  //const uge = dato.getWeek();
+  //const lige = uge % 2;
+  const ugedag = dato.getDay();
+  //const timen = dato.getHour();
+
+
+  //if (lige == 0 && ugedag > 4) { alert("Lennart har weekend\n") }
+  //if (lige != 0 && ugedag > 4) { alert("Camilla har weekend\n") }
+
+  if (ugedag == 1 /* && timen < 20 */ ) { alert(`
+Olivia skolefri 13:30 - skal til Ragnarok 16:15
+
+Alexander skolefri 14:15 - skal til fodbold 18:00
+`)}
+
+  if (ugedag == 2 /* && timen < 20 */ ) { alert(`Begge skolefri kl 13:00
+
+I dag skal Alexander til badminton
+
+`)}
+
+  if (ugedag == 3 /* && timen < 20 */ ) { alert(`
+Alexander skolefri 15:00 - fodbold 17:00
+
+Olivia skolefri 14:15
+`)}
+
+  if (ugedag == 4 /* && timen < 20 */ ) { alert(`
+Alexander skolefri 13:45 - badminton
+
+Olivia skolefri 13:00
+`)}
+
+  if (ugedag == 5 /* && timen < 20 */ ) { alert(`Begge skolefri 13:30
+Alexander skoleidræt
+
+Olivia skal til gymnastik efter skole
+`)}
+
+</script>
+
+{{ end }}
