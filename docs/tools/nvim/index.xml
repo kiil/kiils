@@ -6,7 +6,16 @@
     <description>Recent content in nvim on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Fri, 28 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/nvim/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/nvim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>En simpel redaktionel arbejdsgang med GPT</title>
+      <link>https://www.kiils.dk/erfaring/en-simpel-redaktionel-arbejdsgang-med-gpt/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/en-simpel-redaktionel-arbejdsgang-med-gpt/</guid>
+      <description>&amp;#39;Please write 7 paragraphs about classic cars from 1950 to 1960&amp;#39; | gpt --endpiont=completions --role=skribent | gpt --endpiont=edits --role=ombryder | gpt --endpiont=edits --role=redaktør | trans --brief en:da | gpt --endpiont=edits --role=korrekturlæser | slb | nvim - { &amp;#34;name&amp;#34;: &amp;#34;skribent&amp;#34;, &amp;#34;expecting&amp;#34;: &amp;#34;Lucid writing&amp;#34;, &amp;#34;variables&amp;#34;: null, &amp;#34;role&amp;#34;: &amp;#34;You are a copy writer. Based on my input you must&amp;#34; } Hver | kaldes en pipe, et rør, som sender teksten videre gennem de forskellige led i kæden.</description>
+    </item>
+    
     <item>
       <title>Hvad er AGI</title>
       <link>https://www.kiils.dk/erfaring/hvad-er-agi/</link>

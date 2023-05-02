@@ -57,6 +57,21 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.kiils.dk/cases/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/cases/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/cases/"
+                />
+  </url><url>
     <loc>https://www.kiils.dk/tools/chatgpt/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -87,6 +102,11 @@
                 href="https://www.kiils.dk/emner/"
                 />
   </url><url>
+    <loc>https://www.kiils.dk/erfaring/en-simpel-redaktionel-arbejdsgang-med-gpt/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/erfaring/danmarks-mest-rutinerede-redaktor-anmelder-chatgpt/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -107,6 +127,11 @@
                 href="https://www.kiils.dk/erfaring/"
                 />
   </url><url>
+    <loc>https://www.kiils.dk/emner/finansiering/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -121,6 +146,11 @@
                 hreflang="da"
                 href="https://www.kiils.dk/"
                 />
+  </url><url>
+    <loc>https://www.kiils.dk/cases/klimaleksikon/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/emner/kunstig-intelligens/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
@@ -156,6 +186,11 @@
                 hreflang="da"
                 href="https://www.kiils.dk/skribenter/lennart-kiil/"
                 />
+  </url><url>
+    <loc>https://www.kiils.dk/tools/nvim/</loc>
+    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/emner/redigering/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
@@ -202,37 +237,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/cases/</loc>
-    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/cases/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/cases/"
-                />
-  </url><url>
-    <loc>https://www.kiils.dk/emner/finansiering/</loc>
-    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.kiils.dk/erfaring/hvad-er-agi/</loc>
-    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/cases/klimaleksikon/</loc>
-    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/tools/nvim/</loc>
     <lastmod>2023-04-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

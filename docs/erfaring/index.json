@@ -93,6 +93,13 @@
     
     , 
     {
+        "url": "/cases/",
+        "title": "Cases",
+        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
+    }
+    
+    , 
+    {
         "url": "/tools/chatgpt/",
         "title": "ChatGPT",
         "content": "ChatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft.\nGPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er ChatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.\nModellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.\nDu kan finde inspiration til danske prompts her:\nDanske ChatGPT prompts "
@@ -103,6 +110,13 @@
         "url": "/emner/",
         "title": "Emner",
         "content": "Emner i det arbejde Kiils laver\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaring/en-simpel-redaktionel-arbejdsgang-med-gpt/",
+        "title": "En simpel redaktionel arbejdsgang med GPT",
+        "content": "\u0026#39;Please write 7 paragraphs about classic cars from 1950 to 1960\u0026#39; | gpt --endpiont=completions --role=skribent | gpt --endpiont=edits --role=ombryder | gpt --endpiont=edits --role=redaktør | trans --brief en:da | gpt --endpiont=edits --role=korrekturlæser | slb | nvim - { \u0026#34;name\u0026#34;: \u0026#34;skribent\u0026#34;, \u0026#34;expecting\u0026#34;: \u0026#34;Lucid writing\u0026#34;, \u0026#34;variables\u0026#34;: null, \u0026#34;role\u0026#34;: \u0026#34;You are a copy writer. Based on my input you must\u0026#34; } Hver | kaldes en pipe, et rør, som sender teksten videre gennem de forskellige led i kæden.\nsgpt \u0026ndash;role=cw\n"
     }
     
     , 
@@ -121,9 +135,23 @@
     
     , 
     {
+        "url": "/emner/finansiering/",
+        "title": "Finansiering",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/",
         "title": "Kiils",
         "content": " Stærke tekster til en digital tidsalder "
+    }
+    
+    , 
+    {
+        "url": "/cases/klimaleksikon/",
+        "title": "Klimaleksikon",
+        "content": "Her i 2023 fylder Klimaleksikon 15 år!\nKlimaleksikon er dermed Danmarks bedste og længstlevende side om klima .\nSiden er et samarbejde mellem mig og to andre naturfagsformidlere, Thomas Hesselberg og Mikkel Houmøller. Siden indeholder omkring 100 opslag på centrale emner inden for klima og klarer sig enormt godt i google-søgninger.\nSiden holdes løbende opdateret, og hundredetusinder af børn og unge har lært om klima og energi på siden.\nSidens brugere er overvejende børn i folkeskolens ældste klasser og unge på ungdomsuddannelserne.\nLærerne bruger aktivt Klimaleksikon i undervisningen, det ses blandt andet af de mange henvisninger fra diverse undervisningsplatforme:\nDesuden ser vi at Klimaleksikon hovedsageligt finder anvendelse inden for den almindelige undervisningstid:\nDer er en overvægt af piger hvilket er en smule atypisk for en side som i bund og grund er naturvidenskabeligt orienteret og skabt af naturfagsformidlere.\nMen det viser i hvert fald at interessen i naturvidenskab og teknologi er der fra den kant også når det overordnede emne blot er vedkommende nok.\nOpslagene, som er kerneindholdet på siden, er naturligvis skrevet i et tilgængeligt sprog som passer til målgruppen af unge mennesker. Men mange granvoksne har skam også glæde af siden. På en række af opslagene har vi nederst spørgsmål, som brugeren kan besvare og dermed få en fornemmelse af om man fået fat i de væsentligste oplysninger i teksten ovenfor.\nSiden er strengt apolitisk og faktuelt baseret. Det er en aftale jeg selv er glad for, da der er en stor lettelse i at være involveret i noget som er ent fakta-orienteret. Jeg nyder virkelig at have et frirum for politik og har derfor meget let ved at adskille Klimaleksikon fra mit øvrige virke.\n"
     }
     
     , 
@@ -145,6 +173,13 @@
         "url": "/skribenter/lennart-kiil/",
         "title": "Lennart Kiil",
         "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
+    }
+    
+    , 
+    {
+        "url": "/tools/nvim/",
+        "title": "nvim",
+        "content": ""
     }
     
     , 
@@ -184,37 +219,9 @@
     
     , 
     {
-        "url": "/cases/",
-        "title": "Cases",
-        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
-    }
-    
-    , 
-    {
-        "url": "/emner/finansiering/",
-        "title": "finansiering",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/erfaring/hvad-er-agi/",
         "title": "Hvad er AGI",
         "content": "AGI står for \u0026ldquo;Artificial General Intelligence\u0026rdquo; eller \u0026ldquo;Generel Kunstig Intelligens\u0026rdquo; på dansk. Det betyder at en AI er i stand til at udføre tænkningsopgaver, som mennesker kan udføre og kan være lige så kreative, fleksible og selvstændige som et menneske. Agi er endnu ikke helt udviklet, og forskere arbejder stadig på at skabe en AI, der kan tænke og lære på samme måde som en person. Agi vil have mange applikationer i forskellige områder af samfundet, herunder medicin, teknologi, produktion, transport, finansielle tjenester og mange andre.\nDer er flere AI-teknologier, der anses for at være lovende i forhold til at opnå AGI. Nogle af de mest lovende teknologier inkluderer:\nDyb læring: Dette er en teknologi, der bruger neurale netværk til at lære fra store mængder data og forbedre sig selv over tid. Dyb læring har allerede vist sig at være effektiv til at løse komplekse problemer, såsom billedgenkendelse og talegenkendelse.\nGenerative Adversarial Networks (GANs): Dette er en teknologi, der bruger to neurale netværk til at generere realistiske billeder, lyde eller andre data. GANs kan bruges til at skabe realistiske simuleringer af den virkelige verden, hvilket kan være nyttigt i udviklingen af AGI.\nReinforcement Learning: Dette er en teknologi, der bruger en belønningsbaseret tilgang til at lære. En AI-agent lærer ved at udføre handlinger og modtage belønninger eller straffe baseret på resultaterne af disse handlinger. Reinforcement learning kan bruges til at lære en AI-agent at udføre komplekse opgaver,\nAGI står for \u0026ldquo;Artificial General Intelligence\u0026rdquo; på engelsk, hvilket på dansk kan oversættes til \u0026ldquo;Almen Kunstig Intelligens\u0026rdquo;. AGI refererer til en form for kunstig intelligens, der er i stand til at udføre en bred vifte af intellektuelle opgaver på samme niveau som et menneske. AGI er stadig under udvikling og er ikke fuldt udviklet endnu.\n"
-    }
-    
-    , 
-    {
-        "url": "/cases/klimaleksikon/",
-        "title": "Klimaleksikon",
-        "content": "Her i 2023 fylder Klimaleksikon 15 år!\nKlimaleksikon er dermed Danmarks bedste og længstlevende side om klima .\nSiden er et samarbejde mellem mig og to andre naturfagsformidlere, Thomas Hesselberg og Mikkel Houmøller. Siden indeholder omkring 100 opslag på centrale emner inden for klima og klarer sig enormt godt i google-søgninger.\nSiden holdes løbende opdateret, og hundredetusinder af børn og unge har lært om klima og energi på siden.\nSidens brugere er overvejende børn i folkeskolens ældste klasser og unge på ungdomsuddannelserne.\nLærerne bruger aktivt Klimaleksikon i undervisningen, det ses blandt andet af de mange henvisninger fra diverse undervisningsplatforme:\nDesuden ser vi at Klimaleksikon hovedsageligt finder anvendelse inden for den almindelige undervisningstid:\nDer er en overvægt af piger hvilket er en smule atypisk for en side som i bund og grund er naturvidenskabeligt orienteret og skabt af naturfagsformidlere.\nMen det viser i hvert fald at interessen i naturvidenskab og teknologi er der fra den kant også når det overordnede emne blot er vedkommende nok.\nOpslagene, som er kerneindholdet på siden, er naturligvis skrevet i et tilgængeligt sprog som passer til målgruppen af unge mennesker. Men mange granvoksne har skam også glæde af siden. På en række af opslagene har vi nederst spørgsmål, som brugeren kan besvare og dermed få en fornemmelse af om man fået fat i de væsentligste oplysninger i teksten ovenfor.\nSiden er strengt apolitisk og faktuelt baseret. Det er en aftale jeg selv er glad for, da der er en stor lettelse i at være involveret i noget som er ent fakta-orienteret. Jeg nyder virkelig at have et frirum for politik og har derfor meget let ved at adskille Klimaleksikon fra mit øvrige virke.\n"
-    }
-    
-    , 
-    {
-        "url": "/tools/nvim/",
-        "title": "nvim",
-        "content": ""
     }
     
     , 
