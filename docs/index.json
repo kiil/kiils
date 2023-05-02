@@ -86,6 +86,13 @@
     
     , 
     {
+        "url": "/tools/autogpt/",
+        "title": "AutoGPT",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/tools/chatgpt/",
         "title": "ChatGPT",
         "content": "ChatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft.\nGPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er ChatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.\nModellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.\nDu kan finde inspiration til danske prompts her:\nDanske ChatGPT prompts "
@@ -128,6 +135,13 @@
     
     , 
     {
+        "url": "/tools/langchain/",
+        "title": "langchain",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/skribenter/lennart-kiil/",
         "title": "Lennart Kiil",
         "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
@@ -159,6 +173,13 @@
         "url": "/tools/",
         "title": "Tools",
         "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaring/er-du-traet-af-aula-lad-aulagpt-klare-kommunikationen/",
+        "title": "Udvikl AulaGPT og bliv en levende legende",
+        "content": "Er du træt af Aula?\nSå er du ikke alene.\nMen problemet med Aula er ikke at Aula er dårlig software. Problemet er det underliggende problem som Aula ikke kan løse. Men prøver på at løse.\nVi lever i en tid med mange beskeder og meget kommunikation og hvor alting skal stemmes af med alt og alle.\nMeget af det er kedeligt assistentarbejde nøjagtig af den type som skal klares af en kunstig intelligens i stedet for at du spilder din dyrebare tid på det.\nJeg skrev for en uges tid siden: Spar tid med kunstig intelligens - sammenfat et word dokument I den artikel gav jeg et eksempel hvor jeg brugte ChatGPT til at læse et nyhedsbrev fra fritidshjemmet og give mig en sammenfatning over det væsentligste indhold.\nMen med værktøjer som langchain og AutoGPT kan man gå langt videre.\nDet er for så vidt intet i vejen for at nogle udviklere skaber AulaGPT.\nAulaGPT er en app som på dine vegne kan logge på Aula og læse beskeder og svare på dem for dig, så du ikke selv behøver at gøre det.\nAulaGPT kan også tage vigtige beskeder som kræver svar fra dig, og underrette dig om disse. Og den kan finde begivenheder på Aula og lægge dem i din kalender.\nAulaGPT kan give dig en liste over ugens lektier i en langt mere overskuelig form end meebook eller meebooks integration med Aula.\nAulaGPT kan endda sortere informationen i hvad som er relevant for dig, og hvad som er relevant for dine børn \u0026ndash; og hvad som egentligt slet ikke er relevant for nogen.\nTeknologien til at skabe en sådan app foreligger allerede.\nJeg har ikke undersøgt om Aula faktisk har en API, men det ville naturligvis gøre opgaven med at skabe AulaGPT betydeligt mere overkommelig, end hvis AulaGPT skal gå gennem samme web-interface som menneskelige brugere.\nEfterhånden som vi bliver mere og mere oversvømmet med information, vil kunstig intelligens kunne hjælpe os med at sortere i den og træffe beslutninger på vores vegne.\nDen udvikler som skaber AulaGPT vil blive hædret og hyldet af alle forældre og blive en levende legende.\nHvad venter du på?\n"
     }
     
     , 
