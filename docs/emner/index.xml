@@ -6,22 +6,49 @@
     <description>Recent content in Emner on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/emner/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/emner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>kunstig intelligens</title>
+      <link>https://www.kiils.dk/emner/kunstig-intelligens/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/kunstig-intelligens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redigering</title>
+      <link>https://www.kiils.dk/emner/redigering/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/redigering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skrivning</title>
+      <link>https://www.kiils.dk/emner/skrivning/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/skrivning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>finansiering</title>
+      <link>https://www.kiils.dk/emner/finansiering/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/finansiering/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>drift</title>
       <link>https://www.kiils.dk/emner/drift/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/emner/drift/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kunstig intelligens</title>
-      <link>https://www.kiils.dk/emner/kunstig-intelligens/</link>
-      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/emner/kunstig-intelligens/</guid>
       <description></description>
     </item>
     
@@ -49,15 +76,6 @@
       <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/emner/etik/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>finansiering</title>
-      <link>https://www.kiils.dk/emner/finansiering/</link>
-      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/emner/finansiering/</guid>
       <description></description>
     </item>
     
@@ -233,15 +251,6 @@
     </item>
     
     <item>
-      <title>Skrivning</title>
-      <link>https://www.kiils.dk/emner/skrivning/</link>
-      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/emner/skrivning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>CLI</title>
       <link>https://www.kiils.dk/emner/cli/</link>
       <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
@@ -283,15 +292,6 @@
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/emner/rubrikker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>redigering</title>
-      <link>https://www.kiils.dk/emner/redigering/</link>
-      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/emner/redigering/</guid>
       <description></description>
     </item>
     
