@@ -121,13 +121,6 @@
     
     , 
     {
-        "url": "/cases/klimaleksikon/",
-        "title": "Klimaleksikon",
-        "content": "Her i 2023 fylder Klimaleksikon 15 år!\nKlimaleksikon er dermed Danmarks bedste og længstlevende side om klima .\nSiden er et samarbejde mellem mig og to andre naturfagsformidlere, Thomas Hesselberg og Mikkel Houmøller. Siden indeholder omkring 100 opslag på centrale emner inden for klima og klarer sig enormt godt i google-søgninger.\nSiden holdes løbende opdateret, og hundredetusinder af børn og unge har lært om klima og energi på siden.\nSidens brugere er overvejende børn i folkeskolens ældste klasser og unge på ungdomsuddannelserne.\nLærerne bruger aktivt Klimaleksikon i undervisningen, det ses blandt andet af de mange henvisninger fra diverse undervisningsplatforme:\nDesuden ser vi at Klimaleksikon hovedsageligt finder anvendelse inden for den almindelige undervisningstid:\nDer er en overvægt af piger hvilket er en smule atypisk for en side som i bund og grund er naturvidenskabeligt orienteret og skabt af naturfagsformidlere.\nMen det viser i hvert fald at interessen i naturvidenskab og teknologi er der fra den kant også når det overordnede emne blot er vedkommende nok.\nOpslagene, som er kerneindholdet på siden, er naturligvis skrevet i et tilgængeligt sprog som passer til målgruppen af unge mennesker. Men mange granvoksne har skam også glæde af siden. På en række af opslagene har vi nederst spørgsmål, som brugeren kan besvare og dermed få en fornemmelse af om man fået fat i de væsentligste oplysninger i teksten ovenfor.\nSiden er strengt apolitisk og faktuelt baseret. Det er en aftale jeg selv er glad for, da der er en stor lettelse i at være involveret i noget som er ent fakta-orienteret. Jeg nyder virkelig at have et frirum for politik og har derfor meget let ved at adskille Klimaleksikon fra mit øvrige virke.\n"
-    }
-    
-    , 
-    {
         "url": "/emner/kunstig-intelligens/",
         "title": "kunstig intelligens",
         "content": ""
@@ -158,6 +151,13 @@
     {
         "url": "/tools/",
         "title": "Tools",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/cases/tutoren/",
+        "title": "tutoren",
         "content": ""
     }
     
@@ -201,6 +201,13 @@
         "url": "/erfaring/sprogmodeller/hvordan-fungerer-store-sprogmodeller/",
         "title": "Hvordan fungerer store sprogmodeller",
         "content": "Store sprogmodeller er matematiske funktioner der forholder tekst til tekst.\nDet er selvfølgelig en meget generel og abstrakt definition.\nDet følgende tager udgangspunkt i den nu mest udbredte og succesfulde type af store sprogmodeller, nemlig\nMed en inputstreng af tekst forudsiger en stor sprogmodel den tekst, der skal komme næste gang.\nMagien ved store sprogmodeller er, at ved at blive trænet i at minimere denne forudsigelsesfejl over store mængder tekst, ender modellerne med at lære begreber, der er nyttige til disse forudsigelser. For eksempel lærer de:\nhvordan staves hvordan grammatik fungerer hvordan man parafraserer hvordan man besvarer spørgsmål hvordan man fører en samtale hvordan man skriver på mange sprog hvordan man koder etc.\nIngen af disse egenskaber er eksplicit programmeret ind - de opstår alle som et resultat af træning.\nGPT-3 driver hundredvis af softwareprodukter, herunder produktivitetsapps, uddannelsesapps, spil og mere.\n"
+    }
+    
+    , 
+    {
+        "url": "/cases/klimaleksikon/",
+        "title": "Klimaleksikon",
+        "content": "Her i 2023 fylder Klimaleksikon 15 år!\nKlimaleksikon er dermed Danmarks bedste og længstlevende side om klima .\nSiden er et samarbejde mellem mig og to andre naturfagsformidlere, Thomas Hesselberg og Mikkel Houmøller. Siden indeholder omkring 100 opslag på centrale emner inden for klima og klarer sig enormt godt i google-søgninger.\nSiden holdes løbende opdateret, og hundredetusinder af børn og unge har lært om klima og energi på siden.\nSidens brugere er overvejende børn i folkeskolens ældste klasser og unge på ungdomsuddannelserne.\nLærerne bruger aktivt Klimaleksikon i undervisningen, det ses blandt andet af de mange henvisninger fra diverse undervisningsplatforme:\nDesuden ser vi at Klimaleksikon hovedsageligt finder anvendelse inden for den almindelige undervisningstid:\nDer er en overvægt af piger hvilket er en smule atypisk for en side som i bund og grund er naturvidenskabeligt orienteret og skabt af naturfagsformidlere.\nMen det viser i hvert fald at interessen i naturvidenskab og teknologi er der fra den kant også når det overordnede emne blot er vedkommende nok.\nOpslagene, som er kerneindholdet på siden, er naturligvis skrevet i et tilgængeligt sprog som passer til målgruppen af unge mennesker. Men mange granvoksne har skam også glæde af siden. På en række af opslagene har vi nederst spørgsmål, som brugeren kan besvare og dermed få en fornemmelse af om man fået fat i de væsentligste oplysninger i teksten ovenfor.\nSiden er strengt apolitisk og faktuelt baseret. Det er en aftale jeg selv er glad for, da der er en stor lettelse i at være involveret i noget som er ent fakta-orienteret. Jeg nyder virkelig at have et frirum for politik og har derfor meget let ved at adskille Klimaleksikon fra mit øvrige virke.\n"
     }
     
     , 
