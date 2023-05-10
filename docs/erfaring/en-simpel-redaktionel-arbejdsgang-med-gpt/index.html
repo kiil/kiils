@@ -34,7 +34,11 @@
     
 
     <meta property="og:title" content="En simpel redaktionel arbejdsgang med GPT" />
-<meta property="og:description" content="&#39;Please write 7 paragraphs about classic cars from 1950 to 1960&#39; | gpt --endpiont=completions --role=skribent | gpt --endpiont=edits --role=ombryder | gpt --endpiont=edits --role=redaktør | trans --brief en:da | gpt --endpiont=edits --role=korrekturlæser | slb | nvim - { &#34;name&#34;: &#34;skribent&#34;, &#34;expecting&#34;: &#34;Lucid writing&#34;, &#34;variables&#34;: null, &#34;role&#34;: &#34;You are a copy writer. Based on my input you must&#34; } Hver | kaldes en pipe, et rør, som sender teksten videre gennem de forskellige led i kæden." />
+<meta property="og:description" content="En redaktionel arbejdsgang er tidskrævende og besværlig.
+Det er den fordi indholdet skifter hænder så mange gange undervejs.
+Og det gælder uanset om man sender tekstfiler rundt mellem forskellige medarbejdere på e-mail, eller om man bruger et mere moderne og integreret værktøj til projekthåndtering og indholdsstyring.
+Fra en ide formuleres til den færdige tekst kan præsenteres for offentligheden, er der ofte mange forskellige øjne som indholdet skal forbi.
+¶ Kan en redaktionel arbejdsgang automatiseres?" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.kiils.dk/erfaring/en-simpel-redaktionel-arbejdsgang-med-gpt/" />
 
@@ -49,16 +53,24 @@
 
 
 <meta property="og:image" content="/images/canvas_huf5a4a47d272c9e72b490e7eba58c5b9b_363_filter_3919134808676195875.png" /><meta property="article:section" content="erfaring" />
-<meta property="article:published_time" content="2023-05-02T00:00:00+00:00" />
-<meta property="article:modified_time" content="2023-05-02T00:00:00+00:00" /><meta property="og:site_name" content="Kiils" />
+<meta property="article:published_time" content="2023-05-04T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-05-04T00:00:00+00:00" /><meta property="og:site_name" content="Kiils" />
 
 <meta itemprop="name" content="En simpel redaktionel arbejdsgang med GPT">
-<meta itemprop="description" content="&#39;Please write 7 paragraphs about classic cars from 1950 to 1960&#39; | gpt --endpiont=completions --role=skribent | gpt --endpiont=edits --role=ombryder | gpt --endpiont=edits --role=redaktør | trans --brief en:da | gpt --endpiont=edits --role=korrekturlæser | slb | nvim - { &#34;name&#34;: &#34;skribent&#34;, &#34;expecting&#34;: &#34;Lucid writing&#34;, &#34;variables&#34;: null, &#34;role&#34;: &#34;You are a copy writer. Based on my input you must&#34; } Hver | kaldes en pipe, et rør, som sender teksten videre gennem de forskellige led i kæden."><meta itemprop="datePublished" content="2023-05-02T00:00:00+00:00" />
-<meta itemprop="dateModified" content="2023-05-02T00:00:00+00:00" />
-<meta itemprop="wordCount" content="76">
+<meta itemprop="description" content="En redaktionel arbejdsgang er tidskrævende og besværlig.
+Det er den fordi indholdet skifter hænder så mange gange undervejs.
+Og det gælder uanset om man sender tekstfiler rundt mellem forskellige medarbejdere på e-mail, eller om man bruger et mere moderne og integreret værktøj til projekthåndtering og indholdsstyring.
+Fra en ide formuleres til den færdige tekst kan præsenteres for offentligheden, er der ofte mange forskellige øjne som indholdet skal forbi.
+¶ Kan en redaktionel arbejdsgang automatiseres?"><meta itemprop="datePublished" content="2023-05-04T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2023-05-04T00:00:00+00:00" />
+<meta itemprop="wordCount" content="810">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="En simpel redaktionel arbejdsgang med GPT"/>
-<meta name="twitter:description" content="&#39;Please write 7 paragraphs about classic cars from 1950 to 1960&#39; | gpt --endpiont=completions --role=skribent | gpt --endpiont=edits --role=ombryder | gpt --endpiont=edits --role=redaktør | trans --brief en:da | gpt --endpiont=edits --role=korrekturlæser | slb | nvim - { &#34;name&#34;: &#34;skribent&#34;, &#34;expecting&#34;: &#34;Lucid writing&#34;, &#34;variables&#34;: null, &#34;role&#34;: &#34;You are a copy writer. Based on my input you must&#34; } Hver | kaldes en pipe, et rør, som sender teksten videre gennem de forskellige led i kæden."/>
+<meta name="twitter:description" content="En redaktionel arbejdsgang er tidskrævende og besværlig.
+Det er den fordi indholdet skifter hænder så mange gange undervejs.
+Og det gælder uanset om man sender tekstfiler rundt mellem forskellige medarbejdere på e-mail, eller om man bruger et mere moderne og integreret værktøj til projekthåndtering og indholdsstyring.
+Fra en ide formuleres til den færdige tekst kan præsenteres for offentligheden, er der ofte mange forskellige øjne som indholdet skal forbi.
+¶ Kan en redaktionel arbejdsgang automatiseres?"/>
 <div id="cookie-notice">
 <span>We use third party cookies and scripts to ensure the 
 functionality of this website.</span>
@@ -278,33 +290,80 @@ functionality of this website.</span>
       <hr class="ml0 mt4 mb2 mw-100 bb b--mid-gray">
       <div>
       
-      <time class="f7 dib tracked" datetime="2023-05-02T00:00:00Z">02/05/2023</time>
+      <time class="f7 dib tracked" datetime="2023-05-04T00:00:00Z">04/05/2023</time>
       
       
-        <span class="f7 dib tracked"> - Et minut </span>
-        <span class="f7 dib tracked"> - 76 ord</span>
+        <span class="f7 dib tracked"> - 4 minutter </span>
+        <span class="f7 dib tracked"> - 810 ord</span>
       
       </div>
 
 
     </header>
 
-    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><pre tabindex="0"><code>&#39;Please write 7 paragraphs about classic cars from 1950 to 1960&#39; |
-    gpt --endpiont=completions --role=skribent |
-    gpt --endpiont=edits --role=ombryder |
-    gpt --endpiont=edits --role=redaktør |
+    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>En redaktionel arbejdsgang er tidskrævende og besværlig.</p>
+<p>Det er den fordi indholdet skifter hænder så mange gange undervejs.</p>
+<p>Og det gælder uanset om man sender tekstfiler rundt mellem forskellige medarbejdere på e-mail, eller om man bruger et mere moderne og integreret værktøj til projekthåndtering og indholdsstyring.</p>
+<p>Fra en ide formuleres til den færdige tekst kan præsenteres for offentligheden, er der ofte mange forskellige øjne som indholdet skal forbi.</p>
+<h2 id="kan-en-redaktionel-arbejdsgang-automatiseres"><a href="#kan-en-redaktionel-arbejdsgang-automatiseres">¶</a> Kan en redaktionel arbejdsgang automatiseres? </h2>
+<p>De forskellige personer som er involveret i en redaktionel arbejdsgang, har hver især en ret specialiseret og veldefineret rolle.
+I bedste fald bibringer hver person i denne kæde indholdet noget betydningsfuldt.</p>
+<p>Målet er et troværdigt produkt som er engagerende nok til at læserne vil bruge deres sparsomme tid på det.</p>
+<p>Når nu både rollerne undervejs i processen er veldefinerede, og der også kan opstilles en klar målsætning, så brude processen kunne opstilles programmatisk.</p>
+<p>Jeg har arbejdet med at automatisere den redaktionelle proces.
+Her er resultatet af det arbejde i en lettere simplificeret udgave:</p>
+<pre tabindex="0"><code>&#39;Please write 7 paragraphs about classic cars from 1950 to 1960&#39; |
+    gpt --endpoint=completions --role=skribent |
+    gpt --endpoint=edits --role=ombryder |
+    gpt --endpoint=edits --role=redaktør |
     trans --brief en:da |
-    gpt --endpiont=edits --role=korrekturlæser |
+    gpt --endpoint=edits --role=korrekturlæser |
     slb |
     nvim -
-</code></pre><pre tabindex="0"><code>{
+</code></pre><ol>
+<li>linje er ideen til teksten &ndash; en artikel om veteranbiler fra 1950&rsquo;erne.</li>
+</ol>
+<p>Ideen sendes med <code>|</code>-symbolet videre til</p>
+<ol start="2">
+<li>linje, der er OpenAI&rsquo;s completions endpoint i deres GPT-API.</li>
+</ol>
+<p>Samtidig med at jeg fodrer API&rsquo;et med selve ideen, så fortæller jeg også lidt om hvordan GPT skal forholde sig til ideen.
+Det gør jeg ved at give den en rolle som er defineret som følger:</p>
+<pre tabindex="0"><code>{
   &#34;name&#34;: &#34;skribent&#34;, 
   &#34;expecting&#34;: &#34;Lucid writing&#34;, 
   &#34;variables&#34;: null, 
-  &#34;role&#34;: &#34;You are a copy writer. Based on my input you must&#34;
+  &#34;role&#34;: &#34;You are a copy writer. Based on my input you must ...&#34;
 }
-</code></pre><p>Hver <code>|</code> kaldes en <strong>pipe</strong>, et rør, som sender teksten videre gennem de forskellige led i kæden.</p>
-<p>sgpt &ndash;role=cw</p>
+</code></pre><p>Så spytter GPT en artikel ud som er syv afsnit lang.</p>
+<p>Den artikel <em>piper</em> jeg så igen med <code>|</code> videre til et andet endpoint hos OpenAI, nemlig deres <code>edits</code>-endpoint &ndash; det sker her på linje 3.</p>
+<p>Samtidig definerer jeg en ny rolle som jeg kalder &ldquo;ombryder&rdquo;. Jeg vil ikke afsløre instruktionen for den rolle, men &ldquo;ombryder&rdquo;-rollen er nødvendig fordi GPT i sig selv skriver lidt monotont og ikke er tilstrækkeligt opmærksom på at skabe læserindgange i teksten, så den får lige lov til at arbejde lidt med sin egen tekst ud fra nogle ideer om formattering og ombrydning som jeg giver den.</p>
+<p>På 4. linje får teksten er mere traditionel redigering, blandt andet ud fra nogle betragtninger om at fjerne overflødigt fedt og rydde ud i gentagelserne som GPT er lidt slem til at lave.</p>
+<p>Linje 5 er bare en oversætter. Det er bedst at arbejde på engelsk så længe som muligt i arbejdsgangen, af flere forskellige årsager som er veldokumenterede, men som jeg ikke vil kede læseren med her.</p>
+<p>Så beder jeg på sjette linje GPT om at læse korrektur på den danske udgave af teksten.</p>
+<p>Linje 7 hedder bare <code>slb</code> &ndash; det er min egen funktion som splitter sætninger ud på linjer som forklaret nærmere i serien: <a href="https://www.kiils.dk/erfaring/skriv-som-en-poet/" target="_blank">Skriv som en poet - ikke en bot</a>
+</p>
+<p>Og endelig på 8. linje sender jeg den færdige tekst videre til mit eget redigeringsprogram, så jeg personligt kan gå den efter i sømmene:</p>
+<p>Ideen er min, og det endelige ansvar er også mit.</p>
+<p>Men de forskellige redaktionelle roller undervejs i tilblivningsfasen er automatiserede.
+Her er menneskerne skiftet ud med GPT.</p>
+<p>Hov!</p>
+<p>Mangler der ikke en væsentlig rolle &ndash; spørger den vågne læser nu forhåbentligt.</p>
+<p>Jo, researcheren.</p>
+<p>Jeg har her i det her simple eksempel udeladt researcheren.</p>
+<p>Research er ikke GPT&rsquo;s stærke side. Så skal den kobles sammen med andre værktøjer.</p>
+<p>Jeg har i den forbindelse leget en smule med <code>langchain</code> &ndash; og jo, researcheren kan også automatiseres med lidt mere teknisk snilde og tid end jeg for nærværende har på hånden.</p>
+<h2 id="kan-resultatet-måle-sig-med-en-rigtig-redaktion"><a href="#kan-resultatet-m%c3%a5le-sig-med-en-rigtig-redaktion">¶</a> Kan resultatet måle sig med en rigtig redaktion? </h2>
+<p>Mine eksperimenter har været forholdsvist vellykkede &ndash; i hvert fald så længe jeg kun har givet simple og relativt kortfattede opgaver til GPT.</p>
+<p>Bliver tingene lidt mere komplekse og teksterne noget længere, så er GPT stadig ikke sammenlignelig med en rigtig redaktion.</p>
+<p>På nogle punkter <em>vil</em> GPT heller ikke blive sammenlignelig med en redaktion bestående af mennesker.</p>
+<p>På den anden side er der enormt meget skrivearbejde som på tilfredsstillende vis vil kunne automatiseres, også fordi prisen er en faktor af betydning.
+Og GPT er både hurtig og billig sammenlignet med mennesker.</p>
+<p>I fremtiden vil visse publikationer sikkert markedsføre sig på at være menneskeskabte, ligesom visse aviser stolt peger på papirudgaven i dag, selvom meget få læser den.</p>
+<p>Det har været interessant at undersøge mulighederne i GPT med henblik på at automatisere det redaktionelle workflow.
+Og de opnåede resultater er både fascinerende og lettere skræmmende.</p>
+<p>Jeg er også selv blevet skarpere på præcist hvad en god redaktionel arbejdsgang består i.
+Når man skal formalisere sin viden, bliver man nødt til at skære ind til benet.</p>
 <ul class="pa0">
   
 </ul>
@@ -320,6 +379,14 @@ functionality of this website.</span>
         
       </div>
 
+      
+      
+      
+      
+      
+      
+      
+      
       
       
       

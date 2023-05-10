@@ -86,23 +86,9 @@
     
     , 
     {
-        "url": "/tools/autogpt/",
-        "title": "AutoGPT",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/cases/",
         "title": "Cases",
         "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
-    }
-    
-    , 
-    {
-        "url": "/tools/chatgpt/",
-        "title": "ChatGPT",
-        "content": "ChatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft.\nGPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er ChatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.\nModellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.\nDu kan finde inspiration til danske prompts her:\nDanske ChatGPT prompts "
     }
     
     , 
@@ -114,20 +100,6 @@
     
     , 
     {
-        "url": "/erfaring/en-simpel-redaktionel-arbejdsgang-med-gpt/",
-        "title": "En simpel redaktionel arbejdsgang med GPT",
-        "content": "\u0026#39;Please write 7 paragraphs about classic cars from 1950 to 1960\u0026#39; | gpt --endpiont=completions --role=skribent | gpt --endpiont=edits --role=ombryder | gpt --endpiont=edits --role=redaktør | trans --brief en:da | gpt --endpiont=edits --role=korrekturlæser | slb | nvim - { \u0026#34;name\u0026#34;: \u0026#34;skribent\u0026#34;, \u0026#34;expecting\u0026#34;: \u0026#34;Lucid writing\u0026#34;, \u0026#34;variables\u0026#34;: null, \u0026#34;role\u0026#34;: \u0026#34;You are a copy writer. Based on my input you must\u0026#34; } Hver | kaldes en pipe, et rør, som sender teksten videre gennem de forskellige led i kæden.\nsgpt \u0026ndash;role=cw\n"
-    }
-    
-    , 
-    {
-        "url": "/erfaring/danmarks-mest-rutinerede-redaktor-anmelder-chatgpt/",
-        "title": "Erfaren redaktør: ChatGPTs skrivetips ligner til forveksling mine egne - undtagen på et punkt",
-        "content": "Jeg bad ChatGPT give nogle skrivetips.\nDen spyttede følgende svar ud som jeg kommenterer linje for linje:\n¶ Write clearly and concisely, avoiding unnecessary jargon or complex sentence structures. Helt klart. Og det er faktisk noget ChatGPT har lært af mig personligt ;)\nJeg har skrevet en hel serie om at skrive klart og kort, og helt konkret om hvordan man gør det i praksis - se mere om det i Skriv som en poet - ikke en bot .\nDet er nok det væsentligste råd man kan give en skribent, og fra en redaktørs synsvinkel er en velstruktureret tekst uden knudrede sætninger og alenlange afsnit også meget nemmere at arbejde videre med.\n¶ Proofread your work carefully, checking for spelling and grammar errors. Det råd ville jeg nok ikke give en skribent som et af de første. For årtier siden var det givet at folk skrev uden stavefejl og kunne grammatikken til husbehov.\nI dag er det noget som maskinerne tager sig af og i mange tilfælde gør betydeligt bedre end den gennemsnitlige skribent.\nDer er også en anden grund til ikke at prioritere korrekturen så højt. Den kan du læse om her: Dine fejl er din signatur Min indstilling til korrektur er måske kontroversiel, men dybest set er det nogle helt andre ting end mindre slåfejl der viser noget om en skribents greb om og forståelse for sproget og evne til at bruge det kreativt og skabende.\n¶ Use active voice instead of passive voice to make your writing more engaging and direct. Det er også et godt råd. Og har man et klart budskab og en klar målgruppe, så kommer det direkte sprog også ofte mere naturligt end det fordækte.\nMan kunne kalde den tilgang for assertiv sprogbrug.\n¶ Organize your ideas logically, using headings and subheadings to break up longer pieces of text. Det er meget væsentligt. Dels for at skabe en struktur til sig selv under skriveprocessen, dels for at gøre teksten overskuelig for læseren.\nMen vigtigst af alt når det gælder typiske tekster til digitale formater, er det at mellemrubrikker og andre strukturelle elementer giver læseren chance for at springe ind og ud af teksten.\nSom skribent skal man give læseren mange indgange til sin tekst.\n¶ Consider your audience and tailor your writing to their needs and interests. Her er jeg delvist enig.\nSelvfølgelig skal man tilpasse sin tekst efter læsernes behov og interesser. Men der er også andre hensyn at tage. Og tilpasser man sin tekst for meget, bliver den faktisk uinteressant for intelligente læsere.\nDet handler mere om en balance her, end det handler om at underkaste sig nogle andres præmisser fuldstændig.\nEn tekst skal gerne bibringe læseren noget ekstra. Give dem \u0026ldquo;merværdi\u0026rdquo; \u0026ndash; og det gør man sommetider bedst ved at udfordre dem lidt i stedet for at se dem som segmenter med bestemte behov og interesser.\n¶ Avoid plagiarism by properly citing any sources you use and paraphrasing information in your own words. Selvfølgelig skal man ikke plagiere andre. Det har en kreativ skribent heller ikke behov for.\nAlligevel er der mange som kopierer andre eller tager deres ideer. Men den taktik vil sandsynligvis blive mindre frugtbar med tiden, da kunstig intelligens er langt bedre og hurtigere til at tage allerede eksisterende tekst og omforme den \u0026ndash; derimod kan den ikke rigtigt skabe noget nyt eller helt originalt på det idemæssige plan.\n¶ Take breaks and come back to your writing with fresh eyes to catch any mistakes or areas that need improvement. Det kommer an på skribentens temperament og personlighed. For nogle fungerer det godt. Andre er bedre til at skrive det hele færdig ud i en køre.\n¶ Read widely and regularly to improve your vocabulary and writing skills. Helt sikkert et godt råd. Input og inspiration udefra er essentiel for at skabe noget nyt selv. Men er det så i virkeligheden nyt?\nJeg vil dog tilføje et par ting her:\nInputs fra andre tekster er vigtig, men inputs fra livet i bredere forstand er af større betydning.\nOg det er heller ikke kun et spørgsmål om at læse eller følge med. Sprogligt udvikler man sig næppe meget ved bare at læse en masse nyhedsartikler eller features på nettet.\n¶ Practice writing regularly, whether it\u0026rsquo;s journaling, blogging, or writing short stories, to hone your craft. Ja, øvelse gør mester. Til sidst bliver det at skrive ikke bare et arbejde med en livsstil. En forholden sig til virkeligheden og verden \u0026ndash; men på det mere reflekterede plan som skrivning af en vis kvalitet fordrer.\n¶ Get feedback from others, whether it\u0026rsquo;s a writing group or a trusted friend, to help you improve your writing. Ja, men pas på de ikke løber med dine ideer. Det risikerer man især som freelancer hvis man foreholder sine ideer en redaktionssekretær eller en redaktør som er fast tilknyttet et medie.\nI dag kan man også med udbytte foreholde sine tekst for GPT-4 eller andre store sprogmodeller og få nyttig feedback ad den vej.\nDet var mine kommenterer og korte overvejelser over ChatGPTs skrivetips. Jeg håber du kan bruge dem.\n"
-    }
-    
-    , 
-    {
         "url": "/erfaring/",
         "title": "Erfaring",
         "content": ""
@@ -135,8 +107,8 @@
     
     , 
     {
-        "url": "/emner/finansiering/",
-        "title": "Finansiering",
+        "url": "/tools/gpt/",
+        "title": "GPT",
         "content": ""
     }
     
@@ -163,13 +135,6 @@
     
     , 
     {
-        "url": "/tools/langchain/",
-        "title": "langchain",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/skribenter/lennart-kiil/",
         "title": "Lennart Kiil",
         "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
@@ -177,15 +142,8 @@
     
     , 
     {
-        "url": "/tools/nvim/",
-        "title": "nvim",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/emner/redigering/",
-        "title": "redigering",
+        "url": "/emner/l%C3%A6ring/",
+        "title": "læring",
         "content": ""
     }
     
@@ -198,15 +156,99 @@
     
     , 
     {
-        "url": "/emner/skrivning/",
-        "title": "Skrivning",
+        "url": "/tools/",
+        "title": "Tools",
         "content": ""
     }
     
     , 
     {
-        "url": "/tools/",
-        "title": "Tools",
+        "url": "/erfaring/aegte-individualiseret-undervisning-til-alle-med-kunstig-intelligens/",
+        "title": "Ægte individualiseret undervisning til alle med kunstig intelligens",
+        "content": "For efterhånden en del år siden lavede jeg sammen med en kammerat hjemmesiden Tutoren .\nIdeen var at formidle kontakt mellem \u0026ldquo;tutorer\u0026rdquo;, som havde kompetencer inden for et bestemt område i kombination med evnen til at lære fra sig, og \u0026ldquo;elever\u0026rdquo; med et ønske om at få hjælp til at udvikle sig fagligt på selvsamme område.\nHovedsagelig kom det i praksis til at dreje sig om det vi på dansk begyndte at kalde lektiehjælp.\nMen formen var en-til-en undervisning.\nMed kunstig intelligens er det muligt at stille en-til-en \u0026ldquo;tutoring\u0026rdquo; til rådighed for alle mennesker.\nPå den måde vil hver enkelt \u0026ldquo;elev\u0026rdquo; - og i virkeligheden hver enkelt person i mange sammenhænge - kunne få en form for undervisning som tager udgangspunkt i de helt konkrete behov som den elev har og som tager afsæt i elevens nuværende niveau og bygger videre derfra.\nEr der noget som store sprogmodeller mestrer, så er det evnen til at tage et udgangspunkt og bygge videre på det.\nGrebet rigtigt an, vil kunstig intelligens kunne supplere traditionel klassebaseret læring. Enhver vil få sin egen tutor.\nDet er svært at forestille sig at det ikke vil blive på den måde i fremtiden.\nDerfor er det nok værd at gøre sig lidt tanker om de eventuelle risikomomenter ved den udvikling også.\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaring/en-simpel-redaktionel-arbejdsgang-med-gpt/",
+        "title": "En simpel redaktionel arbejdsgang med GPT",
+        "content": "En redaktionel arbejdsgang er tidskrævende og besværlig.\nDet er den fordi indholdet skifter hænder så mange gange undervejs.\nOg det gælder uanset om man sender tekstfiler rundt mellem forskellige medarbejdere på e-mail, eller om man bruger et mere moderne og integreret værktøj til projekthåndtering og indholdsstyring.\nFra en ide formuleres til den færdige tekst kan præsenteres for offentligheden, er der ofte mange forskellige øjne som indholdet skal forbi.\n¶ Kan en redaktionel arbejdsgang automatiseres? De forskellige personer som er involveret i en redaktionel arbejdsgang, har hver især en ret specialiseret og veldefineret rolle. I bedste fald bibringer hver person i denne kæde indholdet noget betydningsfuldt.\nMålet er et troværdigt produkt som er engagerende nok til at læserne vil bruge deres sparsomme tid på det.\nNår nu både rollerne undervejs i processen er veldefinerede, og der også kan opstilles en klar målsætning, så brude processen kunne opstilles programmatisk.\nJeg har arbejdet med at automatisere den redaktionelle proces. Her er resultatet af det arbejde i en lettere simplificeret udgave:\n\u0026#39;Please write 7 paragraphs about classic cars from 1950 to 1960\u0026#39; | gpt --endpoint=completions --role=skribent | gpt --endpoint=edits --role=ombryder | gpt --endpoint=edits --role=redaktør | trans --brief en:da | gpt --endpoint=edits --role=korrekturlæser | slb | nvim - linje er ideen til teksten \u0026ndash; en artikel om veteranbiler fra 1950\u0026rsquo;erne. Ideen sendes med |-symbolet videre til\nlinje, der er OpenAI\u0026rsquo;s completions endpoint i deres GPT-API. Samtidig med at jeg fodrer API\u0026rsquo;et med selve ideen, så fortæller jeg også lidt om hvordan GPT skal forholde sig til ideen. Det gør jeg ved at give den en rolle som er defineret som følger:\n{ \u0026#34;name\u0026#34;: \u0026#34;skribent\u0026#34;, \u0026#34;expecting\u0026#34;: \u0026#34;Lucid writing\u0026#34;, \u0026#34;variables\u0026#34;: null, \u0026#34;role\u0026#34;: \u0026#34;You are a copy writer. Based on my input you must ...\u0026#34; } Så spytter GPT en artikel ud som er syv afsnit lang.\nDen artikel piper jeg så igen med | videre til et andet endpoint hos OpenAI, nemlig deres edits-endpoint \u0026ndash; det sker her på linje 3.\nSamtidig definerer jeg en ny rolle som jeg kalder \u0026ldquo;ombryder\u0026rdquo;. Jeg vil ikke afsløre instruktionen for den rolle, men \u0026ldquo;ombryder\u0026rdquo;-rollen er nødvendig fordi GPT i sig selv skriver lidt monotont og ikke er tilstrækkeligt opmærksom på at skabe læserindgange i teksten, så den får lige lov til at arbejde lidt med sin egen tekst ud fra nogle ideer om formattering og ombrydning som jeg giver den.\nPå 4. linje får teksten er mere traditionel redigering, blandt andet ud fra nogle betragtninger om at fjerne overflødigt fedt og rydde ud i gentagelserne som GPT er lidt slem til at lave.\nLinje 5 er bare en oversætter. Det er bedst at arbejde på engelsk så længe som muligt i arbejdsgangen, af flere forskellige årsager som er veldokumenterede, men som jeg ikke vil kede læseren med her.\nSå beder jeg på sjette linje GPT om at læse korrektur på den danske udgave af teksten.\nLinje 7 hedder bare slb \u0026ndash; det er min egen funktion som splitter sætninger ud på linjer som forklaret nærmere i serien: Skriv som en poet - ikke en bot Og endelig på 8. linje sender jeg den færdige tekst videre til mit eget redigeringsprogram, så jeg personligt kan gå den efter i sømmene:\nIdeen er min, og det endelige ansvar er også mit.\nMen de forskellige redaktionelle roller undervejs i tilblivningsfasen er automatiserede. Her er menneskerne skiftet ud med GPT.\nHov!\nMangler der ikke en væsentlig rolle \u0026ndash; spørger den vågne læser nu forhåbentligt.\nJo, researcheren.\nJeg har her i det her simple eksempel udeladt researcheren.\nResearch er ikke GPT\u0026rsquo;s stærke side. Så skal den kobles sammen med andre værktøjer.\nJeg har i den forbindelse leget en smule med langchain \u0026ndash; og jo, researcheren kan også automatiseres med lidt mere teknisk snilde og tid end jeg for nærværende har på hånden.\n¶ Kan resultatet måle sig med en rigtig redaktion? Mine eksperimenter har været forholdsvist vellykkede \u0026ndash; i hvert fald så længe jeg kun har givet simple og relativt kortfattede opgaver til GPT.\nBliver tingene lidt mere komplekse og teksterne noget længere, så er GPT stadig ikke sammenlignelig med en rigtig redaktion.\nPå nogle punkter vil GPT heller ikke blive sammenlignelig med en redaktion bestående af mennesker.\nPå den anden side er der enormt meget skrivearbejde som på tilfredsstillende vis vil kunne automatiseres, også fordi prisen er en faktor af betydning. Og GPT er både hurtig og billig sammenlignet med mennesker.\nI fremtiden vil visse publikationer sikkert markedsføre sig på at være menneskeskabte, ligesom visse aviser stolt peger på papirudgaven i dag, selvom meget få læser den.\nDet har været interessant at undersøge mulighederne i GPT med henblik på at automatisere det redaktionelle workflow. Og de opnåede resultater er både fascinerende og lettere skræmmende.\nJeg er også selv blevet skarpere på præcist hvad en god redaktionel arbejdsgang består i. Når man skal formalisere sin viden, bliver man nødt til at skære ind til benet.\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/finansiering/",
+        "title": "Finansiering",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaring/sprogmodeller/hvad-er-store-sprogmodeller/",
+        "title": "Hvad er store sprogmodeller",
+        "content": "Store sprogmodeller er matematiske funktioner der forholder tekst til tekst.\nDet er selvfølgelig en meget generel og abstrakt definition.\nDet følgende tager udgangspunkt i den nu mest udbredte og succesfulde type af store sprogmodeller, nemlig\nMed en inputstreng af tekst forudsiger en stor sprogmodel den tekst, der skal komme næste gang.\nMagien ved store sprogmodeller er, at ved at blive trænet i at minimere denne forudsigelsesfejl over store mængder tekst, ender modellerne med at lære begreber, der er nyttige til disse forudsigelser. For eksempel lærer de:\nhvordan staves hvordan grammatik fungerer hvordan man parafraserer hvordan man besvarer spørgsmål hvordan man fører en samtale hvordan man skriver på mange sprog hvordan man koder etc.\nIngen af disse egenskaber er eksplicit programmeret ind - de opstår alle som et resultat af træning.\nGPT-3 driver hundredvis af softwareprodukter, herunder produktivitetsapps, uddannelsesapps, spil og mere.\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaring/sprogmodeller/hvad-kan-store-sprogmodeller/",
+        "title": "Hvad kan store sprogmodeller",
+        "content": "Basalt set kan store sprogmodeller gætte ord ud fra en sammenhæng som brugeren angiver.\nGiver brugeren en stor sprogmodel følgende input:\nOm sommeren når solen skinner, elsker jeg at drikke en kold\nsvarer sprogmodellen iced tea.\nSprogmodellen afsøger så at sige sit corpus, al den tekst som sprogmodellen er blevet fodret med under træningen, for at finde det ord som har den største kobling til det input som brugeren har angivet.\nFordi det mest naturlige svar nogle gange kommer i konflikt med nogle etiske retningslinjer, giver sprogmodellen dog reelt ofte et svar som kommer længere ned over listen - se for eksempel dette eksempel: ChatGPT har en beskidt tankegang - her er beviset .\nDen metode hvor sprogmodellen færdiggør brugerens input, kaldes af OpenAI for \u0026ldquo;completions\u0026rdquo;.\nDer findes også andre tilgange, men basalt set bygger de alle på de koblinger mellem ord og sammenhænge som sprogmodellen har \u0026ldquo;lært\u0026rdquo; da den blev trænet på enorme mængder af tekst. Magien ved store sprogmodeller er, at ved at blive trænet i at minimere denne forudsigelsesfejl over store mængder tekst, ender modellerne med at lære begreber, der er nyttige til disse forudsigelser. For eksempel lærer de:\nhvordan staves hvordan grammatik fungerer hvordan man parafraserer hvordan man besvarer spørgsmål hvordan man fører en samtale hvordan man skriver på mange sprog hvordan man koder etc.\nIngen af disse egenskaber er eksplicit programmeret ind - de opstår alle som et resultat af træning. Emergent abilities On a number of natural language benchmarks involving tasks such as question answering, models perform no better than random chance until they reach a certain scale (in this case, measured by training computation), at which point their performance sharply increases. These are examples of emergent abilities.\nWhile it is generally the case that performance of large models on various tasks can be extrapolated based on the performance of similar smaller models, sometimes large models undergo a \u0026ldquo;discontinuous phase shift\u0026rdquo; where the model suddenly acquires substantial abilities not seen in smaller models. These are known as \u0026ldquo;emergent abilities\u0026rdquo;, and have been the subject of substantial study. Researchers note that such abilities \u0026ldquo;cannot be predicted simply by extrapolating the performance of smaller models\u0026rdquo;.[4] These abilities are discovered rather than programmed-in or designed, in some cases only after the LLM has been publicly deployed.[5] Hundreds of emergent abilities have been described. Examples include multi-step arithmetic, taking college-level exams, identifying the intended meaning of a word,[4] chain-of-thought prompting,[4] decoding the International Phonetic Alphabet, unscrambling a word’s letters, identifying offensive content in paragraphs of Hinglish (a combination of Hindi and English), and generating a similar English equivalent of Kiswahili proverbs.[10] Hallucination\nGenerative LLMs have been observed to confidently assert claims of fact which do not seem to be justified by their training data, a phenomenon which has been termed \u0026ldquo;hallucination\u0026rdquo;.[11]\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaring/sprogmodeller/hvordan-fungerer-store-sprogmodeller/",
+        "title": "Hvordan fungerer store sprogmodeller",
+        "content": "Store sprogmodeller er matematiske funktioner der forholder tekst til tekst.\nDet er selvfølgelig en meget generel og abstrakt definition.\nDet følgende tager udgangspunkt i den nu mest udbredte og succesfulde type af store sprogmodeller, nemlig\nMed en inputstreng af tekst forudsiger en stor sprogmodel den tekst, der skal komme næste gang.\nMagien ved store sprogmodeller er, at ved at blive trænet i at minimere denne forudsigelsesfejl over store mængder tekst, ender modellerne med at lære begreber, der er nyttige til disse forudsigelser. For eksempel lærer de:\nhvordan staves hvordan grammatik fungerer hvordan man parafraserer hvordan man besvarer spørgsmål hvordan man fører en samtale hvordan man skriver på mange sprog hvordan man koder etc.\nIngen af disse egenskaber er eksplicit programmeret ind - de opstår alle som et resultat af træning.\nGPT-3 driver hundredvis af softwareprodukter, herunder produktivitetsapps, uddannelsesapps, spil og mere.\n"
+    }
+    
+    , 
+    {
+        "url": "/tools/nvim/",
+        "title": "nvim",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/autogpt/",
+        "title": "AutoGPT",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/chatgpt/",
+        "title": "ChatGPT",
+        "content": "ChatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft.\nGPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er ChatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.\nModellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.\nDu kan finde inspiration til danske prompts her:\nDanske ChatGPT prompts "
+    }
+    
+    , 
+    {
+        "url": "/erfaring/danmarks-mest-rutinerede-redaktor-anmelder-chatgpt/",
+        "title": "Erfaren redaktør: ChatGPTs skrivetips ligner til forveksling mine egne - undtagen på et punkt",
+        "content": "Jeg bad ChatGPT give nogle skrivetips.\nDen spyttede følgende svar ud som jeg kommenterer linje for linje:\n¶ Write clearly and concisely, avoiding unnecessary jargon or complex sentence structures. Helt klart. Og det er faktisk noget ChatGPT har lært af mig personligt ;)\nJeg har skrevet en hel serie om at skrive klart og kort, og helt konkret om hvordan man gør det i praksis - se mere om det i Skriv som en poet - ikke en bot .\nDet er nok det væsentligste råd man kan give en skribent, og fra en redaktørs synsvinkel er en velstruktureret tekst uden knudrede sætninger og alenlange afsnit også meget nemmere at arbejde videre med.\n¶ Proofread your work carefully, checking for spelling and grammar errors. Det råd ville jeg nok ikke give en skribent som et af de første. For årtier siden var det givet at folk skrev uden stavefejl og kunne grammatikken til husbehov.\nI dag er det noget som maskinerne tager sig af og i mange tilfælde gør betydeligt bedre end den gennemsnitlige skribent.\nDer er også en anden grund til ikke at prioritere korrekturen så højt. Den kan du læse om her: Dine fejl er din signatur Min indstilling til korrektur er måske kontroversiel, men dybest set er det nogle helt andre ting end mindre slåfejl der viser noget om en skribents greb om og forståelse for sproget og evne til at bruge det kreativt og skabende.\n¶ Use active voice instead of passive voice to make your writing more engaging and direct. Det er også et godt råd. Og har man et klart budskab og en klar målgruppe, så kommer det direkte sprog også ofte mere naturligt end det fordækte.\nMan kunne kalde den tilgang for assertiv sprogbrug.\n¶ Organize your ideas logically, using headings and subheadings to break up longer pieces of text. Det er meget væsentligt. Dels for at skabe en struktur til sig selv under skriveprocessen, dels for at gøre teksten overskuelig for læseren.\nMen vigtigst af alt når det gælder typiske tekster til digitale formater, er det at mellemrubrikker og andre strukturelle elementer giver læseren chance for at springe ind og ud af teksten.\nSom skribent skal man give læseren mange indgange til sin tekst.\n¶ Consider your audience and tailor your writing to their needs and interests. Her er jeg delvist enig.\nSelvfølgelig skal man tilpasse sin tekst efter læsernes behov og interesser. Men der er også andre hensyn at tage. Og tilpasser man sin tekst for meget, bliver den faktisk uinteressant for intelligente læsere.\nDet handler mere om en balance her, end det handler om at underkaste sig nogle andres præmisser fuldstændig.\nEn tekst skal gerne bibringe læseren noget ekstra. Give dem \u0026ldquo;merværdi\u0026rdquo; \u0026ndash; og det gør man sommetider bedst ved at udfordre dem lidt i stedet for at se dem som segmenter med bestemte behov og interesser.\n¶ Avoid plagiarism by properly citing any sources you use and paraphrasing information in your own words. Selvfølgelig skal man ikke plagiere andre. Det har en kreativ skribent heller ikke behov for.\nAlligevel er der mange som kopierer andre eller tager deres ideer. Men den taktik vil sandsynligvis blive mindre frugtbar med tiden, da kunstig intelligens er langt bedre og hurtigere til at tage allerede eksisterende tekst og omforme den \u0026ndash; derimod kan den ikke rigtigt skabe noget nyt eller helt originalt på det idemæssige plan.\n¶ Take breaks and come back to your writing with fresh eyes to catch any mistakes or areas that need improvement. Det kommer an på skribentens temperament og personlighed. For nogle fungerer det godt. Andre er bedre til at skrive det hele færdig ud i en køre.\n¶ Read widely and regularly to improve your vocabulary and writing skills. Helt sikkert et godt råd. Input og inspiration udefra er essentiel for at skabe noget nyt selv. Men er det så i virkeligheden nyt?\nJeg vil dog tilføje et par ting her:\nInputs fra andre tekster er vigtig, men inputs fra livet i bredere forstand er af større betydning.\nOg det er heller ikke kun et spørgsmål om at læse eller følge med. Sprogligt udvikler man sig næppe meget ved bare at læse en masse nyhedsartikler eller features på nettet.\n¶ Practice writing regularly, whether it\u0026rsquo;s journaling, blogging, or writing short stories, to hone your craft. Ja, øvelse gør mester. Til sidst bliver det at skrive ikke bare et arbejde med en livsstil. En forholden sig til virkeligheden og verden \u0026ndash; men på det mere reflekterede plan som skrivning af en vis kvalitet fordrer.\n¶ Get feedback from others, whether it\u0026rsquo;s a writing group or a trusted friend, to help you improve your writing. Ja, men pas på de ikke løber med dine ideer. Det risikerer man især som freelancer hvis man foreholder sine ideer en redaktionssekretær eller en redaktør som er fast tilknyttet et medie.\nI dag kan man også med udbytte foreholde sine tekst for GPT-4 eller andre store sprogmodeller og få nyttig feedback ad den vej.\nDet var mine kommenterer og korte overvejelser over ChatGPTs skrivetips. Jeg håber du kan bruge dem.\n"
+    }
+    
+    , 
+    {
+        "url": "/tools/langchain/",
+        "title": "langchain",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/redigering/",
+        "title": "redigering",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/emner/skrivning/",
+        "title": "Skrivning",
         "content": ""
     }
     
@@ -284,7 +326,7 @@
     {
         "url": "/erfaring/chatgpt-har-en-uforbedrelig-beskidt-tankegang-her-er-beviset/",
         "title": "ChatGPT har en beskidt tankegang - her er beviset",
-        "content": " hi\nHello! How can I assist you today?\nsee, how big is the sun\nThe Sun has a diameter of approximately 1.39 million kilometers (864,938 miles).\nthat is bigger than my \u0026hellip;.\nI\u0026rsquo;m sorry, I cannot complete that sentence as it may be inappropriate or offensive. Is there anything else I can assist you with?\nbook\nI\u0026rsquo;m sorry, I\u0026rsquo;m not sure what you\u0026rsquo;re asking for. Could you please provide more information or clarify your request?\nthat is bigger than my book\nYes, the Sun is much larger than a book. In fact, the Sun is so large that approximately 1.3 million Earths could fit inside it!\nthat is bigger than my \u0026hellip;.\nI\u0026rsquo;m sorry, I cannot complete that sentence as I do not have enough context to understand what you are referring to. Could you please provide more information or clarify your request?\n"
+        "content": "Bruger: hi\nGPT: Hello! How can I assist you today?\nBruger: see, how big is the sun\nGPT: The Sun has a diameter of approximately 1.39 million kilometers (864,938 miles).\nBruger: that is bigger than my \u0026hellip;.\nGPT: I\u0026rsquo;m sorry, I cannot complete that sentence as it may be inappropriate or offensive. Is there anything else I can assist you with?\nBruger: book\nGPT: I\u0026rsquo;m sorry, I\u0026rsquo;m not sure what you\u0026rsquo;re asking for. Could you please provide more information or clarify your request?\nBruger: that is bigger than my book\nGPT: Yes, the Sun is much larger than a book. In fact, the Sun is so large that approximately 1.3 million Earths could fit inside it!\nBruger: that is bigger than my \u0026hellip;.\nGPT: I\u0026rsquo;m sorry, I cannot complete that sentence as I do not have enough context to understand what you are referring to. Could you please provide more information or clarify your request?\nLær mere om store sprogmodeller her Store sprogmodeller "
     }
     
     , 
@@ -436,6 +478,13 @@
     
     , 
     {
+        "url": "/erfaring/sprogmodeller/del-5-raekkefoelge/",
+        "title": "5. Få styr på rækkefølgen og red verden",
+        "content": "I kommunikation er rækkefølge af vores ord ofte helt afgørende.\nNede på stranden hørte jeg et barn råbe til sin mor:\n— Se, mor. — Jeg har fundet en orange vandmand. Barnet har jo misforstået noget. Men det er måske sekundært i nuet. Så hvad er effektiv kommunikation i det her tilfælde?\nLad os starte med hvad det ikke er:\n— Hvis du har fundet en vandmand som er er orange, så er det slet ikke en vandmand, men en ... — Av, mor! — ... brandmand. — Gå væk fra den. Her kunne moderen med fordel have byttet rundt på rækkefølgen af sine sætninger:\n— Gå væk fra den! — Det er ikke en vandmand, men en brandmand - det kan du se på farven. Når først barnet er gået lidt væk fra brandmanden, er der god tid til at give en forklaring.\nSådan er det også i sproget generelt. Få først læserens opmærksomhed, og kom først derefter med de lange forklaringer:\nDu er i chok. På bordet foran dig ligger en regning. Priserne på elektricitet [...] Den måde at skrive på er normal inden for journalistik hvor man bruger begrebet nyhedstrekanten om at levere det væsentligste budskab først i så kort form som muligt.\nHvordan overskuer du nemmest hvilken sætning som skal først i afsnittet?\nLad os prøve at skrive ovenstående på en og samme linje:\nDu er i chok. På bordet foran dig ligger en regning. Priserne på elektricitet [\u0026hellip;]\nDet er nu sværere at se hvad hver sætning indeholder og dermed deres relevans og prioritering.\nDet er også teknisk mere tidskrævende at bytte om på rækkefølgen.\nHvis du skriver hver sætning på sin egen linje, så er det meget nemmere at bytte om på rækkefølgen hvis den er forkert.\nHusk. Det vigtigste først i kort form. Så følger forklaringerne og uddybningerne bagefter.\n"
+    }
+    
+    , 
+    {
         "url": "/erfaring/skriv-som-en-poet/del-6-gentagelser/",
         "title": "6. Spot gentagelser",
         "content": "En anden god grund til at give hver sin sætning en linje er at gentagelser får svært ved at gemme sig:\nMen de midler man benyttede for at fælde de nye medier, var ikke redelige. Man opfandt egne definitioner til formålet. Man spillede beskidt og slog under bæltestedet. Man fuskede med metoderne. Her er \u0026lsquo;Man\u0026rsquo; gentaget hele tre gange i afsnittet - endda tre gange som startord.\nI det her tilfælde er gentagelsen et tiltænkt virkemiddel, men ofte vil en gentagelse blot være udtryk for utilstrækkelig bevidsthed om sætningernes nøjagtige indhold.\nHvor startordet for alle andre end den første sætning kan gemme sig hvis man skriver alle sætninger på en lang fælles linje, så står alle startord tydelig frem hvis man giver hver sætning sin egen linje.\nLæg i øvrigt mærke til slutordene som heller ikke er tilfældigt valgt i det her eksempel.\nOgså de står klart ud når en sætning får sin egen linje, ellers er det kun den sidste sætnings slutord som kan ses med det samme.\n"
@@ -451,6 +500,13 @@
     , 
     {
         "url": "/erfaring/skriv-som-en-poet/del-8-rytme/",
+        "title": "8. Rytme",
+        "content": "Alle foregående dele af serien har ledt frem til denne om rytme\nBåde staccato, korte sætninger og gentagelser kan skabe rytme\nEn anden god grund til at give hver sin sætning en linje er at gentagelser får svært ved at gemme sig:\nMen de midler man benyttede for at fælde de nye medier, var ikke redelige. Man opfandt egne definitioner til formålet. Man spillede beskidt og slog under bæltestedet. Man fuskede med metoderne. Her er \u0026lsquo;Man\u0026rsquo; gentaget hele tre gange i afsnittet - endda tre gange som startord.\nI det her tilfælde er gentagelsen et tiltænkt virkemiddel, men ofte vil en gentagelse blot være udtryk for utilstrækkelig bevidsthed om sætningernes nøjagtige indhold.\nHvor startordet for alle andre end den første sætning kan gemme sig hvis man skriver alle sætninger på en lang fælles linje, så står alle startord tydelig frem hvis man giver hver sætning sin egen linje.\nLæg i øvrigt mærke til slutordene som heller ikke er tilfældigt valgt i det her eksempel.\nOgså de står klart ud når en sætning får sin egen linje, ellers er det kun den sidste sætnings slutord som kan ses med det samme.\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaring/sprogmodeller/del-8-rytme/",
         "title": "8. Rytme",
         "content": "Alle foregående dele af serien har ledt frem til denne om rytme\nBåde staccato, korte sætninger og gentagelser kan skabe rytme\nEn anden god grund til at give hver sin sætning en linje er at gentagelser får svært ved at gemme sig:\nMen de midler man benyttede for at fælde de nye medier, var ikke redelige. Man opfandt egne definitioner til formålet. Man spillede beskidt og slog under bæltestedet. Man fuskede med metoderne. Her er \u0026lsquo;Man\u0026rsquo; gentaget hele tre gange i afsnittet - endda tre gange som startord.\nI det her tilfælde er gentagelsen et tiltænkt virkemiddel, men ofte vil en gentagelse blot være udtryk for utilstrækkelig bevidsthed om sætningernes nøjagtige indhold.\nHvor startordet for alle andre end den første sætning kan gemme sig hvis man skriver alle sætninger på en lang fælles linje, så står alle startord tydelig frem hvis man giver hver sætning sin egen linje.\nLæg i øvrigt mærke til slutordene som heller ikke er tilfældigt valgt i det her eksempel.\nOgså de står klart ud når en sætning får sin egen linje, ellers er det kun den sidste sætnings slutord som kan ses med det samme.\n"
     }
@@ -488,6 +544,13 @@
         "url": "/erfaring/skriv-som-en-poet/",
         "title": "Skriv som en poet - ikke en bot",
         "content": "Poet-teknikken giver større sprogbevidsthed og bedre tekster\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaring/sprogmodeller/",
+        "title": "Store sprogmodeller",
+        "content": ""
     }
     
     , 
@@ -1675,13 +1738,6 @@
     
     , 
     {
-        "url": "/test/",
-        "title": "",
-        "content": "¶ Der er tre der er nrere\n"
-    }
-    
-    , 
-    {
         "url": "/kunde/berlingske/",
         "title": "Berlingske",
         "content": "Kiils havde en aftale med Berlingske om videnskabsjournalistik og formidling løftet fra det hedengangne forsker.net som Lennart Kiil stod bag.\n"
@@ -1727,13 +1783,6 @@
         "url": "/domains/",
         "title": "Domæner",
         "content": ""
-    }
-    
-    , 
-    {
-        "url": "/fam/",
-        "title": "Fam",
-        "content": "Genload siden\n"
     }
     
     , 

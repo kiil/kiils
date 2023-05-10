@@ -6,7 +6,25 @@
     <description>Recent content in Tools on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPT</title>
+      <link>https://www.kiils.dk/tools/gpt/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/gpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nvim</title>
+      <link>https://www.kiils.dk/tools/nvim/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/nvim/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>AutoGPT</title>
       <link>https://www.kiils.dk/tools/autogpt/</link>
@@ -35,15 +53,6 @@ Danske ChatGPT prompts </description>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/tools/langchain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nvim</title>
-      <link>https://www.kiils.dk/tools/nvim/</link>
-      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/tools/nvim/</guid>
       <description></description>
     </item>
     

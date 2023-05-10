@@ -6,14 +6,68 @@
     <description>Recent content in Lennart Kiil on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/skribenter/lennart-kiil/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/skribenter/lennart-kiil/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ægte individualiseret undervisning til alle med kunstig intelligens</title>
+      <link>https://www.kiils.dk/erfaring/aegte-individualiseret-undervisning-til-alle-med-kunstig-intelligens/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/aegte-individualiseret-undervisning-til-alle-med-kunstig-intelligens/</guid>
+      <description>For efterhånden en del år siden lavede jeg sammen med en kammerat hjemmesiden Tutoren .
+Ideen var at formidle kontakt mellem &amp;ldquo;tutorer&amp;rdquo;, som havde kompetencer inden for et bestemt område i kombination med evnen til at lære fra sig, og &amp;ldquo;elever&amp;rdquo; med et ønske om at få hjælp til at udvikle sig fagligt på selvsamme område.
+Hovedsagelig kom det i praksis til at dreje sig om det vi på dansk begyndte at kalde lektiehjælp.</description>
+    </item>
+    
     <item>
       <title>En simpel redaktionel arbejdsgang med GPT</title>
       <link>https://www.kiils.dk/erfaring/en-simpel-redaktionel-arbejdsgang-med-gpt/</link>
-      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/erfaring/en-simpel-redaktionel-arbejdsgang-med-gpt/</guid>
-      <description>&amp;#39;Please write 7 paragraphs about classic cars from 1950 to 1960&amp;#39; | gpt --endpiont=completions --role=skribent | gpt --endpiont=edits --role=ombryder | gpt --endpiont=edits --role=redaktør | trans --brief en:da | gpt --endpiont=edits --role=korrekturlæser | slb | nvim - { &amp;#34;name&amp;#34;: &amp;#34;skribent&amp;#34;, &amp;#34;expecting&amp;#34;: &amp;#34;Lucid writing&amp;#34;, &amp;#34;variables&amp;#34;: null, &amp;#34;role&amp;#34;: &amp;#34;You are a copy writer. Based on my input you must&amp;#34; } Hver | kaldes en pipe, et rør, som sender teksten videre gennem de forskellige led i kæden.</description>
+      <description>En redaktionel arbejdsgang er tidskrævende og besværlig.
+Det er den fordi indholdet skifter hænder så mange gange undervejs.
+Og det gælder uanset om man sender tekstfiler rundt mellem forskellige medarbejdere på e-mail, eller om man bruger et mere moderne og integreret værktøj til projekthåndtering og indholdsstyring.
+Fra en ide formuleres til den færdige tekst kan præsenteres for offentligheden, er der ofte mange forskellige øjne som indholdet skal forbi.
+¶ Kan en redaktionel arbejdsgang automatiseres?</description>
+    </item>
+    
+    <item>
+      <title>Hvad er store sprogmodeller</title>
+      <link>https://www.kiils.dk/erfaring/sprogmodeller/hvad-er-store-sprogmodeller/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/sprogmodeller/hvad-er-store-sprogmodeller/</guid>
+      <description>Store sprogmodeller er matematiske funktioner der forholder tekst til tekst.
+Det er selvfølgelig en meget generel og abstrakt definition.
+Det følgende tager udgangspunkt i den nu mest udbredte og succesfulde type af store sprogmodeller, nemlig
+Med en inputstreng af tekst forudsiger en stor sprogmodel den tekst, der skal komme næste gang.
+Magien ved store sprogmodeller er, at ved at blive trænet i at minimere denne forudsigelsesfejl over store mængder tekst, ender modellerne med at lære begreber, der er nyttige til disse forudsigelser.</description>
+    </item>
+    
+    <item>
+      <title>Hvad kan store sprogmodeller</title>
+      <link>https://www.kiils.dk/erfaring/sprogmodeller/hvad-kan-store-sprogmodeller/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/sprogmodeller/hvad-kan-store-sprogmodeller/</guid>
+      <description>Basalt set kan store sprogmodeller gætte ord ud fra en sammenhæng som brugeren angiver.
+Giver brugeren en stor sprogmodel følgende input:
+Om sommeren når solen skinner, elsker jeg at drikke en kold
+svarer sprogmodellen iced tea.
+Sprogmodellen afsøger så at sige sit corpus, al den tekst som sprogmodellen er blevet fodret med under træningen, for at finde det ord som har den største kobling til det input som brugeren har angivet.</description>
+    </item>
+    
+    <item>
+      <title>Hvordan fungerer store sprogmodeller</title>
+      <link>https://www.kiils.dk/erfaring/sprogmodeller/hvordan-fungerer-store-sprogmodeller/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/sprogmodeller/hvordan-fungerer-store-sprogmodeller/</guid>
+      <description>Store sprogmodeller er matematiske funktioner der forholder tekst til tekst.
+Det er selvfølgelig en meget generel og abstrakt definition.
+Det følgende tager udgangspunkt i den nu mest udbredte og succesfulde type af store sprogmodeller, nemlig
+Med en inputstreng af tekst forudsiger en stor sprogmodel den tekst, der skal komme næste gang.
+Magien ved store sprogmodeller er, at ved at blive trænet i at minimere denne forudsigelsesfejl over store mængder tekst, ender modellerne med at lære begreber, der er nyttige til disse forudsigelser.</description>
     </item>
     
     <item>
@@ -92,14 +146,14 @@ Nyhedsbrevet fra REDACTED i april 2023 introducerer det fantastiske udeliv med v
       <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/erfaring/chatgpt-har-en-uforbedrelig-beskidt-tankegang-her-er-beviset/</guid>
-      <description>hi
-Hello! How can I assist you today?
-see, how big is the sun
-The Sun has a diameter of approximately 1.39 million kilometers (864,938 miles).
-that is bigger than my &amp;hellip;.
-I&amp;rsquo;m sorry, I cannot complete that sentence as it may be inappropriate or offensive. Is there anything else I can assist you with?
-book
-I&amp;rsquo;m sorry, I&amp;rsquo;m not sure what you&amp;rsquo;re asking for. Could you please provide more information or clarify your request?</description>
+      <description>Bruger: hi
+GPT: Hello! How can I assist you today?
+Bruger: see, how big is the sun
+GPT: The Sun has a diameter of approximately 1.39 million kilometers (864,938 miles).
+Bruger: that is bigger than my &amp;hellip;.
+GPT: I&amp;rsquo;m sorry, I cannot complete that sentence as it may be inappropriate or offensive. Is there anything else I can assist you with?
+Bruger: book
+GPT: I&amp;rsquo;m sorry, I&amp;rsquo;m not sure what you&amp;rsquo;re asking for.</description>
     </item>
     
     <item>
@@ -278,6 +332,19 @@ Lad os starte med hvad det ikke er:
     </item>
     
     <item>
+      <title>5. Få styr på rækkefølgen og red verden</title>
+      <link>https://www.kiils.dk/erfaring/sprogmodeller/del-5-raekkefoelge/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/sprogmodeller/del-5-raekkefoelge/</guid>
+      <description>I kommunikation er rækkefølge af vores ord ofte helt afgørende.
+Nede på stranden hørte jeg et barn råbe til sin mor:
+— Se, mor. — Jeg har fundet en orange vandmand. Barnet har jo misforstået noget. Men det er måske sekundært i nuet. Så hvad er effektiv kommunikation i det her tilfælde?
+Lad os starte med hvad det ikke er:
+— Hvis du har fundet en vandmand som er er orange, så er det slet ikke en vandmand, men en .</description>
+    </item>
+    
+    <item>
       <title>6. Spot gentagelser</title>
       <link>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-6-gentagelser/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
@@ -307,6 +374,18 @@ I det her tilfælde er Bang, bang to &amp;ldquo;slag&amp;rdquo; der som startord
       <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-8-rytme/</guid>
+      <description>Alle foregående dele af serien har ledt frem til denne om rytme
+Både staccato, korte sætninger og gentagelser kan skabe rytme
+En anden god grund til at give hver sin sætning en linje er at gentagelser får svært ved at gemme sig:
+Men de midler man benyttede for at fælde de nye medier, var ikke redelige. Man opfandt egne definitioner til formålet. Man spillede beskidt og slog under bæltestedet. Man fuskede med metoderne.</description>
+    </item>
+    
+    <item>
+      <title>8. Rytme</title>
+      <link>https://www.kiils.dk/erfaring/sprogmodeller/del-8-rytme/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/sprogmodeller/del-8-rytme/</guid>
       <description>Alle foregående dele af serien har ledt frem til denne om rytme
 Både staccato, korte sætninger og gentagelser kan skabe rytme
 En anden god grund til at give hver sin sætning en linje er at gentagelser får svært ved at gemme sig:
@@ -344,6 +423,15 @@ For at se teksten med sætningerne på hver deres linje:</description>
       
       <guid>https://www.kiils.dk/erfaring/skriv-som-en-poet/</guid>
       <description>Poet-teknikken giver større sprogbevidsthed og bedre tekster</description>
+    </item>
+    
+    <item>
+      <title>Store sprogmodeller</title>
+      <link>https://www.kiils.dk/erfaring/sprogmodeller/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/sprogmodeller/</guid>
+      <description></description>
     </item>
     
     <item>
