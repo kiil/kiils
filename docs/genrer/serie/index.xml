@@ -8,6 +8,16 @@
     <language>da-dk</language>
     <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/genrer/serie/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Prompt engineering</title>
+      <link>https://www.kiils.dk/erfaring/prompt-engineering/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/prompt-engineering/</guid>
+      <description>Prompt engineering er beskrivelsen af opgaven, som AI&amp;rsquo;en skal udføre, indlejret i inputtet, f.eks. som et spørgsmål, i stedet for at det udtrykkeligt er givet. Prompt engineering fungerer typisk ved at konvertere en eller flere opgaver til et prompt-baseret datasæt og træne en sprogmodel med det, der er blevet kaldt &amp;ldquo;prompt-baseret læring&amp;rdquo; eller bare &amp;ldquo;prompt læring&amp;rdquo;
+Test this little script Test dette lille script</description>
+    </item>
+    
+    <item>
       <title>Skriv som en poet - ikke en bot</title>
       <link>https://www.kiils.dk/erfaring/skriv-som-en-poet/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>

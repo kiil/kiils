@@ -283,6 +283,66 @@ functionality of this website.</span>
   
 </div>
     <h1 class="f3 near-black">
+      <a href="https://www.kiils.dk/erfaring/20230215-automatisering-systemd/" class="link black dim">
+        Automatisering med systemd
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Gå til eller opret ~/.config/systemd/user/
+Lav en servicenavn.service
+[Unit] Description=Get subscription creations and deletions [Service] Type=simple Environment=STRIPE=secretkey WorkingDirectory=/home/lk/GD/TEKST/notebooks/biz/fin/j/stripe/ ExecStart=/home/lk/GD/TEKST/notebooks/biz/fin/j/stripe/stripe-abo.nu [Install] WantedBy=default.target Lav en servicenavn.timer
+[Unit] Description=Schedule stripe abo every 8 hours RefuseManualStart=no # Allow manual starts RefuseManualStop=no # Allow manual stops [Timer] #Execute job if it missed a run due to machine being off Persistent=true #Run 120 seconds after boot for the first time OnBootSec=120 #Run every 1 minute thereafter OnUnitActiveSec=28800 #File describing job to execute Unit=biz-fin-stripe-abo.
+    </div>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="relative w-100 w-30-l mb4 bg-white"><div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <div class="f7 helvetica ttu tracked">
+  
+</div>
+    <h1 class="f3 near-black">
+      <a href="https://www.kiils.dk/erfaring/20230207-chatgpt-hjaelper-ordblind/" class="link black dim">
+        Chatgpt hjælper ordblind - eller gør den?
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      En ven som er ordblind ynder at deltage i den offentlige debat. Jeg forsøgte at få ChatGPT til at hjælpe ham.
+Der er lang vej endnu før ChatGPT kan hjælpe ordblinde ordentligt.
+Jeg startede med et ret langt afsnit som jeg bad ChatGPT rette stavefejl i:
+Andrew Tate er et symptom på det som er udfordring i vores samfund, når det handler om mænd og de udfordringer de står over. Så kan vi vælge at overser dem eller være ligeglad og henvise til at mænd altid har haft det nemmere fordi det er den må vi se på vores historie.
+    </div>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="relative w-100 w-30-l mb4 bg-white"><div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <div class="f7 helvetica ttu tracked">
+  
+</div>
+    <h1 class="f3 near-black">
+      <a href="https://www.kiils.dk/erfaring/2023-01-nushell-stripe/" class="link black dim">
+        Nushell og stripes API
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Nushell gør det nemt at interagere med API
+    </div>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="relative w-100 w-30-l mb4 bg-white"><div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <div class="f7 helvetica ttu tracked">
+  
+</div>
+    <h1 class="f3 near-black">
       <a href="https://www.kiils.dk/erfaring/nlp/chatgpt-google/" class="link black dim">
         Google risikerer at straffe folk som inkluderer ordblinde i den demokratiske debat
       </a>
@@ -711,64 +771,6 @@ Jeg har brugt en del tid på at finde et værktøj som kunne indeksere mine file
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       En fængende rubrik
-    </div>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="relative w-100 w-30-l mb4 bg-white"><div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <div class="f7 helvetica ttu tracked">
-  
-</div>
-    <h1 class="f3 near-black">
-      <a href="https://www.kiils.dk/erfaring/bedrifter/10000-tekster/" class="link black dim">
-        Jeg har skrevet over 10.000 tekster - her er den som betyder mest for mig selv
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Jeg har skrevet langt over 10.000 tekster. Og det er naturligvis ikke medregnet små grynt på facebook eller beskeder på SMS eller i Signal.
-Nej, det er 10.000 rigtige tekster.
-Heraf har jeg data på over 3000.
-Det med data er også vigtigt, for det giver mig mulighed for at finde frem til de virkemidler som har størst effekt.
-Men den tekst som betyder mest for mig selv, har jeg ingen data på.
-    </div>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="relative w-100 w-30-l mb4 bg-white"><div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <div class="f7 helvetica ttu tracked">
-  
-</div>
-    <h1 class="f3 near-black">
-      <a href="https://www.kiils.dk/erfaring/sikkerhed/pixelering/" class="link black dim">
-        Pixelering er ikke længere sikker sløring
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Brug ikke pixelering når tekst skal skjules
-    </div>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="relative w-100 w-30-l mb4 bg-white"><div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <div class="f7 helvetica ttu tracked">
-  
-</div>
-    <h1 class="f3 near-black">
-      <a href="https://www.kiils.dk/erfaring/noob/program-1/" class="link black dim">
-        Mit første computer-program nogensinde - kan du gennemskue hvad det gør?
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      
     </div>
   </div>
 </div>

@@ -95,5 +95,5 @@ custom_css = ["css/custom.css"]
 
 [module]
 [[module.mounts]]
-source = '/home/lk/Noter/ext/kii/'
+source = '/home/lk/Noter/x/kii/'
 target = 'content'

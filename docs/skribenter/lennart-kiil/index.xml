@@ -6,7 +6,105 @@
     <description>Recent content in Lennart Kiil on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/skribenter/lennart-kiil/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/skribenter/lennart-kiil/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>På baggrund af mine dagbogsoptegnelser bad jeg ChatGPT forudsige min fremtid - og fik en klump i halsen</title>
+      <link>https://www.kiils.dk/erfaring/jeg-gav-igen-chatgpt-adgang-til-min-dagbog-nu-kan-den-forudsige-min-fremtid/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/jeg-gav-igen-chatgpt-adgang-til-min-dagbog-nu-kan-den-forudsige-min-fremtid/</guid>
+      <description>ChatGPT er en stor sprogmodel.
+Hvad er det store sprogmodeller kan?
+Jo, de kan &amp;ldquo;forudsige&amp;rdquo; det næste ord, eller teknisk set den næste sekvens af tokens, ud fra det input man giver den (som den jo også &amp;ldquo;bare&amp;rdquo; omsætter til tokens i betydningsfuld rækkefølge).
+Så store sprogmodeller kan se mønstre og sammenhænge.
+At kunne se mønstre og sammenhænge er det samme som at kunne forudsige.
+Men kan ChatGPT forudsige fremtiden?</description>
+    </item>
+    
+    <item>
+      <title>Hvad er en stor sprogmodel</title>
+      <link>https://www.kiils.dk/erfaring/prompt-engineering/hvad-er-en-stor-sprogmodel/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/prompt-engineering/hvad-er-en-stor-sprogmodel/</guid>
+      <description>En stor sprogmodel er et program eller en kompleks funktion der forholder tekst til tekst. Det lyder meget abstrakt.
+Så hvad betyder det i praksis?
+En sprogmodel kan fodres med en sekvens af ord (eller orddele, kaldet tokens), altså en sætning eller et afsnit eller et længere stykke tekst som jo egentligt bare er ord og tegn i en bestemt rækkefølge, og derfra forsøge at forudsige det mest sandsynlige ord eller sekvens af ord der kommer efter.</description>
+    </item>
+    
+    <item>
+      <title>Hvorfor prompt engineering</title>
+      <link>https://www.kiils.dk/erfaring/prompt-engineering/hvorfor/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/prompt-engineering/hvorfor/</guid>
+      <description>Up above, we used an analogy of prompts as the “source code” that a language model “interprets”. Prompt engineering is the art of writing prompts to get the language model to do what we want it to do – just like software engineering is the art of writing source code to get computers to do what we want them to do.
+When writing good prompts, you have to account for the idiosyncrasies of the model(s) you’re working with.</description>
+    </item>
+    
+    <item>
+      <title>udenomssnak</title>
+      <link>https://www.kiils.dk/erfaring/prompt-engineering/udenomssnak/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/prompt-engineering/udenomssnak/</guid>
+      <description>Mig: fortæl mig om ordet gladiator
+ChatGPT giver så et langt svar hvor kun en enkelt sætning handler om ordet selv, mens 90 procent af svaret handler om det ordet betegner.
+Nu prøver jeg noget andet:
+Mig: Du er etymolog og ekspert i ords oprindelse. Du skal forklare mig hvor et ord stammer fra og hvordan det har udviklet sig sproghistorisk.
+ChatGPT: Selvfølgelig! Jeg hjælper gerne med at udforske et ords oprindelse og dets sproghistoriske udvikling.</description>
+    </item>
+    
+    <item>
+      <title>advanceret</title>
+      <link>https://www.kiils.dk/erfaring/prompt-engineering/advanceret/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/prompt-engineering/advanceret/</guid>
+      <description>Techniques to improve reliability
+When GPT-3 fails on a task, what should you do?
+Search for a better prompt that elicits more reliable answers? Invest in thousands of examples to fine-tune a custom model? Assume the model is incapable of the task, and move on? There is no simple answer - it depends. However, if your task involves logical reasoning or complexity, consider trying the techniques in this article to build more reliable, high-performing prompts.</description>
+    </item>
+    
+    <item>
+      <title>Hvor mange eksempler er nok til at den nye insert model fra OpenAI forstår hensigten</title>
+      <link>https://www.kiils.dk/erfaring/hvor-mange-eksempler-er-nok-til-at-den-nye-insert-model-fra-openai-forstar-hensigten/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/hvor-mange-eksempler-er-nok-til-at-den-nye-insert-model-fra-openai-forstar-hensigten/</guid>
+      <description>måge: gammeldansk maghæ, afledt af en lydefterlignende rod
+kriger: fra tysk Krieger, afledt af et ældre verbum krige &amp;lsquo;føre krig&amp;rsquo;
+gladiator: [insert]
+giver:
+fra latin gladiator, afledt af verbet gladius &amp;lsquo;sværd&amp;rsquo;
+Men hov, gladius er jo ikke et verbum.
+måge: gammeldansk maghæ, afledt af en lydefterlignende rod
+kriger: fra tysk Krieger, afledt af et ældre verbum krige &amp;lsquo;føre krig&amp;rsquo;
+bil: kendt fra 1902, afkortning af automobil
+gladiator: [insert]
+fra latin gladiator, afledt af gladius &amp;lsquo;sværd&amp;rsquo;</description>
+    </item>
+    
+    <item>
+      <title>Show and tell</title>
+      <link>https://www.kiils.dk/erfaring/prompt-engineering/show-and-tell/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/prompt-engineering/show-and-tell/</guid>
+      <description>I journalistik siger man ofte, show it, don&amp;rsquo;t tell it.
+Når det gælder</description>
+    </item>
+    
+    <item>
+      <title>System</title>
+      <link>https://www.kiils.dk/erfaring/prompt-engineering/system/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/prompt-engineering/system/</guid>
+      <description>Traditionally, GPT models consumed unstructured text. ChatGPT models instead expect a structured format, called Chat Markup Language (ChatML for short). ChatML documents consists of a sequence of messages. Each message contains a header (which today consists of who said it, but in the future will contain other metadata) and contents (which today is a text payload, but in the future will contain other datatypes).
+openai-python/chatml.md at main · openai/openai-python · GitHub ¶ Note: you need to be using OpenAI Python v0.</description>
+    </item>
+    
     <item>
       <title>Ægte individualiseret undervisning til alle med kunstig intelligens</title>
       <link>https://www.kiils.dk/erfaring/aegte-individualiseret-undervisning-til-alle-med-kunstig-intelligens/</link>
@@ -414,6 +512,16 @@ Jeg skrev blandt andet selv om at den tilgang ville kunne ramme ordblinde og dem
       <description>Først skriver vi teksten sådan her:
 Once upon a time, there was a small group of people who held all the power and wealth. The ruling class. They used their influence to control every aspect of society. They were always looking for ways to gain more power. And they saw artificial intelligence as the key to achieving their goals. Og gemmer den i filen markdown-tekstfil.md.
 For at se teksten med sætningerne på hver deres linje:</description>
+    </item>
+    
+    <item>
+      <title>Prompt engineering</title>
+      <link>https://www.kiils.dk/erfaring/prompt-engineering/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/erfaring/prompt-engineering/</guid>
+      <description>Prompt engineering er beskrivelsen af opgaven, som AI&amp;rsquo;en skal udføre, indlejret i inputtet, f.eks. som et spørgsmål, i stedet for at det udtrykkeligt er givet. Prompt engineering fungerer typisk ved at konvertere en eller flere opgaver til et prompt-baseret datasæt og træne en sprogmodel med det, der er blevet kaldt &amp;ldquo;prompt-baseret læring&amp;rdquo; eller bare &amp;ldquo;prompt læring&amp;rdquo;
+Test this little script Test dette lille script</description>
     </item>
     
     <item>
