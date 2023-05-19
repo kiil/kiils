@@ -6,7 +6,43 @@
     <description>Recent content in Tools on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-dk</language>
-    <lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guidance</title>
+      <link>https://www.kiils.dk/tools/guidance/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/guidance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jupyter Notebook</title>
+      <link>https://www.kiils.dk/tools/jupyter-notebook/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/jupyter-notebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nvim</title>
+      <link>https://www.kiils.dk/tools/nvim/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/nvim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://www.kiils.dk/tools/python/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/python/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ChatGPT</title>
       <link>https://www.kiils.dk/tools/chatgpt/</link>
@@ -18,15 +54,6 @@ GPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er ChatGPT anvende
 Modellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.
 Du kan finde inspiration til danske prompts her:
 Danske ChatGPT prompts </description>
-    </item>
-    
-    <item>
-      <title>nvim</title>
-      <link>https://www.kiils.dk/tools/nvim/</link>
-      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/tools/nvim/</guid>
-      <description></description>
     </item>
     
     <item>

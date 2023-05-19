@@ -86,9 +86,16 @@
     
     , 
     {
-        "url": "/tools/chatgpt/",
-        "title": "ChatGPT",
-        "content": "ChatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft.\nGPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er ChatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.\nModellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.\nDu kan finde inspiration til danske prompts her:\nDanske ChatGPT prompts "
+        "url": "/erfaring/brug-chatgpt-til-finde-data-i-ustruktureret-tekst/",
+        "title": "Brug ChatGPT til finde data i ustruktureret tekst",
+        "content": "Tænk hvis man havde en masse data i sine tekster. Tænk hvis disse data kunne trækkes ud og gøres tilgængelig for maskiner.\nDet kan GPT-modellerne.\nExtract keywords\nExtract named entitites\nHvilke personer omtales i teksten\nHvilke organisationer omtales i teksten\nEventuelt i spaCy format\nExtract any type of entity\n"
+    }
+    
+    , 
+    {
+        "url": "/cases/",
+        "title": "Cases",
+        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
     }
     
     , 
@@ -107,9 +114,30 @@
     
     , 
     {
-        "url": "/erfaring/jeg-gav-igen-chatgpt-adgang-til-min-dagbog-nu-kan-den-forudsige-min-fremtid/",
-        "title": "Jeg bad ChatGPT spå om min fremtid - svaret gav mig tårer i øjnene",
-        "content": "ChatGPT er en stor sprogmodel.\nHvad er det store sprogmodeller kan?\nJo, de kan \u0026ldquo;forudsige\u0026rdquo; det næste ord, eller teknisk set den næste sekvens af tokens, ud fra det input man giver den (som den jo også \u0026ldquo;bare\u0026rdquo; omsætter til tokens i betydningsfuld rækkefølge).\nSå store sprogmodeller kan se mønstre og sammenhænge.\nAt kunne se mønstre og sammenhænge er at kunne forudsige.\nMen kan ChatGPT forudsige fremtiden?\nMåske husker I at jeg gav ChatGPT adgang til min dagbog - det skulle jeg aldrig have gjort for noget tid siden.\nNu har jeg igen givet givet ChatGPT adgang til min dagbog. Men denne gange bare meget mere af den \u0026ndash; OpenAI har jo nu lovet mig at de ikke gemmer mine data mere end 30 dage.\nMen jeg gjorde også noget andet i denne omgang.\nI stedet for bare at give mig et månedligt referat, så bad jeg ChatGPT lave nogle fremtidige dagbogsoptegnelser.\nSå ChatGPT fik mine gamle dagbogsnotater som input og output skulle så skrives som mig på tidspunkter i fremtiden.\nHer er dens output\n# 2024-05-15 Data science-kursus\nStartede på et data science-kursus på Coursera i dag. Spændende at lære noget nyt og udvide mine færdigheder.\nAlexander har hjemmearbejde i dansk om ordsprog, og Olivia øver sig på sin guitar. Det er godt at se dem engagerede i deres skolearbejde og hobbies.\nJeg fik også løbet en tur i dag og føler mig godt tilpas.\n#uddannelse #hjemmeskole #hobby #løb\nSå om et år tager jeg et kursus i \u0026ldquo;science\u0026rdquo;. Spændende.\nOgså godt at vide at min datter på det tidspunkt er begyndt at spille guitar. Og hvilket hjemmearbejde jeg skal forberede mig på at min søn får med hjem fra skolen.\nJeg bad også ChatGPT gå længere frem, og her fik jeg en klump i halsen. For første gang lykkedes det ChatGPT at fremprovokere en følelse i mig.\nSe her:\n# 20NN-05-15 Besøg af gamle venner\nVi fik besøg af nogle gamle venner fra studietiden i København.\nDet var hyggeligt at se dem igen, selvom det var længe siden.\nAlexander og Olivia legede med deres børn i haven, og vi grillede.\n[\u0026hellip;]\n#venner #grill #hygge\nVi er nu fremme hvor jeg er bedstefar. Åbenbart.\nHvis ikke datoen skal passe, kan det også tolkes som om mine børn leger med mine venners børn.\nUanset hvad fik det gang i følelserne. Og skærpede min bevidsthed om at tiden går.\n"
+        "url": "/emner/finansiering/",
+        "title": "Finansiering",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/genrer/",
+        "title": "Genrer",
+        "content": "Genrer på Kiils\n"
+    }
+    
+    , 
+    {
+        "url": "/tools/guidance/",
+        "title": "Guidance",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/jupyter-notebook/",
+        "title": "Jupyter Notebook",
+        "content": ""
     }
     
     , 
@@ -121,9 +149,9 @@
     
     , 
     {
-        "url": "/emner/kunstig-intelligens/",
-        "title": "kunstig intelligens",
-        "content": ""
+        "url": "/cases/klimaleksikon/",
+        "title": "Klimaleksikon",
+        "content": "Her i 2023 fylder Klimaleksikon 15 år!\nKlimaleksikon er dermed Danmarks bedste og længstlevende side om klima .\nSiden er et samarbejde mellem mig og to andre naturfagsformidlere, Thomas Hesselberg og Mikkel Houmøller. Siden indeholder omkring 100 opslag på centrale emner inden for klima og klarer sig enormt godt i google-søgninger.\nSiden holdes løbende opdateret, og hundredetusinder af børn og unge har lært om klima og energi på siden.\nSidens brugere er overvejende børn i folkeskolens ældste klasser og unge på ungdomsuddannelserne.\nLærerne bruger aktivt Klimaleksikon i undervisningen, det ses blandt andet af de mange henvisninger fra diverse undervisningsplatforme:\nDesuden ser vi at Klimaleksikon hovedsageligt finder anvendelse inden for den almindelige undervisningstid:\nDer er en overvægt af piger hvilket er en smule atypisk for en side som i bund og grund er naturvidenskabeligt orienteret og skabt af naturfagsformidlere.\nMen det viser i hvert fald at interessen i naturvidenskab og teknologi er der fra den kant også når det overordnede emne blot er vedkommende nok.\nOpslagene, som er kerneindholdet på siden, er naturligvis skrevet i et tilgængeligt sprog som passer til målgruppen af unge mennesker. Men mange granvoksne har skam også glæde af siden. På en række af opslagene har vi nederst spørgsmål, som brugeren kan besvare og dermed få en fornemmelse af om man fået fat i de væsentligste oplysninger i teksten ovenfor.\nSiden er strengt apolitisk og faktuelt baseret. Det er en aftale jeg selv er glad for, da der er en stor lettelse i at være involveret i noget som er ent fakta-orienteret. Jeg nyder virkelig at have et frirum for politik og har derfor meget let ved at adskille Klimaleksikon fra mit øvrige virke.\n"
     }
     
     , 
@@ -131,6 +159,41 @@
         "url": "/skribenter/lennart-kiil/",
         "title": "Lennart Kiil",
         "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/llm/",
+        "title": "LLM",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaring/microsoft-lancerer-guidance-til-effektiv-styring-af-store-sprogmodeller/",
+        "title": "Microsoft lancerer Guidance til effektiv styring af store sprogmodeller",
+        "content": "Guidance, udviklet af Microsoft, giver dig mulighed for at kontrollere moderne store sprogmodeller mere effektivt end traditionelt med prompt engineering eller chaining.\nGuidance skal, som navnet antyder, bruges til at guide en sprogmodels output. Det gør Guidance ved at give mulighed for at strukturere både input, men også output gennem en skabelon.\nMere specifikt:\nGuidance giver dig mulighed for at sammenflette generering, meddelelser og logisk kontrol i et enkelt kontinuerligt flow der matcher hvordan sprogmodellen faktisk behandler teksten.\nFremkomsten af mere kraftfulde LLMer som GPT-4 giver mulighed for detaljeret struktur, og Guidance gør denne struktur nemmere og billigere at oprette og vedligeholde.\nSe mere her: microsoft/guidance: A guidance language for controlling large language models. "
+    }
+    
+    , 
+    {
+        "url": "/genrer/notits/",
+        "title": "Notits",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/nvim/",
+        "title": "nvim",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/python/",
+        "title": "python",
+        "content": ""
     }
     
     , 
@@ -149,15 +212,22 @@
     
     , 
     {
-        "url": "/cases/",
-        "title": "Cases",
-        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
+        "url": "/tools/chatgpt/",
+        "title": "ChatGPT",
+        "content": "ChatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft.\nGPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er ChatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.\nModellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.\nDu kan finde inspiration til danske prompts her:\nDanske ChatGPT prompts "
     }
     
     , 
     {
-        "url": "/emner/finansiering/",
-        "title": "Finansiering",
+        "url": "/erfaring/jeg-gav-igen-chatgpt-adgang-til-min-dagbog-nu-kan-den-forudsige-min-fremtid/",
+        "title": "Jeg bad ChatGPT spå om min fremtid - svaret gav mig tårer i øjnene",
+        "content": "ChatGPT er en stor sprogmodel.\nHvad er det store sprogmodeller kan?\nJo, de kan \u0026ldquo;forudsige\u0026rdquo; det næste ord, eller teknisk set den næste sekvens af tokens, ud fra det input man giver den (som den jo også \u0026ldquo;bare\u0026rdquo; omsætter til tokens i betydningsfuld rækkefølge).\nSå store sprogmodeller kan se mønstre og sammenhænge.\nAt kunne se mønstre og sammenhænge er at kunne forudsige.\nMen kan ChatGPT forudsige fremtiden?\nMåske husker I at jeg gav ChatGPT adgang til min dagbog - det skulle jeg aldrig have gjort for noget tid siden.\nNu har jeg igen givet givet ChatGPT adgang til min dagbog. Men denne gange bare meget mere af den \u0026ndash; OpenAI har jo nu lovet mig at de ikke gemmer mine data mere end 30 dage.\nMen jeg gjorde også noget andet i denne omgang.\nI stedet for bare at give mig et månedligt referat, så bad jeg ChatGPT lave nogle fremtidige dagbogsoptegnelser.\nSå ChatGPT fik mine gamle dagbogsnotater som input og output skulle så skrives som mig på tidspunkter i fremtiden.\nHer er dens output\n# 2024-05-15 Data science-kursus\nStartede på et data science-kursus på Coursera i dag. Spændende at lære noget nyt og udvide mine færdigheder.\nAlexander har hjemmearbejde i dansk om ordsprog, og Olivia øver sig på sin guitar. Det er godt at se dem engagerede i deres skolearbejde og hobbies.\nJeg fik også løbet en tur i dag og føler mig godt tilpas.\n#uddannelse #hjemmeskole #hobby #løb\nSå om et år tager jeg et kursus i \u0026ldquo;science\u0026rdquo;. Spændende.\nOgså godt at vide at min datter på det tidspunkt er begyndt at spille guitar. Og hvilket hjemmearbejde jeg skal forberede mig på at min søn får med hjem fra skolen.\nJeg bad også ChatGPT gå længere frem, og her fik jeg en klump i halsen. For første gang lykkedes det ChatGPT at fremprovokere en følelse i mig.\nSe her:\n# 20NN-05-15 Besøg af gamle venner\nVi fik besøg af nogle gamle venner fra studietiden i København.\nDet var hyggeligt at se dem igen, selvom det var længe siden.\nAlexander og Olivia legede med deres børn i haven, og vi grillede.\n[\u0026hellip;]\n#venner #grill #hygge\nVi er nu fremme hvor jeg er bedstefar. Åbenbart.\nHvis ikke datoen skal passe, kan det også tolkes som om mine børn leger med mine venners børn.\nUanset hvad fik det gang i følelserne. Og skærpede min bevidsthed om at tiden går.\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/kunstig-intelligens/",
+        "title": "kunstig intelligens",
         "content": ""
     }
     
@@ -173,20 +243,6 @@
         "url": "/erfaring/prompt-engineering/hvorfor/",
         "title": "Hvorfor prompt engineering",
         "content": "Up above, we used an analogy of prompts as the “source code” that a language model “interprets”. Prompt engineering is the art of writing prompts to get the language model to do what we want it to do – just like software engineering is the art of writing source code to get computers to do what we want them to do.\nWhen writing good prompts, you have to account for the idiosyncrasies of the model(s) you’re working with. The strategies will vary with the complexity of the tasks. You’ll have to come up with mechanisms to constrain the model to achieve reliable results, incorporate dynamic data that the model can’t be trained on, account for limitations in the model’s training data, design around context limits, and many other dimensions.\nThere’s an old adage that computers will only do what you tell them to do. Throw that advice out the window. Prompt engineering inverts this wisdom. It’s like programming in natural language against a non-deterministic computer that will do anything that you haven’t guided it away from doing.\nThere are two broad buckets that prompt engineering approaches fall into.\n"
-    }
-    
-    , 
-    {
-        "url": "/cases/klimaleksikon/",
-        "title": "Klimaleksikon",
-        "content": "Her i 2023 fylder Klimaleksikon 15 år!\nKlimaleksikon er dermed Danmarks bedste og længstlevende side om klima .\nSiden er et samarbejde mellem mig og to andre naturfagsformidlere, Thomas Hesselberg og Mikkel Houmøller. Siden indeholder omkring 100 opslag på centrale emner inden for klima og klarer sig enormt godt i google-søgninger.\nSiden holdes løbende opdateret, og hundredetusinder af børn og unge har lært om klima og energi på siden.\nSidens brugere er overvejende børn i folkeskolens ældste klasser og unge på ungdomsuddannelserne.\nLærerne bruger aktivt Klimaleksikon i undervisningen, det ses blandt andet af de mange henvisninger fra diverse undervisningsplatforme:\nDesuden ser vi at Klimaleksikon hovedsageligt finder anvendelse inden for den almindelige undervisningstid:\nDer er en overvægt af piger hvilket er en smule atypisk for en side som i bund og grund er naturvidenskabeligt orienteret og skabt af naturfagsformidlere.\nMen det viser i hvert fald at interessen i naturvidenskab og teknologi er der fra den kant også når det overordnede emne blot er vedkommende nok.\nOpslagene, som er kerneindholdet på siden, er naturligvis skrevet i et tilgængeligt sprog som passer til målgruppen af unge mennesker. Men mange granvoksne har skam også glæde af siden. På en række af opslagene har vi nederst spørgsmål, som brugeren kan besvare og dermed få en fornemmelse af om man fået fat i de væsentligste oplysninger i teksten ovenfor.\nSiden er strengt apolitisk og faktuelt baseret. Det er en aftale jeg selv er glad for, da der er en stor lettelse i at være involveret i noget som er ent fakta-orienteret. Jeg nyder virkelig at have et frirum for politik og har derfor meget let ved at adskille Klimaleksikon fra mit øvrige virke.\n"
-    }
-    
-    , 
-    {
-        "url": "/tools/nvim/",
-        "title": "nvim",
-        "content": ""
     }
     
     , 
@@ -593,13 +649,6 @@
         "url": "/erfaring/skriv-som-en-poet/del-9-tooling/",
         "title": "Ekstra værktøj til poet-teknikken",
         "content": "Først skriver vi teksten sådan her:\nOnce upon a time, there was a small group of people who held all the power and wealth. The ruling class. They used their influence to control every aspect of society. They were always looking for ways to gain more power. And they saw artificial intelligence as the key to achieving their goals. Og gemmer den i filen markdown-tekstfil.md.\nFor at se teksten med sætningerne på hver deres linje:\npandoc markdown-tekstfil.md -t plain --wrap=preserve For at se teksten med sætningerne samlet i afsnit:\npandoc markdown-tekstfil.md -t plain På den måde kan man hurtigt analysere sætninger og afsnit i sine markdown-filer visuelt, og også hurtigt se hvordan afsnittene tager sig ud i det færdige resultatet.\n"
-    }
-    
-    , 
-    {
-        "url": "/genrer/",
-        "title": "Genrer",
-        "content": "Genrer på Kiils\n"
     }
     
     , 
