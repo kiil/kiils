@@ -214,7 +214,7 @@
     {
         "url": "/tools/chatgpt/",
         "title": "ChatGPT",
-        "content": "ChatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft.\nGPT-3 er trænet hovedsaglig med engelsk tekst, men alligevel er ChatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.\nModellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.\nDu kan finde inspiration til danske prompts her:\nDanske ChatGPT prompts "
+        "content": "ChatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft. Modellen som ChatGPT bygger på, kaldes gpt-3.5-turbo i OpenAIs API.\nChatGPT er trænet hovedsaglig med engelsk tekst, men alligevel er ChatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.\nModellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.\nDu kan finde inspiration til danske prompts her:\nDanske ChatGPT prompts Og på den her sidde kan du finde masser af inspiration og erfaringer med ChatGPT.\n"
     }
     
     , 
