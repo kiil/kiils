@@ -32,7 +32,12 @@
                 href="https://www.kiils.dk/en/emner/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/en/chatgpt-glorified-markov-chain/</loc>
+    <loc>https://www.kiils.dk/en/xp/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/en/xp/chatgpt-glorified-markov-chain/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -192,7 +197,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/en/servicebot-is-great/</loc>
+    <loc>https://www.kiils.dk/en/xp/servicebot-is-great/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -230,7 +235,7 @@
                 href="https://www.kiils.dk/en/brands/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/en/climate-encyclopedia/</loc>
+    <loc>https://www.kiils.dk/en/domains/climate-encyclopedia/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -248,8 +253,32 @@
                 href="https://www.kiils.dk/en/cm/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/en/folkets/</loc>
+    <loc>https://www.kiils.dk/en/domains/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/domains/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/domains/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/en/domains/folkets/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/domains/folkets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/domains/folkets/"
+                />
   </url>
 </urlset>

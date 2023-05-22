@@ -1,0 +1,129 @@
+{{ define "header" }}{{ partial "index-header.html" . }}{{ end }}
+{{ define "main" }}
+<div class="mw9 center">
+<article class="cf pa4-l pv3 pb1-l">
+  {{ .Content }}
+</article>
+<article class="pa2 pa5-ns" data-name="slab-stat-large">
+  <div class="cf">
+    <dl class="dib w-auto lh-title mr4 mr5-ns">
+      <dd class="f6 fw4 ml0">Years of experience</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">{{ sub ( int ( now.Format "2006" )) 2001 }}</dd>
+    </dl>
+    <dl class="dib w-auto lh-title mr4 mr5-ns">
+      <dd class="f6 fw4 ml0">Texts produced</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">{{ add 11340 (len .Site.Pages) }}</dd>
+    </dl>
+    {{/* COMMENT OUT START
+    <dl class="dib w-auto lh-title">
+      <dd class="f6 fw4 ml0">Ydelser</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">{{ len (where .Site.Pages "Type" "ydelse" )  }}</dd>
+    </dl>
+    <dl class="db dib-l w-auto-l lh-title mr6-l">
+      <dd class="f6 fw4 ml0">Relevante emner</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">{{ len .Site.Taxonomies.emner }}</dd>
+    </dl>
+    <dl class="db dib-l w-auto-l lh-title mr6-l">
+      <dd class="f6 fw4 ml0">Effektive værktøjer</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">{{ len .Site.Taxonomies.tools }}</dd>
+    </dl>
+    <dl class="db dib-l w-auto-l lh-title mr6-l">
+      <dd class="f6 fw4 ml0">Tilfredse kunder</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">{{ len (where .Site.Pages "Type" "kunde" )  }}</dd>
+    </dl>
+    <dl class="db dib-l w-auto-l lh-title mr6-l">
+      <dd class="f6 fw4 ml0">Gjorte erfaringer</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">{{ len (where .Site.Pages "Type" "erfaring" )  }}</dd>
+    </dl>
+    <dl class="db dib-l w-auto-l lh-title mr6-l">
+      <dd class="f6 fw4 ml0">Interessante cases</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">{{ len .Site.Taxonomies.cases }}</dd>
+    </dl>
+    COMMENT OUT END */}}
+  </div>
+</article>
+
+
+
+
+
+    {{/* COMMENT OUT START
+<div class="flex-column-s flex-column-m flex-l justify-between-l">
+
+
+  <div class="w-100 w-half-l pt4 pa4-l">
+    <h4 class="mt0 mb2 tracked ttu">Udvalgte ydelser</h4>
+    <ul class="list pl0">
+      {{- range first 3 (where .Site.Pages "Type" "ydelse") -}} 
+      <li class="f4 pt3 pb3 measure-narrow lh-title">
+
+        <a href="{{ .Page.RelPermalink }}" class="link f3">{{ .Page.Title }}</a>
+       </li>
+      {{- end -}}
+    </ul>
+  </div>
+</div>
+    COMMENT OUT END */}}
+
+<hr class="ml0 ml4-l mb5 mb6-l mw5 bb bw2 b--black-70">
+
+<div class="flex-column-s flex-column-m flex-l justify-between-l">
+
+  <div class="w-100 w-third-l pt4 pa4-l">
+    <h5 class="mt0 mb2 tracked ttu">Senest</h5>
+    <ul class="list pl0">
+      {{ range first 2 (where .Site.Pages.ByDate.Reverse "Type" "xp") }}
+      <li class="f4 pt3 pb3 measure-narrow lh-title">
+
+        <a href="{{ .Page.RelPermalink }}" class="link">{{ .Page.Title }}</a>
+        <div class="f7 fw4 mt1 mb0 black-60"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+            {{- .Date.Format "02/01/2006" -}}
+          </time>
+        </div>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+
+    {{/* COMMENT OUT START
+  <div class="w-100 w-third-l pt4 pa4-l">
+    <h5 class="mt0 mb2 tracked ttu">Featured</h5>
+    <ul class="list pl0">
+      {{ range .Site.Taxonomies.cm.featured }}
+      <li class="f4 pt3 pb3 measure-narrow lh-title">
+        <a href="{{ .Page.RelPermalink }}" class="link">{{ .Page.Title }}</a>
+        <div class="f6 fw4 mt1 mb0 black-60">{{ .Summary  }}</div>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+    COMMENT OUT END */}}
+
+
+  <div class="w-100 w-third-l pt4 pa4-l">
+    <h5 class="mt0 mb2 tracked ttu">Long read</h5>
+    <ul class="list pl0">
+
+
+      {{ range first 2 (where .Site.Pages.ByLength.Reverse "Params.show_reading_time" true) }}
+
+
+
+      <li class="f4 pt3 pb3 measure-narrow lh-title">
+
+        <a href="{{ .Page.RelPermalink }}" class="link">{{ .Page.Title }}</a>
+        <div class="f6 fw4 mt1 mb0 black-60">{{ i18n "readingTime" .ReadingTime}}</div>
+      </li>
+
+      {{ end }}
+
+    </ul>
+  </div>
+
+
+
+
+</div>
+  
+</div>
+{{ end }}

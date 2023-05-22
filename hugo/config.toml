@@ -15,7 +15,7 @@ weight = 1
 contentDir = '/home/lk/Noter/x/kii/en/'
 languageCode = 'en'
 [languages.en.params]
-slogan = "Be so kind"
+slogan = "Intelligence Language Soul"
 linkedin = "https://www.linkedin.com/company/kiils/"
 
 [languages.da]
@@ -28,7 +28,7 @@ languageCode = 'da'
 # images = ['venlig.png']
 description = "Vær så venlig"
 summary = "Vær så venlig"
-slogan = "Vær så venlig"
+slogan = "Intelligens Sprog Sjæl"
 languageName = "Dansk 🇩🇰"
 linkedin = "https://www.linkedin.com/company/kiils/"
 [languages.da.params.navigation]
