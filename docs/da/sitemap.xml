@@ -91,16 +91,6 @@
     <lastmod>2023-05-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/erfaring/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/erfaring/"
-                />
   </url><url>
     <loc>https://www.kiils.dk/emner/finansiering/</loc>
     <lastmod>2023-05-18T00:00:00+00:00</lastmod>
@@ -1477,30 +1467,10 @@
     <loc>https://www.kiils.dk/domains/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/domains/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/domains/"
-                />
   </url><url>
     <loc>https://www.kiils.dk/domains/folkets/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/domains/folkets/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/domains/folkets/"
-                />
   </url><url>
     <loc>https://www.kiils.dk/personas/</loc>
     <changefreq>monthly</changefreq>

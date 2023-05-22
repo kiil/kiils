@@ -1,33 +1,29 @@
 baseURL = "https://www.kiils.dk/"
-languageCode = "da-dk"
 title = "Kiils — vær så venlig"
 theme = "ananke"
 
-
-MetaDataFormat = "toml"
-DefaultContentLanguage = "da"
-footnoteReturnLinkContents = "<sup>[retur]</sup>"
-# SectionPagesMenu = "main"
-Paginate = 24 # this is set low for demonstrating with dummy content. Set to a higher number
-# googleAnalytics = "UA-89827484-1"
-enableRobotsTXT = true
-enableEmoji = true
-
-disablePathToLower = false
+languageCode = "da-dk"
+defaultContentLanguage = 'da'
 
 [languages]
+
+
 [languages.en]
 title = "Kiils"
 languageName = "English 🇺🇸"
 weight = 1
+contentDir = '/home/lk/Noter/x/kii/en/'
+languageCode = 'en'
 [languages.en.params]
 slogan = "Be so kind"
-languageName = "English 🇺🇸"
 linkedin = "https://www.linkedin.com/company/kiils/"
+
 [languages.da]
+contentDir = '/home/lk/Noter/x/kii/da/'
 title = "Kiils"
 languageName = "Dansk 🇩🇰"
 weight = 2
+languageCode = 'da'
 [languages.da.params]
 # images = ['venlig.png']
 description = "Vær så venlig"
@@ -37,6 +33,16 @@ languageName = "Dansk 🇩🇰"
 linkedin = "https://www.linkedin.com/company/kiils/"
 [languages.da.params.navigation]
 help = "Aide"
+
+MetaDataFormat = "toml"
+footnoteReturnLinkContents = "<sup>[retur]</sup>"
+# SectionPagesMenu = "main"
+Paginate = 24 # this is set low for demonstrating with dummy content. Set to a higher number
+# googleAnalytics = "UA-89827484-1"
+enableRobotsTXT = true
+enableEmoji = true
+
+disablePathToLower = false
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -92,8 +98,3 @@ background_color_class = "bg-near-black"
 # featured_image = "/images/gohugo-default-sample-hero-image.jpg"
 recent_posts_number = 3
 custom_css = ["css/custom.css"]
-
-[module]
-[[module.mounts]]
-source = '/home/lk/Noter/x/kii/'
-target = 'content'
