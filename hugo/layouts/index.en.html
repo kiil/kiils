@@ -77,7 +77,7 @@
 
         <a href="{{ .Page.RelPermalink }}" class="link">{{ .Page.Title }}</a>
         <div class="f7 fw4 mt1 mb0 black-60"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-            {{- .Date.Format "02/01/2006" -}}
+            {{ .Date | time.Format ":date_long" }}
           </time>
         </div>
       </li>
