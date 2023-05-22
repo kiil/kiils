@@ -2,8 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.kiils.dk/en/emner/artificial-intelligence/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/en/tools/chatgpt/</loc>
-    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -18,7 +23,7 @@
                 />
   </url><url>
     <loc>https://www.kiils.dk/en/emner/</loc>
-    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -33,17 +38,17 @@
                 />
   </url><url>
     <loc>https://www.kiils.dk/en/xp/</loc>
-    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/en/xp/chatgpt-glorified-markov-chain/</loc>
-    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+    <loc>https://www.kiils.dk/en/xp/how-chatgpt-made-my-surly-son-laugh/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/en/</loc>
-    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -56,6 +61,61 @@
                 hreflang="en"
                 href="https://www.kiils.dk/en/"
                 />
+  </url><url>
+    <loc>https://www.kiils.dk/en/skribenter/lennart-kiil/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/skribenter/lennart-kiil/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/skribenter/lennart-kiil/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/en/tools/marvin/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/en/skribenter/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/skribenter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/skribenter/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/en/tools/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/tools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/tools/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/en/xp/chatgpt-glorified-markov-chain/</loc>
+    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/en/emner/kunstig-intelligens/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
@@ -70,21 +130,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.kiils.dk/en/emner/kunstig-intelligens/"
-                />
-  </url><url>
-    <loc>https://www.kiils.dk/en/skribenter/lennart-kiil/</loc>
-    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/skribenter/lennart-kiil/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/skribenter/lennart-kiil/"
                 />
   </url><url>
     <loc>https://www.kiils.dk/en/emner/nlp/</loc>
@@ -102,40 +147,10 @@
                 href="https://www.kiils.dk/en/emner/nlp/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/en/skribenter/</loc>
-    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/skribenter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/skribenter/"
-                />
-  </url><url>
     <loc>https://www.kiils.dk/en/emner/tekstskabelse/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/en/tools/</loc>
-    <lastmod>2023-01-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/tools/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/tools/"
-                />
   </url><url>
     <loc>https://www.kiils.dk/en/emner/billing/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
