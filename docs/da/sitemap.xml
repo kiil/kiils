@@ -1585,6 +1585,16 @@
     <loc>https://www.kiils.dk/search/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/search/"
+                />
   </url><url>
     <loc>https://www.kiils.dk/kunde/ugeskrift-for-l%C3%A6ger/</loc>
     <changefreq>monthly</changefreq>
