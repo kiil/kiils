@@ -41,6 +41,16 @@
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/erfaring/chatgpt-skal-promptes-ordentligt-men-det-skal-mennesker-jo-ogsa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/xp/humans-should-also-be-prompted-properly/"
+                />
   </url><url>
     <loc>https://www.kiils.dk/en/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
