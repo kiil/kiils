@@ -37,6 +37,26 @@
                 href="https://www.kiils.dk/en/emner/"
                 />
   </url><url>
+    <loc>https://www.kiils.dk/en/tools/fontforge/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/en/genrer/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/genrer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/genrer/"
+                />
+  </url><url>
     <loc>https://www.kiils.dk/en/xp/humans-should-also-be-prompted-properly/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -82,6 +102,11 @@
                 href="https://www.kiils.dk/en/skribenter/lennart-kiil/"
                 />
   </url><url>
+    <loc>https://www.kiils.dk/en/xp/merging-an-emoji-font-into-a-text-font/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/en/skribenter/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -96,6 +121,11 @@
                 hreflang="en"
                 href="https://www.kiils.dk/en/skribenter/"
                 />
+  </url><url>
+    <loc>https://www.kiils.dk/en/genrer/tips-tricks/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/en/tools/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
@@ -117,12 +147,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/en/xp/how-chatgpt-made-my-surly-son-laugh/</loc>
+    <loc>https://www.kiils.dk/en/tools/marvin/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/en/tools/marvin/</loc>
+    <loc>https://www.kiils.dk/en/xp/how-chatgpt-made-my-surly-son-laugh/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -200,21 +230,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.kiils.dk/en/cases/folkets/"
-                />
-  </url><url>
-    <loc>https://www.kiils.dk/en/genrer/</loc>
-    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/genrer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/genrer/"
                 />
   </url><url>
     <loc>https://www.kiils.dk/en/emner/payment/</loc>

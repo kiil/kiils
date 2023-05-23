@@ -5,23 +5,26 @@
 
 
 
+{{ $font := resources.Get "fonts/t.ttf" }}
 {{ $image := resources.Get "/images/canvas.png"}}
 {{if ge (len .Title) 20}}
 {{ $image = $image.Filter (images.Text .Title (dict
     "color" "#ffffff"
-    "size" 90
+    "size" 100
     "linespacing" 12
     "x" 80
     "y" 70
+    "font" $font
 ))}}
  {{end}}
 {{if lt (len .Title) 20}}
 {{ $image = $image.Filter (images.Text .Title (dict
     "color" "#ffffff"
-    "size" 120
+    "size" 140
     "linespacing" 12
     "x" 80
     "y" 70
+    "font" $font
 ))}}
  {{end}}
 

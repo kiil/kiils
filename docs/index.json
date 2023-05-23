@@ -86,6 +86,13 @@
     
     , 
     {
+        "url": "/cases/",
+        "title": "Cases",
+        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
+    }
+    
+    , 
+    {
         "url": "/tools/chatgpt/",
         "title": "ChatGPT",
         "content": "ChatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft. Modellen som ChatGPT bygger på, kaldes gpt-3.5-turbo i OpenAIs API.\nChatGPT er trænet hovedsaglig med engelsk tekst, men alligevel er ChatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.\nModellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.\nDu kan finde inspiration til danske prompts her:\nDanske ChatGPT prompts Og på den her sidde kan du finde masser af inspiration og erfaringer med ChatGPT.\n"
@@ -114,9 +121,23 @@
     
     , 
     {
+        "url": "/emner/finansiering/",
+        "title": "Finansiering",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/genrer/",
         "title": "Genrer",
         "content": "Genrer på Kiils\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaring/giv-noget-af-dig-selv-til-chatgpt/",
+        "title": "Giv noget af dig selv til ChatGPT",
+        "content": "Ved at eksponere mere af din egen psykologi og perspektiv giver du AI\u0026rsquo;en flere muligheder for at engagere sig i dine tanker og følelser.\nGivet ChatGPT adgang til min dagbog og fortalt den om mine børns interesser\n"
     }
     
     , 
@@ -135,6 +156,13 @@
     
     , 
     {
+        "url": "/cases/klimaleksikon/",
+        "title": "Klimaleksikon",
+        "content": "Her i 2023 fylder Klimaleksikon 15 år!\nKlimaleksikon er dermed Danmarks bedste og længstlevende side om klima .\nSiden er et samarbejde mellem mig og to andre naturfagsformidlere, Thomas Hesselberg og Mikkel Houmøller. Siden indeholder omkring 100 opslag på centrale emner inden for klima og klarer sig enormt godt i google-søgninger.\nSiden holdes løbende opdateret, og hundredetusinder af børn og unge har lært om klima og energi på siden.\nSidens brugere er overvejende børn i folkeskolens ældste klasser og unge på ungdomsuddannelserne.\nLærerne bruger aktivt Klimaleksikon i undervisningen, det ses blandt andet af de mange henvisninger fra diverse undervisningsplatforme:\nDesuden ser vi at Klimaleksikon hovedsageligt finder anvendelse inden for den almindelige undervisningstid:\nDer er en overvægt af piger hvilket er en smule atypisk for en side som i bund og grund er naturvidenskabeligt orienteret og skabt af naturfagsformidlere.\nMen det viser i hvert fald at interessen i naturvidenskab og teknologi er der fra den kant også når det overordnede emne blot er vedkommende nok.\nOpslagene, som er kerneindholdet på siden, er naturligvis skrevet i et tilgængeligt sprog som passer til målgruppen af unge mennesker. Men mange granvoksne har skam også glæde af siden. På en række af opslagene har vi nederst spørgsmål, som brugeren kan besvare og dermed få en fornemmelse af om man fået fat i de væsentligste oplysninger i teksten ovenfor.\nSiden er strengt apolitisk og faktuelt baseret. Det er en aftale jeg selv er glad for, da der er en stor lettelse i at være involveret i noget som er ent fakta-orienteret. Jeg nyder virkelig at have et frirum for politik og har derfor meget let ved at adskille Klimaleksikon fra mit øvrige virke.\n"
+    }
+    
+    , 
+    {
         "url": "/emner/kunstig-intelligens/",
         "title": "kunstig intelligens",
         "content": ""
@@ -149,6 +177,13 @@
     
     , 
     {
+        "url": "/tools/nvim/",
+        "title": "nvim",
+        "content": ""
+    }
+    
+    , 
+    {
         "url": "/genrer/overvejelser/",
         "title": "Overvejelser",
         "content": ""
@@ -158,6 +193,13 @@
     {
         "url": "/skribenter/",
         "title": "Skribenter",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaring/test/",
+        "title": "test der er 😘 tre 🍖 fe 🤗❤️🐾🐶👧",
         "content": ""
     }
     
@@ -177,20 +219,6 @@
     
     , 
     {
-        "url": "/cases/",
-        "title": "Cases",
-        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
-    }
-    
-    , 
-    {
-        "url": "/emner/finansiering/",
-        "title": "Finansiering",
-        "content": ""
-    }
-    
-    , 
-    {
         "url": "/tools/guidance/",
         "title": "Guidance",
         "content": ""
@@ -201,13 +229,6 @@
         "url": "/tools/jupyter-notebook/",
         "title": "Jupyter Notebook",
         "content": ""
-    }
-    
-    , 
-    {
-        "url": "/cases/klimaleksikon/",
-        "title": "Klimaleksikon",
-        "content": "Her i 2023 fylder Klimaleksikon 15 år!\nKlimaleksikon er dermed Danmarks bedste og længstlevende side om klima .\nSiden er et samarbejde mellem mig og to andre naturfagsformidlere, Thomas Hesselberg og Mikkel Houmøller. Siden indeholder omkring 100 opslag på centrale emner inden for klima og klarer sig enormt godt i google-søgninger.\nSiden holdes løbende opdateret, og hundredetusinder af børn og unge har lært om klima og energi på siden.\nSidens brugere er overvejende børn i folkeskolens ældste klasser og unge på ungdomsuddannelserne.\nLærerne bruger aktivt Klimaleksikon i undervisningen, det ses blandt andet af de mange henvisninger fra diverse undervisningsplatforme:\nDesuden ser vi at Klimaleksikon hovedsageligt finder anvendelse inden for den almindelige undervisningstid:\nDer er en overvægt af piger hvilket er en smule atypisk for en side som i bund og grund er naturvidenskabeligt orienteret og skabt af naturfagsformidlere.\nMen det viser i hvert fald at interessen i naturvidenskab og teknologi er der fra den kant også når det overordnede emne blot er vedkommende nok.\nOpslagene, som er kerneindholdet på siden, er naturligvis skrevet i et tilgængeligt sprog som passer til målgruppen af unge mennesker. Men mange granvoksne har skam også glæde af siden. På en række af opslagene har vi nederst spørgsmål, som brugeren kan besvare og dermed få en fornemmelse af om man fået fat i de væsentligste oplysninger i teksten ovenfor.\nSiden er strengt apolitisk og faktuelt baseret. Det er en aftale jeg selv er glad for, da der er en stor lettelse i at være involveret i noget som er ent fakta-orienteret. Jeg nyder virkelig at have et frirum for politik og har derfor meget let ved at adskille Klimaleksikon fra mit øvrige virke.\n"
     }
     
     , 
@@ -228,13 +249,6 @@
     {
         "url": "/genrer/notits/",
         "title": "Notits",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/nvim/",
-        "title": "nvim",
         "content": ""
     }
     
