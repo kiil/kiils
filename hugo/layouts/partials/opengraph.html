@@ -10,7 +10,7 @@
 {{if ge (len .Title) 20}}
 {{ $image = $image.Filter (images.Text .Title (dict
     "color" "#ffffff"
-    "size" 100
+    "size" 80
     "linespacing" 12
     "x" 80
     "y" 70
@@ -20,7 +20,7 @@
 {{if lt (len .Title) 20}}
 {{ $image = $image.Filter (images.Text .Title (dict
     "color" "#ffffff"
-    "size" 140
+    "size" 120
     "linespacing" 12
     "x" 80
     "y" 70
