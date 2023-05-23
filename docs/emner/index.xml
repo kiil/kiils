@@ -44,15 +44,6 @@
     </item>
     
     <item>
-      <title>nlp</title>
-      <link>https://www.kiils.dk/emner/nlp/</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/emner/nlp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>læring</title>
       <link>https://www.kiils.dk/emner/l%C3%A6ring/</link>
       <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
@@ -184,6 +175,15 @@
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.kiils.dk/emner/inklusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nlp</title>
+      <link>https://www.kiils.dk/emner/nlp/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/emner/nlp/</guid>
       <description></description>
     </item>
     

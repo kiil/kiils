@@ -262,58 +262,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/prompt-engineering/hvad-er-en-stor-sprogmodel/</loc>
-    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/erfaring/prompt-engineering/hvorfor/</loc>
-    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/erfaring/prompt-engineering/udenomssnak/</loc>
-    <lastmod>2023-05-16T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/erfaring/prompt-engineering/advanceret/</loc>
-    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/tools/gpt/</loc>
-    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.kiils.dk/erfaring/hvor-mange-eksempler-er-nok-til-at-den-nye-insert-model-fra-openai-forstar-hensigten/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/emner/nlp/</loc>
-    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/emner/nlp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/emner/nlp/"
-                />
-  </url><url>
-    <loc>https://www.kiils.dk/erfaring/prompt-engineering/show-and-tell/</loc>
-    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/erfaring/prompt-engineering/system/</loc>
-    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <loc>https://www.kiils.dk/tools/gpt/</loc>
+    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -572,11 +527,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/prompt-engineering/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.kiils.dk/genrer/serie/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -696,6 +646,21 @@
     <lastmod>2023-01-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/emner/nlp/</loc>
+    <lastmod>2023-01-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/emner/nlp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/emner/nlp/"
+                />
   </url><url>
     <loc>https://www.kiils.dk/tools/dall-e/</loc>
     <lastmod>2023-01-13T00:00:00+00:00</lastmod>
