@@ -60,7 +60,7 @@
     {
         "url": "/en/xp/merging-an-emoji-font-into-a-text-font/",
         "title": "Merging an emoji 😘 font into a text font ❤️",
-        "content": "I wanted to use Noto Sans with Noto Emoji for making an image overlay text in Hugo.\nAt first the emoji font was much larger than the text font.\nIn my case it only worked properly when\nOpening the text font first with \u0026lsquo;File -\u0026gt; Open File\u0026rsquo;. Then for \u0026lsquo;Element -\u0026gt; Font Info\u0026rsquo; under \u0026lsquo;General\u0026rsquo; setting \u0026lsquo;Em Size\u0026rsquo; to 2048. Now using \u0026lsquo;Element -\u0026gt; Merge Fonts\u0026rsquo; on the emoji font to merge the two. Finally creating the merged font file with \u0026lsquo;File -\u0026gt; Generate Fonts\u0026rsquo;. "
+        "content": "I wanted to use the font Noto Sans with the Noto Emoji font for making an image overlay text in Hugo.\nI used Fontforge to merge the two fonts.\nAt first the emoji font was much larger than the text font.\nIn my case it only worked properly when\nOpening the text font first with \u0026lsquo;File -\u0026gt; Open File\u0026rsquo;. Then for \u0026lsquo;Element -\u0026gt; Font Info\u0026rsquo; under \u0026lsquo;General\u0026rsquo; setting \u0026lsquo;Em Size\u0026rsquo; to 2048. Now using \u0026lsquo;Element -\u0026gt; Merge Fonts\u0026rsquo; on the emoji font to merge the two. Finally creating the merged font file with \u0026lsquo;File -\u0026gt; Generate Fonts\u0026rsquo;. "
     }
     
     , 
