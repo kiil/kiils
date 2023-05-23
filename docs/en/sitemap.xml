@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.kiils.dk/en/emner/artificial-intelligence/</loc>
-    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/en/tools/chatgpt/</loc>
-    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -23,7 +23,7 @@
                 />
   </url><url>
     <loc>https://www.kiils.dk/en/emner/</loc>
-    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -37,13 +37,13 @@
                 href="https://www.kiils.dk/en/emner/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/en/xp/how-chatgpt-made-my-surly-son-laugh/</loc>
-    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+    <loc>https://www.kiils.dk/en/xp/humans-should-also-be-prompted-properly/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/en/</loc>
-    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -58,7 +58,7 @@
                 />
   </url><url>
     <loc>https://www.kiils.dk/en/skribenter/lennart-kiil/</loc>
-    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -72,13 +72,8 @@
                 href="https://www.kiils.dk/en/skribenter/lennart-kiil/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/en/tools/marvin/</loc>
-    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.kiils.dk/en/skribenter/</loc>
-    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -93,7 +88,7 @@
                 />
   </url><url>
     <loc>https://www.kiils.dk/en/tools/</loc>
-    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -108,6 +103,16 @@
                 />
   </url><url>
     <loc>https://www.kiils.dk/en/xp/</loc>
+    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/en/xp/how-chatgpt-made-my-surly-son-laugh/</loc>
+    <lastmod>2023-05-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/en/tools/marvin/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
