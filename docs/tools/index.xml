@@ -6,7 +6,19 @@
     <description>Recent content in Tools on Kiils</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da</language>
-    <lastBuildDate>Thu, 18 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT</title>
+      <link>https://www.kiils.dk/tools/chatgpt/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/tools/chatgpt/</guid>
+      <description>ChatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft. Modellen som ChatGPT bygger på, kaldes gpt-3.5-turbo i OpenAIs API.
+ChatGPT er trænet hovedsaglig med engelsk tekst, men alligevel er ChatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.
+Modellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.
+Du kan finde inspiration til danske prompts her:</description>
+    </item>
+    
     <item>
       <title>Guidance</title>
       <link>https://www.kiils.dk/tools/guidance/</link>
@@ -41,18 +53,6 @@
       
       <guid>https://www.kiils.dk/tools/python/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>ChatGPT</title>
-      <link>https://www.kiils.dk/tools/chatgpt/</link>
-      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.kiils.dk/tools/chatgpt/</guid>
-      <description>ChatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft. Modellen som ChatGPT bygger på, kaldes gpt-3.5-turbo i OpenAIs API.
-ChatGPT er trænet hovedsaglig med engelsk tekst, men alligevel er ChatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.
-Modellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.
-Du kan finde inspiration til danske prompts her:</description>
     </item>
     
     <item>

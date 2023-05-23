@@ -86,16 +86,16 @@
     
     , 
     {
-        "url": "/erfaring/brug-chatgpt-til-finde-data-i-ustruktureret-tekst/",
-        "title": "Brug ChatGPT til finde data i ustruktureret tekst",
-        "content": "Tænk hvis man havde en masse data i sine tekster. Tænk hvis disse data kunne trækkes ud og gøres tilgængelig for maskiner.\nDet kan GPT-modellerne.\nExtract keywords\nExtract named entitites\nHvilke personer omtales i teksten\nHvilke organisationer omtales i teksten\nEventuelt i spaCy format\nExtract any type of entity\n"
+        "url": "/tools/chatgpt/",
+        "title": "ChatGPT",
+        "content": "ChatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft. Modellen som ChatGPT bygger på, kaldes gpt-3.5-turbo i OpenAIs API.\nChatGPT er trænet hovedsaglig med engelsk tekst, men alligevel er ChatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.\nModellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.\nDu kan finde inspiration til danske prompts her:\nDanske ChatGPT prompts Og på den her sidde kan du finde masser af inspiration og erfaringer med ChatGPT.\n"
     }
     
     , 
     {
-        "url": "/cases/",
-        "title": "Cases",
-        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
+        "url": "/erfaring/chatgpt-skal-promptes-ordenrligt-men-det-skal-mennesker-jo-ogsa/",
+        "title": "ChatGPT skal promptes ordenrligt - men det skal mennesker jo også",
+        "content": "Den anden dag lagde jeg et par linjer op på facebook.\nMin hensigt var at pege på det kan kalder perspektiv - at en sag kan ses fra flere vinkler.\nKonkret drejede det sig om Store Bededag og de mange andre mere eller mindre officielle Hellig- og fridage som foråret byder på.\nMin pointe var at disse for en selvstændig som arbejder hjemmefra godt kunne opfattes som afbrydelser. Som en slags forstyrrelser.\nDer kom mange reaktioner, som man jo nu kalder det, på mit opslag.\nNogle anførte at de mange små mini-ferier i foråret var et velkomment afbræk fra livet som lønmodtager i hamsterhjulet.\nOg, ja. Det var jo netop et andet perspektiv end det jeg selv havde fremlagt. Og et perspektiv som jeg sagtens kan forholde mig til selvom jeg ikke er selvstændig. Jeg kan godt sætte mig i andre situation hvis jeg er opmærksom på den.\nDer kom også en række andre reaktioner som var af en lidt anden type.\nDet var reaktioner som mindede mig om den måde de store sprogmodeller fungerer på.\nFor det var reaktioner som tog brudstykker af det jeg lagde op, og arbejde videre med disse brudstykker. Og nærmest begyndte at udlede andre ting end det jeg egentligt havde skrevet.\nNår sprogmodellerne gør det, så siger vi at de \u0026ldquo;hallucinerer\u0026rdquo;.\nDet lyder ikke pænt at sige om mennesker at de hallucinerer når de måske lægger lidt meget ind i noget man skriver eller tolker lidt rigeligt meget ud af det.\nMen det er klart eksempler på hvad der sker når man ikke forholder sig disciplineret til andres ord.\nSå bliver det ofte noget fri association.\nMan kan reducere \u0026ldquo;risikoen\u0026rdquo; for at en samtale bliver præget for meget af fri association, ligesom man kan give den retning og sammenhæng.\nDen slags er ingen garanti for at samtalen ikke glider af sporet og havner et helt andet sted end den begyndte. Men man mindsker risikoen for det.\nMen husk også på dette:\nDen almindelige daglige samtale beror netop på at modparten byder ind. Og vi alle er tilbøjelige til at fylde en samtale ud med vores egne tolkninger.\nProblemet opstår når folk konkluderer eller slutter noget om den oprindelige tekst ud fra deres egen fortolkning af den - uden at være tilstrækkelig opmærksom på at det sker.\nHvis man som menneske en stund endnu ønsker at bevare nogle fortrin frem for kunstig intelligens, så vil jeg anbefale at man er opmærksom på hvordan man forholder sig til andres ord.\nFor ellers risikerer man ret hurtigt at blive en middelmådig sprogmodel eller en lettere advanceret, men ret svært forudindtaget \u0026ldquo;auto-complete.\u0026rdquo;\n"
     }
     
     , 
@@ -114,16 +114,79 @@
     
     , 
     {
-        "url": "/emner/finansiering/",
-        "title": "Finansiering",
+        "url": "/genrer/",
+        "title": "Genrer",
+        "content": "Genrer på Kiils\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/intelligens/",
+        "title": "Intelligens",
         "content": ""
     }
     
     , 
     {
-        "url": "/genrer/",
-        "title": "Genrer",
-        "content": "Genrer på Kiils\n"
+        "url": "/",
+        "title": "Kiils",
+        "content": " Stærke tekster til en digital tidsalder "
+    }
+    
+    , 
+    {
+        "url": "/emner/kunstig-intelligens/",
+        "title": "kunstig intelligens",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/skribenter/lennart-kiil/",
+        "title": "Lennart Kiil",
+        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
+    }
+    
+    , 
+    {
+        "url": "/genrer/overvejelser/",
+        "title": "Overvejelser",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/skribenter/",
+        "title": "Skribenter",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/",
+        "title": "Tools",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/erfaring/brug-chatgpt-til-finde-data-i-ustruktureret-tekst/",
+        "title": "Brug ChatGPT til finde data i ustruktureret tekst",
+        "content": "Tænk hvis man havde en masse data i sine tekster. Tænk hvis disse data kunne trækkes ud og gøres tilgængelig for maskiner.\nDet kan GPT-modellerne.\nExtract keywords\nExtract named entitites\nHvilke personer omtales i teksten\nHvilke organisationer omtales i teksten\nEventuelt i spaCy format\nExtract any type of entity\n"
+    }
+    
+    , 
+    {
+        "url": "/cases/",
+        "title": "Cases",
+        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/finansiering/",
+        "title": "Finansiering",
+        "content": ""
     }
     
     , 
@@ -142,23 +205,9 @@
     
     , 
     {
-        "url": "/",
-        "title": "Kiils",
-        "content": " Stærke tekster til en digital tidsalder "
-    }
-    
-    , 
-    {
         "url": "/cases/klimaleksikon/",
         "title": "Klimaleksikon",
         "content": "Her i 2023 fylder Klimaleksikon 15 år!\nKlimaleksikon er dermed Danmarks bedste og længstlevende side om klima .\nSiden er et samarbejde mellem mig og to andre naturfagsformidlere, Thomas Hesselberg og Mikkel Houmøller. Siden indeholder omkring 100 opslag på centrale emner inden for klima og klarer sig enormt godt i google-søgninger.\nSiden holdes løbende opdateret, og hundredetusinder af børn og unge har lært om klima og energi på siden.\nSidens brugere er overvejende børn i folkeskolens ældste klasser og unge på ungdomsuddannelserne.\nLærerne bruger aktivt Klimaleksikon i undervisningen, det ses blandt andet af de mange henvisninger fra diverse undervisningsplatforme:\nDesuden ser vi at Klimaleksikon hovedsageligt finder anvendelse inden for den almindelige undervisningstid:\nDer er en overvægt af piger hvilket er en smule atypisk for en side som i bund og grund er naturvidenskabeligt orienteret og skabt af naturfagsformidlere.\nMen det viser i hvert fald at interessen i naturvidenskab og teknologi er der fra den kant også når det overordnede emne blot er vedkommende nok.\nOpslagene, som er kerneindholdet på siden, er naturligvis skrevet i et tilgængeligt sprog som passer til målgruppen af unge mennesker. Men mange granvoksne har skam også glæde af siden. På en række af opslagene har vi nederst spørgsmål, som brugeren kan besvare og dermed få en fornemmelse af om man fået fat i de væsentligste oplysninger i teksten ovenfor.\nSiden er strengt apolitisk og faktuelt baseret. Det er en aftale jeg selv er glad for, da der er en stor lettelse i at være involveret i noget som er ent fakta-orienteret. Jeg nyder virkelig at have et frirum for politik og har derfor meget let ved at adskille Klimaleksikon fra mit øvrige virke.\n"
-    }
-    
-    , 
-    {
-        "url": "/skribenter/lennart-kiil/",
-        "title": "Lennart Kiil",
-        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
     }
     
     , 
@@ -198,37 +247,9 @@
     
     , 
     {
-        "url": "/skribenter/",
-        "title": "Skribenter",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/",
-        "title": "Tools",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/chatgpt/",
-        "title": "ChatGPT",
-        "content": "ChatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft. Modellen som ChatGPT bygger på, kaldes gpt-3.5-turbo i OpenAIs API.\nChatGPT er trænet hovedsaglig med engelsk tekst, men alligevel er ChatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.\nModellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.\nDu kan finde inspiration til danske prompts her:\nDanske ChatGPT prompts Og på den her sidde kan du finde masser af inspiration og erfaringer med ChatGPT.\n"
-    }
-    
-    , 
-    {
         "url": "/erfaring/jeg-gav-igen-chatgpt-adgang-til-min-dagbog-nu-kan-den-forudsige-min-fremtid/",
         "title": "Jeg bad ChatGPT spå om min fremtid - svaret gav mig tårer i øjnene",
         "content": "ChatGPT er en stor sprogmodel.\nHvad er det store sprogmodeller kan?\nJo, de kan \u0026ldquo;forudsige\u0026rdquo; det næste ord, eller teknisk set den næste sekvens af tokens, ud fra det input man giver den (som den jo også \u0026ldquo;bare\u0026rdquo; omsætter til tokens i betydningsfuld rækkefølge).\nSå store sprogmodeller kan se mønstre og sammenhænge.\nAt kunne se mønstre og sammenhænge er at kunne forudsige.\nMen kan ChatGPT forudsige fremtiden?\nMåske husker I at jeg gav ChatGPT adgang til min dagbog - det skulle jeg aldrig have gjort for noget tid siden.\nNu har jeg igen givet givet ChatGPT adgang til min dagbog. Men denne gange bare meget mere af den \u0026ndash; OpenAI har jo nu lovet mig at de ikke gemmer mine data mere end 30 dage.\nMen jeg gjorde også noget andet i denne omgang.\nI stedet for bare at give mig et månedligt referat, så bad jeg ChatGPT lave nogle fremtidige dagbogsoptegnelser.\nSå ChatGPT fik mine gamle dagbogsnotater som input og output skulle så skrives som mig på tidspunkter i fremtiden.\nHer er dens output\n# 2024-05-15 Data science-kursus\nStartede på et data science-kursus på Coursera i dag. Spændende at lære noget nyt og udvide mine færdigheder.\nAlexander har hjemmearbejde i dansk om ordsprog, og Olivia øver sig på sin guitar. Det er godt at se dem engagerede i deres skolearbejde og hobbies.\nJeg fik også løbet en tur i dag og føler mig godt tilpas.\n#uddannelse #hjemmeskole #hobby #løb\nSå om et år tager jeg et kursus i \u0026ldquo;science\u0026rdquo;. Spændende.\nOgså godt at vide at min datter på det tidspunkt er begyndt at spille guitar. Og hvilket hjemmearbejde jeg skal forberede mig på at min søn får med hjem fra skolen.\nJeg bad også ChatGPT gå længere frem, og her fik jeg en klump i halsen. For første gang lykkedes det ChatGPT at fremprovokere en følelse i mig.\nSe her:\n# 20NN-05-15 Besøg af gamle venner\nVi fik besøg af nogle gamle venner fra studietiden i København.\nDet var hyggeligt at se dem igen, selvom det var længe siden.\nAlexander og Olivia legede med deres børn i haven, og vi grillede.\n[\u0026hellip;]\n#venner #grill #hygge\nVi er nu fremme hvor jeg er bedstefar. Åbenbart.\nHvis ikke datoen skal passe, kan det også tolkes som om mine børn leger med mine venners børn.\nUanset hvad fik det gang i følelserne. Og skærpede min bevidsthed om at tiden går.\n"
-    }
-    
-    , 
-    {
-        "url": "/emner/kunstig-intelligens/",
-        "title": "kunstig intelligens",
-        "content": ""
     }
     
     , 
@@ -1446,13 +1467,6 @@
     {
         "url": "/tools/googles-s%C3%B8gekonsol/",
         "title": "Googles-søgekonsol",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/genrer/overvejelser/",
-        "title": "overvejelser",
         "content": ""
     }
     
