@@ -52,6 +52,136 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.kiils.dk/tools/chatgpt/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/tools/chatgpt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/tools/chatgpt/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/erfaring/chatgpt-med-klar-opfordring-til-politikerne-anerkend-at-borgere-kan-have-seksuelle-relationer-uden-at-voldtage-nogen/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/tools/chromadb/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/emner/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/emner/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/emner/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/erfaring/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/emner/kunstig-intelligens/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/emner/kunstig-intelligens/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/emner/kunstig-intelligens/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/tools/langchain/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/skribenter/lennart-kiil/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/skribenter/lennart-kiil/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/skribenter/lennart-kiil/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/emner/semantisk-s%C3%B8gning/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/skribenter/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/skribenter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/skribenter/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/tools/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/tools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/tools/"
+                />
+  </url><url>
     <loc>https://www.kiils.dk/cases/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -65,21 +195,6 @@
                 rel="alternate"
                 hreflang="da"
                 href="https://www.kiils.dk/cases/"
-                />
-  </url><url>
-    <loc>https://www.kiils.dk/tools/chatgpt/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/tools/chatgpt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/tools/chatgpt/"
                 />
   </url><url>
     <loc>https://www.kiils.dk/erfaring/chatgpt-skal-promptes-ordentligt-men-det-skal-mennesker-jo-ogsa/</loc>
@@ -96,26 +211,6 @@
                 hreflang="da"
                 href="https://www.kiils.dk/erfaring/chatgpt-skal-promptes-ordentligt-men-det-skal-mennesker-jo-ogsa/"
                 />
-  </url><url>
-    <loc>https://www.kiils.dk/emner/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/emner/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/emner/"
-                />
-  </url><url>
-    <loc>https://www.kiils.dk/erfaring/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/emner/finansiering/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
@@ -147,55 +242,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/"
-                />
-  </url><url>
     <loc>https://www.kiils.dk/cases/klimaleksikon/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/emner/kunstig-intelligens/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/emner/kunstig-intelligens/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/emner/kunstig-intelligens/"
-                />
-  </url><url>
-    <loc>https://www.kiils.dk/skribenter/lennart-kiil/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/skribenter/lennart-kiil/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/skribenter/lennart-kiil/"
-                />
   </url><url>
     <loc>https://www.kiils.dk/tools/nvim/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
@@ -206,36 +256,6 @@
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/skribenter/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/skribenter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/skribenter/"
-                />
-  </url><url>
-    <loc>https://www.kiils.dk/tools/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/tools/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/tools/"
-                />
   </url><url>
     <loc>https://www.kiils.dk/erfaring/brug-chatgpt-til-finde-data-i-ustruktureret-tekst/</loc>
     <lastmod>2023-05-18T00:00:00+00:00</lastmod>
@@ -328,11 +348,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/erfaring/danmarks-mest-rutinerede-redaktor-anmelder-chatgpt/</loc>
-    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/tools/langchain/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

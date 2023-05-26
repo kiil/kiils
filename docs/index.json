@@ -86,13 +86,6 @@
     
     , 
     {
-        "url": "/cases/",
-        "title": "Cases",
-        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
-    }
-    
-    , 
-    {
         "url": "/tools/chatgpt/",
         "title": "ChatGPT",
         "content": "ChatGPT er en samtale-orienteret sprogmodel baseret på en ikke nærmere defineret viderudvikling af GPT-3 under OpenAi og microsoft. Modellen som ChatGPT bygger på, kaldes gpt-3.5-turbo i OpenAIs API.\nChatGPT er trænet hovedsaglig med engelsk tekst, men alligevel er ChatGPT anvendelig på andre sprog, herunder dansk i et vist omfang.\nModellen er uspecifik, og derfor er det indledende prompt afgørende for udbyttet af en samtale, en såkaldt chat.\nDu kan finde inspiration til danske prompts her:\nDanske ChatGPT prompts Og på den her sidde kan du finde masser af inspiration og erfaringer med ChatGPT.\n"
@@ -100,9 +93,16 @@
     
     , 
     {
-        "url": "/erfaring/chatgpt-skal-promptes-ordentligt-men-det-skal-mennesker-jo-ogsa/",
-        "title": "ChatGPT skal promptes ordentligt - men det skal mennesker jo også",
-        "content": "Den anden dag lagde jeg et par linjer op på facebook.\nMin hensigt var at pege på det kan kalder perspektiv - at en sag kan ses fra flere vinkler.\nKonkret drejede det sig om Store Bededag og de mange andre mere eller mindre officielle Hellig- og fridage som foråret byder på.\nMin pointe var at disse for en selvstændig som arbejder hjemmefra godt kunne opfattes som afbrydelser. Som en slags forstyrrelser.\nDer kom mange reaktioner, som man jo nu kalder det, på mit opslag.\nNogle anførte at de mange små mini-ferier i foråret var et velkomment afbræk fra livet som lønmodtager i hamsterhjulet.\nOg, ja. Det var jo netop et andet perspektiv end det jeg selv havde fremlagt. Og et perspektiv som jeg sagtens kan forholde mig til selvom jeg ikke er selvstændig. Jeg kan godt sætte mig i andre situation hvis jeg er opmærksom på den.\n¶ Reaktion = Output Der kom også en række andre reaktioner som var af en lidt anden type.\nDet var reaktioner som mindede mig om den måde de store sprogmodeller fungerer på.\nFor det var reaktioner som tog brudstykker af det jeg lagde op, og arbejde videre med disse brudstykker. Og nærmest begyndte at udlede andre ting end det jeg egentligt havde skrevet.\nNår sprogmodellerne gør det, så siger vi at de \u0026ldquo;hallucinerer\u0026rdquo;.\nDet lyder ikke pænt at sige om mennesker at de hallucinerer når de måske lægger lidt meget ind i noget man skriver eller tolker lidt rigeligt meget ud af det.\nMen det er klart eksempler på hvad der sker når man ikke forholder sig disciplineret til andres ord.\nSå bliver det ofte noget fri association.\nMan kan reducere \u0026ldquo;risikoen\u0026rdquo; for at en samtale bliver præget for meget af fri association, ligesom man kan give den retning og sammenhæng.\n¶ Ingen garantier Den slags er ingen garanti for at samtalen ikke glider af sporet og havner et helt andet sted end den begyndte. Men man mindsker risikoen for det.\nMen husk også på dette:\nDen almindelige daglige samtale beror netop på at modparten byder ind. Og vi alle er tilbøjelige til at fylde en samtale ud med vores egne tolkninger.\nProblemet opstår når folk konkluderer eller slutter noget om den oprindelige tekst ud fra deres egen fortolkning af den - uden at være tilstrækkelig opmærksom på at det sker.\nHvis man som menneske en stund endnu ønsker at bevare nogle fortrin frem for kunstig intelligens, så vil jeg anbefale at man er opmærksom på hvordan man forholder sig til andres ord.\nFor ellers risikerer man ret hurtigt at blive en middelmådig sprogmodel eller en lettere advanceret, men ret svært forudindtaget \u0026ldquo;auto-complete.\u0026rdquo;\nMindst lige så vigtigt er det dog at man som den der starter en debat eller lægger noget tekst ud, tænker lidt over sine formuleringer.\nSom når man taler med ChatGPT, så er det vigtigt at man får sat rammerne for samtalen klart op fra start.\nSå både afsender af et budskab og modtageren af det, har et ansvar for en vellykket samtale.\nOg det gælder uanset om man taler med et menneske eller en maskine.\n"
+        "url": "/erfaring/chatgpt-med-klar-opfordring-til-politikerne-anerkend-at-borgere-kan-have-seksuelle-relationer-uden-at-voldtage-nogen/",
+        "title": "ChatGPT med klar opfordring til politikerne: Anerkend at borgere kan have seksuelle relationer uden at voldtage nogen",
+        "content": "¶ ChatGPT med opsang til djøf\u0026rsquo;erne I seng med fjenden - kunstig intelligens i kamp mod djøfisering af Danmark (så blev jeg også nødt til at lære python)\nHvordan bruger man egentligt OpenAI\u0026rsquo;s værktøjskasse i forhold til sit eget bagkatalog?\nJeg har mange af mine tekster, men desværre langt fra alle, liggende lokalt på min computer.\nHvordan kan jeg forstå over ti tusind tekster? Hvordan kan jeg huske alt det jeg har skrevet? Hvordan kan jeg finde mening og betydning i det?\nForhåbentligt med hjælp fra de store sprogmodeller og mere specifikt det man kalder semantisk søgning og embeddings.\nLad os tage et konkret eksempel med et emne som jeg har været meget omkring.\nSagen er den at jeg i mange år har skrevet om djøfisering.\nMen det kan jo være svært at huske det hele.\nEn løsning ville være at læse det hele igen. Læse alt det som jeg selv tidligere har skrevet. Det ville nok tage i hvert fald en time alene på emnet djøfisering.\nSå jeg tænkte at jeg ville afprøve langchain med noget semantisk søgning i mit eget baggrundsmateriale i stedet for at læse mig slaviske igennem et stor antal tekster.\nMed lidt hjælp fra Nushell og A plain text note-taking assistant kan jeg hurtigt finde alle mine tekster hvor jeg nævner djøfisering, og jeg kan også vælge kun at gemme brødteksten \u0026ndash; så filen jeg skal analysere i næste trin, ikke bliver alt for rodet.\nzk list -f {{body}} -m djøfisering | save kilde.txt Nu har jeg samlet alt mit materiale om djøfisering i en enkelt fil som jeg kalder kilde.txt.\nJeg installerer så langchain og chromadb for at arbejde videre med analysen af indholdet.\nKonkret gør langchain her det at jeg kan bruge OpenAI - både den generative del og deres embeddings model som er velegnet til semantisk søgning.\nLige pludselig kan jeg forholde mig til store mængder af mit eget indhold. Langt mere end der kan være i en enkelt chat, for eksempel. Den token limit man normalt er underlagt kan slet ikke klare bare en brøkdel af mit bagkatalog alene inden for området djøfisering.\nEfter lidt installation kan jeg importere min tekstfil om djøfisering i langchain sådan her:\n\u0026gt;\u0026gt;\u0026gt; loader = TextLoader(\u0026#39;kilde.txt\u0026#39;) \u0026gt;\u0026gt;\u0026gt; from langchain.indexes import VectorstoreIndexCreator \u0026gt;\u0026gt;\u0026gt; index = VectorstoreIndexCreator().from_loaders([loader]) Det foregår gennem python, så det satte jeg mig lidt ind i også.\nNå, men nu kan jeg endelig stille spørgsmål til mine egne tekster.\nJeg lagde ud sådan her:\n\u0026gt;\u0026gt;\u0026gt; query = \u0026quot;hvad er djøfisering så for noget synes du\u0026quot; \u0026gt;\u0026gt;\u0026gt; index.query_with_sources(query) Og efter at have tænkt lidt over det spørgsmål svarede langchain mig som følger:\n{'question': 'hvad er djøfisering så for noget synes du', 'answer': ' Djøfisering er en form for bureaukratisering og kontraktliggørelse af sexlivet, hvor verbalisering og skriftliggørelse af en før underforstået aftale bidrager til at færre bagefter føler deres grænser overtrådt.\\n', 'sources': 'kilde.txt'} Så jeg har åbenbart skrevet om djøfisering i forbindelse med samtykkelovgivning.\nLad os prøve med et spørgsmål mere:\n\u0026gt;\u0026gt;\u0026gt; query = \u0026quot;har djøfisering en betydning for den almindelige borger\u0026quot; \u0026gt;\u0026gt;\u0026gt; index.query_with_sources(query) {'question': 'har djøfisering en betydning for den almindelige borger', 'answer': ' Djøfisering har betydning for den almindelige borger, da det har ført til mere smagsdommeri, bureaukrati og kontraktliggørelse af samfundet. Dette har blandt andet konsekvenser for sexlivet, hvor der er kommet mere formalisering og verbalisering af samtykke. Det har også ført til flere råd og kommissioner, som har forsinket forbedringer for almindelige mennesker.\\n', 'sources': 'kilde.txt'} Godt så.\nNu prøver vi noget lidt sværere:\n(og her skulle den \u0026ldquo;tænke\u0026rdquo; meget længe)\nMen hold nu op hvor er svaret dog konkret og ganske glimrende:\n\u0026gt;\u0026gt;\u0026gt; query = \u0026quot;hvordan stopper vi yderligere djøfisering af samfundet\u0026quot; \u0026gt;\u0026gt;\u0026gt; index.query_with_sources(query) {'question': 'hvordan stopper vi yderligere djøfisering af samfundet', 'answer': ' Der er flere muligheder for at stoppe yderligere djøfisering af samfundet, herunder at reducere antallet af råd og kommissioner, anerkende at borgere kan have seksuelle relationer uden at voldtage nogen, og reducere brugen af juridiske konstruktioner.\\n', 'sources': 'kilde.txt'} Det er sjovt på den måde at se sine gamle tekster få nyt liv.\nDet er en helt anden måde at forholde sig til sit bagkatalog på end for eksempel bare fritekstsøgning med snippets.\n"
+    }
+    
+    , 
+    {
+        "url": "/tools/chromadb/",
+        "title": "chromadb",
+        "content": ""
     }
     
     , 
@@ -117,6 +117,69 @@
         "url": "/erfaring/",
         "title": "Erfaring",
         "content": ""
+    }
+    
+    , 
+    {
+        "url": "/",
+        "title": "Kiils",
+        "content": " Stærke tekster til en digital tidsalder "
+    }
+    
+    , 
+    {
+        "url": "/emner/kunstig-intelligens/",
+        "title": "kunstig intelligens",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/langchain/",
+        "title": "langchain",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/skribenter/lennart-kiil/",
+        "title": "Lennart Kiil",
+        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
+    }
+    
+    , 
+    {
+        "url": "/emner/semantisk-s%C3%B8gning/",
+        "title": "Semantisk søgning",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/skribenter/",
+        "title": "Skribenter",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/tools/",
+        "title": "Tools",
+        "content": ""
+    }
+    
+    , 
+    {
+        "url": "/cases/",
+        "title": "Cases",
+        "content": "Under linket til hver enkelt case er nogle af mine erfaringer med pågældende case også linket. Jo, man lærer meget hen ad vejen.\n"
+    }
+    
+    , 
+    {
+        "url": "/erfaring/chatgpt-skal-promptes-ordentligt-men-det-skal-mennesker-jo-ogsa/",
+        "title": "ChatGPT skal promptes ordentligt - men det skal mennesker jo også",
+        "content": "Den anden dag lagde jeg et par linjer op på facebook.\nMin hensigt var at pege på det kan kalder perspektiv - at en sag kan ses fra flere vinkler.\nKonkret drejede det sig om Store Bededag og de mange andre mere eller mindre officielle Hellig- og fridage som foråret byder på.\nMin pointe var at disse for en selvstændig som arbejder hjemmefra godt kunne opfattes som afbrydelser. Som en slags forstyrrelser.\nDer kom mange reaktioner, som man jo nu kalder det, på mit opslag.\nNogle anførte at de mange små mini-ferier i foråret var et velkomment afbræk fra livet som lønmodtager i hamsterhjulet.\nOg, ja. Det var jo netop et andet perspektiv end det jeg selv havde fremlagt. Og et perspektiv som jeg sagtens kan forholde mig til selvom jeg ikke er selvstændig. Jeg kan godt sætte mig i andre situation hvis jeg er opmærksom på den.\n¶ Reaktion = Output Der kom også en række andre reaktioner som var af en lidt anden type.\nDet var reaktioner som mindede mig om den måde de store sprogmodeller fungerer på.\nFor det var reaktioner som tog brudstykker af det jeg lagde op, og arbejde videre med disse brudstykker. Og nærmest begyndte at udlede andre ting end det jeg egentligt havde skrevet.\nNår sprogmodellerne gør det, så siger vi at de \u0026ldquo;hallucinerer\u0026rdquo;.\nDet lyder ikke pænt at sige om mennesker at de hallucinerer når de måske lægger lidt meget ind i noget man skriver eller tolker lidt rigeligt meget ud af det.\nMen det er klart eksempler på hvad der sker når man ikke forholder sig disciplineret til andres ord.\nSå bliver det ofte noget fri association.\nMan kan reducere \u0026ldquo;risikoen\u0026rdquo; for at en samtale bliver præget for meget af fri association, ligesom man kan give den retning og sammenhæng.\n¶ Ingen garantier Den slags er ingen garanti for at samtalen ikke glider af sporet og havner et helt andet sted end den begyndte. Men man mindsker risikoen for det.\nMen husk også på dette:\nDen almindelige daglige samtale beror netop på at modparten byder ind. Og vi alle er tilbøjelige til at fylde en samtale ud med vores egne tolkninger.\nProblemet opstår når folk konkluderer eller slutter noget om den oprindelige tekst ud fra deres egen fortolkning af den - uden at være tilstrækkelig opmærksom på at det sker.\nHvis man som menneske en stund endnu ønsker at bevare nogle fortrin frem for kunstig intelligens, så vil jeg anbefale at man er opmærksom på hvordan man forholder sig til andres ord.\nFor ellers risikerer man ret hurtigt at blive en middelmådig sprogmodel eller en lettere advanceret, men ret svært forudindtaget \u0026ldquo;auto-complete.\u0026rdquo;\nMindst lige så vigtigt er det dog at man som den der starter en debat eller lægger noget tekst ud, tænker lidt over sine formuleringer.\nSom når man taler med ChatGPT, så er det vigtigt at man får sat rammerne for samtalen klart op fra start.\nSå både afsender af et budskab og modtageren af det, har et ansvar for en vellykket samtale.\nOg det gælder uanset om man taler med et menneske eller en maskine.\n"
     }
     
     , 
@@ -149,30 +212,9 @@
     
     , 
     {
-        "url": "/",
-        "title": "Kiils",
-        "content": " Stærke tekster til en digital tidsalder "
-    }
-    
-    , 
-    {
         "url": "/cases/klimaleksikon/",
         "title": "Klimaleksikon",
         "content": "Her i 2023 fylder Klimaleksikon 15 år!\nKlimaleksikon er dermed Danmarks bedste og længstlevende side om klima .\nSiden er et samarbejde mellem mig og to andre naturfagsformidlere, Thomas Hesselberg og Mikkel Houmøller. Siden indeholder omkring 100 opslag på centrale emner inden for klima og klarer sig enormt godt i google-søgninger.\nSiden holdes løbende opdateret, og hundredetusinder af børn og unge har lært om klima og energi på siden.\nSidens brugere er overvejende børn i folkeskolens ældste klasser og unge på ungdomsuddannelserne.\nLærerne bruger aktivt Klimaleksikon i undervisningen, det ses blandt andet af de mange henvisninger fra diverse undervisningsplatforme:\nDesuden ser vi at Klimaleksikon hovedsageligt finder anvendelse inden for den almindelige undervisningstid:\nDer er en overvægt af piger hvilket er en smule atypisk for en side som i bund og grund er naturvidenskabeligt orienteret og skabt af naturfagsformidlere.\nMen det viser i hvert fald at interessen i naturvidenskab og teknologi er der fra den kant også når det overordnede emne blot er vedkommende nok.\nOpslagene, som er kerneindholdet på siden, er naturligvis skrevet i et tilgængeligt sprog som passer til målgruppen af unge mennesker. Men mange granvoksne har skam også glæde af siden. På en række af opslagene har vi nederst spørgsmål, som brugeren kan besvare og dermed få en fornemmelse af om man fået fat i de væsentligste oplysninger i teksten ovenfor.\nSiden er strengt apolitisk og faktuelt baseret. Det er en aftale jeg selv er glad for, da der er en stor lettelse i at være involveret i noget som er ent fakta-orienteret. Jeg nyder virkelig at have et frirum for politik og har derfor meget let ved at adskille Klimaleksikon fra mit øvrige virke.\n"
-    }
-    
-    , 
-    {
-        "url": "/emner/kunstig-intelligens/",
-        "title": "kunstig intelligens",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/skribenter/lennart-kiil/",
-        "title": "Lennart Kiil",
-        "content": "Lennart Kiil kan også findes på FOLKETS , og på LinkedIn .\n"
     }
     
     , 
@@ -186,20 +228,6 @@
     {
         "url": "/genrer/overvejelser/",
         "title": "Overvejelser",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/skribenter/",
-        "title": "Skribenter",
-        "content": ""
-    }
-    
-    , 
-    {
-        "url": "/tools/",
-        "title": "Tools",
         "content": ""
     }
     
@@ -334,13 +362,6 @@
         "url": "/erfaring/danmarks-mest-rutinerede-redaktor-anmelder-chatgpt/",
         "title": "Erfaren redaktør: ChatGPTs skrivetips ligner til forveksling mine egne - undtagen på et punkt",
         "content": "Jeg bad ChatGPT give nogle skrivetips.\nDen spyttede følgende svar ud som jeg kommenterer linje for linje:\n¶ Write clearly and concisely, avoiding unnecessary jargon or complex sentence structures. Helt klart. Og det er faktisk noget ChatGPT har lært af mig personligt ;)\nJeg har skrevet en hel serie om at skrive klart og kort, og helt konkret om hvordan man gør det i praksis - se mere om det i Skriv som en poet - ikke en bot .\nDet er nok det væsentligste råd man kan give en skribent, og fra en redaktørs synsvinkel er en velstruktureret tekst uden knudrede sætninger og alenlange afsnit også meget nemmere at arbejde videre med.\n¶ Proofread your work carefully, checking for spelling and grammar errors. Det råd ville jeg nok ikke give en skribent som et af de første. For årtier siden var det givet at folk skrev uden stavefejl og kunne grammatikken til husbehov.\nI dag er det noget som maskinerne tager sig af og i mange tilfælde gør betydeligt bedre end den gennemsnitlige skribent.\nDer er også en anden grund til ikke at prioritere korrekturen så højt. Den kan du læse om her: Dine fejl er din signatur Min indstilling til korrektur er måske kontroversiel, men dybest set er det nogle helt andre ting end mindre slåfejl der viser noget om en skribents greb om og forståelse for sproget og evne til at bruge det kreativt og skabende.\n¶ Use active voice instead of passive voice to make your writing more engaging and direct. Det er også et godt råd. Og har man et klart budskab og en klar målgruppe, så kommer det direkte sprog også ofte mere naturligt end det fordækte.\nMan kunne kalde den tilgang for assertiv sprogbrug.\n¶ Organize your ideas logically, using headings and subheadings to break up longer pieces of text. Det er meget væsentligt. Dels for at skabe en struktur til sig selv under skriveprocessen, dels for at gøre teksten overskuelig for læseren.\nMen vigtigst af alt når det gælder typiske tekster til digitale formater, er det at mellemrubrikker og andre strukturelle elementer giver læseren chance for at springe ind og ud af teksten.\nSom skribent skal man give læseren mange indgange til sin tekst.\n¶ Consider your audience and tailor your writing to their needs and interests. Her er jeg delvist enig.\nSelvfølgelig skal man tilpasse sin tekst efter læsernes behov og interesser. Men der er også andre hensyn at tage. Og tilpasser man sin tekst for meget, bliver den faktisk uinteressant for intelligente læsere.\nDet handler mere om en balance her, end det handler om at underkaste sig nogle andres præmisser fuldstændig.\nEn tekst skal gerne bibringe læseren noget ekstra. Give dem \u0026ldquo;merværdi\u0026rdquo; \u0026ndash; og det gør man sommetider bedst ved at udfordre dem lidt i stedet for at se dem som segmenter med bestemte behov og interesser.\n¶ Avoid plagiarism by properly citing any sources you use and paraphrasing information in your own words. Selvfølgelig skal man ikke plagiere andre. Det har en kreativ skribent heller ikke behov for.\nAlligevel er der mange som kopierer andre eller tager deres ideer. Men den taktik vil sandsynligvis blive mindre frugtbar med tiden, da kunstig intelligens er langt bedre og hurtigere til at tage allerede eksisterende tekst og omforme den \u0026ndash; derimod kan den ikke rigtigt skabe noget nyt eller helt originalt på det idemæssige plan.\n¶ Take breaks and come back to your writing with fresh eyes to catch any mistakes or areas that need improvement. Det kommer an på skribentens temperament og personlighed. For nogle fungerer det godt. Andre er bedre til at skrive det hele færdig ud i en køre.\n¶ Read widely and regularly to improve your vocabulary and writing skills. Helt sikkert et godt råd. Input og inspiration udefra er essentiel for at skabe noget nyt selv. Men er det så i virkeligheden nyt?\nJeg vil dog tilføje et par ting her:\nInputs fra andre tekster er vigtig, men inputs fra livet i bredere forstand er af større betydning.\nOg det er heller ikke kun et spørgsmål om at læse eller følge med. Sprogligt udvikler man sig næppe meget ved bare at læse en masse nyhedsartikler eller features på nettet.\n¶ Practice writing regularly, whether it\u0026rsquo;s journaling, blogging, or writing short stories, to hone your craft. Ja, øvelse gør mester. Til sidst bliver det at skrive ikke bare et arbejde med en livsstil. En forholden sig til virkeligheden og verden \u0026ndash; men på det mere reflekterede plan som skrivning af en vis kvalitet fordrer.\n¶ Get feedback from others, whether it\u0026rsquo;s a writing group or a trusted friend, to help you improve your writing. Ja, men pas på de ikke løber med dine ideer. Det risikerer man især som freelancer hvis man foreholder sine ideer en redaktionssekretær eller en redaktør som er fast tilknyttet et medie.\nI dag kan man også med udbytte foreholde sine tekst for GPT-4 eller andre store sprogmodeller og få nyttig feedback ad den vej.\nDet var mine kommenterer og korte overvejelser over ChatGPTs skrivetips. Jeg håber du kan bruge dem.\n"
-    }
-    
-    , 
-    {
-        "url": "/tools/langchain/",
-        "title": "langchain",
-        "content": ""
     }
     
     , 
