@@ -9,10 +9,10 @@
     <lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/cli/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automatisering med systemd</title>
-      <link>https://www.kiils.dk/erfaring/20230215-automatisering-systemd/</link>
+      <link>https://www.kiils.dk/blog/20230215-automatisering-systemd/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/20230215-automatisering-systemd/</guid>
+      <guid>https://www.kiils.dk/blog/20230215-automatisering-systemd/</guid>
       <description>Gå til eller opret ~/.config/systemd/user/
 Lav en servicenavn.service
 [Unit] Description=Get subscription creations and deletions [Service] Type=simple Environment=STRIPE=secretkey WorkingDirectory=/home/lk/GD/TEKST/notebooks/biz/fin/j/stripe/ ExecStart=/home/lk/GD/TEKST/notebooks/biz/fin/j/stripe/stripe-abo.nu [Install] WantedBy=default.target Lav en servicenavn.timer

@@ -2,8 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.kiils.dk/kursus/raadgivning/indholdsstrategi/</loc>
+    <lastmod>2022-06-03T10:43:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/ydelse/raadgivning/indholdsstrategi/</loc>
     <lastmod>2022-06-03T10:43:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/kursus/anvendelse/formidling/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -11,7 +20,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.kiils.dk/kursus/anvendelse/redigering/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/ydelse/redaktionelt/redigering/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/kursus/</loc>
+    <lastmod>2022-06-03T10:43:51+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -24,7 +42,15 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.kiils.dk/kursus/introduktion/faktatjek/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/ydelse/research/faktatjek/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/kursus/raadgivning/digital-coaching/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -32,11 +58,23 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.kiils.dk/kursus/raadgivning/balance/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/ydelse/raadgivning/balance/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.kiils.dk/kursus/anvendelse/korrektur/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/ydelse/redaktionelt/korrektur/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/kursus/anvendelse/tekst/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -48,7 +86,46 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.kiils.dk/kursus/introduktion/skattejagt/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/ydelse/research/skattejagt/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/blog/</loc>
+    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/blog/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/</loc>
+    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/"
+                />
+  </url><url>
+    <loc>https://www.kiils.dk/blog/test/</loc>
+    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -67,7 +144,7 @@
                 href="https://www.kiils.dk/tools/chatgpt/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/chatgpt-med-klar-opfordring-til-politikerne-anerkend-at-borgere-kan-have-seksuelle-relationer-uden-at-voldtage-nogen/</loc>
+    <loc>https://www.kiils.dk/blog/chatgpt-med-klar-opfordring-til-politikerne-anerkend-at-borgere-kan-have-seksuelle-relationer-uden-at-voldtage-nogen/</loc>
     <lastmod>2023-05-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -90,26 +167,6 @@
                 rel="alternate"
                 hreflang="da"
                 href="https://www.kiils.dk/emner/"
-                />
-  </url><url>
-    <loc>https://www.kiils.dk/erfaring/</loc>
-    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kiils.dk/</loc>
-    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.kiils.dk/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.kiils.dk/"
                 />
   </url><url>
     <loc>https://www.kiils.dk/emner/kunstig-intelligens/</loc>
@@ -197,19 +254,19 @@
                 href="https://www.kiils.dk/cases/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/chatgpt-skal-promptes-ordentligt-men-det-skal-mennesker-jo-ogsa/</loc>
+    <loc>https://www.kiils.dk/blog/chatgpt-skal-promptes-ordentligt-men-det-skal-mennesker-jo-ogsa/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.kiils.dk/en/xp/humans-should-also-be-prompted-properly/"
+                href="https://www.kiils.dk/en/blog/humans-should-also-be-prompted-properly/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://www.kiils.dk/erfaring/chatgpt-skal-promptes-ordentligt-men-det-skal-mennesker-jo-ogsa/"
+                href="https://www.kiils.dk/blog/chatgpt-skal-promptes-ordentligt-men-det-skal-mennesker-jo-ogsa/"
                 />
   </url><url>
     <loc>https://www.kiils.dk/emner/finansiering/</loc>
@@ -232,7 +289,7 @@
                 href="https://www.kiils.dk/genrer/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/giv-noget-af-dig-selv-til-chatgpt/</loc>
+    <loc>https://www.kiils.dk/blog/giv-noget-af-dig-selv-til-chatgpt/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -257,7 +314,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/brug-chatgpt-til-finde-data-i-ustruktureret-tekst/</loc>
+    <loc>https://www.kiils.dk/blog/brug-chatgpt-til-finde-data-i-ustruktureret-tekst/</loc>
     <lastmod>2023-05-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -277,7 +334,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/microsoft-lancerer-guidance-til-effektiv-styring-af-store-sprogmodeller/</loc>
+    <loc>https://www.kiils.dk/blog/microsoft-lancerer-guidance-til-effektiv-styring-af-store-sprogmodeller/</loc>
     <lastmod>2023-05-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -292,12 +349,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/jeg-gav-igen-chatgpt-adgang-til-min-dagbog-nu-kan-den-forudsige-min-fremtid/</loc>
+    <loc>https://www.kiils.dk/blog/jeg-gav-igen-chatgpt-adgang-til-min-dagbog-nu-kan-den-forudsige-min-fremtid/</loc>
     <lastmod>2023-05-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/hvor-mange-eksempler-er-nok-til-at-den-nye-insert-model-fra-openai-forstar-hensigten/</loc>
+    <loc>https://www.kiils.dk/blog/hvor-mange-eksempler-er-nok-til-at-den-nye-insert-model-fra-openai-forstar-hensigten/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -317,27 +374,27 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/aegte-individualiseret-undervisning-til-alle-med-kunstig-intelligens/</loc>
+    <loc>https://www.kiils.dk/blog/aegte-individualiseret-undervisning-til-alle-med-kunstig-intelligens/</loc>
     <lastmod>2023-05-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/en-simpel-redaktionel-arbejdsgang-med-gpt/</loc>
+    <loc>https://www.kiils.dk/blog/en-simpel-redaktionel-arbejdsgang-med-gpt/</loc>
     <lastmod>2023-05-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/sprogmodeller/hvad-er-store-sprogmodeller/</loc>
+    <loc>https://www.kiils.dk/blog/sprogmodeller/hvad-er-store-sprogmodeller/</loc>
     <lastmod>2023-05-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/sprogmodeller/hvad-kan-store-sprogmodeller/</loc>
+    <loc>https://www.kiils.dk/blog/sprogmodeller/hvad-kan-store-sprogmodeller/</loc>
     <lastmod>2023-05-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/sprogmodeller/hvordan-fungerer-store-sprogmodeller/</loc>
+    <loc>https://www.kiils.dk/blog/sprogmodeller/hvordan-fungerer-store-sprogmodeller/</loc>
     <lastmod>2023-05-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -347,7 +404,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/danmarks-mest-rutinerede-redaktor-anmelder-chatgpt/</loc>
+    <loc>https://www.kiils.dk/blog/danmarks-mest-rutinerede-redaktor-anmelder-chatgpt/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -362,12 +419,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/er-du-traet-af-aula-lad-aulagpt-klare-kommunikationen/</loc>
+    <loc>https://www.kiils.dk/blog/er-du-traet-af-aula-lad-aulagpt-klare-kommunikationen/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/hvad-er-agi/</loc>
+    <loc>https://www.kiils.dk/blog/hvad-er-agi/</loc>
     <lastmod>2023-04-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -382,12 +439,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/jeg-radgav-24syv-men-fik-aldrig-betaling-for-det-ma-jeg-skrive-dem-i-min-porfolio/</loc>
+    <loc>https://www.kiils.dk/blog/jeg-radgav-24syv-men-fik-aldrig-betaling-for-det-ma-jeg-skrive-dem-i-min-porfolio/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/hvorfor-taler-chatgpt-som-mine-born/</loc>
+    <loc>https://www.kiils.dk/blog/hvorfor-taler-chatgpt-som-mine-born/</loc>
     <lastmod>2023-04-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -402,7 +459,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/spar-tid-med-kunstig-intelligens-sammenfat-et-word-dokument/</loc>
+    <loc>https://www.kiils.dk/blog/spar-tid-med-kunstig-intelligens-sammenfat-et-word-dokument/</loc>
     <lastmod>2023-04-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -412,7 +469,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/chatgpt-har-en-uforbedrelig-beskidt-tankegang-her-er-beviset/</loc>
+    <loc>https://www.kiils.dk/blog/chatgpt-har-en-uforbedrelig-beskidt-tankegang-her-er-beviset/</loc>
     <lastmod>2023-04-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -432,7 +489,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/striks-selvcensur-gor-gpt-modeller-dummere-end-de-behover-at-vaere/</loc>
+    <loc>https://www.kiils.dk/blog/striks-selvcensur-gor-gpt-modeller-dummere-end-de-behover-at-vaere/</loc>
     <lastmod>2023-04-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -442,7 +499,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/er-du-ved-at-opgive-kommandolinjen-fa-chatgpt-til-at-hjaelpe-dig/</loc>
+    <loc>https://www.kiils.dk/blog/er-du-ved-at-opgive-kommandolinjen-fa-chatgpt-til-at-hjaelpe-dig/</loc>
     <lastmod>2023-04-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -452,32 +509,32 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/giv-chatgpt-en-mere-personlig-skrivestil-fire-eksempler/</loc>
+    <loc>https://www.kiils.dk/blog/giv-chatgpt-en-mere-personlig-skrivestil-fire-eksempler/</loc>
     <lastmod>2023-04-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/nemt-nyhedsoverblik-med-nushell-og-chatgpt/</loc>
+    <loc>https://www.kiils.dk/blog/nemt-nyhedsoverblik-med-nushell-og-chatgpt/</loc>
     <lastmod>2023-04-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/kommandoer-eller-prompts-instruer-gpt-korrekt/</loc>
+    <loc>https://www.kiils.dk/blog/kommandoer-eller-prompts-instruer-gpt-korrekt/</loc>
     <lastmod>2023-04-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/jeg-gav-chatgpt-adgang-til-min-dagbog-det-skulle-jeg-aldrig-have-gjort/</loc>
+    <loc>https://www.kiils.dk/blog/jeg-gav-chatgpt-adgang-til-min-dagbog-det-skulle-jeg-aldrig-have-gjort/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/sadan-bliver-du-ved-med-at-skrive-bedre-end-kunstig-intelligens/</loc>
+    <loc>https://www.kiils.dk/blog/sadan-bliver-du-ved-med-at-skrive-bedre-end-kunstig-intelligens/</loc>
     <lastmod>2023-04-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/dine-fejl-er-din-signatur/</loc>
+    <loc>https://www.kiils.dk/blog/dine-fejl-er-din-signatur/</loc>
     <lastmod>2023-04-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -492,67 +549,67 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-0-poet-teknikken/</loc>
+    <loc>https://www.kiils.dk/blog/skriv-som-en-poet/del-0-poet-teknikken/</loc>
     <lastmod>2023-04-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-1-overblik/</loc>
+    <loc>https://www.kiils.dk/blog/skriv-som-en-poet/del-1-overblik/</loc>
     <lastmod>2023-04-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-2-staccato/</loc>
+    <loc>https://www.kiils.dk/blog/skriv-som-en-poet/del-2-staccato/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-3-balance/</loc>
+    <loc>https://www.kiils.dk/blog/skriv-som-en-poet/del-3-balance/</loc>
     <lastmod>2023-04-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-4-dybe-saetninger/</loc>
+    <loc>https://www.kiils.dk/blog/skriv-som-en-poet/del-4-dybe-saetninger/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-5-raekkefoelge/</loc>
+    <loc>https://www.kiils.dk/blog/skriv-som-en-poet/del-5-raekkefoelge/</loc>
     <lastmod>2023-04-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/sprogmodeller/del-5-raekkefoelge/</loc>
+    <loc>https://www.kiils.dk/blog/sprogmodeller/del-5-raekkefoelge/</loc>
     <lastmod>2023-04-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-6-gentagelser/</loc>
+    <loc>https://www.kiils.dk/blog/skriv-som-en-poet/del-6-gentagelser/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-7-startord-slutord/</loc>
+    <loc>https://www.kiils.dk/blog/skriv-som-en-poet/del-7-startord-slutord/</loc>
     <lastmod>2023-04-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-8-rytme/</loc>
+    <loc>https://www.kiils.dk/blog/skriv-som-en-poet/del-8-rytme/</loc>
     <lastmod>2023-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/sprogmodeller/del-8-rytme/</loc>
+    <loc>https://www.kiils.dk/blog/sprogmodeller/del-8-rytme/</loc>
     <lastmod>2023-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/20230331-top-google-chat/</loc>
+    <loc>https://www.kiils.dk/blog/20230331-top-google-chat/</loc>
     <lastmod>2023-04-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-9-tooling/</loc>
+    <loc>https://www.kiils.dk/blog/skriv-som-en-poet/del-9-tooling/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -562,12 +619,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/skriv-som-en-poet/</loc>
+    <loc>https://www.kiils.dk/blog/skriv-som-en-poet/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/sprogmodeller/</loc>
+    <loc>https://www.kiils.dk/blog/sprogmodeller/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -582,7 +639,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/20230218-fra-hledger-tidsregnskab-til-treemap-i-dash/</loc>
+    <loc>https://www.kiils.dk/blog/20230218-fra-hledger-tidsregnskab-til-treemap-i-dash/</loc>
     <lastmod>2023-02-18T08:35:10+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -602,7 +659,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/20230215-automatisering-systemd/</loc>
+    <loc>https://www.kiils.dk/blog/20230215-automatisering-systemd/</loc>
     <lastmod>2023-02-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -622,7 +679,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/20230207-chatgpt-hjaelper-ordblind/</loc>
+    <loc>https://www.kiils.dk/blog/20230207-chatgpt-hjaelper-ordblind/</loc>
     <lastmod>2023-02-07T10:41:04+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -647,7 +704,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/2023-01-nushell-stripe/</loc>
+    <loc>https://www.kiils.dk/blog/2023-01-nushell-stripe/</loc>
     <lastmod>2023-01-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -667,7 +724,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/nlp/chatgpt-google/</loc>
+    <loc>https://www.kiils.dk/blog/nlp/chatgpt-google/</loc>
     <lastmod>2023-01-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -697,12 +754,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/nlp/kunstig-intelligens-illustration/</loc>
+    <loc>https://www.kiils.dk/blog/nlp/kunstig-intelligens-illustration/</loc>
     <lastmod>2023-01-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/nlp/chatgpt-botsplaining/</loc>
+    <loc>https://www.kiils.dk/blog/nlp/chatgpt-botsplaining/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -712,37 +769,37 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/nlp/chatgpt-ordfrekvensanalyse-engelsk/</loc>
+    <loc>https://www.kiils.dk/blog/nlp/chatgpt-ordfrekvensanalyse-engelsk/</loc>
     <lastmod>2023-01-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/nlp/chatgpt-ordfrekvensanalyse/</loc>
+    <loc>https://www.kiils.dk/blog/nlp/chatgpt-ordfrekvensanalyse/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/nlp/gorm-den-gamle/</loc>
+    <loc>https://www.kiils.dk/blog/nlp/gorm-den-gamle/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/nlp/chatgpt/</loc>
+    <loc>https://www.kiils.dk/blog/nlp/chatgpt/</loc>
     <lastmod>2023-01-05T09:27:02+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/nlp/nushell-dataframes/</loc>
+    <loc>https://www.kiils.dk/blog/nlp/nushell-dataframes/</loc>
     <lastmod>2022-11-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/nlp/nushell/</loc>
+    <loc>https://www.kiils.dk/blog/nlp/nushell/</loc>
     <lastmod>2022-11-08T09:47:02+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/foraeldremoedet/</loc>
+    <loc>https://www.kiils.dk/blog/foraeldremoedet/</loc>
     <lastmod>2022-09-02T08:57:34+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -752,17 +809,17 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/begrebernes-betydning/</loc>
+    <loc>https://www.kiils.dk/blog/begrebernes-betydning/</loc>
     <lastmod>2022-08-18T10:52:17+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/virkemidler/dagligdagens-virkemidler/</loc>
+    <loc>https://www.kiils.dk/blog/virkemidler/dagligdagens-virkemidler/</loc>
     <lastmod>2022-08-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/virkemidler/</loc>
+    <loc>https://www.kiils.dk/blog/virkemidler/</loc>
     <lastmod>2022-07-14T13:31:41+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -777,12 +834,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/indholdstyper-soegeindeks-hugo/</loc>
+    <loc>https://www.kiils.dk/blog/indholdstyper-soegeindeks-hugo/</loc>
     <lastmod>2022-06-16T12:10:31+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/mail-henvendelse/</loc>
+    <loc>https://www.kiils.dk/blog/mail-henvendelse/</loc>
     <lastmod>2022-06-09T12:56:22+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -792,12 +849,17 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/2022-06-08t123345/</loc>
+    <loc>https://www.kiils.dk/blog/2022-06-08t123345/</loc>
     <lastmod>2022-06-08T12:33:45+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kiils.dk/emner/indholdsstrategi/</loc>
+    <lastmod>2022-06-03T10:43:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/kursus/raadgivning/</loc>
     <lastmod>2022-06-03T10:43:51+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -822,12 +884,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/recoll-smart-s%C3%B8gning/</loc>
+    <loc>https://www.kiils.dk/blog/recoll-smart-s%C3%B8gning/</loc>
     <lastmod>2022-05-31T12:24:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.kiils.dk/kursus/introduktion/krydstjek/</loc>
+    <lastmod>2022-05-31T09:41:22+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/ydelse/research/krydstjek/</loc>
+    <lastmod>2022-05-31T09:41:22+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/kursus/introduktion/</loc>
     <lastmod>2022-05-31T09:41:22+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -837,8 +909,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/recoll-fritekst-s%C3%B8gning/</loc>
+    <loc>https://www.kiils.dk/blog/recoll-fritekst-s%C3%B8gning/</loc>
     <lastmod>2022-05-30T08:40:17+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/kursus/raadgivning/miks/</loc>
+    <lastmod>2022-05-23T11:24:27+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -847,7 +924,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/tal/</loc>
+    <loc>https://www.kiils.dk/blog/tal/</loc>
     <lastmod>2022-05-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -887,7 +964,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/pi/pi-cli/</loc>
+    <loc>https://www.kiils.dk/blog/pi/pi-cli/</loc>
     <lastmod>2022-05-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -907,7 +984,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/tanker/gear/</loc>
+    <loc>https://www.kiils.dk/blog/tanker/gear/</loc>
     <lastmod>2022-05-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -922,7 +999,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/journalistik/nutella/</loc>
+    <loc>https://www.kiils.dk/blog/journalistik/nutella/</loc>
+    <lastmod>2022-05-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kiils.dk/kursus/anvendelse/</loc>
     <lastmod>2022-05-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -937,17 +1019,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.kiils.dk/kursus/anvendelse/rubrikker/</loc>
+    <lastmod>2022-05-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.kiils.dk/ydelse/redaktionelt/rubrikker/</loc>
     <lastmod>2022-05-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/bedrifter/10000-tekster/</loc>
+    <loc>https://www.kiils.dk/blog/bedrifter/10000-tekster/</loc>
     <lastmod>2022-05-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/sikkerhed/pixelering/</loc>
+    <loc>https://www.kiils.dk/blog/sikkerhed/pixelering/</loc>
     <lastmod>2022-02-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -972,7 +1059,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/noob/program-1/</loc>
+    <loc>https://www.kiils.dk/blog/noob/program-1/</loc>
     <lastmod>2022-02-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1007,7 +1094,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/klimavenlig-og-brugervenlig/</loc>
+    <loc>https://www.kiils.dk/blog/klimavenlig-og-brugervenlig/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1057,7 +1144,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/brugervenlighed/brugerens-foretrukne-farvepalette-dark-mode-folkets/</loc>
+    <loc>https://www.kiils.dk/blog/brugervenlighed/brugerens-foretrukne-farvepalette-dark-mode-folkets/</loc>
     <lastmod>2022-01-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1072,12 +1159,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/seo/google-klima-succes/</loc>
+    <loc>https://www.kiils.dk/blog/seo/google-klima-succes/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/tips-tricks/html-med-toc-fra-markdown-via-pandoc/</loc>
+    <loc>https://www.kiils.dk/blog/tips-tricks/html-med-toc-fra-markdown-via-pandoc/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1122,7 +1209,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/tips-tricks/sidetal/</loc>
+    <loc>https://www.kiils.dk/blog/tips-tricks/sidetal/</loc>
     <lastmod>2020-07-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1142,7 +1229,7 @@
                 href="https://www.kiils.dk/brands/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/seo/corona/</loc>
+    <loc>https://www.kiils.dk/blog/seo/corona/</loc>
     <lastmod>2020-03-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1162,7 +1249,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/some/facebook/fald/</loc>
+    <loc>https://www.kiils.dk/blog/some/facebook/fald/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1182,7 +1269,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/fundraising/copydan/copydan-digital/</loc>
+    <loc>https://www.kiils.dk/blog/fundraising/copydan/copydan-digital/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1217,7 +1304,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/fundraising/klimaleksikon-crowdfunding-donorbox/</loc>
+    <loc>https://www.kiils.dk/blog/fundraising/klimaleksikon-crowdfunding-donorbox/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1227,12 +1314,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/journalistik/mellemrubrikker-indholdsoversigt/</loc>
+    <loc>https://www.kiils.dk/blog/journalistik/mellemrubrikker-indholdsoversigt/</loc>
     <lastmod>2019-08-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/frontend/jquery-javascript/</loc>
+    <loc>https://www.kiils.dk/blog/frontend/jquery-javascript/</loc>
     <lastmod>2019-08-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1242,7 +1329,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/seo/hvad-betyder-ankertekst/</loc>
+    <loc>https://www.kiils.dk/blog/seo/hvad-betyder-ankertekst/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1262,12 +1349,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/tips-tricks/sorter-markdown-efter-overskrifter/</loc>
+    <loc>https://www.kiils.dk/blog/tips-tricks/sorter-markdown-efter-overskrifter/</loc>
     <lastmod>2019-07-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/tips-tricks/bevar-whitespace-output/</loc>
+    <loc>https://www.kiils.dk/blog/tips-tricks/bevar-whitespace-output/</loc>
     <lastmod>2019-07-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1312,7 +1399,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/frontend/klimaleksikon-tachyons-performance/</loc>
+    <loc>https://www.kiils.dk/blog/frontend/klimaleksikon-tachyons-performance/</loc>
     <lastmod>2019-06-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1327,7 +1414,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/frontend/hastighed-uden-bannere/</loc>
+    <loc>https://www.kiils.dk/blog/frontend/hastighed-uden-bannere/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1337,7 +1424,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/seo/lovende-ctr-google-discover/</loc>
+    <loc>https://www.kiils.dk/blog/seo/lovende-ctr-google-discover/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1347,7 +1434,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/frontend/bootstrap-4/</loc>
+    <loc>https://www.kiils.dk/blog/frontend/bootstrap-4/</loc>
     <lastmod>2019-05-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1357,22 +1444,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/seo/google-tidlig-indsats/</loc>
+    <loc>https://www.kiils.dk/blog/seo/google-tidlig-indsats/</loc>
     <lastmod>2018-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/</loc>
+    <loc>https://www.kiils.dk/blog/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/</loc>
     <lastmod>2018-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/abo/salg/</loc>
+    <loc>https://www.kiils.dk/blog/abo/salg/</loc>
     <lastmod>2018-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/muren/redning/</loc>
+    <loc>https://www.kiils.dk/blog/muren/redning/</loc>
     <lastmod>2018-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1387,12 +1474,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/abo/abonnenter-nok/</loc>
+    <loc>https://www.kiils.dk/blog/abo/abonnenter-nok/</loc>
     <lastmod>2018-05-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/some/delinger-bonus-linkedin/</loc>
+    <loc>https://www.kiils.dk/blog/some/delinger-bonus-linkedin/</loc>
     <lastmod>2018-05-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1407,37 +1494,37 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/trafik/kilder/</loc>
+    <loc>https://www.kiils.dk/blog/trafik/kilder/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/indhold/overhaling/</loc>
+    <loc>https://www.kiils.dk/blog/indhold/overhaling/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/devops/language-domains/</loc>
+    <loc>https://www.kiils.dk/blog/devops/language-domains/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/devops/litespeed-server/</loc>
+    <loc>https://www.kiils.dk/blog/devops/litespeed-server/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/devops/workflow/rollback/</loc>
+    <loc>https://www.kiils.dk/blog/devops/workflow/rollback/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/indhold/tegninger-grafik-illustrationer-billeder-fotos-gratis/</loc>
+    <loc>https://www.kiils.dk/blog/indhold/tegninger-grafik-illustrationer-billeder-fotos-gratis/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/muren/dogmer/</loc>
+    <loc>https://www.kiils.dk/blog/muren/dogmer/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/erfaring/tips-tricks/git-tips/</loc>
+    <loc>https://www.kiils.dk/blog/tips-tricks/git-tips/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

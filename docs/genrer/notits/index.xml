@@ -9,10 +9,10 @@
     <lastBuildDate>Thu, 18 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/genrer/notits/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Microsoft lancerer Guidance til effektiv styring af store sprogmodeller</title>
-      <link>https://www.kiils.dk/erfaring/microsoft-lancerer-guidance-til-effektiv-styring-af-store-sprogmodeller/</link>
+      <link>https://www.kiils.dk/blog/microsoft-lancerer-guidance-til-effektiv-styring-af-store-sprogmodeller/</link>
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/microsoft-lancerer-guidance-til-effektiv-styring-af-store-sprogmodeller/</guid>
+      <guid>https://www.kiils.dk/blog/microsoft-lancerer-guidance-til-effektiv-styring-af-store-sprogmodeller/</guid>
       <description>Guidance, udviklet af Microsoft, giver dig mulighed for at kontrollere moderne store sprogmodeller mere effektivt end traditionelt med prompt engineering eller chaining.
 Guidance skal, som navnet antyder, bruges til at guide en sprogmodels output. Det gør Guidance ved at give mulighed for at strukturere både input, men også output gennem en skabelon.
 Mere specifikt:

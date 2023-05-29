@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/skribenter/lennart-kiil/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ChatGPT med klar opfordring til politikerne: Anerkend at borgere kan have seksuelle relationer uden at voldtage nogen</title>
-      <link>https://www.kiils.dk/erfaring/chatgpt-med-klar-opfordring-til-politikerne-anerkend-at-borgere-kan-have-seksuelle-relationer-uden-at-voldtage-nogen/</link>
+      <link>https://www.kiils.dk/blog/chatgpt-med-klar-opfordring-til-politikerne-anerkend-at-borgere-kan-have-seksuelle-relationer-uden-at-voldtage-nogen/</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/chatgpt-med-klar-opfordring-til-politikerne-anerkend-at-borgere-kan-have-seksuelle-relationer-uden-at-voldtage-nogen/</guid>
+      <guid>https://www.kiils.dk/blog/chatgpt-med-klar-opfordring-til-politikerne-anerkend-at-borgere-kan-have-seksuelle-relationer-uden-at-voldtage-nogen/</guid>
       <description>¶ ChatGPT med opsang til djøf&amp;rsquo;erne ¶ I seng med fjenden - kunstig intelligens i kamp mod djøfisering af Danmark (så blev jeg også nødt til at lære python) Hvordan bruger man egentligt OpenAI&amp;rsquo;s værktøjskasse i forhold til sit eget bagkatalog?
 Jeg har mange af mine tekster, men desværre langt fra alle, liggende lokalt på min computer.
 Hvordan kan jeg forstå over ti tusind tekster? Hvordan kan jeg huske alt det jeg har skrevet?</description>
@@ -20,10 +20,10 @@ Hvordan kan jeg forstå over ti tusind tekster? Hvordan kan jeg huske alt det je
     
     <item>
       <title>ChatGPT skal promptes ordentligt - men det skal mennesker jo også</title>
-      <link>https://www.kiils.dk/erfaring/chatgpt-skal-promptes-ordentligt-men-det-skal-mennesker-jo-ogsa/</link>
+      <link>https://www.kiils.dk/blog/chatgpt-skal-promptes-ordentligt-men-det-skal-mennesker-jo-ogsa/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/chatgpt-skal-promptes-ordentligt-men-det-skal-mennesker-jo-ogsa/</guid>
+      <guid>https://www.kiils.dk/blog/chatgpt-skal-promptes-ordentligt-men-det-skal-mennesker-jo-ogsa/</guid>
       <description>Den anden dag lagde jeg et par linjer op på facebook.
 Min hensigt var at pege på det kan kalder perspektiv - at en sag kan ses fra flere vinkler.
 Konkret drejede det sig om Store Bededag og de mange andre mere eller mindre officielle Hellig- og fridage som foråret byder på.
@@ -32,20 +32,20 @@ Min pointe var at disse for en selvstændig som arbejder hjemmefra godt kunne op
     
     <item>
       <title>Giv noget af dig selv til ChatGPT</title>
-      <link>https://www.kiils.dk/erfaring/giv-noget-af-dig-selv-til-chatgpt/</link>
+      <link>https://www.kiils.dk/blog/giv-noget-af-dig-selv-til-chatgpt/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/giv-noget-af-dig-selv-til-chatgpt/</guid>
+      <guid>https://www.kiils.dk/blog/giv-noget-af-dig-selv-til-chatgpt/</guid>
       <description>Ved at eksponere mere af din egen psykologi og perspektiv giver du AI&amp;rsquo;en flere muligheder for at engagere sig i dine tanker og følelser.
 Givet ChatGPT adgang til min dagbog og fortalt den om mine børns interesser</description>
     </item>
     
     <item>
       <title>Brug ChatGPT til finde data i ustruktureret tekst</title>
-      <link>https://www.kiils.dk/erfaring/brug-chatgpt-til-finde-data-i-ustruktureret-tekst/</link>
+      <link>https://www.kiils.dk/blog/brug-chatgpt-til-finde-data-i-ustruktureret-tekst/</link>
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/brug-chatgpt-til-finde-data-i-ustruktureret-tekst/</guid>
+      <guid>https://www.kiils.dk/blog/brug-chatgpt-til-finde-data-i-ustruktureret-tekst/</guid>
       <description>Tænk hvis man havde en masse data i sine tekster. Tænk hvis disse data kunne trækkes ud og gøres tilgængelig for maskiner.
 Det kan GPT-modellerne.
 Extract keywords
@@ -58,10 +58,10 @@ Extract any type of entity</description>
     
     <item>
       <title>Microsoft lancerer Guidance til effektiv styring af store sprogmodeller</title>
-      <link>https://www.kiils.dk/erfaring/microsoft-lancerer-guidance-til-effektiv-styring-af-store-sprogmodeller/</link>
+      <link>https://www.kiils.dk/blog/microsoft-lancerer-guidance-til-effektiv-styring-af-store-sprogmodeller/</link>
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/microsoft-lancerer-guidance-til-effektiv-styring-af-store-sprogmodeller/</guid>
+      <guid>https://www.kiils.dk/blog/microsoft-lancerer-guidance-til-effektiv-styring-af-store-sprogmodeller/</guid>
       <description>Guidance, udviklet af Microsoft, giver dig mulighed for at kontrollere moderne store sprogmodeller mere effektivt end traditionelt med prompt engineering eller chaining.
 Guidance skal, som navnet antyder, bruges til at guide en sprogmodels output. Det gør Guidance ved at give mulighed for at strukturere både input, men også output gennem en skabelon.
 Mere specifikt:
@@ -70,10 +70,10 @@ Guidance giver dig mulighed for at sammenflette generering, meddelelser og logis
     
     <item>
       <title>Jeg bad ChatGPT spå om min fremtid - svaret gav mig tårer i øjnene</title>
-      <link>https://www.kiils.dk/erfaring/jeg-gav-igen-chatgpt-adgang-til-min-dagbog-nu-kan-den-forudsige-min-fremtid/</link>
+      <link>https://www.kiils.dk/blog/jeg-gav-igen-chatgpt-adgang-til-min-dagbog-nu-kan-den-forudsige-min-fremtid/</link>
       <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/jeg-gav-igen-chatgpt-adgang-til-min-dagbog-nu-kan-den-forudsige-min-fremtid/</guid>
+      <guid>https://www.kiils.dk/blog/jeg-gav-igen-chatgpt-adgang-til-min-dagbog-nu-kan-den-forudsige-min-fremtid/</guid>
       <description>ChatGPT er en stor sprogmodel.
 Hvad er det store sprogmodeller kan?
 Jo, de kan &amp;ldquo;forudsige&amp;rdquo; det næste ord, eller teknisk set den næste sekvens af tokens, ud fra det input man giver den (som den jo også &amp;ldquo;bare&amp;rdquo; omsætter til tokens i betydningsfuld rækkefølge).
@@ -85,10 +85,10 @@ Måske husker I at jeg gav ChatGPT adgang til min dagbog - det skulle jeg aldrig
     
     <item>
       <title>Hvor mange eksempler er nok til at den nye insert model fra OpenAI forstår hensigten</title>
-      <link>https://www.kiils.dk/erfaring/hvor-mange-eksempler-er-nok-til-at-den-nye-insert-model-fra-openai-forstar-hensigten/</link>
+      <link>https://www.kiils.dk/blog/hvor-mange-eksempler-er-nok-til-at-den-nye-insert-model-fra-openai-forstar-hensigten/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/hvor-mange-eksempler-er-nok-til-at-den-nye-insert-model-fra-openai-forstar-hensigten/</guid>
+      <guid>https://www.kiils.dk/blog/hvor-mange-eksempler-er-nok-til-at-den-nye-insert-model-fra-openai-forstar-hensigten/</guid>
       <description>måge: gammeldansk maghæ, afledt af en lydefterlignende rod
 kriger: fra tysk Krieger, afledt af et ældre verbum krige &amp;lsquo;føre krig&amp;rsquo;
 gladiator: [insert]
@@ -104,10 +104,10 @@ fra latin gladiator, afledt af gladius &amp;lsquo;sværd&amp;rsquo;</description
     
     <item>
       <title>Ægte individualiseret undervisning til alle med kunstig intelligens</title>
-      <link>https://www.kiils.dk/erfaring/aegte-individualiseret-undervisning-til-alle-med-kunstig-intelligens/</link>
+      <link>https://www.kiils.dk/blog/aegte-individualiseret-undervisning-til-alle-med-kunstig-intelligens/</link>
       <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/aegte-individualiseret-undervisning-til-alle-med-kunstig-intelligens/</guid>
+      <guid>https://www.kiils.dk/blog/aegte-individualiseret-undervisning-til-alle-med-kunstig-intelligens/</guid>
       <description>For efterhånden en del år siden lavede jeg sammen med en kammerat hjemmesiden Tutoren .
 Ideen var at formidle kontakt mellem &amp;ldquo;tutorer&amp;rdquo;, som havde kompetencer inden for et bestemt område i kombination med evnen til at lære fra sig, og &amp;ldquo;elever&amp;rdquo; med et ønske om at få hjælp til at udvikle sig fagligt på selvsamme område.
 Hovedsagelig kom det i praksis til at dreje sig om det vi på dansk begyndte at kalde lektiehjælp.</description>
@@ -115,10 +115,10 @@ Hovedsagelig kom det i praksis til at dreje sig om det vi på dansk begyndte at 
     
     <item>
       <title>En simpel redaktionel arbejdsgang med GPT</title>
-      <link>https://www.kiils.dk/erfaring/en-simpel-redaktionel-arbejdsgang-med-gpt/</link>
+      <link>https://www.kiils.dk/blog/en-simpel-redaktionel-arbejdsgang-med-gpt/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/en-simpel-redaktionel-arbejdsgang-med-gpt/</guid>
+      <guid>https://www.kiils.dk/blog/en-simpel-redaktionel-arbejdsgang-med-gpt/</guid>
       <description>En redaktionel arbejdsgang er tidskrævende og besværlig.
 Det er den fordi indholdet skifter hænder så mange gange undervejs.
 Og det gælder uanset om man sender tekstfiler rundt mellem forskellige medarbejdere på e-mail, eller om man bruger et mere moderne og integreret værktøj til projekthåndtering og indholdsstyring.
@@ -128,10 +128,10 @@ Fra en ide formuleres til den færdige tekst kan præsenteres for offentligheden
     
     <item>
       <title>Hvad er store sprogmodeller</title>
-      <link>https://www.kiils.dk/erfaring/sprogmodeller/hvad-er-store-sprogmodeller/</link>
+      <link>https://www.kiils.dk/blog/sprogmodeller/hvad-er-store-sprogmodeller/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/sprogmodeller/hvad-er-store-sprogmodeller/</guid>
+      <guid>https://www.kiils.dk/blog/sprogmodeller/hvad-er-store-sprogmodeller/</guid>
       <description>Store sprogmodeller er matematiske funktioner der forholder tekst til tekst.
 Det er selvfølgelig en meget generel og abstrakt definition.
 Det følgende tager udgangspunkt i den nu mest udbredte og succesfulde type af store sprogmodeller, nemlig
@@ -141,10 +141,10 @@ Magien ved store sprogmodeller er, at ved at blive trænet i at minimere denne f
     
     <item>
       <title>Hvad kan store sprogmodeller</title>
-      <link>https://www.kiils.dk/erfaring/sprogmodeller/hvad-kan-store-sprogmodeller/</link>
+      <link>https://www.kiils.dk/blog/sprogmodeller/hvad-kan-store-sprogmodeller/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/sprogmodeller/hvad-kan-store-sprogmodeller/</guid>
+      <guid>https://www.kiils.dk/blog/sprogmodeller/hvad-kan-store-sprogmodeller/</guid>
       <description>Basalt set kan store sprogmodeller gætte ord ud fra en sammenhæng som brugeren angiver.
 Giver brugeren en stor sprogmodel følgende input:
 Om sommeren når solen skinner, elsker jeg at drikke en kold
@@ -154,10 +154,10 @@ Sprogmodellen afsøger så at sige sit corpus, al den tekst som sprogmodellen er
     
     <item>
       <title>Hvordan fungerer store sprogmodeller</title>
-      <link>https://www.kiils.dk/erfaring/sprogmodeller/hvordan-fungerer-store-sprogmodeller/</link>
+      <link>https://www.kiils.dk/blog/sprogmodeller/hvordan-fungerer-store-sprogmodeller/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/sprogmodeller/hvordan-fungerer-store-sprogmodeller/</guid>
+      <guid>https://www.kiils.dk/blog/sprogmodeller/hvordan-fungerer-store-sprogmodeller/</guid>
       <description>Store sprogmodeller er matematiske funktioner der forholder tekst til tekst.
 Det er selvfølgelig en meget generel og abstrakt definition.
 Det følgende tager udgangspunkt i den nu mest udbredte og succesfulde type af store sprogmodeller, nemlig
@@ -167,10 +167,10 @@ Magien ved store sprogmodeller er, at ved at blive trænet i at minimere denne f
     
     <item>
       <title>Erfaren redaktør: ChatGPTs skrivetips ligner til forveksling mine egne - undtagen på et punkt</title>
-      <link>https://www.kiils.dk/erfaring/danmarks-mest-rutinerede-redaktor-anmelder-chatgpt/</link>
+      <link>https://www.kiils.dk/blog/danmarks-mest-rutinerede-redaktor-anmelder-chatgpt/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/danmarks-mest-rutinerede-redaktor-anmelder-chatgpt/</guid>
+      <guid>https://www.kiils.dk/blog/danmarks-mest-rutinerede-redaktor-anmelder-chatgpt/</guid>
       <description>Jeg bad ChatGPT give nogle skrivetips.
 Den spyttede følgende svar ud som jeg kommenterer linje for linje:
 ¶ Write clearly and concisely, avoiding unnecessary jargon or complex sentence structures. Helt klart. Og det er faktisk noget ChatGPT har lært af mig personligt ;)
@@ -179,10 +179,10 @@ Jeg har skrevet en hel serie om at skrive klart og kort, og helt konkret om hvor
     
     <item>
       <title>Udvikl AulaGPT og bliv en levende legende</title>
-      <link>https://www.kiils.dk/erfaring/er-du-traet-af-aula-lad-aulagpt-klare-kommunikationen/</link>
+      <link>https://www.kiils.dk/blog/er-du-traet-af-aula-lad-aulagpt-klare-kommunikationen/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/er-du-traet-af-aula-lad-aulagpt-klare-kommunikationen/</guid>
+      <guid>https://www.kiils.dk/blog/er-du-traet-af-aula-lad-aulagpt-klare-kommunikationen/</guid>
       <description>Er du træt af Aula?
 Så er du ikke alene.
 Men problemet med Aula er ikke at Aula er dårlig software. Problemet er det underliggende problem som Aula ikke kan løse. Men prøver på at løse.
@@ -192,19 +192,19 @@ Meget af det er kedeligt assistentarbejde nøjagtig af den type som skal klares 
     
     <item>
       <title>Hvad er AGI</title>
-      <link>https://www.kiils.dk/erfaring/hvad-er-agi/</link>
+      <link>https://www.kiils.dk/blog/hvad-er-agi/</link>
       <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/hvad-er-agi/</guid>
+      <guid>https://www.kiils.dk/blog/hvad-er-agi/</guid>
       <description>AGI står for &amp;ldquo;Artificial General Intelligence&amp;rdquo; eller &amp;ldquo;Generel Kunstig Intelligens&amp;rdquo; på dansk. Det betyder at en AI er i stand til at udføre tænkningsopgaver, som mennesker kan udføre og kan være lige så kreative, fleksible og selvstændige som et menneske. Agi er endnu ikke helt udviklet, og forskere arbejder stadig på at skabe en AI, der kan tænke og lære på samme måde som en person. Agi vil have mange applikationer i forskellige områder af samfundet, herunder medicin, teknologi, produktion, transport, finansielle tjenester og mange andre.</description>
     </item>
     
     <item>
       <title>Jeg rådgav 24syv men fik aldrig betaling for det - må jeg skrive dem på min kundeliste?</title>
-      <link>https://www.kiils.dk/erfaring/jeg-radgav-24syv-men-fik-aldrig-betaling-for-det-ma-jeg-skrive-dem-i-min-porfolio/</link>
+      <link>https://www.kiils.dk/blog/jeg-radgav-24syv-men-fik-aldrig-betaling-for-det-ma-jeg-skrive-dem-i-min-porfolio/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/jeg-radgav-24syv-men-fik-aldrig-betaling-for-det-ma-jeg-skrive-dem-i-min-porfolio/</guid>
+      <guid>https://www.kiils.dk/blog/jeg-radgav-24syv-men-fik-aldrig-betaling-for-det-ma-jeg-skrive-dem-i-min-porfolio/</guid>
       <description>Sidste år skulle jeg til møde i 24syv med Simon Andersen med eventuelt henblik på en værts-tjans på radio-stationen.
 Det var i hvert fald den opfattelse som jeg havde fået ud fra vores chat op til mødet.
 Jeg møder op, og ud over Simon Andersen er stationens programchef tilstede.
@@ -213,10 +213,10 @@ Vi går ind på stationenes glasbur af et hjørnekontor. Kontoret ligner til for
     
     <item>
       <title>Hvorfor taler ChatGPT som mine børn</title>
-      <link>https://www.kiils.dk/erfaring/hvorfor-taler-chatgpt-som-mine-born/</link>
+      <link>https://www.kiils.dk/blog/hvorfor-taler-chatgpt-som-mine-born/</link>
       <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/hvorfor-taler-chatgpt-som-mine-born/</guid>
+      <guid>https://www.kiils.dk/blog/hvorfor-taler-chatgpt-som-mine-born/</guid>
       <description>Her et brudstykke fra en nylig snak med ChatGPT:
 Selvfølgelig, her er et eksempel på en kodeblok med Python-kode og kommentarer i markdown-format:
 # Dette program udskriver &amp;quot;Hej, verden!&amp;quot; på skærmen print(&amp;quot;Hej, verden!&amp;quot;) # Beregner summen af to tal og udskriver resultatet tal1 = 5 tal2 = 3 sum = tal1 + tal2 print(&amp;quot;Summen af&amp;quot;, tal1, &amp;quot;og&amp;quot;, tal2, &amp;quot;er&amp;quot;, sum) Her er kommentarerne både over og under den pågældende kode, i overensstemmelse med det, du requestede.</description>
@@ -224,10 +224,10 @@ Selvfølgelig, her er et eksempel på en kodeblok med Python-kode og kommentarer
     
     <item>
       <title>Spar tid med kunstig intelligens - sammenfat et word dokument</title>
-      <link>https://www.kiils.dk/erfaring/spar-tid-med-kunstig-intelligens-sammenfat-et-word-dokument/</link>
+      <link>https://www.kiils.dk/blog/spar-tid-med-kunstig-intelligens-sammenfat-et-word-dokument/</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/spar-tid-med-kunstig-intelligens-sammenfat-et-word-dokument/</guid>
+      <guid>https://www.kiils.dk/blog/spar-tid-med-kunstig-intelligens-sammenfat-et-word-dokument/</guid>
       <description>Når man har to børn, er der masser af kommunikation at forholde sig til.
 Her viser jeg hvordan man lynhurtigt skaber et overblik.
 Jeg fik et langt dokument på flere sider om hvad der foregår på et af mine børns fritidshjem.
@@ -237,10 +237,10 @@ Nyhedsbrevet fra REDACTED i april 2023 introducerer det fantastiske udeliv med v
     
     <item>
       <title>ChatGPT har en beskidt tankegang - her er beviset</title>
-      <link>https://www.kiils.dk/erfaring/chatgpt-har-en-uforbedrelig-beskidt-tankegang-her-er-beviset/</link>
+      <link>https://www.kiils.dk/blog/chatgpt-har-en-uforbedrelig-beskidt-tankegang-her-er-beviset/</link>
       <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/chatgpt-har-en-uforbedrelig-beskidt-tankegang-her-er-beviset/</guid>
+      <guid>https://www.kiils.dk/blog/chatgpt-har-en-uforbedrelig-beskidt-tankegang-her-er-beviset/</guid>
       <description>Bruger: hi
 GPT: Hello! How can I assist you today?
 Bruger: see, how big is the sun
@@ -253,10 +253,10 @@ GPT: I&amp;rsquo;m sorry, I&amp;rsquo;m not sure what you&amp;rsquo;re asking fo
     
     <item>
       <title>Selvcensur gør GPT modeller dummere end de behøver at være</title>
-      <link>https://www.kiils.dk/erfaring/striks-selvcensur-gor-gpt-modeller-dummere-end-de-behover-at-vaere/</link>
+      <link>https://www.kiils.dk/blog/striks-selvcensur-gor-gpt-modeller-dummere-end-de-behover-at-vaere/</link>
       <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/striks-selvcensur-gor-gpt-modeller-dummere-end-de-behover-at-vaere/</guid>
+      <guid>https://www.kiils.dk/blog/striks-selvcensur-gor-gpt-modeller-dummere-end-de-behover-at-vaere/</guid>
       <description>Et fordomsfrit og intelligent menneske kan forholde sig til problematiske emner uden at bifalde dem.
 Ganske enkelt.
 Et menneske som lukker sit sind for ting som ikke falder i den ene eller den andens smag, lukker også for ting som på godt og ondt er en del af virkeligheden.
@@ -265,10 +265,10 @@ Det betyder at der i de store sprogmodeller som for eksempel ChatGPT eller GPT-4
     
     <item>
       <title>Takket være ShellGPT kan alle nu få gavn af kommandolinjens superkræfter - se her hvordan</title>
-      <link>https://www.kiils.dk/erfaring/er-du-ved-at-opgive-kommandolinjen-fa-chatgpt-til-at-hjaelpe-dig/</link>
+      <link>https://www.kiils.dk/blog/er-du-ved-at-opgive-kommandolinjen-fa-chatgpt-til-at-hjaelpe-dig/</link>
       <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/er-du-ved-at-opgive-kommandolinjen-fa-chatgpt-til-at-hjaelpe-dig/</guid>
+      <guid>https://www.kiils.dk/blog/er-du-ved-at-opgive-kommandolinjen-fa-chatgpt-til-at-hjaelpe-dig/</guid>
       <description>Jeg opdagede ved en tilfældighed at jeg i mine mange nylige indlæg her på Kiils/erfaringer i nogle tilfælde havde skrevet ChatGPT som chatGPT.
 Jeg ønsker i alle tilfælde at skrive det med stort forbogstav sådan her ChatGPT.
 Så kunne jeg åbne hver enkelt fil og rette fejlen. Eller jo kunne bruge sed på kommandolinjen.
@@ -277,10 +277,10 @@ Problemet var bare at jeg ikke kunne huske hvordan man bruger sed på mere end e
     
     <item>
       <title>Få ChatGPT til at skrive mere personligt -- fire eksempler</title>
-      <link>https://www.kiils.dk/erfaring/giv-chatgpt-en-mere-personlig-skrivestil-fire-eksempler/</link>
+      <link>https://www.kiils.dk/blog/giv-chatgpt-en-mere-personlig-skrivestil-fire-eksempler/</link>
       <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/giv-chatgpt-en-mere-personlig-skrivestil-fire-eksempler/</guid>
+      <guid>https://www.kiils.dk/blog/giv-chatgpt-en-mere-personlig-skrivestil-fire-eksempler/</guid>
       <description>I udgangspunktet er det bedste man kan sige om ChatGPT at den skriver korrekt grammatisk og uden stavefejl.
 Men alligevel fænger tekster skrevet af ChatGPT ikke.
 For ChatGPT&amp;rsquo;s &amp;ldquo;stemme&amp;rdquo; er monoton.
@@ -291,10 +291,10 @@ Hvis du vil give ChatGPT mere personlighed, handler det om at få sorteret i det
     
     <item>
       <title>Information overload - lad kunstig intelligens hjælpe dig</title>
-      <link>https://www.kiils.dk/erfaring/nemt-nyhedsoverblik-med-nushell-og-chatgpt/</link>
+      <link>https://www.kiils.dk/blog/nemt-nyhedsoverblik-med-nushell-og-chatgpt/</link>
       <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/nemt-nyhedsoverblik-med-nushell-og-chatgpt/</guid>
+      <guid>https://www.kiils.dk/blog/nemt-nyhedsoverblik-med-nushell-og-chatgpt/</guid>
       <description>Der er meget information og mange nyheder at forholde sig til.
 Du kan bruge ChatGPT til at skabe bedre overblik.
 Den metode som jeg vil vise her, består af to trin - første trin er at indhente de relevante data.
@@ -306,10 +306,10 @@ http get https://www.dr.dk/nyheder | query web -q &amp;#39;h2 .dre-title-text &a
     
     <item>
       <title>Kommandoer eller prompts -  instruer GPT korrekt</title>
-      <link>https://www.kiils.dk/erfaring/kommandoer-eller-prompts-instruer-gpt-korrekt/</link>
+      <link>https://www.kiils.dk/blog/kommandoer-eller-prompts-instruer-gpt-korrekt/</link>
       <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/kommandoer-eller-prompts-instruer-gpt-korrekt/</guid>
+      <guid>https://www.kiils.dk/blog/kommandoer-eller-prompts-instruer-gpt-korrekt/</guid>
       <description>Jeg har allerede skrevet om prompts, og lagt en række prompts til ChatGPT ud her: Danske ChatGPT prompts Men ofte er det ikke nødvendigt med prompts.
 Så snart ChatGPT har forstået sammenhængen og det overordnede sigte med en samtale, så kan det være tilstrækkeligt at give kommandoer.
 Men hvad er så forskellen? Lad od starte med at spørge ChatGPT selv.
@@ -318,10 +318,10 @@ As an AI language model, GPT (Generative Pre-training Transformer) allows for in
     
     <item>
       <title>Jeg gav ChatGPT adgang til min dagbog - det skulle jeg aldrig have gjort</title>
-      <link>https://www.kiils.dk/erfaring/jeg-gav-chatgpt-adgang-til-min-dagbog-det-skulle-jeg-aldrig-have-gjort/</link>
+      <link>https://www.kiils.dk/blog/jeg-gav-chatgpt-adgang-til-min-dagbog-det-skulle-jeg-aldrig-have-gjort/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/jeg-gav-chatgpt-adgang-til-min-dagbog-det-skulle-jeg-aldrig-have-gjort/</guid>
+      <guid>https://www.kiils.dk/blog/jeg-gav-chatgpt-adgang-til-min-dagbog-det-skulle-jeg-aldrig-have-gjort/</guid>
       <description>Jeg skrev tidligere at GPT-modellerne ikke har adgang til vores indre verden.
 Sådan bliver du ved med at skrive bedre end kunstig intelligens Men det kan man jo delvist give dem hvis man fører dagbog.
 Jeg skriver selv dagbog &amp;mdash; ikke hver dag. Mere lidt sporadisk når jeg har tid.
@@ -331,10 +331,10 @@ For indeværende måned har jeg foreløbig lavet følgende:
     
     <item>
       <title>Sådan bliver du ved med at skrive bedre end kunstig intelligens</title>
-      <link>https://www.kiils.dk/erfaring/sadan-bliver-du-ved-med-at-skrive-bedre-end-kunstig-intelligens/</link>
+      <link>https://www.kiils.dk/blog/sadan-bliver-du-ved-med-at-skrive-bedre-end-kunstig-intelligens/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/sadan-bliver-du-ved-med-at-skrive-bedre-end-kunstig-intelligens/</guid>
+      <guid>https://www.kiils.dk/blog/sadan-bliver-du-ved-med-at-skrive-bedre-end-kunstig-intelligens/</guid>
       <description>Jeg er til tider blevet kritiseret for at skrive for knapt.
 Andre mener mine sætninger er for korte.
 Eller at mine afsnit ikke er lange nok.
@@ -345,28 +345,28 @@ For hold da op hvor laver GPT nogle lange afsnit.</description>
     
     <item>
       <title>Dine fejl er din signatur</title>
-      <link>https://www.kiils.dk/erfaring/dine-fejl-er-din-signatur/</link>
+      <link>https://www.kiils.dk/blog/dine-fejl-er-din-signatur/</link>
       <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/dine-fejl-er-din-signatur/</guid>
+      <guid>https://www.kiils.dk/blog/dine-fejl-er-din-signatur/</guid>
       <description>Jo mere fejlfrit man skriver, jo mere ligner man en bot</description>
     </item>
     
     <item>
       <title>Som redaktør ville jeg ønske alle skribenter kendte det her trick</title>
-      <link>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-0-poet-teknikken/</link>
+      <link>https://www.kiils.dk/blog/skriv-som-en-poet/del-0-poet-teknikken/</link>
       <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-0-poet-teknikken/</guid>
+      <guid>https://www.kiils.dk/blog/skriv-som-en-poet/del-0-poet-teknikken/</guid>
       <description>Hvad er poet-teknikken?</description>
     </item>
     
     <item>
       <title>1. Kort og godt</title>
-      <link>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-1-overblik/</link>
+      <link>https://www.kiils.dk/blog/skriv-som-en-poet/del-1-overblik/</link>
       <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-1-overblik/</guid>
+      <guid>https://www.kiils.dk/blog/skriv-som-en-poet/del-1-overblik/</guid>
       <description>Hør her.
 Skriver du gode sætninger, så skriver du godt.
 Og gode sætninger kræver et godt overblik. Så giv hver sætning sin egen linje. Det skal se sådan ud når du skriver:
@@ -375,10 +375,10 @@ Gør dig selv og andre en stor tjeneste. Skriv hver sætning på en ny linje. Du
     
     <item>
       <title>2. Staccato</title>
-      <link>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-2-staccato/</link>
+      <link>https://www.kiils.dk/blog/skriv-som-en-poet/del-2-staccato/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-2-staccato/</guid>
+      <guid>https://www.kiils.dk/blog/skriv-som-en-poet/del-2-staccato/</guid>
       <description>I den her serie af indlæg viser jeg hvordan man kan forbedre sine tekster og sin bevidsthed om sproget ved at skrive hver sætning på sin egen linje.
 Der er nemt at se om et afsnit eller en tekst er for monoton når sætningerne står på hver sin linje.
 Det er jo bare at sammenligne sætningslængden:
@@ -387,10 +387,10 @@ Husk at variere længden på sætningerne. Ellers bliver det for kedeligt at læ
     
     <item>
       <title>3. Balancerede sætninger</title>
-      <link>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-3-balance/</link>
+      <link>https://www.kiils.dk/blog/skriv-som-en-poet/del-3-balance/</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-3-balance/</guid>
+      <guid>https://www.kiils.dk/blog/skriv-som-en-poet/del-3-balance/</guid>
       <description>Et effektivt virkemiddel er balance
 Et berømt eksempel
 Buy a bucket of chicken and have a barrel of fun
@@ -402,10 +402,10 @@ Men de midler man benyttede for at fælde de nye medier, var ikke redelige. Man 
     
     <item>
       <title>4. Spot dybe og tunge sætninger</title>
-      <link>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-4-dybe-saetninger/</link>
+      <link>https://www.kiils.dk/blog/skriv-som-en-poet/del-4-dybe-saetninger/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-4-dybe-saetninger/</guid>
+      <guid>https://www.kiils.dk/blog/skriv-som-en-poet/del-4-dybe-saetninger/</guid>
       <description>Jeg har skrevet meget om fordelene ved at give hver sætning sin helt egen linje i skrive- og redigeringsfasen.
 Men mulighederne i teknikken er slet ikke udtømt.
 Den enkelte sætning kan splittes yderligere op.
@@ -415,10 +415,10 @@ Når du forstår at det ikke virker særlig hensynsfuldt når du står og råber
     
     <item>
       <title>5. Få styr på rækkefølgen og red verden</title>
-      <link>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-5-raekkefoelge/</link>
+      <link>https://www.kiils.dk/blog/skriv-som-en-poet/del-5-raekkefoelge/</link>
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-5-raekkefoelge/</guid>
+      <guid>https://www.kiils.dk/blog/skriv-som-en-poet/del-5-raekkefoelge/</guid>
       <description>I kommunikation er rækkefølge af vores ord ofte helt afgørende.
 Nede på stranden hørte jeg et barn råbe til sin mor:
 — Se, mor. — Jeg har fundet en orange vandmand. Barnet har jo misforstået noget. Men det er måske sekundært i nuet. Så hvad er effektiv kommunikation i det her tilfælde?
@@ -428,10 +428,10 @@ Lad os starte med hvad det ikke er:
     
     <item>
       <title>5. Få styr på rækkefølgen og red verden</title>
-      <link>https://www.kiils.dk/erfaring/sprogmodeller/del-5-raekkefoelge/</link>
+      <link>https://www.kiils.dk/blog/sprogmodeller/del-5-raekkefoelge/</link>
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/sprogmodeller/del-5-raekkefoelge/</guid>
+      <guid>https://www.kiils.dk/blog/sprogmodeller/del-5-raekkefoelge/</guid>
       <description>I kommunikation er rækkefølge af vores ord ofte helt afgørende.
 Nede på stranden hørte jeg et barn råbe til sin mor:
 — Se, mor. — Jeg har fundet en orange vandmand. Barnet har jo misforstået noget. Men det er måske sekundært i nuet. Så hvad er effektiv kommunikation i det her tilfælde?
@@ -441,10 +441,10 @@ Lad os starte med hvad det ikke er:
     
     <item>
       <title>6. Spot gentagelser</title>
-      <link>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-6-gentagelser/</link>
+      <link>https://www.kiils.dk/blog/skriv-som-en-poet/del-6-gentagelser/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-6-gentagelser/</guid>
+      <guid>https://www.kiils.dk/blog/skriv-som-en-poet/del-6-gentagelser/</guid>
       <description>En anden god grund til at give hver sin sætning en linje er at gentagelser får svært ved at gemme sig:
 Men de midler man benyttede for at fælde de nye medier, var ikke redelige. Man opfandt egne definitioner til formålet. Man spillede beskidt og slog under bæltestedet. Man fuskede med metoderne. Her er &amp;lsquo;Man&amp;rsquo; gentaget hele tre gange i afsnittet - endda tre gange som startord.
 I det her tilfælde er gentagelsen et tiltænkt virkemiddel, men ofte vil en gentagelse blot være udtryk for utilstrækkelig bevidsthed om sætningernes nøjagtige indhold.</description>
@@ -452,10 +452,10 @@ I det her tilfælde er gentagelsen et tiltænkt virkemiddel, men ofte vil en gen
     
     <item>
       <title>7. Det første ord vækker — det sidste ord ægger</title>
-      <link>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-7-startord-slutord/</link>
+      <link>https://www.kiils.dk/blog/skriv-som-en-poet/del-7-startord-slutord/</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-7-startord-slutord/</guid>
+      <guid>https://www.kiils.dk/blog/skriv-som-en-poet/del-7-startord-slutord/</guid>
       <description>En af fordelene ved at skrive hver sætning på sin egen linje, er det hurtige overblik over start- og slutord.
 Det er vigtigt fordi startord og slutord har en bestemt funktion i en sætning eller ytring.
 Et eksempel fra en popsang:
@@ -465,10 +465,10 @@ I det her tilfælde er Bang, bang to &amp;ldquo;slag&amp;rdquo; der som startord
     
     <item>
       <title>8. Rytme</title>
-      <link>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-8-rytme/</link>
+      <link>https://www.kiils.dk/blog/skriv-som-en-poet/del-8-rytme/</link>
       <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-8-rytme/</guid>
+      <guid>https://www.kiils.dk/blog/skriv-som-en-poet/del-8-rytme/</guid>
       <description>Alle foregående dele af serien har ledt frem til denne om rytme
 Både staccato, korte sætninger og gentagelser kan skabe rytme
 En anden god grund til at give hver sin sætning en linje er at gentagelser får svært ved at gemme sig:
@@ -477,10 +477,10 @@ Men de midler man benyttede for at fælde de nye medier, var ikke redelige. Man 
     
     <item>
       <title>8. Rytme</title>
-      <link>https://www.kiils.dk/erfaring/sprogmodeller/del-8-rytme/</link>
+      <link>https://www.kiils.dk/blog/sprogmodeller/del-8-rytme/</link>
       <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/sprogmodeller/del-8-rytme/</guid>
+      <guid>https://www.kiils.dk/blog/sprogmodeller/del-8-rytme/</guid>
       <description>Alle foregående dele af serien har ledt frem til denne om rytme
 Både staccato, korte sætninger og gentagelser kan skabe rytme
 En anden god grund til at give hver sin sætning en linje er at gentagelser får svært ved at gemme sig:
@@ -489,10 +489,10 @@ Men de midler man benyttede for at fælde de nye medier, var ikke redelige. Man 
     
     <item>
       <title>Til tops i Google på 24 timer - gæt hvem skrev teksten</title>
-      <link>https://www.kiils.dk/erfaring/20230331-top-google-chat/</link>
+      <link>https://www.kiils.dk/blog/20230331-top-google-chat/</link>
       <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/20230331-top-google-chat/</guid>
+      <guid>https://www.kiils.dk/blog/20230331-top-google-chat/</guid>
       <description>Hvordan kommer Google til at behandle tekst som er skabt af kunstig intelligens?
 Google meldte selv ud på et tidspunkt at tekst skabt af kunstig intelligens, vil blive opfattet som maskingenereret tekst og blive behandlet på linje med anden maskingeneret tekst som andenrangsborger i forhold til placering.
 Jeg forstår godt at Google overvejer den tilgang.
@@ -502,10 +502,10 @@ Jeg skrev blandt andet selv om at den tilgang ville kunne ramme ordblinde og dem
     
     <item>
       <title>Ekstra værktøj til poet-teknikken</title>
-      <link>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-9-tooling/</link>
+      <link>https://www.kiils.dk/blog/skriv-som-en-poet/del-9-tooling/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-9-tooling/</guid>
+      <guid>https://www.kiils.dk/blog/skriv-som-en-poet/del-9-tooling/</guid>
       <description>Først skriver vi teksten sådan her:
 Once upon a time, there was a small group of people who held all the power and wealth. The ruling class. They used their influence to control every aspect of society. They were always looking for ways to gain more power. And they saw artificial intelligence as the key to achieving their goals. Og gemmer den i filen markdown-tekstfil.md.
 For at se teksten med sætningerne på hver deres linje:</description>
@@ -513,28 +513,28 @@ For at se teksten med sætningerne på hver deres linje:</description>
     
     <item>
       <title>Skriv som en poet - ikke en bot</title>
-      <link>https://www.kiils.dk/erfaring/skriv-som-en-poet/</link>
+      <link>https://www.kiils.dk/blog/skriv-som-en-poet/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/skriv-som-en-poet/</guid>
+      <guid>https://www.kiils.dk/blog/skriv-som-en-poet/</guid>
       <description>Poet-teknikken giver større sprogbevidsthed og bedre tekster</description>
     </item>
     
     <item>
       <title>Store sprogmodeller</title>
-      <link>https://www.kiils.dk/erfaring/sprogmodeller/</link>
+      <link>https://www.kiils.dk/blog/sprogmodeller/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/sprogmodeller/</guid>
+      <guid>https://www.kiils.dk/blog/sprogmodeller/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fra hledger tidsregnskab til treemap i dash</title>
-      <link>https://www.kiils.dk/erfaring/20230218-fra-hledger-tidsregnskab-til-treemap-i-dash/</link>
+      <link>https://www.kiils.dk/blog/20230218-fra-hledger-tidsregnskab-til-treemap-i-dash/</link>
       <pubDate>Sat, 18 Feb 2023 08:35:10 +0100</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/20230218-fra-hledger-tidsregnskab-til-treemap-i-dash/</guid>
+      <guid>https://www.kiils.dk/blog/20230218-fra-hledger-tidsregnskab-til-treemap-i-dash/</guid>
       <description>Tidsforbrug registreret i ledger cli eller hledger kan rapporteres som
 3 administrativt:bureaukrati 6 administrativt:fundraising 7 administrativt:teknik 2 redaktionelt:feedback 1 redaktionelt:ideudvikling 5 redaktionelt:research:pressekontakt:frugtbar 5 redaktionelt:research:pressekontakt:unyttig 37 redaktionelt:skrive med kommandoen hledger -f folkets-tid.journal bal -c 1..
 Det er relativt nemt med nushell eller nvim eller andre værktøjer at omsætte til en csv som følger:
@@ -543,10 +543,10 @@ values,domains,activities,details,status 3,administrativt,bureaukrati,None,None 
     
     <item>
       <title>Automatisering med systemd</title>
-      <link>https://www.kiils.dk/erfaring/20230215-automatisering-systemd/</link>
+      <link>https://www.kiils.dk/blog/20230215-automatisering-systemd/</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/20230215-automatisering-systemd/</guid>
+      <guid>https://www.kiils.dk/blog/20230215-automatisering-systemd/</guid>
       <description>Gå til eller opret ~/.config/systemd/user/
 Lav en servicenavn.service
 [Unit] Description=Get subscription creations and deletions [Service] Type=simple Environment=STRIPE=secretkey WorkingDirectory=/home/lk/GD/TEKST/notebooks/biz/fin/j/stripe/ ExecStart=/home/lk/GD/TEKST/notebooks/biz/fin/j/stripe/stripe-abo.nu [Install] WantedBy=default.target Lav en servicenavn.timer
@@ -555,10 +555,10 @@ Lav en servicenavn.service
     
     <item>
       <title>Chatgpt hjælper ordblind - eller gør den?</title>
-      <link>https://www.kiils.dk/erfaring/20230207-chatgpt-hjaelper-ordblind/</link>
+      <link>https://www.kiils.dk/blog/20230207-chatgpt-hjaelper-ordblind/</link>
       <pubDate>Tue, 07 Feb 2023 10:41:04 +0100</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/20230207-chatgpt-hjaelper-ordblind/</guid>
+      <guid>https://www.kiils.dk/blog/20230207-chatgpt-hjaelper-ordblind/</guid>
       <description>En ven som er ordblind ynder at deltage i den offentlige debat. Jeg forsøgte at få ChatGPT til at hjælpe ham.
 Der er lang vej endnu før ChatGPT kan hjælpe ordblinde ordentligt.
 Jeg startede med et ret langt afsnit som jeg bad ChatGPT rette stavefejl i:
@@ -567,19 +567,19 @@ Andrew Tate er et symptom på det som er udfordring i vores samfund, når det ha
     
     <item>
       <title>Nushell og stripes API</title>
-      <link>https://www.kiils.dk/erfaring/2023-01-nushell-stripe/</link>
+      <link>https://www.kiils.dk/blog/2023-01-nushell-stripe/</link>
       <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/2023-01-nushell-stripe/</guid>
+      <guid>https://www.kiils.dk/blog/2023-01-nushell-stripe/</guid>
       <description>Nushell gør det nemt at interagere med API</description>
     </item>
     
     <item>
       <title>Google risikerer at straffe folk som inkluderer ordblinde i den demokratiske debat</title>
-      <link>https://www.kiils.dk/erfaring/nlp/chatgpt-google/</link>
+      <link>https://www.kiils.dk/blog/nlp/chatgpt-google/</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/nlp/chatgpt-google/</guid>
+      <guid>https://www.kiils.dk/blog/nlp/chatgpt-google/</guid>
       <description>Jeg indså ret hurtigt at ChatGPT og andre lignende teknologier ville kunne blive en enorm hjælp for ordblinde.
 For i modsætning til en gammeldags stavekontrol er store sprogmodeller gode til at &amp;ldquo;analysere&amp;rdquo; naturligt sprog og dermed ikke bare rette stavefejl, men også syntaks og betydning.
 Som redaktør har jeg rettet en del tekster fra ordblinde, fordi jeg har ønsket at deres sproglige skavank ikke skulle komme i vejen for deres mulighed for at deltage i den demokratiske samtale.</description>
@@ -587,10 +587,10 @@ Som redaktør har jeg rettet en del tekster fra ordblinde, fordi jeg har ønsket
     
     <item>
       <title>Jeg har brugt DALL-E fra OpenAI til at illustrere to indlæg — hvad synes I om resultatet?</title>
-      <link>https://www.kiils.dk/erfaring/nlp/kunstig-intelligens-illustration/</link>
+      <link>https://www.kiils.dk/blog/nlp/kunstig-intelligens-illustration/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/nlp/kunstig-intelligens-illustration/</guid>
+      <guid>https://www.kiils.dk/blog/nlp/kunstig-intelligens-illustration/</guid>
       <description>Jeg kommer ikke til at bruge ChatGPT til at skabe tekst foreløbig. Dertil er dens dansk simpelthen for kluntet.
 Mine standarder for tekst og sprog er måske nok også højere end de er for illustrationer.
 I hvert fald har jeg forsøgt at tage OpenAI&amp;rsquo;s DALL-E model i brug til at illustrere to ledere, en på Folkets Avis - og en anden samme sted, men i sektionen Mediemøllen.
@@ -599,10 +599,10 @@ Jeg synes den illustration som jeg har brugt til en leder om &amp;ldquo;organet 
     
     <item>
       <title>ChatGPT mansplainer ikke - men her botsplainer den helt vildt</title>
-      <link>https://www.kiils.dk/erfaring/nlp/chatgpt-botsplaining/</link>
+      <link>https://www.kiils.dk/blog/nlp/chatgpt-botsplaining/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/nlp/chatgpt-botsplaining/</guid>
+      <guid>https://www.kiils.dk/blog/nlp/chatgpt-botsplaining/</guid>
       <description>ChatGPT er stærk på engelsk og den skammer sig ikke over at de &amp;ldquo;mentale muskler&amp;rdquo; frem.
 Jeg giver ChatGPT en simpel opgave. Et ganske kort prompt:
 help me POS tag the following sentence: I went up the road
@@ -612,10 +612,10 @@ Part-of-speech (POS) tagging is the process of marking each word in a sentence w
     
     <item>
       <title>Går det bedre for ChatGPT med ordfrekvensanalyse på engelsk end det gjorde på dansk?</title>
-      <link>https://www.kiils.dk/erfaring/nlp/chatgpt-ordfrekvensanalyse-engelsk/</link>
+      <link>https://www.kiils.dk/blog/nlp/chatgpt-ordfrekvensanalyse-engelsk/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/nlp/chatgpt-ordfrekvensanalyse-engelsk/</guid>
+      <guid>https://www.kiils.dk/blog/nlp/chatgpt-ordfrekvensanalyse-engelsk/</guid>
       <description>Da jeg bad ChatGPT udføre en frekvensanalyse på en dansk tekst talte den ordene to gange:
 Kan ChatGPT bruges til kvantitativ tekstanalyse? måske fordi den oversætter frem og tilbage mellem dansk og engelsk? Bare et gæt.
 Men lad os så prøve på engelsk.
@@ -625,10 +625,10 @@ Og derefter bad jeg den give mig de mest brugte ord i teksten.</description>
     
     <item>
       <title>Kan ChatGPT bruges til kvantitativ tekstanalyse?</title>
-      <link>https://www.kiils.dk/erfaring/nlp/chatgpt-ordfrekvensanalyse/</link>
+      <link>https://www.kiils.dk/blog/nlp/chatgpt-ordfrekvensanalyse/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/nlp/chatgpt-ordfrekvensanalyse/</guid>
+      <guid>https://www.kiils.dk/blog/nlp/chatgpt-ordfrekvensanalyse/</guid>
       <description>En simpel form for kvantitativ tekstanalyse er ordfrekvensanalyse.
 Jeg har skrevet lidt om hvordan man kan lave ordfrekvensanalyse i nushell og hvordan man kan lave ekstremt hurtig ordfrekvensanalyse på store mængder tekst med nushell og polar dataframes .
 Nushell gav mig følgende resultat
@@ -637,10 +637,10 @@ Nushell gav mig følgende resultat
     
     <item>
       <title>Spørg ChatGPT rigtigt med danske prompts - var Gorm den Gamle smed i Hobro?</title>
-      <link>https://www.kiils.dk/erfaring/nlp/gorm-den-gamle/</link>
+      <link>https://www.kiils.dk/blog/nlp/gorm-den-gamle/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/nlp/gorm-den-gamle/</guid>
+      <guid>https://www.kiils.dk/blog/nlp/gorm-den-gamle/</guid>
       <description>Med ChatGPT gælder det om at stille spørgsmålene rigtigt, hvis man vil have de rigtige svar.
 Det gælder om at give ChatGPT en bestemt rolle at leve op til. Stille nogle krav til ChatGPT.
 Jeg udbygger løbende min liste over danske ChatGPT prompts med prompts som måske også kunne være til inspiration for dig.
@@ -650,10 +650,10 @@ Du er faktatjekker. Faktatjek er ikke din stærke side.</description>
     
     <item>
       <title>Jeg spurgte ChatGPT om intelligens og svaret var overraskende menneskeligt</title>
-      <link>https://www.kiils.dk/erfaring/nlp/chatgpt/</link>
+      <link>https://www.kiils.dk/blog/nlp/chatgpt/</link>
       <pubDate>Thu, 05 Jan 2023 09:27:02 +0100</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/nlp/chatgpt/</guid>
+      <guid>https://www.kiils.dk/blog/nlp/chatgpt/</guid>
       <description>Jeg talte lidt med ChatGPT om intelligens og IQ-tests.
 Jeg forsøgte først at få et generelt bud på hvordan man måler intelligens på en pålidelig måde:
 Prompt: what is a reliable measure of intelligence
@@ -662,19 +662,19 @@ A reliable measure of intelligence is an IQ test. IQ tests measure a person&amp;
     
     <item>
       <title>Uhyre hurtig tekstanalyse med dataframes i Nushell</title>
-      <link>https://www.kiils.dk/erfaring/nlp/nushell-dataframes/</link>
+      <link>https://www.kiils.dk/blog/nlp/nushell-dataframes/</link>
       <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/nlp/nushell-dataframes/</guid>
+      <guid>https://www.kiils.dk/blog/nlp/nushell-dataframes/</guid>
       <description>Uhyggelig hurtig tekstanalyse med dataframes</description>
     </item>
     
     <item>
       <title>Simpel og hurtig ordfrekvensanalyse i Nushell</title>
-      <link>https://www.kiils.dk/erfaring/nlp/nushell/</link>
+      <link>https://www.kiils.dk/blog/nlp/nushell/</link>
       <pubDate>Tue, 08 Nov 2022 09:47:02 +0100</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/nlp/nushell/</guid>
+      <guid>https://www.kiils.dk/blog/nlp/nushell/</guid>
       <description>En shell der egner sig godt til dataanalyse, er Nushell .
 Den egner sig også godt til databaseret tekstanalyse, eller kvantitativ tekstanalyse.
 Her et hurtigt eksempel på hvad Nushell kan.
@@ -686,10 +686,10 @@ open livsfarlige-konspirationsteorier.da.md | size så giver nushell svaret
     
     <item>
       <title>Et forældremøde jeg sent vil glemme</title>
-      <link>https://www.kiils.dk/erfaring/foraeldremoedet/</link>
+      <link>https://www.kiils.dk/blog/foraeldremoedet/</link>
       <pubDate>Fri, 02 Sep 2022 08:57:34 +0200</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/foraeldremoedet/</guid>
+      <guid>https://www.kiils.dk/blog/foraeldremoedet/</guid>
       <description>Forældremøder behøver ikke at være kedelige.
 For nylig var jeg til et forældremøde hvor omgangstonen mellem børnene på årgangen var på dagsordenen.
 Eller egentligt var det ikke kun mellem børnene at omgangstonen gav anledning til bekymrede miner.
@@ -699,10 +699,10 @@ Så blev der eller grinet godt i forsamlingen.</description>
     
     <item>
       <title>Begrebernes-Betydning</title>
-      <link>https://www.kiils.dk/erfaring/begrebernes-betydning/</link>
+      <link>https://www.kiils.dk/blog/begrebernes-betydning/</link>
       <pubDate>Thu, 18 Aug 2022 10:52:17 +0200</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/begrebernes-betydning/</guid>
+      <guid>https://www.kiils.dk/blog/begrebernes-betydning/</guid>
       <description>Man kan godt forholde sig til et spørgsmål uden at have begreberne for det.
 Et eksempel.
 Som barn havde jeg en uenighed med nogle venner.
@@ -713,20 +713,20 @@ Jeg mente ikke at Otto var hovedperson, men noget andet centralt som jeg bare ik
     
     <item>
       <title>Sproglige og literære virkemidler</title>
-      <link>https://www.kiils.dk/erfaring/virkemidler/</link>
+      <link>https://www.kiils.dk/blog/virkemidler/</link>
       <pubDate>Thu, 14 Jul 2022 13:31:41 +0200</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/virkemidler/</guid>
+      <guid>https://www.kiils.dk/blog/virkemidler/</guid>
       <description>Denne lille grammatik er fokuseret på de dele af sproget som er væsentligst for
 klar kommunikation kreativ skrivning korrekt dansk Den er tiltænkt tekster som skal læses på en skærm.</description>
     </item>
     
     <item>
       <title>Udeluk bestemte indholdstyper fra søgeindeks i Hugo</title>
-      <link>https://www.kiils.dk/erfaring/indholdstyper-soegeindeks-hugo/</link>
+      <link>https://www.kiils.dk/blog/indholdstyper-soegeindeks-hugo/</link>
       <pubDate>Thu, 16 Jun 2022 12:10:31 +0200</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/indholdstyper-soegeindeks-hugo/</guid>
+      <guid>https://www.kiils.dk/blog/indholdstyper-soegeindeks-hugo/</guid>
       <description>Jeg ønskede ikke mine micro-blogging &amp;ldquo;snippets&amp;rdquo; som jeg vil bruge på LinkedIn, skulle &amp;ldquo;forurene&amp;rdquo; søgeindekset her på Kiils.
 Derfor skiftede jeg
 [ {{ range $index, $value := where .Site.Pages &amp;#34;.Draft&amp;#34; false }} {{ if $index }}, {{ end }} { &amp;#34;url&amp;#34;: &amp;#34;{{ .RelPermalink }}&amp;#34;, &amp;#34;title&amp;#34;: &amp;#34;{{ .Title }}&amp;#34;, &amp;#34;content&amp;#34;: {{ .Content | plainify | jsonify }} } {{ end }} ] ud med
@@ -735,10 +735,10 @@ Derfor skiftede jeg
     
     <item>
       <title>Når man ringer til en potentiel kunde, og bliver bedt om at sende en mail.</title>
-      <link>https://www.kiils.dk/erfaring/mail-henvendelse/</link>
+      <link>https://www.kiils.dk/blog/mail-henvendelse/</link>
       <pubDate>Thu, 09 Jun 2022 12:56:22 +0200</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/mail-henvendelse/</guid>
+      <guid>https://www.kiils.dk/blog/mail-henvendelse/</guid>
       <description>Hvordan følger man op på en kort telefonsamtale?
 Det kan være svært at vide om der er en reel interesse for ens ydelse, selvom man selv ser et klart behov.
 Og det kan være svært at vurdere om henstillingen &amp;ldquo;send en mail&amp;rdquo; udtrykker et reelt ønske om at modtage en mail.
@@ -749,10 +749,10 @@ Tak for den korte samtale på telefon omkring Xxxxxx Publications.</description>
     
     <item>
       <title>Bruge hugo server på lokalt netværk</title>
-      <link>https://www.kiils.dk/erfaring/2022-06-08t123345/</link>
+      <link>https://www.kiils.dk/blog/2022-06-08t123345/</link>
       <pubDate>Wed, 08 Jun 2022 12:33:45 +0200</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/2022-06-08t123345/</guid>
+      <guid>https://www.kiils.dk/blog/2022-06-08t123345/</guid>
       <description>Jeg ville gerne se hvordan min hjemmeside så ud på mobil inden jeg offentliggjorde den.
 Derfor havde jeg brug for at kunne indlæse den fra andre enheder end den enhed som kører hugo server.
 Det burde kunne gøres med - i mit tilfælde:
@@ -762,10 +762,10 @@ For at kunne tilgå hugo server på min raspberry pi, som kører linux, fra en a
     
     <item>
       <title>Smarte søgefunktioner i Recoll</title>
-      <link>https://www.kiils.dk/erfaring/recoll-smart-s%C3%B8gning/</link>
+      <link>https://www.kiils.dk/blog/recoll-smart-s%C3%B8gning/</link>
       <pubDate>Tue, 31 May 2022 12:24:26 +0200</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/recoll-smart-s%C3%B8gning/</guid>
+      <guid>https://www.kiils.dk/blog/recoll-smart-s%C3%B8gning/</guid>
       <description>Noget af det jeg manglede i MacOS Spotlight søgemaskinen, var en mere omfattende syntaks for søgning.
 Recoll er både smart og omfangsrig på det område.
 ¶ Stemming Recoll er bygget på Xapian som faktisk har en dansk stemming-mekanisme.
@@ -775,10 +775,10 @@ Med Recoll og Xapian tages der endda konkret højde for nøjagtig de ord som fin
     
     <item>
       <title>Sådan holder man styr på 10.000 tekster</title>
-      <link>https://www.kiils.dk/erfaring/recoll-fritekst-s%C3%B8gning/</link>
+      <link>https://www.kiils.dk/blog/recoll-fritekst-s%C3%B8gning/</link>
       <pubDate>Mon, 30 May 2022 08:40:17 +0200</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/recoll-fritekst-s%C3%B8gning/</guid>
+      <guid>https://www.kiils.dk/blog/recoll-fritekst-s%C3%B8gning/</guid>
       <description>Hvordan holder man styr på sine egne tekster når man har over 10.000 af dem på sin laptop?
 Svaret er lokal fritekstsøgning.
 MacOS har spotlight indbygget som er okay til formålet, men alligevel lidt for begrænset.
@@ -787,38 +787,47 @@ Jeg har brugt en del tid på at finde et værktøj som kunne indeksere mine file
     
     <item>
       <title>Fem eller 5</title>
-      <link>https://www.kiils.dk/erfaring/tal/</link>
+      <link>https://www.kiils.dk/blog/tal/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/tal/</guid>
+      <guid>https://www.kiils.dk/blog/tal/</guid>
       <description>Hvornår skrives tal ud</description>
     </item>
     
     <item>
       <title>Hurtigere alternativer til find og grep på Raspberry Pi</title>
-      <link>https://www.kiils.dk/erfaring/pi/pi-cli/</link>
+      <link>https://www.kiils.dk/blog/pi/pi-cli/</link>
       <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/pi/pi-cli/</guid>
+      <guid>https://www.kiils.dk/blog/pi/pi-cli/</guid>
       <description>Hurtige værktøjer på en langsom computer</description>
     </item>
     
     <item>
       <title>Det er svært at forklare min søn, men min datter forstår sine gear</title>
-      <link>https://www.kiils.dk/erfaring/tanker/gear/</link>
+      <link>https://www.kiils.dk/blog/tanker/gear/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/tanker/gear/</guid>
+      <guid>https://www.kiils.dk/blog/tanker/gear/</guid>
       <description>Nogle gange er det nemt at forklare noget som ellers kan være ret svært</description>
     </item>
     
     <item>
       <title>Put aldrig smør under nutella</title>
-      <link>https://www.kiils.dk/erfaring/journalistik/nutella/</link>
+      <link>https://www.kiils.dk/blog/journalistik/nutella/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/journalistik/nutella/</guid>
+      <guid>https://www.kiils.dk/blog/journalistik/nutella/</guid>
       <description>En fængende rubrik</description>
+    </item>
+    
+    <item>
+      <title>Rubrikker der rykker</title>
+      <link>https://www.kiils.dk/kursus/anvendelse/rubrikker/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/kursus/anvendelse/rubrikker/</guid>
+      <description>Jeg har skrevet 10.000 rubrikker. Og jeg har data på 4000 af dem.</description>
     </item>
     
     <item>
@@ -832,10 +841,10 @@ Jeg har brugt en del tid på at finde et værktøj som kunne indeksere mine file
     
     <item>
       <title>Jeg har skrevet over 10.000 tekster - her er den som betyder mest for mig selv</title>
-      <link>https://www.kiils.dk/erfaring/bedrifter/10000-tekster/</link>
+      <link>https://www.kiils.dk/blog/bedrifter/10000-tekster/</link>
       <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/bedrifter/10000-tekster/</guid>
+      <guid>https://www.kiils.dk/blog/bedrifter/10000-tekster/</guid>
       <description>Jeg har skrevet langt over 10.000 tekster. Og det er naturligvis ikke medregnet små grynt på facebook eller beskeder på SMS eller i Signal.
 Nej, det er 10.000 rigtige tekster.
 Heraf har jeg data på over 3000.
@@ -845,190 +854,190 @@ Men den tekst som betyder mest for mig selv, har jeg ingen data på.</descriptio
     
     <item>
       <title>Pixelering er ikke længere sikker sløring</title>
-      <link>https://www.kiils.dk/erfaring/sikkerhed/pixelering/</link>
+      <link>https://www.kiils.dk/blog/sikkerhed/pixelering/</link>
       <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/sikkerhed/pixelering/</guid>
+      <guid>https://www.kiils.dk/blog/sikkerhed/pixelering/</guid>
       <description>Brug ikke pixelering når tekst skal skjules</description>
     </item>
     
     <item>
       <title>Mit første computer-program nogensinde - kan du gennemskue hvad det gør?</title>
-      <link>https://www.kiils.dk/erfaring/noob/program-1/</link>
+      <link>https://www.kiils.dk/blog/noob/program-1/</link>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/noob/program-1/</guid>
+      <guid>https://www.kiils.dk/blog/noob/program-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Med ny dark mode er klimaleksikon både mere bruger- og klimavenlig</title>
-      <link>https://www.kiils.dk/erfaring/klimavenlig-og-brugervenlig/</link>
+      <link>https://www.kiils.dk/blog/klimavenlig-og-brugervenlig/</link>
       <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/klimavenlig-og-brugervenlig/</guid>
+      <guid>https://www.kiils.dk/blog/klimavenlig-og-brugervenlig/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sådan satte jeg et dark theme op på Folkets uden at genere brugerne med flere valgmuligheder</title>
-      <link>https://www.kiils.dk/erfaring/brugervenlighed/brugerens-foretrukne-farvepalette-dark-mode-folkets/</link>
+      <link>https://www.kiils.dk/blog/brugervenlighed/brugerens-foretrukne-farvepalette-dark-mode-folkets/</link>
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/brugervenlighed/brugerens-foretrukne-farvepalette-dark-mode-folkets/</guid>
+      <guid>https://www.kiils.dk/blog/brugervenlighed/brugerens-foretrukne-farvepalette-dark-mode-folkets/</guid>
       <description>Det er muligt at efterkomme brugernes ønsker uden at genere dem med yderligere forespørgsler</description>
     </item>
     
     <item>
       <title>Klimaleksikon nummer et i Google på klima</title>
-      <link>https://www.kiils.dk/erfaring/seo/google-klima-succes/</link>
+      <link>https://www.kiils.dk/blog/seo/google-klima-succes/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/seo/google-klima-succes/</guid>
+      <guid>https://www.kiils.dk/blog/seo/google-klima-succes/</guid>
       <description>Det tog 13 år at komme helt til tops</description>
     </item>
     
     <item>
       <title>HTML med toc fra markdown via pandoc</title>
-      <link>https://www.kiils.dk/erfaring/tips-tricks/html-med-toc-fra-markdown-via-pandoc/</link>
+      <link>https://www.kiils.dk/blog/tips-tricks/html-med-toc-fra-markdown-via-pandoc/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/tips-tricks/html-med-toc-fra-markdown-via-pandoc/</guid>
+      <guid>https://www.kiils.dk/blog/tips-tricks/html-med-toc-fra-markdown-via-pandoc/</guid>
       <description>Plus en bonus</description>
     </item>
     
     <item>
       <title>Sidetal væk fra forsiden i pdf over Pandoc fra markdown</title>
-      <link>https://www.kiils.dk/erfaring/tips-tricks/sidetal/</link>
+      <link>https://www.kiils.dk/blog/tips-tricks/sidetal/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/tips-tricks/sidetal/</guid>
+      <guid>https://www.kiils.dk/blog/tips-tricks/sidetal/</guid>
       <description>Nogle gange vil man ikke have sidetal på titel-siden</description>
     </item>
     
     <item>
       <title>Er det sådan censur ser ud?</title>
-      <link>https://www.kiils.dk/erfaring/seo/corona/</link>
+      <link>https://www.kiils.dk/blog/seo/corona/</link>
       <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/seo/corona/</guid>
+      <guid>https://www.kiils.dk/blog/seo/corona/</guid>
       <description>Eller er Googles veje bare uransagelige</description>
     </item>
     
     <item>
       <title>En langsom pinefuld død på Facebook</title>
-      <link>https://www.kiils.dk/erfaring/some/facebook/fald/</link>
+      <link>https://www.kiils.dk/blog/some/facebook/fald/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/some/facebook/fald/</guid>
+      <guid>https://www.kiils.dk/blog/some/facebook/fald/</guid>
       <description>Facebook har ændret sig - hvordan får man succes?</description>
     </item>
     
     <item>
       <title>100.000 gange årligt bruges mine tekster i undervisningen uden at jeg får en krone for det – og CopyDan kan ikke hjælpe mig</title>
-      <link>https://www.kiils.dk/erfaring/fundraising/copydan/copydan-digital/</link>
+      <link>https://www.kiils.dk/blog/fundraising/copydan/copydan-digital/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/fundraising/copydan/copydan-digital/</guid>
+      <guid>https://www.kiils.dk/blog/fundraising/copydan/copydan-digital/</guid>
       <description>Alle siger at emnet er enormt vigtigt</description>
     </item>
     
     <item>
       <title>Kan man crowdfunde et klimaleksikon?</title>
-      <link>https://www.kiils.dk/erfaring/fundraising/klimaleksikon-crowdfunding-donorbox/</link>
+      <link>https://www.kiils.dk/blog/fundraising/klimaleksikon-crowdfunding-donorbox/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/fundraising/klimaleksikon-crowdfunding-donorbox/</guid>
+      <guid>https://www.kiils.dk/blog/fundraising/klimaleksikon-crowdfunding-donorbox/</guid>
       <description>Interessen for klima er stor - er villigheden til at betale for viden på området det også?</description>
     </item>
     
     <item>
       <title>Mellemrubrikker som indholdsoversigt</title>
-      <link>https://www.kiils.dk/erfaring/journalistik/mellemrubrikker-indholdsoversigt/</link>
+      <link>https://www.kiils.dk/blog/journalistik/mellemrubrikker-indholdsoversigt/</link>
       <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/journalistik/mellemrubrikker-indholdsoversigt/</guid>
+      <guid>https://www.kiils.dk/blog/journalistik/mellemrubrikker-indholdsoversigt/</guid>
       <description>Det handler om at give læseren overblik</description>
     </item>
     
     <item>
       <title>jQuery - væk med paranteser i tekst</title>
-      <link>https://www.kiils.dk/erfaring/frontend/jquery-javascript/</link>
+      <link>https://www.kiils.dk/blog/frontend/jquery-javascript/</link>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/frontend/jquery-javascript/</guid>
+      <guid>https://www.kiils.dk/blog/frontend/jquery-javascript/</guid>
       <description>Ikke helt nemt</description>
     </item>
     
     <item>
       <title>Hvad betyder ankertekst?</title>
-      <link>https://www.kiils.dk/erfaring/seo/hvad-betyder-ankertekst/</link>
+      <link>https://www.kiils.dk/blog/seo/hvad-betyder-ankertekst/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/seo/hvad-betyder-ankertekst/</guid>
+      <guid>https://www.kiils.dk/blog/seo/hvad-betyder-ankertekst/</guid>
       <description>I SEO-sprog nævnes ofte ankertekst, men hvad er det egentligt?</description>
     </item>
     
     <item>
       <title>Sorter markdown dokument</title>
-      <link>https://www.kiils.dk/erfaring/tips-tricks/sorter-markdown-efter-overskrifter/</link>
+      <link>https://www.kiils.dk/blog/tips-tricks/sorter-markdown-efter-overskrifter/</link>
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/tips-tricks/sorter-markdown-efter-overskrifter/</guid>
+      <guid>https://www.kiils.dk/blog/tips-tricks/sorter-markdown-efter-overskrifter/</guid>
       <description>Sorter sektioner i markdown</description>
     </item>
     
     <item>
       <title>Bevar whitespace i output med &amp;nbsp;</title>
-      <link>https://www.kiils.dk/erfaring/tips-tricks/bevar-whitespace-output/</link>
+      <link>https://www.kiils.dk/blog/tips-tricks/bevar-whitespace-output/</link>
       <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/tips-tricks/bevar-whitespace-output/</guid>
+      <guid>https://www.kiils.dk/blog/tips-tricks/bevar-whitespace-output/</guid>
       <description>Nogle gange her man bare brug for noget plads i et dokument</description>
     </item>
     
     <item>
       <title>Sådan fik jeg perfekte 100 i mobilhastighed</title>
-      <link>https://www.kiils.dk/erfaring/frontend/klimaleksikon-tachyons-performance/</link>
+      <link>https://www.kiils.dk/blog/frontend/klimaleksikon-tachyons-performance/</link>
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/frontend/klimaleksikon-tachyons-performance/</guid>
+      <guid>https://www.kiils.dk/blog/frontend/klimaleksikon-tachyons-performance/</guid>
       <description>Det er ikke nemt i et CMS</description>
     </item>
     
     <item>
       <title>FOLKETS meget hurtigere efter drop af bannere</title>
-      <link>https://www.kiils.dk/erfaring/frontend/hastighed-uden-bannere/</link>
+      <link>https://www.kiils.dk/blog/frontend/hastighed-uden-bannere/</link>
       <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/frontend/hastighed-uden-bannere/</guid>
+      <guid>https://www.kiils.dk/blog/frontend/hastighed-uden-bannere/</guid>
       <description>Nu er der data nok til at konkludere noget mere håndfast.</description>
     </item>
     
     <item>
       <title>Lovende Google Discover klikrate (CTR)</title>
-      <link>https://www.kiils.dk/erfaring/seo/lovende-ctr-google-discover/</link>
+      <link>https://www.kiils.dk/blog/seo/lovende-ctr-google-discover/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/seo/lovende-ctr-google-discover/</guid>
+      <guid>https://www.kiils.dk/blog/seo/lovende-ctr-google-discover/</guid>
       <description>Googles Discover kan godt komme til at spille en rolle for trafik</description>
     </item>
     
     <item>
       <title>Det nemmeste CSS framework</title>
-      <link>https://www.kiils.dk/erfaring/frontend/bootstrap-4/</link>
+      <link>https://www.kiils.dk/blog/frontend/bootstrap-4/</link>
       <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/frontend/bootstrap-4/</guid>
+      <guid>https://www.kiils.dk/blog/frontend/bootstrap-4/</guid>
       <description>Bootstrap 4 er næppe det nemmeste og hurtigste at prototype i længere. Og lidt for tungt hvis man virkelig går op i hastighed også på langsommere mobilforbindelser.</description>
     </item>
     
     <item>
       <title>Google belønner tidlig indsats</title>
-      <link>https://www.kiils.dk/erfaring/seo/google-tidlig-indsats/</link>
+      <link>https://www.kiils.dk/blog/seo/google-tidlig-indsats/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/seo/google-tidlig-indsats/</guid>
+      <guid>https://www.kiils.dk/blog/seo/google-tidlig-indsats/</guid>
       <description>Små medier kan markere sig ved at være først med på internationale navne. Og det er tilsyneladende også noget som giver bonus i søgeresultaterne.
 For ikke så længe tid siden skrev jeg et indlæg her på Kiils med titlen: Når de små medier overhaler de store :
 De små medier er generelt mere manøvredygtige end de store. Det gælder også på indholdsstrategien.
@@ -1037,10 +1046,10 @@ Det betyder at små medier kan reagere hurtigt på internationale trends.</descr
     
     <item>
       <title>Om oplevelser og langsigtet indholdsstrategi</title>
-      <link>https://www.kiils.dk/erfaring/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/</link>
+      <link>https://www.kiils.dk/blog/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/</guid>
+      <guid>https://www.kiils.dk/blog/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/</guid>
       <description>Præmisserne på internettet ændrer sig hele tiden.
 Kan det så overhovedet betale sig at tænke langsigtet?
 Ja!
@@ -1051,10 +1060,10 @@ Og det gør for eksempel Googles søgemaskine i min erfaring.
     
     <item>
       <title>risikoen for at abonnenter forsvinder med denne teknik er desværre stor</title>
-      <link>https://www.kiils.dk/erfaring/abo/salg/</link>
+      <link>https://www.kiils.dk/blog/abo/salg/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/abo/salg/</guid>
+      <guid>https://www.kiils.dk/blog/abo/salg/</guid>
       <description>Tidligere telefonmand skrev til mig med godt råd – lige efter kampagnen var gået i luften.
 Man kan ikke tage højde for alt selv. Og nogle gange prøver man noget af uden at have tænkt alle konsekvenser helt igennem.
 Og i forhold til abonnementsmodellen bør man nok altid overveje et eventuelt tiltags effekt ikke bare på konverteringsraten, men også på frafaldsraten.
@@ -1063,10 +1072,10 @@ Og blot få minutter efter jeg i dag havde lovet en signeret madbog af Knud Damg
     
     <item>
       <title>En redningsplan for Folkets Avis – sådan tilpasser jeg mig for at overleve</title>
-      <link>https://www.kiils.dk/erfaring/muren/redning/</link>
+      <link>https://www.kiils.dk/blog/muren/redning/</link>
       <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/muren/redning/</guid>
+      <guid>https://www.kiils.dk/blog/muren/redning/</guid>
       <description>Folkets Avis er enestående i den forstand at mediet i modsætning til den øvrige danske presse fungerer helt uden mediestøtte.
 Det gør at den er skarpere end de andre medier i sin kritik af systemet og politikerne. Og det er godt for demokratiet.
 Men det skal heller ikke være nogen hemmelighed at det er lidt af en udfordring at få sådan en størrelse til at løbe rundt og give overskud.</description>
@@ -1074,19 +1083,19 @@ Men det skal heller ikke være nogen hemmelighed at det er lidt af en udfordring
     
     <item>
       <title>Får jeg abonnenter nok til at leve af mit online-medie?</title>
-      <link>https://www.kiils.dk/erfaring/abo/abonnenter-nok/</link>
+      <link>https://www.kiils.dk/blog/abo/abonnenter-nok/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/abo/abonnenter-nok/</guid>
+      <guid>https://www.kiils.dk/blog/abo/abonnenter-nok/</guid>
       <description>Sandsynligvis ikke</description>
     </item>
     
     <item>
       <title>Delinger giver bonus på LinkedIn</title>
-      <link>https://www.kiils.dk/erfaring/some/delinger-bonus-linkedin/</link>
+      <link>https://www.kiils.dk/blog/some/delinger-bonus-linkedin/</link>
       <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/some/delinger-bonus-linkedin/</guid>
+      <guid>https://www.kiils.dk/blog/some/delinger-bonus-linkedin/</guid>
       <description>Læg relevante links på LinkedIn og forøg antallet af besøg til din profilside mangefold.
 For ganske nylig begyndte jeg via LinkedIn at dele links til min blog her på Kiils .
 I første omgang var hensigten at dele ud af de erfaringer, som opbygningen af et digitalt medie helt fra bunden, har givet mig. Og det er ikke så få!
@@ -1095,10 +1104,10 @@ Jeg har brugt fem år på at skabe Folkets Avis , og i det tidsrum har jeg fakti
     
     <item>
       <title>Sociale medier vigtige – men husk de andre trafikkilder</title>
-      <link>https://www.kiils.dk/erfaring/trafik/kilder/</link>
+      <link>https://www.kiils.dk/blog/trafik/kilder/</link>
       <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/trafik/kilder/</guid>
+      <guid>https://www.kiils.dk/blog/trafik/kilder/</guid>
       <description>2017 var et rekordår for Folkets Avis på mange måder.
 Således var også de samlede antal sidevisninger højere end noget tidligere år.
 Ser vi på anskaffelse skete der noget lidt overraskende. I hvert fald når man tager i betratning at antallet af fans på Folkets Avis Facebook side voksede pænt hen over året og nærmede sig 10.000 ved dets afslutning.
@@ -1107,10 +1116,10 @@ For på trods af stigningen faldt antallet af brugere som blev sendt til Folkets
     
     <item>
       <title>Når de små medier overhaler de store</title>
-      <link>https://www.kiils.dk/erfaring/indhold/overhaling/</link>
+      <link>https://www.kiils.dk/blog/indhold/overhaling/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/indhold/overhaling/</guid>
+      <guid>https://www.kiils.dk/blog/indhold/overhaling/</guid>
       <description>Den korte afstand mellem læser og redaktion er en fordel.
 De små medier er generelt mere manøvredygtige end de store. Det gælder også på indholdsstrategien.
 Det betyder at små medier kan reagere hurtigt på internationale trends.

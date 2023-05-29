@@ -57,19 +57,19 @@
                 href="https://www.kiils.dk/en/genrer/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/en/xp/humans-should-also-be-prompted-properly/</loc>
+    <loc>https://www.kiils.dk/en/blog/humans-should-also-be-prompted-properly/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://www.kiils.dk/erfaring/chatgpt-skal-promptes-ordentligt-men-det-skal-mennesker-jo-ogsa/"
+                href="https://www.kiils.dk/blog/chatgpt-skal-promptes-ordentligt-men-det-skal-mennesker-jo-ogsa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.kiils.dk/en/xp/humans-should-also-be-prompted-properly/"
+                href="https://www.kiils.dk/en/blog/humans-should-also-be-prompted-properly/"
                 />
   </url><url>
     <loc>https://www.kiils.dk/en/</loc>
@@ -102,7 +102,7 @@
                 href="https://www.kiils.dk/en/skribenter/lennart-kiil/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/en/xp/merging-an-emoji-font-into-a-text-font/</loc>
+    <loc>https://www.kiils.dk/en/blog/merging-an-emoji-font-into-a-text-font/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -142,22 +142,32 @@
                 href="https://www.kiils.dk/en/tools/"
                 />
   </url><url>
-    <loc>https://www.kiils.dk/en/xp/</loc>
+    <loc>https://www.kiils.dk/en/blog/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.kiils.dk/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kiils.dk/en/blog/"
+                />
   </url><url>
     <loc>https://www.kiils.dk/en/tools/marvin/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/en/xp/how-chatgpt-made-my-surly-son-laugh/</loc>
+    <loc>https://www.kiils.dk/en/blog/how-chatgpt-made-my-surly-son-laugh/</loc>
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/en/xp/chatgpt-glorified-markov-chain/</loc>
+    <loc>https://www.kiils.dk/en/blog/chatgpt-glorified-markov-chain/</loc>
     <lastmod>2023-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -242,7 +252,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kiils.dk/en/xp/servicebot-is-great/</loc>
+    <loc>https://www.kiils.dk/en/blog/servicebot-is-great/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

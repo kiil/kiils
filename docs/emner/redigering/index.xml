@@ -9,6 +9,15 @@
     <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/emner/redigering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Redigering af tekst</title>
+      <link>https://www.kiils.dk/kursus/anvendelse/redigering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kiils.dk/kursus/anvendelse/redigering/</guid>
+      <description>Kiils har redigeret tusindvis af tekster og kan hjælpe dig med dine</description>
+    </item>
+    
+    <item>
+      <title>Redigering af tekst</title>
       <link>https://www.kiils.dk/ydelse/redaktionelt/redigering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -18,10 +27,10 @@
     
     <item>
       <title>Erfaren redaktør: ChatGPTs skrivetips ligner til forveksling mine egne - undtagen på et punkt</title>
-      <link>https://www.kiils.dk/erfaring/danmarks-mest-rutinerede-redaktor-anmelder-chatgpt/</link>
+      <link>https://www.kiils.dk/blog/danmarks-mest-rutinerede-redaktor-anmelder-chatgpt/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/danmarks-mest-rutinerede-redaktor-anmelder-chatgpt/</guid>
+      <guid>https://www.kiils.dk/blog/danmarks-mest-rutinerede-redaktor-anmelder-chatgpt/</guid>
       <description>Jeg bad ChatGPT give nogle skrivetips.
 Den spyttede følgende svar ud som jeg kommenterer linje for linje:
 ¶ Write clearly and concisely, avoiding unnecessary jargon or complex sentence structures. Helt klart. Og det er faktisk noget ChatGPT har lært af mig personligt ;)
@@ -30,19 +39,19 @@ Jeg har skrevet en hel serie om at skrive klart og kort, og helt konkret om hvor
     
     <item>
       <title>Pixelering er ikke længere sikker sløring</title>
-      <link>https://www.kiils.dk/erfaring/sikkerhed/pixelering/</link>
+      <link>https://www.kiils.dk/blog/sikkerhed/pixelering/</link>
       <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/sikkerhed/pixelering/</guid>
+      <guid>https://www.kiils.dk/blog/sikkerhed/pixelering/</guid>
       <description>Brug ikke pixelering når tekst skal skjules</description>
     </item>
     
     <item>
       <title>Sidetal væk fra forsiden i pdf over Pandoc fra markdown</title>
-      <link>https://www.kiils.dk/erfaring/tips-tricks/sidetal/</link>
+      <link>https://www.kiils.dk/blog/tips-tricks/sidetal/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/tips-tricks/sidetal/</guid>
+      <guid>https://www.kiils.dk/blog/tips-tricks/sidetal/</guid>
       <description>Nogle gange vil man ikke have sidetal på titel-siden</description>
     </item>
     

@@ -9,10 +9,10 @@
     <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/emner/kvantitativ-tekstanalyse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ChatGPT mansplainer ikke - men her botsplainer den helt vildt</title>
-      <link>https://www.kiils.dk/erfaring/nlp/chatgpt-botsplaining/</link>
+      <link>https://www.kiils.dk/blog/nlp/chatgpt-botsplaining/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/nlp/chatgpt-botsplaining/</guid>
+      <guid>https://www.kiils.dk/blog/nlp/chatgpt-botsplaining/</guid>
       <description>ChatGPT er stærk på engelsk og den skammer sig ikke over at de &amp;ldquo;mentale muskler&amp;rdquo; frem.
 Jeg giver ChatGPT en simpel opgave. Et ganske kort prompt:
 help me POS tag the following sentence: I went up the road
@@ -22,10 +22,10 @@ Part-of-speech (POS) tagging is the process of marking each word in a sentence w
     
     <item>
       <title>Går det bedre for ChatGPT med ordfrekvensanalyse på engelsk end det gjorde på dansk?</title>
-      <link>https://www.kiils.dk/erfaring/nlp/chatgpt-ordfrekvensanalyse-engelsk/</link>
+      <link>https://www.kiils.dk/blog/nlp/chatgpt-ordfrekvensanalyse-engelsk/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/nlp/chatgpt-ordfrekvensanalyse-engelsk/</guid>
+      <guid>https://www.kiils.dk/blog/nlp/chatgpt-ordfrekvensanalyse-engelsk/</guid>
       <description>Da jeg bad ChatGPT udføre en frekvensanalyse på en dansk tekst talte den ordene to gange:
 Kan ChatGPT bruges til kvantitativ tekstanalyse? måske fordi den oversætter frem og tilbage mellem dansk og engelsk? Bare et gæt.
 Men lad os så prøve på engelsk.
@@ -35,10 +35,10 @@ Og derefter bad jeg den give mig de mest brugte ord i teksten.</description>
     
     <item>
       <title>Kan ChatGPT bruges til kvantitativ tekstanalyse?</title>
-      <link>https://www.kiils.dk/erfaring/nlp/chatgpt-ordfrekvensanalyse/</link>
+      <link>https://www.kiils.dk/blog/nlp/chatgpt-ordfrekvensanalyse/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/nlp/chatgpt-ordfrekvensanalyse/</guid>
+      <guid>https://www.kiils.dk/blog/nlp/chatgpt-ordfrekvensanalyse/</guid>
       <description>En simpel form for kvantitativ tekstanalyse er ordfrekvensanalyse.
 Jeg har skrevet lidt om hvordan man kan lave ordfrekvensanalyse i nushell og hvordan man kan lave ekstremt hurtig ordfrekvensanalyse på store mængder tekst med nushell og polar dataframes .
 Nushell gav mig følgende resultat

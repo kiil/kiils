@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kiils.dk/tools/pandoc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spar tid med kunstig intelligens - sammenfat et word dokument</title>
-      <link>https://www.kiils.dk/erfaring/spar-tid-med-kunstig-intelligens-sammenfat-et-word-dokument/</link>
+      <link>https://www.kiils.dk/blog/spar-tid-med-kunstig-intelligens-sammenfat-et-word-dokument/</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/spar-tid-med-kunstig-intelligens-sammenfat-et-word-dokument/</guid>
+      <guid>https://www.kiils.dk/blog/spar-tid-med-kunstig-intelligens-sammenfat-et-word-dokument/</guid>
       <description>Når man har to børn, er der masser af kommunikation at forholde sig til.
 Her viser jeg hvordan man lynhurtigt skaber et overblik.
 Jeg fik et langt dokument på flere sider om hvad der foregår på et af mine børns fritidshjem.
@@ -22,10 +22,10 @@ Nyhedsbrevet fra REDACTED i april 2023 introducerer det fantastiske udeliv med v
     
     <item>
       <title>Ekstra værktøj til poet-teknikken</title>
-      <link>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-9-tooling/</link>
+      <link>https://www.kiils.dk/blog/skriv-som-en-poet/del-9-tooling/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/skriv-som-en-poet/del-9-tooling/</guid>
+      <guid>https://www.kiils.dk/blog/skriv-som-en-poet/del-9-tooling/</guid>
       <description>Først skriver vi teksten sådan her:
 Once upon a time, there was a small group of people who held all the power and wealth. The ruling class. They used their influence to control every aspect of society. They were always looking for ways to gain more power. And they saw artificial intelligence as the key to achieving their goals. Og gemmer den i filen markdown-tekstfil.md.
 For at se teksten med sætningerne på hver deres linje:</description>
@@ -33,19 +33,19 @@ For at se teksten med sætningerne på hver deres linje:</description>
     
     <item>
       <title>HTML med toc fra markdown via pandoc</title>
-      <link>https://www.kiils.dk/erfaring/tips-tricks/html-med-toc-fra-markdown-via-pandoc/</link>
+      <link>https://www.kiils.dk/blog/tips-tricks/html-med-toc-fra-markdown-via-pandoc/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/tips-tricks/html-med-toc-fra-markdown-via-pandoc/</guid>
+      <guid>https://www.kiils.dk/blog/tips-tricks/html-med-toc-fra-markdown-via-pandoc/</guid>
       <description>Plus en bonus</description>
     </item>
     
     <item>
       <title>Sidetal væk fra forsiden i pdf over Pandoc fra markdown</title>
-      <link>https://www.kiils.dk/erfaring/tips-tricks/sidetal/</link>
+      <link>https://www.kiils.dk/blog/tips-tricks/sidetal/</link>
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaring/tips-tricks/sidetal/</guid>
+      <guid>https://www.kiils.dk/blog/tips-tricks/sidetal/</guid>
       <description>Nogle gange vil man ikke have sidetal på titel-siden</description>
     </item>
     
